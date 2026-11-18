@@ -215,6 +215,8 @@ function entitiesOf(title) {
     if (phrase.length) {
       const full = phrase.map((w) => w.toLowerCase()).join(' ');
       if (phrase.length > 1 && phrase.some((w) => !GENERIC.has(w.toLowerCase()))) out.add(full);
+      // « Stark Future Is a Unicorn » → aussi « stark future » (nom de deux mots en tête de groupe).
+      if (phrase.length > 2 && !GENERIC.has(phrase[0].toLowerCase()) && !GENERIC.has(phrase[1].toLowerCase())) out.add(phrase.slice(0, 2).join(' ').toLowerCase());
       for (const w of phrase) {
         const k = w.toLowerCase();
         if (k.length < 3 || GENERIC.has(k) || /^\d/.test(k)) continue;
@@ -225,7 +227,7 @@ function entitiesOf(title) {
     phrase = [];
   };
   tokens.forEach((t, i) => {
-    const clean = t.replace(/^[^\p{L}\d]+|[^\p{L}\d]+$/gu, '');
+    const clean = t.replace(/[’']s$/u, '').replace(/^[^\p{L}\d]+|[^\p{L}\d]+$/gu, '');
     const cap = /^\p{Lu}/u.test(clean) || (/^[\p{Lu}\d&.-]{2,}$/u.test(clean) && /\p{Lu}/u.test(clean));
     if (clean && cap) {
       if (!phrase.length) start = i;
@@ -233,7 +235,22 @@ function entitiesOf(title) {
     } else flush();
   });
   flush();
-  return { all: out, initialOnly };
+  return { all: out, initialOnly, titleCase };
+}
+
+// Le sujet d'un verbe d'action (« Plural raises… », « Qonto obtient… ») est l'entreprise :
+// on retient le dernier groupe de mots en majuscule avant le verbe.
+const ACTION = /\s(?:raises?|raised|secures?|secured|lands|bags|closes|hits|reaches|nabs|acquires|buys|snaps up|launches|valued|lève|lèvent|boucle|rachète|obtient|annonce)\b/i;
+function subjectOf(title) {
+  const m = title.match(ACTION);
+  if (!m || m.index > 80) return [];
+  const toks = title.slice(0, m.index).replace(/[’']s\b/g, '').split(/\s+/).map((t) => t.replace(/^[^\p{L}\d]+|[^\p{L}\d]+$/gu, '')).filter(Boolean);
+  const run = [];
+  for (let i = toks.length - 1; i >= 0; i--) {
+    if (/^\p{Lu}/u.test(toks[i]) && !GENERIC.has(toks[i].toLowerCase())) run.unshift(toks[i].toLowerCase());
+    else if (run.length) break;
+  }
+  return run.length ? [run.join(' '), ...run.filter((w) => w.length >= 3)] : [];
 }
 
 // ---------- filtrage ----------
@@ -245,17 +262,37 @@ const fresh = raw
     const text = `${it.title} ${it.summary}`;
     // Les résumés (écrits normalement) confirment les noms propres des titres en « Title Case ».
     const fromSummary = entitiesOf(it.summary || '');
-    return { ...it, _w: words(it.title), _ent: entitiesOf(it.title), _sum: fromSummary, _c: new Set(categories.filter((c) => c.test(text)).map((c) => c.name)) };
+    const ent = entitiesOf(it.title);
+    for (const e of subjectOf(it.title)) { ent.all.add(e); ent.initialOnly.delete(e); }
+    return { ...it, _w: words(it.title), _ent: ent, _sum: fromSummary, _c: new Set(categories.filter((c) => c.test(text)).map((c) => c.name)) };
   });
 
 // Un nom n'est retenu que s'il apparaît au moins une fois ailleurs qu'en tête de titre
 // (ou avec des majuscules internes : « OVHcloud », « QONTO »).
 const confirmed = new Set();
 for (const it of fresh) for (const src of [it._ent, it._sum]) for (const e of src.all) if (!src.initialOnly.has(e)) confirmed.add(e);
-for (const it of fresh) it._e = new Set([...it._ent.all].filter((e) => confirmed.has(e)));
+
+// European Tech : une entreprise déjà présente dans l'édition French Tech du jour est française
+// (« Genesis AI raises $500m » ne dit pas qu'elle est parisienne) : on l'écarte.
+const GLOBAL_NAMES = new Set('nvidia google alphabet microsoft openai anthropic amazon aws apple meta samsung zoom sequoia accel index tiger softbank a16z andreessen lightspeed general atlantic goldman sachs jpmorgan blackrock eqt balderton atomico creandum northzone eu europe commission'.split(' '));
+let frenchNames = new Set();
+if (SCOPE === 'eu') {
+  const frFile = path.join(ROOT, 'docs', 'data', `${runDate}.json`);
+  if (existsSync(frFile)) {
+    const fr = JSON.parse(await readFile(frFile, 'utf8'));
+    for (const item of fr.items) for (const a of item.articles || [{ title: item.title }]) {
+      for (const e of [...subjectOf(a.title), ...entitiesOf(a.title).all]) if (e.length >= 4 && !GLOBAL_NAMES.has(e) && !GENERIC.has(e)) frenchNames.add(e);
+    }
+  }
+}
+const isFrench = (it) => subjectOf(it.title).some((e) => frenchNames.has(e));
+// Dans un titre en « Title Case », un mot isolé n'est un nom que s'il est le sujet du verbe
+// (sinon « Model » de « Tunable Decision Model » rejoindrait « Model ML »).
+for (const it of fresh) it._e = new Set([...it._ent.all].filter((e) => confirmed.has(e) && !(it._ent.titleCase && it._ent.initialOnly.has(e))));
 
 // Un nom cité dans beaucoup d'articles du jour (ex. « Mistral ») peut couvrir
 // plusieurs sujets différents : il faut alors plus de mots en commun.
+for (let k = fresh.length - 1; k >= 0; k--) if (isFrench(fresh[k])) fresh.splice(k, 1);
 const entityFreq = new Map();
 for (const it of fresh) for (const e of it._e) entityFreq.set(e, (entityFreq.get(e) || 0) + 1);
 const MAX_ENTITY_FREQ = Math.max(6, Math.round(fresh.length / 25));

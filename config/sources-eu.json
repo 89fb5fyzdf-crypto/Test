@@ -1,25 +1,108 @@
 {
-  "_doc": "European Tech : sources internationales en anglais (surtout britanniques). focus=true : média 100 % tech européenne. 'exclude' écarte les sujets français (couverts par la page French Tech). 'amountBoost' fait monter les plus grosses levées.",
+  "_doc": "European Tech : sources internationales en anglais (surtout britanniques). focus=true : média 100 % tech européenne. 'exclude' écarte les sujets français (couverts par la page French Tech). 'amountBoost' fait monter les plus grosses levées. Les recherches Google News ont focus=false : le titre doit mentionner l'Europe, le Royaume-Uni ou une ville européenne (sinon on récupère des startups américaines).",
   "lang": "en",
   "googleNewsEdition": "hl=en-GB&gl=GB&ceid=GB:en",
   "amountBoost": true,
   "exclude": [
-    "\\bfrance\\b", "\\bfrench\\b", "\\bparis\\b", "paris-based", "\\blyon\\b", "\\btoulouse\\b", "\\bbordeaux\\b", "\\bmarseille\\b", "\\bnantes\\b", "\\blille\\b", "\\bgrenoble\\b", "station f", "bpifrance", "\\bmacron\\b",
-    "mistral ai", "\\bmistral\\b", "doctolib", "\\bqonto\\b", "pennylane", "blablacar", "contentsquare", "back market", "\\bledger\\b", "dataiku", "\\bsorare\\b", "\\balan\\b", "ovhcloud", "\\bh company\\b", "\\bpigment\\b", "swile", "\\bmirakl\\b", "\\bpayfit\\b", "\\bylb\\b"
+    "\\bfrance\\b",
+    "\\bfrench\\b",
+    "\\bparis\\b",
+    "paris-based",
+    "\\blyon\\b",
+    "\\btoulouse\\b",
+    "\\bbordeaux\\b",
+    "\\bmarseille\\b",
+    "\\bnantes\\b",
+    "\\blille\\b",
+    "\\bgrenoble\\b",
+    "station f",
+    "bpifrance",
+    "\\bmacron\\b",
+    "mistral ai",
+    "\\bmistral\\b",
+    "doctolib",
+    "\\bqonto\\b",
+    "pennylane",
+    "blablacar",
+    "contentsquare",
+    "back market",
+    "\\bledger\\b",
+    "dataiku",
+    "\\bsorare\\b",
+    "\\balan\\b",
+    "ovhcloud",
+    "\\bh company\\b",
+    "\\bpigment\\b",
+    "swile",
+    "\\bmirakl\\b",
+    "\\bpayfit\\b",
+    "\\bylb\\b",
+    "genesis ai"
   ],
   "feeds": [
-    { "name": "Sifted", "url": "https://sifted.eu/feed", "focus": true, "weight": 3 },
-    { "name": "Tech.eu", "url": "https://tech.eu/feed/", "focus": true, "weight": 3 },
-    { "name": "UKTN", "url": "https://www.uktech.news/feed", "focus": true, "weight": 3 },
-    { "name": "TechCrunch Europe", "url": "https://techcrunch.com/tag/europe/feed/", "focus": true, "weight": 2 },
-    { "name": "EU-Startups", "url": "https://www.eu-startups.com/feed/", "focus": true, "weight": 2 }
+    {
+      "name": "Sifted",
+      "url": "https://sifted.eu/feed",
+      "focus": true,
+      "weight": 3
+    },
+    {
+      "name": "Tech.eu",
+      "url": "https://tech.eu/feed/",
+      "focus": true,
+      "weight": 3
+    },
+    {
+      "name": "UKTN",
+      "url": "https://www.uktech.news/feed",
+      "focus": true,
+      "weight": 3
+    },
+    {
+      "name": "TechCrunch Europe",
+      "url": "https://techcrunch.com/tag/europe/feed/",
+      "focus": true,
+      "weight": 2
+    },
+    {
+      "name": "EU-Startups",
+      "url": "https://www.eu-startups.com/feed/",
+      "focus": true,
+      "weight": 2
+    }
   ],
   "googleNews": [
-    { "query": "European startup raises Series", "weight": 1 },
-    { "query": "UK startup raises funding round", "weight": 1 },
-    { "query": "European unicorn valuation", "weight": 1 },
-    { "query": "Europe scaleup mega round billion", "weight": 1 },
-    { "query": "site:ft.com European tech startup", "label": "Financial Times", "weight": 3, "focus": false },
-    { "query": "site:cityam.com startup OR scaleup OR fintech", "label": "City AM", "weight": 2, "focus": false }
+    {
+      "query": "European startup raises Series",
+      "weight": 1,
+      "focus": false
+    },
+    {
+      "query": "UK startup raises funding round",
+      "weight": 1,
+      "focus": false
+    },
+    {
+      "query": "European unicorn valuation",
+      "weight": 1,
+      "focus": false
+    },
+    {
+      "query": "Europe scaleup mega round billion",
+      "weight": 1,
+      "focus": false
+    },
+    {
+      "query": "site:ft.com European tech startup",
+      "label": "Financial Times",
+      "weight": 3,
+      "focus": false
+    },
+    {
+      "query": "site:cityam.com startup OR scaleup OR fintech",
+      "label": "City AM",
+      "weight": 2,
+      "focus": false
+    }
   ]
 }
