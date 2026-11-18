@@ -250,18 +250,18 @@ function setupIntro() {
   h1.innerHTML = h1.textContent.split(' ').map((w) => `<span class="w">${esc(w)}</span>`).join(' ');
   const words = [...h1.querySelectorAll('.w')];
   let geo = null;
+  const brand = document.querySelector('.brand');
 
   function measure() {
     if (!root.classList.contains('with-intro')) return;
     intro.style.setProperty('--bar-h', `${document.querySelector('.bar-wrap').offsetHeight}px`);
     wm.style.setProperty('--s', 1); wm.style.setProperty('--dx', '0px'); wm.style.setProperty('--dy', '0px');
-    const from = wm.getBoundingClientRect(), stageTop = stage.getBoundingClientRect().top;
-    const to = document.querySelector('.brand').getBoundingClientRect();
-    const scale = parseFloat(getComputedStyle(document.querySelector('.brand')).fontSize) / parseFloat(getComputedStyle(wm).fontSize);
+    // Position du grand logo par rapport à la scène ; la destination (logo de la barre) est relue à
+    // chaque image, pour suivre la barre même si Safari décale l'affichage.
+    const from = wm.getBoundingClientRect(), st = stage.getBoundingClientRect();
     geo = {
-      s: scale,
-      dx: (to.left + to.width / 2) - (from.left + from.width / 2) + (from.width * scale - to.width) / 2,
-      dy: (to.top + to.height / 2) - (from.top - stageTop + from.height / 2),
+      s: parseFloat(getComputedStyle(brand).fontSize) / parseFloat(getComputedStyle(wm).fontSize),
+      cx: from.left - st.left + from.width / 2, cy: from.top - st.top + from.height / 2, w: from.width,
     };
   }
 
@@ -271,10 +271,13 @@ function setupIntro() {
       const p = clamp(window.scrollY / range);
       const e = ease(clamp(p / 0.85));
       stage.style.setProperty('--p', p.toFixed(4));
-      stage.style.setProperty('--fade', clamp((p - 0.6) / 0.4).toFixed(4));
+      stage.style.setProperty('--fade', clamp((p - 0.5) / 0.4).toFixed(4));
       wm.style.setProperty('--s', (1 + (geo.s - 1) * e).toFixed(4));
-      wm.style.setProperty('--dx', `${(geo.dx * e).toFixed(1)}px`);
-      wm.style.setProperty('--dy', `${(geo.dy * e).toFixed(1)}px`);
+      const to = brand.getBoundingClientRect(), st = stage.getBoundingClientRect();
+      const dx = to.left + (geo.w * geo.s) / 2 - (st.left + geo.cx);
+      const dy = to.top + to.height / 2 - (st.top + geo.cy);
+      wm.style.setProperty('--dx', `${(dx * e).toFixed(1)}px`);
+      wm.style.setProperty('--dy', `${(dy * e).toFixed(1)}px`);
       wm.style.setProperty('--wm-o', (1 - clamp((p - 0.93) / 0.07)).toFixed(3));
       root.style.setProperty('--bar-o', clamp((p - 0.85) / 0.12).toFixed(3));
     }

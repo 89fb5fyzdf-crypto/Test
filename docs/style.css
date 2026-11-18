@@ -289,7 +289,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible, select:focus-visib
 
 /* ---------- Ouverture (une fois par jour) ---------- */
 .intro { display: none; }
-.with-intro .intro { display: block; height: 210vh; position: relative; z-index: 5; }
+.with-intro .intro { display: block; height: 200vh; position: relative; z-index: 5; }
+.with-intro main { z-index: 6; margin-top: calc(-100vh + 40px); margin-top: calc(-100svh + 40px); }
 .with-intro .bar { opacity: var(--bar-o, 0); }
 .stage {
   position: sticky; top: 0; height: 100vh; height: 100lvh; overflow: hidden;
@@ -328,11 +329,10 @@ a:focus-visible, button:focus-visible, summary:focus-visible, select:focus-visib
 }
 .wm-mark { width: 1.1em; height: 1.1em; border-radius: 50%; border: .11em solid var(--ink); position: relative; flex: none; box-sizing: border-box; }
 .wm-mark::after { content: ""; position: absolute; inset: .17em; border-radius: 50%; background: var(--accent); box-shadow: 0 0 .5em color-mix(in srgb, var(--accent) 70%, transparent); }
-.stage-tag, .stage-hint {
+.stage-hint {
   position: absolute; left: 0; right: 0; text-align: center; margin: 0; color: var(--muted);
   opacity: calc(1 - var(--p) * 4);
 }
-.stage-tag { top: calc(45% + clamp(56px, 12vw, 130px)); font-size: clamp(17px, 2.4vw, 24px); letter-spacing: -.02em; }
 .stage-hint { bottom: calc(40px + env(safe-area-inset-bottom, 0px)); font-size: 13px; display: flex; flex-direction: column; align-items: center; gap: 4px; }
 .stage-hint svg { animation: nudge 1.8s ease-in-out infinite; }
 @keyframes nudge { 50% { transform: translateY(5px); } }
