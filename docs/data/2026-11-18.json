@@ -1,12 +1,14 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T05:00:18.905Z",
+ "generatedAt": "2026-11-18T05:19:58.401Z",
  "windowHours": 36,
  "counts": {
-  "articles": 58,
-  "raw": 93,
+  "articles": 59,
+  "raw": 92,
   "media": 40
  },
+ "scope": "fr",
+ "lang": "fr",
  "sources": [
   {
    "source": "BFM Tech",
@@ -31,7 +33,7 @@
   {
    "source": "Google News · Bpifrance startup",
    "ok": true,
-   "items": 4
+   "items": 3
   },
   {
    "source": "Google News · licorne française",
@@ -41,7 +43,7 @@
   {
    "source": "Google News · Mistral AI",
    "ok": true,
-   "items": 28
+   "items": 26
   },
   {
    "source": "Google News · startup française levée de fonds",
@@ -99,11 +101,11 @@
    "sources": [
     "FrenchWeb",
     "Maddyness",
+    "lefilia.fr",
     "WanSquare",
-    "Boursorama",
-    "Zonebourse",
     "Les Echos",
-    "lefilia.fr"
+    "Boursorama",
+    "Zonebourse"
    ],
    "articles": [
     {
@@ -117,9 +119,19 @@
      "url": "https://www.maddyness.com/2026/11/17/robotique-genesis-ai-boucle-une-serie-a-dun-demi-milliard-de-dollars-aupres-de-nvidia-samsung-et-zoom/"
     },
     {
+     "source": "lefilia.fr",
+     "title": "Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0RxQ01pMkp6dEQxMzBCeFJneE82MkdQLThWQ1VZYTVhSGhmekhaeEc1U2RXYTFGMGNlWWxSSWFfU0xtal9pX2JYM3UyQjJTOThtVUE0SmtXNGJLVlU0eFh4Q3Y1N3FEZjY2Qlg0Tl9xZk5qb1lVZlF3QU1EVHR6V1BLYlplY1pEcUZrbzFBQ1ZfajVITm1uRlZzaXZSLXNpdEJySWwtZ3RwMnZxU0ZUQkNhUE5OSnhqc3JmZjh3R1hEWndMdmhsdktOSDNXUEZHeTRKQ2NiQ2I?oc=5"
+    },
+    {
      "source": "WanSquare",
      "title": "Genesis AI lève 500 millions de dollars en série A pour ses robots de pointe",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHAzbVVNWFpZUU1RTHp3STlrcmpSZFFfVjZla05PZ0hpam5nOE9XejNMOGhKYkxaTGp0QkROVlMxZlAwSkJ2d2dndDkzN2VPRFZtWmFNQzVnNk1wVWZTS0hJQnA0bnQtMUVuSU9kQVp6SjR1ejRCWE1yTGFmNjZHTE1oVXJLbTNDOVpKVWJZbUtvdkdWVF9aQnBWb25lb3BuenlIMlpjVi1PaUlvVkVCdXZNR0w5dw?oc=5"
+    },
+    {
+     "source": "Les Echos",
+     "title": "Genesis AI boucle une levée de plus de 450 M€",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJ3c3RJV2Z3Y0JsdWVfT3pLeU9tQWZlSFc2V3ZQR2hmYzZlZFVYYmo3bGlzYkFCQ0RILXhQSHFHeS1NQzA1S1FKMGJaMTBQZUZNVnoybmE2LWY4alU5TW1YQS1peVNEd2FjOEtYYk9nWUh2VFBlRGNJTHJ1MlBCY0pxNGxXZ1dZRmhoUUF6WjdQRkc0endOU2hyaGZIMzlXaEppRi1UOWpQWHNLYTM5VA?oc=5"
     },
     {
      "source": "Boursorama",
@@ -130,16 +142,6 @@
      "source": "Zonebourse",
      "title": "Genesis AI lève plus de 450 millions d'euros",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZl9xV3EzY1N3ZExNakZ5UlNNTkRCQ3ZpdWRUcXlYblBCc3FzcmhROFBFajlWNVBDdldhTjl6X25NRkhiOVRGWFZjc2lMUjlVbFNEaFRwZHhGdHNrZHFuLUxuakw5MDg2UllPRzIxaXBITEtnTDB6ZGhPTmVSV29tUXVhZm5EVF9PUkxfZEUwRW01LVFsYVRNZ3l0aVdUVGJ5OXl1dlFoUzI?oc=5"
-    },
-    {
-     "source": "Les Echos",
-     "title": "Genesis AI boucle une levée de plus de 450 M€",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJ3c3RJV2Z3Y0JsdWVfT3pLeU9tQWZlSFc2V3ZQR2hmYzZlZFVYYmo3bGlzYkFCQ0RILXhQSHFHeS1NQzA1S1FKMGJaMTBQZUZNVnoybmE2LWY4alU5TW1YQS1peVNEd2FjOEtYYk9nWUh2VFBlRGNJTHJ1MlBCY0pxNGxXZ1dZRmhoUUF6WjdQRkc0endOU2hyaGZIMzlXaEppRi1UOWpQWHNLYTM5VA?oc=5"
-    },
-    {
-     "source": "lefilia.fr",
-     "title": "Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0RxQ01pMkp6dEQxMzBCeFJneE82MkdQLThWQ1VZYTVhSGhmekhaeEc1U2RXYTFGMGNlWWxSSWFfU0xtal9pX2JYM3UyQjJTOThtVUE0SmtXNGJLVlU0eFh4Q3Y1N3FEZjY2Qlg0Tl9xZk5qb1lVZlF3QU1EVHR6V1BLYlplY1pEcUZrbzFBQ1ZfajVITm1uRlZzaXZSLXNpdEJySWwtZ3RwMnZxU0ZUQkNhUE5OSnhqc3JmZjh3R1hEWndMdmhsdktOSDNXUEZHeTRKQ2NiQ2I?oc=5"
     }
    ],
    "brief": {
@@ -149,19 +151,19 @@
     ],
     "facts": [
      {
-      "label": "Montant",
+      "key": "amount",
       "value": "425 millions d’euros"
      },
      {
-      "label": "Tour",
+      "key": "round",
       "value": "Série A"
      },
      {
-      "label": "Valorisation",
+      "key": "valuation",
       "value": "3,5 milliards"
      },
      {
-      "label": "Investisseurs",
+      "key": "investors",
       "value": "Nvidia, Samsung et Zoom"
      }
     ]
@@ -182,9 +184,9 @@
    "sources": [
     "FrenchWeb",
     "Les Echos",
+    "Silicon.fr",
     "L'Informaticien",
-    "J'aime les startups",
-    "Silicon.fr"
+    "J'aime les startups"
    ],
    "articles": [
     {
@@ -198,6 +200,11 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1BIUUZEenlpVS1Td3czeWU4TG1SOVFlX2pvTkFNczNSaTFnYTdWWl9YWnBtVVhOMEpRRXBzUUFJMGdXZmtiYm0wQzRQUEN1SkdoSVY0WEdSQllPN3BVb1liNFFaYmxKcXlIeVNZUGI0dm16ZlphWlVUYUVFdjExUXlsQzY2N1JnRUNsQlhzR0ktWXdJbHlYNG9QOEFSVWFRWHc4OWFjcDMxYXRic3Rsa2NramszRFNYaDdR?oc=5"
     },
     {
+     "source": "Silicon.fr",
+     "title": "Qluster lève 4,7 millions € pour un ordinateur quantique photonique",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYm9WOGJtYTYwRGxtOVF6cDhJakM5MVFUVUxhLXpkZ3VjUVhTN1FaRF8yS0NqanBXT291Ym1zT1hWTUpvb3J0bF9YX2U1blk4MVhZS1otTVVSX0V3V3dLdnJTZFFWUGJyeGV4ZF94YWVncWhTNkxOeUliRGV0UEtrU1JuS1poVXFHTVU2UHZtR0JqZDVud2hyUkd3c2xnWS1rTFEwdkUzOWFPT3ZpV0dZ0gG0AUFVX3lxTFBpOE9wQnBkQzNNZVA5Z0lDckpOczJfaGliVTM1TFhYcW9CaG1sZDFuYVBKSHZrZ1FlcHBSZVhGZlk1bWdWVVlwUl83WjE5QmUwUUpUdGlLbFAtRDdOYWRjRTlvclllZ2FrcmpUbUJfc0dOZks2Tnd1eC1fTkdhTDlER2E4NkcteV9iWnRKZE54LTE4TjBZLVlVZUY2TWlXWGQwdFJxazBla1V5Uy1TcTJhT3VFZA?oc=5"
+    },
+    {
      "source": "L'Informaticien",
      "title": "Première levée de fonds pour Qluster",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHJnR2NCQnBlX0pyczBxLURWd3F1QnRZVnlmdnpES3JhREd5dWNpR2VQZWdWeS16RG5Wc2VINFIyX2tfZk9TVXpXOVZMRDhMck1aaF81RTJSVVdBbFRoM3FYTnk2WmVMYU1qaUNacENBRnpGb21NSXo1clNiWkpkRDVtNklOTjRySmZmbFlSc1NrSHUyTTZUR0JzNTl4ejdzeE0xX1FWNG5qODdNUmNsalJHZ24?oc=5"
@@ -206,11 +213,6 @@
      "source": "J'aime les startups",
      "title": "Qluster lève 4,7 millions d’euros pour développer son ordinateur quantique photonique",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnU4cHNlUnIwakZoMWxGdUkxcXIxb1BqZVJqbC13SmhCWnlGOXkxX1dYTlgza2pwS3VHMnFLRFJjTTEtSUtQYnJteldkQU9sRDVOTFFqd0FmUGhmLVdZSkFKdmZqZ0s4X2c1cnpEb3JPTTFlN2hYaEhwSVY4UVM3UEQ4UEtZNVc5VUd4WWNxUWhrVFlGX2lr?oc=5"
-    },
-    {
-     "source": "Silicon.fr",
-     "title": "Qluster lève 4,7 millions € pour un ordinateur quantique photonique",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYm9WOGJtYTYwRGxtOVF6cDhJakM5MVFUVUxhLXpkZ3VjUVhTN1FaRF8yS0NqanBXT291Ym1zT1hWTUpvb3J0bF9YX2U1blk4MVhZS1otTVVSX0V3V3dLdnJTZFFWUGJyeGV4ZF94YWVncWhTNkxOeUliRGV0UEtrU1JuS1poVXFHTVU2UHZtR0JqZDVud2hyUkd3c2xnWS1rTFEwdkUzOWFPT3ZpV0dZ0gG0AUFVX3lxTFBpOE9wQnBkQzNNZVA5Z0lDckpOczJfaGliVTM1TFhYcW9CaG1sZDFuYVBKSHZrZ1FlcHBSZVhGZlk1bWdWVVlwUl83WjE5QmUwUUpUdGlLbFAtRDdOYWRjRTlvclllZ2FrcmpUbUJfc0dOZks2Tnd1eC1fTkdhTDlER2E4NkcteV9iWnRKZE54LTE4TjBZLVlVZUY2TWlXWGQwdFJxazBla1V5Uy1TcTJhT3VFZA?oc=5"
     }
    ],
    "brief": {
@@ -220,11 +222,11 @@
     ],
     "facts": [
      {
-      "label": "Montant",
+      "key": "amount",
       "value": "4,7 millions d’euros"
      },
      {
-      "label": "Investisseurs",
+      "key": "investors",
       "value": "QUANTONATION"
      }
     ]
@@ -246,15 +248,14 @@
    "sources": [
     "Maddyness",
     "Siècle Digital",
-    "Brief IA",
-    "BDM",
     "FranceTransactions.com",
+    "BDM",
     "BFM",
     "Ouest-France",
     "Numerama",
     "Servicesmobiles.fr",
     "Melles750",
-    "lefilia.fr"
+    "Brief IA"
    ],
    "articles": [
     {
@@ -268,19 +269,14 @@
      "url": "https://siecledigital.fr/2026/11/17/ovhcloud-devoile-olala-sa-premiere-ia-francaise-pour-concurrencer-les-geants-americains/"
     },
     {
-     "source": "Brief IA",
-     "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5"
+     "source": "FranceTransactions.com",
+     "title": "Olala : OVHcloud lance son intelligence artificielle française et veut défier les géants américains",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3g0T2lhbWdVMUJVQUNyMzcyZHFnVlY1dlpLVi11b1FlLTVpLVJpSFhvVklDVUQwNFpIVTlFUEJ5ZTFCN1M1Wmc1NFFlM1JVV1dsRWdLdjNOTUZ4Q0k4R3hwblF1RjRUeTgyWXRDUXhJa0RISm94dmI2eGw4OW1zZjZRVDIxQVFDbXJCLUFVQUZXWnRhTWJJS202VjJyTVU4bUc5cGtXekZ0aF9HbWJtaW81cWJXZDV5SWR1UlVNdE8xTnplU0k2WWR1R1RpbXNUeTExV3hfeklUQTNoZXc?oc=5"
     },
     {
      "source": "BDM",
      "title": "Le Français OVHcloud se lance dans les LLM avec Olala, un petit modèle ouvert",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnRjNiQ21YdVhuQ0FmTno0V1oyQXFWX2JfMEVvTU9FYUNNNUtNQWNZdFhqRUFZUGZvZDk1RnBSaVc2NU1YaE16THJ0RmR2X2R6WS1sZThidkd4ZXFjNU9yQlhkd3E4NE1MRnBqRmZrZWVISzlKeDZmTnRYcmo?oc=5"
-    },
-    {
-     "source": "FranceTransactions.com",
-     "title": "Olala : OVHcloud lance son intelligence artificielle française et veut défier les géants américains",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3g0T2lhbWdVMUJVQUNyMzcyZHFnVlY1dlpLVi11b1FlLTVpLVJpSFhvVklDVUQwNFpIVTlFUEJ5ZTFCN1M1Wmc1NFFlM1JVV1dsRWdLdjNOTUZ4Q0k4R3hwblF1RjRUeTgyWXRDUXhJa0RISm94dmI2eGw4OW1zZjZRVDIxQVFDbXJCLUFVQUZXWnRhTWJJS202VjJyTVU4bUc5cGtXekZ0aF9HbWJtaW81cWJXZDV5SWR1UlVNdE8xTnplU0k2WWR1R1RpbXNUeTExV3hfeklUQTNoZXc?oc=5"
     },
     {
      "source": "BFM",
@@ -308,9 +304,9 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1Z1enZadDl2SzJBVWRVeFlmdVJiVlYybTlmUVlXWVAtTGVVRC1RVUo4S1JsaGdXNUQyNm1BeVdJVk5HZ25MbExTNG1GdlNNd1d1bHRyb3JsOHBGZGtlT1k2TjRGUG5pTGtqeHJaTWVJSEVDYzJ2T1Z1amZ1YkVIZ1R4TmhTcUFUMWVHSlRibUpLWWJ0UG1YWA?oc=5"
     },
     {
-     "source": "lefilia.fr",
-     "title": "Olala mini : la première IA française d’OVHcloud tient sur un PC sans carte graphique dédiée",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3dUZHh0Y0dnRlZhdkNKaTRZRkRROHNvWTg2WmhVc3ZrdTByM1pVLXBuOU5lU3F0RmF5cklFaXo2eHlpOUVMeWtYSUdTc2dLZThFRkZEQjUzbzduMVZxM3FvSjNXS2RnNGNqcEVpNjRVek1OeDFnTzFYZkl2WnhocFplWlJMWS1ZYTlhbkFzUkx2MlAzYTV2NEY1NjY5TVAwVExLa01weDZrcXlqdkQ0enI5X3BmNWpvOEs4bjhDLXNlekFobmJXYw?oc=5"
+     "source": "Brief IA",
+     "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5"
     }
    ],
    "brief": {
@@ -322,7 +318,7 @@
     ],
     "facts": []
    },
-   "date": "2026-11-17T07:08:02.000Z",
+   "date": "2026-11-17T08:07:29.000Z",
    "categories": [
     "IA"
    ],
@@ -376,15 +372,15 @@
     ],
     "facts": [
      {
-      "label": "Montant",
+      "key": "amount",
       "value": "25,5 millions d’euros"
      },
      {
-      "label": "Tour",
+      "key": "round",
       "value": "Tour d’amorçage"
      },
      {
-      "label": "Investisseurs",
+      "key": "investors",
       "value": "EQT VENTURES et FIRSTMARK"
      }
     ]
@@ -505,7 +501,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 7.9
+   "score": 7.8
   },
   {
    "id": "genesis-ai-licorne-francaise-des-robots-humanoides",
@@ -623,7 +619,7 @@
    "categories": [
     "IA"
    ],
-   "score": 6.2
+   "score": 6.1
   },
   {
    "id": "la-france-a-vu-naitre-plus-de-6-500-nouveaux-entrepreneurs-de-la-tech-en-2026",
@@ -705,7 +701,7 @@
    "categories": [
     "IA"
    ],
-   "score": 5.3
+   "score": 5.2
   },
   {
    "id": "l-ia-ne-se-deploie-pas-elle-se-manage",
@@ -726,28 +722,7 @@
    "categories": [
     "IA"
    ],
-   "score": 5.3
-  },
-  {
-   "id": "french-tech-night-2026-six-entreprises-de-cote-d-or-parmi-les-exposants",
-   "title": "French Tech Night 2026 : six entreprises de Côte-d’Or parmi les exposants",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzJ4T05Kd2xUU182Ri04NGF3TTNZd0VuZzRCdUJLdG5hT1ZLVWwtMGpadEJUX3F5dGp0TTVnd3dWVkhLMzNtM1hvS0hXZzd3a2M3N1laSDc3ZGdOeW9INFNsU2lhWW9MbUlra3VpUkhQdHl3OFVpWlBncUt6UXo5N2dESzZPZ3BjeGlqSkpKLUxZOWdRaFdtR0ZyYmFRX3pINWl1MVJPeHVxWXJvUXhr?oc=5",
-   "summary": "",
-   "sources": [
-    "La Gazette France"
-   ],
-   "articles": [
-    {
-     "source": "La Gazette France",
-     "title": "French Tech Night 2026 : six entreprises de Côte-d’Or parmi les exposants",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzJ4T05Kd2xUU182Ri04NGF3TTNZd0VuZzRCdUJLdG5hT1ZLVWwtMGpadEJUX3F5dGp0TTVnd3dWVkhLMzNtM1hvS0hXZzd3a2M3N1laSDc3ZGdOeW9INFNsU2lhWW9MbUlra3VpUkhQdHl3OFVpWlBncUt6UXo5N2dESzZPZ3BjeGlqSkpKLUxZOWdRaFdtR0ZyYmFRX3pINWl1MVJPeHVxWXJvUXhr?oc=5"
-    }
-   ],
-   "date": "2026-11-17T08:01:29.000Z",
-   "categories": [
-    "Politique & écosystème"
-   ],
-   "score": 5.3
+   "score": 5.2
   },
   {
    "id": "french-tech-cailabs-specialiste-des-communications-laser-17-11",
@@ -765,6 +740,27 @@
     }
    ],
    "date": "2026-11-17T07:37:22.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5.2
+  },
+  {
+   "id": "french-tech-night-2026-six-entreprises-de-cote-d-or-parmi-les-exposants",
+   "title": "French Tech Night 2026 : six entreprises de Côte-d’Or parmi les exposants",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzJ4T05Kd2xUU182Ri04NGF3TTNZd0VuZzRCdUJLdG5hT1ZLVWwtMGpadEJUX3F5dGp0TTVnd3dWVkhLMzNtM1hvS0hXZzd3a2M3N1laSDc3ZGdOeW9INFNsU2lhWW9MbUlra3VpUkhQdHl3OFVpWlBncUt6UXo5N2dESzZPZ3BjeGlqSkpKLUxZOWdRaFdtR0ZyYmFRX3pINWl1MVJPeHVxWXJvUXhr?oc=5",
+   "summary": "",
+   "sources": [
+    "La Gazette France"
+   ],
+   "articles": [
+    {
+     "source": "La Gazette France",
+     "title": "French Tech Night 2026 : six entreprises de Côte-d’Or parmi les exposants",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzJ4T05Kd2xUU182Ri04NGF3TTNZd0VuZzRCdUJLdG5hT1ZLVWwtMGpadEJUX3F5dGp0TTVnd3dWVkhLMzNtM1hvS0hXZzd3a2M3N1laSDc3ZGdOeW9INFNsU2lhWW9MbUlra3VpUkhQdHl3OFVpWlBncUt6UXo5N2dESzZPZ3BjeGlqSkpKLUxZOWdRaFdtR0ZyYmFRX3pINWl1MVJPeHVxWXJvUXhr?oc=5"
+    }
+   ],
+   "date": "2026-11-17T08:01:29.000Z",
    "categories": [
     "Politique & écosystème"
    ],
@@ -830,27 +826,6 @@
    "score": 5
   },
   {
-   "id": "chiffres-cles-de-la-licorne-pennylane-ce-qu-il-faut-savoir-avant-d-ouvrir-votre-",
-   "title": "Chiffres clés de la licorne Pennylane : ce qu’il faut savoir avant d’ouvrir votre compte pro",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1l2cERwS3RuSDhGd2dNV3lmcVdIZlI4V19yaFhHLU1kUUpCTzNRVGtQMy0wd3lwTEhaNUZDZUc3Yk5WYTg1WXBvR1BSMXZRUm9UZ1gyV2RuQXp4THBwNFAtZC1qa2w0Q2hEV2VwR3kwY0stT1hHWVVsMklhZEdld05mcHUtN2Q4a2NIczFyXy1OeEtGeGcwWUlUbF9uSnlic3psTUVqTU1COVBEeWZCT2FPMkpVNXhGdVRVTVNnWndvYzVaUHllZll5TU5BUmJ0eERhekk0ckM0VkpCdmRMM29R?oc=5",
-   "summary": "",
-   "sources": [
-    "Le Point"
-   ],
-   "articles": [
-    {
-     "source": "Le Point",
-     "title": "Chiffres clés de la licorne Pennylane : ce qu’il faut savoir avant d’ouvrir votre compte pro",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1l2cERwS3RuSDhGd2dNV3lmcVdIZlI4V19yaFhHLU1kUUpCTzNRVGtQMy0wd3lwTEhaNUZDZUc3Yk5WYTg1WXBvR1BSMXZRUm9UZ1gyV2RuQXp4THBwNFAtZC1qa2w0Q2hEV2VwR3kwY0stT1hHWVVsMklhZEdld05mcHUtN2Q4a2NIczFyXy1OeEtGeGcwWUlUbF9uSnlic3psTUVqTU1COVBEeWZCT2FPMkpVNXhGdVRVTVNnWndvYzVaUHllZll5TU5BUmJ0eERhekk0ckM0VkpCdmRMM29R?oc=5"
-    }
-   ],
-   "date": "2026-11-17T15:12:58.000Z",
-   "categories": [
-    "Licornes & scale-ups"
-   ],
-   "score": 4.9
-  },
-  {
    "id": "le-droit-de-comprendre-pour-un-acces-libre-securise-et-confidentiel-a-l-ia-face-",
    "title": "Le droit de comprendre : pour un accès libre, sécurisé et confidentiel à l'IA face à la maladie grave.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJNd3FscGtSZjQtSlE2TFJwc0JLZEI0ZXUzZGNsZS1oRmtnU1VsN3dWYUFYbElGalRMdUZEWTRKMlhhRkhoaHlLaTZZQ2I5cjR4UlgxVXdyMmNoLVc3dVhnZmtwN0g2LUJvVExGWlJicVBTckVOdVE3OTV3SjBaR0lWNS04S000T1Y2bnJKX0FDeDYzVU41czdBdWh0dWVT?oc=5",
@@ -889,6 +864,27 @@
    "date": "2026-11-17T16:14:01.000Z",
    "categories": [],
    "score": 4.9
+  },
+  {
+   "id": "chiffres-cles-de-la-licorne-pennylane-ce-qu-il-faut-savoir-avant-d-ouvrir-votre-",
+   "title": "Chiffres clés de la licorne Pennylane : ce qu’il faut savoir avant d’ouvrir votre compte pro",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1l2cERwS3RuSDhGd2dNV3lmcVdIZlI4V19yaFhHLU1kUUpCTzNRVGtQMy0wd3lwTEhaNUZDZUc3Yk5WYTg1WXBvR1BSMXZRUm9UZ1gyV2RuQXp4THBwNFAtZC1qa2w0Q2hEV2VwR3kwY0stT1hHWVVsMklhZEdld05mcHUtN2Q4a2NIczFyXy1OeEtGeGcwWUlUbF9uSnlic3psTUVqTU1COVBEeWZCT2FPMkpVNXhGdVRVTVNnWndvYzVaUHllZll5TU5BUmJ0eERhekk0ckM0VkpCdmRMM29R?oc=5",
+   "summary": "",
+   "sources": [
+    "Le Point"
+   ],
+   "articles": [
+    {
+     "source": "Le Point",
+     "title": "Chiffres clés de la licorne Pennylane : ce qu’il faut savoir avant d’ouvrir votre compte pro",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1l2cERwS3RuSDhGd2dNV3lmcVdIZlI4V19yaFhHLU1kUUpCTzNRVGtQMy0wd3lwTEhaNUZDZUc3Yk5WYTg1WXBvR1BSMXZRUm9UZ1gyV2RuQXp4THBwNFAtZC1qa2w0Q2hEV2VwR3kwY0stT1hHWVVsMklhZEdld05mcHUtN2Q4a2NIczFyXy1OeEtGeGcwWUlUbF9uSnlic3psTUVqTU1COVBEeWZCT2FPMkpVNXhGdVRVTVNnWndvYzVaUHllZll5TU5BUmJ0eERhekk0ckM0VkpCdmRMM29R?oc=5"
+    }
+   ],
+   "date": "2026-11-17T15:12:58.000Z",
+   "categories": [
+    "Licornes & scale-ups"
+   ],
+   "score": 4.8
   },
   {
    "id": "immobilier-la-conversion-de-bureaux-en-logements-se-poursuit-a-l-est-de-paris",
@@ -990,33 +986,6 @@
    "score": 4.4
   },
   {
-   "id": "presomption-d-utilisation-une-loi-qui-manquerait-sa-cible",
-   "title": "Présomption d'utilisation : une loi qui manquerait sa cible",
-   "url": "https://www.journaldunet.com/intelligence-artificielle/1558063-presomption-d-utilisation-une-loi-qui-manquerait-sa-cible/",
-   "summary": "La loi sur la présomption d'utilisation des œuvres par l'IA imposerait une preuve négative impossible, au risque de multiplier les contentieux et de pénaliser l'IA française.",
-   "image": "https://img-0.journaldunet.com/LNj-Iz1NNfT2tyse3os7uoReZFY=/1280x/smart/79757b64af204cd88e5b16c7e9b56dc4/user-jdn/39546319-alexandre-rudoni.jpg",
-   "sources": [
-    "Journal du Net"
-   ],
-   "articles": [
-    {
-     "source": "Journal du Net",
-     "title": "Présomption d'utilisation : une loi qui manquerait sa cible",
-     "url": "https://www.journaldunet.com/intelligence-artificielle/1558063-presomption-d-utilisation-une-loi-qui-manquerait-sa-cible/"
-    }
-   ],
-   "brief": {
-    "essentiel": "La loi sur la présomption d'utilisation des œuvres par l'IA imposerait une preuve négative impossible, au risque de multiplier les contentieux et de pénaliser l'IA française.",
-    "points": [],
-    "facts": []
-   },
-   "date": "2026-11-17T08:18:07.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 4.3
-  },
-  {
    "id": "cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-l-agence-de-cybe",
    "title": "Cette startup française a trouvé des identifiants appartenant à l’agence de cybersécurité américaine…",
    "url": "https://www.maddyness.com/2026/11/17/cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-lagence-de-cybersecurite-americaine/",
@@ -1033,27 +1002,6 @@
    ],
    "date": "2026-11-17T08:00:11.000Z",
    "categories": [],
-   "score": 4.2
-  },
-  {
-   "id": "ia-une-proposition-de-loi-pour-proteger-la-creation-toujours-enlisee-a-l-assembl",
-   "title": "IA : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc24zVTVUNE5kU2Y4YXQ2SVkwbExtWDRIVkJYM3RaN1lrSVl2X3VRUkVKSUE5ZU9DV1ZwTGlVRXJBTUx4RV9VNkV1MFlIelhtcnRkWVN3VVZrNmgtMVU5SmIzNndTRlZqTVNXUmVGcEF0c0NUSUFMZEU2QUZmak5WMDdxLUZEY05leXExWkt3dHdEbHd2SFNZ?oc=5",
-   "summary": "",
-   "sources": [
-    "CB News"
-   ],
-   "articles": [
-    {
-     "source": "CB News",
-     "title": "IA : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc24zVTVUNE5kU2Y4YXQ2SVkwbExtWDRIVkJYM3RaN1lrSVl2X3VRUkVKSUE5ZU9DV1ZwTGlVRXJBTUx4RV9VNkV1MFlIelhtcnRkWVN3VVZrNmgtMVU5SmIzNndTRlZqTVNXUmVGcEF0c0NUSUFMZEU2QUZmak5WMDdxLUZEY05leXExWkt3dHdEbHd2SFNZ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T19:02:15.000Z",
-   "categories": [
-    "IA"
-   ],
    "score": 4.2
   },
   {
@@ -1080,6 +1028,52 @@
    "date": "2026-11-17T19:23:42.000Z",
    "categories": [],
    "score": 4.2
+  },
+  {
+   "id": "presomption-d-utilisation-une-loi-qui-manquerait-sa-cible",
+   "title": "Présomption d'utilisation : une loi qui manquerait sa cible",
+   "url": "https://www.journaldunet.com/intelligence-artificielle/1558063-presomption-d-utilisation-une-loi-qui-manquerait-sa-cible/",
+   "summary": "La loi sur la présomption d'utilisation des œuvres par l'IA imposerait une preuve négative impossible, au risque de multiplier les contentieux et de pénaliser l'IA française.",
+   "image": "https://img-0.journaldunet.com/LNj-Iz1NNfT2tyse3os7uoReZFY=/1280x/smart/79757b64af204cd88e5b16c7e9b56dc4/user-jdn/39546319-alexandre-rudoni.jpg",
+   "sources": [
+    "Journal du Net"
+   ],
+   "articles": [
+    {
+     "source": "Journal du Net",
+     "title": "Présomption d'utilisation : une loi qui manquerait sa cible",
+     "url": "https://www.journaldunet.com/intelligence-artificielle/1558063-presomption-d-utilisation-une-loi-qui-manquerait-sa-cible/"
+    }
+   ],
+   "brief": {
+    "essentiel": "La loi sur la présomption d'utilisation des œuvres par l'IA imposerait une preuve négative impossible, au risque de multiplier les contentieux et de pénaliser l'IA française.",
+    "points": [],
+    "facts": []
+   },
+   "date": "2026-11-17T08:18:07.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.2
+  },
+  {
+   "id": "les-francais-reduisent-enfin-leur-consommation-d-antibiotiques",
+   "title": "Les Français réduisent enfin leur consommation d'antibiotiques",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDgwNnVmVkdVV1YwRF92cmlpdG5iLUc4cDRmUENxRzNZNlM3dEZHdFRKc0hsQ0U4eGtoc082dXhLWjlnV0I3dExWVDE1Q21PNlJsUENPR19JVG9mMEZRVWx6TE9rUjFHYW9hRzJWQ3I3MXFtb2VSOGg0UThBZWZRclNOMUJZbkdraXBfc3dab3ZZT0ZwTGUyUlhuaGdONE5NMUlDcXNCZWlNa3ZOZTU5WHYzR1gya1NzQTdmSXJaa1JhS2xjNmhv?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Les Français réduisent enfin leur consommation d'antibiotiques",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDgwNnVmVkdVV1YwRF92cmlpdG5iLUc4cDRmUENxRzNZNlM3dEZHdFRKc0hsQ0U4eGtoc082dXhLWjlnV0I3dExWVDE1Q21PNlJsUENPR19JVG9mMEZRVWx6TE9rUjFHYW9hRzJWQ3I3MXFtb2VSOGg0UThBZWZRclNOMUJZbkdraXBfc3dab3ZZT0ZwTGUyUlhuaGdONE5NMUlDcXNCZWlNa3ZOZTU5WHYzR1gya1NzQTdmSXJaa1JhS2xjNmhv?oc=5"
+    }
+   ],
+   "date": "2026-11-17T06:00:29.000Z",
+   "categories": [],
+   "score": 4.1
   },
   {
    "id": "presage-veut-tester-les-changements-du-cloud-avant-leur-mise-en-production",
@@ -1132,6 +1126,27 @@
    "score": 3.9
   },
   {
+   "id": "ia-et-droits-d-auteur-la-proposition-de-loi-darcos-pour-proteger-la-creation-tou",
+   "title": "IA et droits d’auteur : la proposition de loi Darcos pour protéger la création toujours enlisée à l’Assemblée nationale",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUFRXSWJQaUhxVzBRakw0b1VYa2pUMm53c2YycV8tMHJ5LVRxZC1pUl9lQzhsckM0TW5qVnBKRy1talpqSnNPSjZJZXdzVTFDNWhhRVdCZmpDUEp6aFd3NTBQcmx2eF91TEJTLWkyUGw0Y2NwTUhrbi1vMjRoajNqSDRqcjQyYklNcmFUelZMaUNZZm03N3VmcjJXbGcwOEVUb2xSSmdHVzR1cjhremlnNXRsa2pBdTA3WTlvNVJLdi1lMWVJVi1yWXBIS2FjNTdxV09yTnVJdkJzNVZPbXYxN1R6Vm5TdzVQWVlNeXhoSGE5djhzcWRmaGlNOWlQOFpJTExYdUhxRzRxU25qNExYZkNEdW8xSURCNDhBZ1JZaTM0SjRFUmZ6NGNld0Y?oc=5",
+   "summary": "",
+   "sources": [
+    "Sud Ouest"
+   ],
+   "articles": [
+    {
+     "source": "Sud Ouest",
+     "title": "IA et droits d’auteur : la proposition de loi Darcos pour protéger la création toujours enlisée à l’Assemblée nationale",
+     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUFRXSWJQaUhxVzBRakw0b1VYa2pUMm53c2YycV8tMHJ5LVRxZC1pUl9lQzhsckM0TW5qVnBKRy1talpqSnNPSjZJZXdzVTFDNWhhRVdCZmpDUEp6aFd3NTBQcmx2eF91TEJTLWkyUGw0Y2NwTUhrbi1vMjRoajNqSDRqcjQyYklNcmFUelZMaUNZZm03N3VmcjJXbGcwOEVUb2xSSmdHVzR1cjhremlnNXRsa2pBdTA3WTlvNVJLdi1lMWVJVi1yWXBIS2FjNTdxV09yTnVJdkJzNVZPbXYxN1R6Vm5TdzVQWVlNeXhoSGE5djhzcWRmaGlNOWlQOFpJTExYdUhxRzRxU25qNExYZkNEdW8xSURCNDhBZ1JZaTM0SjRFUmZ6NGNld0Y?oc=5"
+    }
+   ],
+   "date": "2026-11-17T15:31:32.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.8
+  },
+  {
    "id": "anyos-ouvre-son-capital-au-grand-public-pour-en-finir-avec-les-bornes-de-recharg",
    "title": "Anyos ouvre son capital au grand public pour en finir avec les bornes de recharge jetables",
    "url": "https://www.maddyness.com/2026/11/17/anyos-capital-sowefund-bornes-recharge/",
@@ -1148,7 +1163,7 @@
    ],
    "date": "2026-11-17T13:00:46.000Z",
    "categories": [],
-   "score": 3.7
+   "score": 3.6
   },
   {
    "id": "building-bridges-to-the-u-s-2026-une-opportunite-unique-pour-les-entreprises-fra",
@@ -1245,55 +1260,7 @@
    "categories": [
     "IA"
    ],
-   "score": 3.2
-  },
-  {
-   "id": "l-ia-va-encore-augmenter-d-un-cran-la-crise-cognitive-les-secrets-d-un-bureau-an",
-   "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T05:45:07.000Z",
-   "categories": [
-    "IA"
-   ],
    "score": 3.1
-  },
-  {
-   "id": "free-distribue-par-palettes-son-abonnement-de-box-internet-des-milliers-de-franc",
-   "title": "Free distribue par palettes son abonnement de box internet, des milliers de Français souscrivent depuis le début de la semaine",
-   "url": "https://www.bfmtv.com/tech/bons-plans/free-distribue-par-palettes-son-abonnement-de-box-internet-des-milliers-de-francais-souscrivent-depuis-le-debut-de-la-semaine_AB-202611170014.html",
-   "summary": "Free a mis en place une offre Internet qui s'appuie sur la fibre, et qui connaît un succès retentissant. Elle a été spécialement conçue pour les internautes qui souhaitent de la vitesse sans avoir à supporter les coûts des chaînes de télévision.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/6tmbgg9AaTIpfAaWyKmvlNtb86U=/0x0:1600x900/800x0/images/Free-1975880.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "Free distribue par palettes son abonnement de box internet, des milliers de Français souscrivent depuis le début de la semaine",
-     "url": "https://www.bfmtv.com/tech/bons-plans/free-distribue-par-palettes-son-abonnement-de-box-internet-des-milliers-de-francais-souscrivent-depuis-le-debut-de-la-semaine_AB-202611170014.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Free a mis en place une offre Internet qui s'appuie sur la fibre, et qui connaît un succès retentissant.",
-    "points": [
-     "Elle a été spécialement conçue pour les internautes qui souhaitent de la vitesse sans avoir à supporter les coûts des chaînes de télévision."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-17T16:38:00.000Z",
-   "categories": [],
-   "score": 3
   },
   {
    "id": "airbus-decline-son-accord-avec-mistral-ai-dans-la-cybersecurite",
@@ -1311,6 +1278,27 @@
     }
    ],
    "date": "2026-11-17T05:20:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "l-europe-accelere-ses-efforts-pour-briser-la-domination-des-etats-unis-et-de-la-",
+   "title": "L'Europe accélère ses efforts pour briser la domination des États-Unis et de la Chine dans le domaine de l'IA.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0xGTEJYcmRTaGpPZmJ5bEVZVUpuWG5aSUpUTlI2Wm0yTkN2SkRqTWRERWkyYVlTMVR2RzR2UE56S0xDUHQ1LVFDX3Q0bGt1UHk5ZDA2NENyZ2xjZXYzcnZHRmxvUVJzRnIzdmhVei0zWVRtRUtNYjI3SjRHWFI1TmlDOWwyOXZs?oc=5",
+   "summary": "",
+   "sources": [
+    "Vietnam.vn"
+   ],
+   "articles": [
+    {
+     "source": "Vietnam.vn",
+     "title": "L'Europe accélère ses efforts pour briser la domination des États-Unis et de la Chine dans le domaine de l'IA.",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0xGTEJYcmRTaGpPZmJ5bEVZVUpuWG5aSUpUTlI2Wm0yTkN2SkRqTWRERWkyYVlTMVR2RzR2UE56S0xDUHQ1LVFDX3Q0bGt1UHk5ZDA2NENyZ2xjZXYzcnZHRmxvUVJzRnIzdmhVei0zWVRtRUtNYjI3SjRHWFI1TmlDOWwyOXZs?oc=5"
+    }
+   ],
+   "date": "2026-11-16T19:43:21.000Z",
    "categories": [
     "IA"
    ],
@@ -1338,25 +1326,52 @@
    "score": 3
   },
   {
-   "id": "l-europe-accelere-ses-efforts-pour-briser-la-domination-des-etats-unis-et-de-la-",
-   "title": "L'Europe accélère ses efforts pour briser la domination des États-Unis et de la Chine dans le domaine de l'IA.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0xGTEJYcmRTaGpPZmJ5bEVZVUpuWG5aSUpUTlI2Wm0yTkN2SkRqTWRERWkyYVlTMVR2RzR2UE56S0xDUHQ1LVFDX3Q0bGt1UHk5ZDA2NENyZ2xjZXYzcnZHRmxvUVJzRnIzdmhVei0zWVRtRUtNYjI3SjRHWFI1TmlDOWwyOXZs?oc=5",
+   "id": "l-ia-va-encore-augmenter-d-un-cran-la-crise-cognitive-les-secrets-d-un-bureau-an",
+   "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5",
    "summary": "",
    "sources": [
-    "Vietnam.vn"
+    "Les Echos"
    ],
    "articles": [
     {
-     "source": "Vietnam.vn",
-     "title": "L'Europe accélère ses efforts pour briser la domination des États-Unis et de la Chine dans le domaine de l'IA.",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0xGTEJYcmRTaGpPZmJ5bEVZVUpuWG5aSUpUTlI2Wm0yTkN2SkRqTWRERWkyYVlTMVR2RzR2UE56S0xDUHQ1LVFDX3Q0bGt1UHk5ZDA2NENyZ2xjZXYzcnZHRmxvUVJzRnIzdmhVei0zWVRtRUtNYjI3SjRHWFI1TmlDOWwyOXZs?oc=5"
+     "source": "Les Echos",
+     "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5"
     }
    ],
-   "date": "2026-11-16T19:43:21.000Z",
+   "date": "2026-11-17T05:45:07.000Z",
    "categories": [
     "IA"
    ],
    "score": 3
+  },
+  {
+   "id": "free-distribue-par-palettes-son-abonnement-de-box-internet-des-milliers-de-franc",
+   "title": "Free distribue par palettes son abonnement de box internet, des milliers de Français souscrivent depuis le début de la semaine",
+   "url": "https://www.bfmtv.com/tech/bons-plans/free-distribue-par-palettes-son-abonnement-de-box-internet-des-milliers-de-francais-souscrivent-depuis-le-debut-de-la-semaine_AB-202611170014.html",
+   "summary": "Free a mis en place une offre Internet qui s'appuie sur la fibre, et qui connaît un succès retentissant. Elle a été spécialement conçue pour les internautes qui souhaitent de la vitesse sans avoir à supporter les coûts des chaînes de télévision.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/6tmbgg9AaTIpfAaWyKmvlNtb86U=/0x0:1600x900/800x0/images/Free-1975880.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "Free distribue par palettes son abonnement de box internet, des milliers de Français souscrivent depuis le début de la semaine",
+     "url": "https://www.bfmtv.com/tech/bons-plans/free-distribue-par-palettes-son-abonnement-de-box-internet-des-milliers-de-francais-souscrivent-depuis-le-debut-de-la-semaine_AB-202611170014.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Free a mis en place une offre Internet qui s'appuie sur la fibre, et qui connaît un succès retentissant.",
+    "points": [
+     "Elle a été spécialement conçue pour les internautes qui souhaitent de la vitesse sans avoir à supporter les coûts des chaînes de télévision."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-17T16:38:00.000Z",
+   "categories": [],
+   "score": 2.9
   },
   {
    "id": "la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-",
@@ -1529,25 +1544,6 @@
    },
    "date": "2026-11-17T14:09:00.000Z",
    "categories": [],
-   "score": 1.8
-  },
-  {
-   "id": "tech-iadates-entre-apocalypse-cognitive-et-quete-de-sens",
-   "title": "Tech - #IADates : entre apocalypse cognitive et quête de sens",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzhLTmQ3b0JmZEF2Y3NtTmpuNEllWFhJWkZ4TDRNekNxY3NCeFdnd0UxVldnNk5ycGllRk9pWFltQWdhdkNwS3FVNGE4emIwRU5zbS1uYkpTdlVBdE9EcjItZk5yMElrakNENm1XVHNSZGRUSWpJSDlIMktjbnNSWWZWM3pRVEVuczhCbjgzREcwYTlHcWppMzRSdmgyUEpWYWc?oc=5",
-   "summary": "",
-   "sources": [
-    "Petites Affiches"
-   ],
-   "articles": [
-    {
-     "source": "Petites Affiches",
-     "title": "Tech - #IADates : entre apocalypse cognitive et quête de sens",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzhLTmQ3b0JmZEF2Y3NtTmpuNEllWFhJWkZ4TDRNekNxY3NCeFdnd0UxVldnNk5ycGllRk9pWFltQWdhdkNwS3FVNGE4emIwRU5zbS1uYkpTdlVBdE9EcjItZk5yMElrakNENm1XVHNSZGRUSWpJSDlIMktjbnNSWWZWM3pRVEVuczhCbjgzREcwYTlHcWppMzRSdmgyUEpWYWc?oc=5"
-    }
-   ],
-   "date": "2026-11-17T13:03:37.000Z",
-   "categories": [],
    "score": 1.7
   },
   {
@@ -1566,6 +1562,25 @@
     }
    ],
    "date": "2026-11-17T12:24:00.000Z",
+   "categories": [],
+   "score": 1.6
+  },
+  {
+   "id": "tech-iadates-entre-apocalypse-cognitive-et-quete-de-sens",
+   "title": "Tech - #IADates : entre apocalypse cognitive et quête de sens",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzhLTmQ3b0JmZEF2Y3NtTmpuNEllWFhJWkZ4TDRNekNxY3NCeFdnd0UxVldnNk5ycGllRk9pWFltQWdhdkNwS3FVNGE4emIwRU5zbS1uYkpTdlVBdE9EcjItZk5yMElrakNENm1XVHNSZGRUSWpJSDlIMktjbnNSWWZWM3pRVEVuczhCbjgzREcwYTlHcWppMzRSdmgyUEpWYWc?oc=5",
+   "summary": "",
+   "sources": [
+    "Petites Affiches"
+   ],
+   "articles": [
+    {
+     "source": "Petites Affiches",
+     "title": "Tech - #IADates : entre apocalypse cognitive et quête de sens",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzhLTmQ3b0JmZEF2Y3NtTmpuNEllWFhJWkZ4TDRNekNxY3NCeFdnd0UxVldnNk5ycGllRk9pWFltQWdhdkNwS3FVNGE4emIwRU5zbS1uYkpTdlVBdE9EcjItZk5yMElrakNENm1XVHNSZGRUSWpJSDlIMktjbnNSWWZWM3pRVEVuczhCbjgzREcwYTlHcWppMzRSdmgyUEpWYWc?oc=5"
+    }
+   ],
+   "date": "2026-11-17T13:03:37.000Z",
    "categories": [],
    "score": 1.6
   },
