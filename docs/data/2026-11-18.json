@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T04:10:31.897Z",
+ "generatedAt": "2026-11-18T04:19:33.433Z",
  "windowHours": 36,
  "counts": {
   "articles": 57,
@@ -235,7 +235,7 @@
     "Politique & écosystème",
     "Talents & nominations"
    ],
-   "score": 25
+   "score": 24.9
   },
   {
    "id": "ovhcloud-devoile-son-premier-modele-d-ia",
@@ -483,7 +483,7 @@
    },
    "date": "2026-11-17T10:05:00.000Z",
    "categories": [],
-   "score": 8.3
+   "score": 8.2
   },
   {
    "id": "video-bpifrance-conseil-veut-faire-emerger-1-200-eti-en-dix-ans",
@@ -601,7 +601,7 @@
    "categories": [
     "IA"
    ],
-   "score": 6.4
+   "score": 6.3
   },
   {
    "id": "faut-il-redouter-un-tsunami-social-france-travail-devoile-une-etude-inedite-sur-",
@@ -767,7 +767,7 @@
    ],
    "date": "2026-11-17T18:00:00.000Z",
    "categories": [],
-   "score": 5.2
+   "score": 5.1
   },
   {
    "id": "risques-climatiques-la-france-parmi-les-pays-les-plus-vulnerables",
@@ -1015,7 +1015,7 @@
    ],
    "date": "2026-11-17T06:00:29.000Z",
    "categories": [],
-   "score": 4.2
+   "score": 4.1
   },
   {
    "id": "presage-veut-tester-les-changements-du-cloud-avant-leur-mise-en-production",
@@ -1386,7 +1386,7 @@
    },
    "date": "2026-11-17T14:25:48.000Z",
    "categories": [],
-   "score": 2.9
+   "score": 2.8
   },
   {
    "id": "pourquoi-personne-n-en-parle-ce-crosscall-stellar-m6-se-vend-discretement-par-pa",
