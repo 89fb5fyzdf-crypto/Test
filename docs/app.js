@@ -238,72 +238,42 @@ function renderEmpty() {
   ['#prev', '#next', '#day'].forEach((s) => ($(s).disabled = true));
 }
 
-// ---------- Ouverture façon Apple ----------
-// Le grand logo « Radar » rejoint la barre en suivant le défilement, les courbes de niveau
-// dézooment, le fond noir s'efface, puis le titre s'éclaire mot à mot.
-const clamp = (x) => Math.min(1, Math.max(0, x));
-const ease = (t) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2); // accélère puis ralentit
+// ---------- Ouverture ----------
+// Grand logo sur radar jusqu'au premier geste (toucher, clic, touche, défilement) ; puis zoom dans
+// les courbes de niveau, logo qui s'éclaire en blanc, site dévoilé depuis le point bleu.
 function setupIntro() {
   const root = document.documentElement;
-  const intro = $('#intro'), stage = intro.querySelector('.stage'), wm = $('#wordmark');
+  const intro = $('#intro');
   const h1 = document.querySelector('h1');
-  h1.innerHTML = h1.textContent.split(' ').map((w) => `<span class="w">${esc(w)}</span>`).join(' ');
-  const words = [...h1.querySelectorAll('.w')];
-  let geo = null;
-  const brand = document.querySelector('.brand');
+  h1.innerHTML = h1.textContent.split(' ').map((w, i) => `<span class="w" style="--i:${i}">${esc(w)}</span>`).join(' ');
 
-  function measure() {
-    if (!root.classList.contains('with-intro')) return;
-    intro.style.setProperty('--bar-h', `${document.querySelector('.bar-wrap').offsetHeight}px`);
-    wm.style.setProperty('--s', 1); wm.style.setProperty('--dx', '0px'); wm.style.setProperty('--dy', '0px');
-    // Position du grand logo par rapport à la scène ; la destination (logo de la barre) est relue à
-    // chaque image, pour suivre la barre même si Safari décale l'affichage.
-    const from = wm.getBoundingClientRect(), st = stage.getBoundingClientRect();
-    geo = {
-      s: parseFloat(getComputedStyle(brand).fontSize) / parseFloat(getComputedStyle(wm).fontSize),
-      cx: from.left - st.left + from.width / 2, cy: from.top - st.top + from.height / 2, w: from.width,
-    };
-  }
-
-  function frame() {
-    if (root.classList.contains('with-intro') && geo) {
-      const range = intro.offsetHeight - window.innerHeight;
-      const p = clamp(window.scrollY / range);
-      const e = ease(clamp(p / 0.85));
-      stage.style.setProperty('--p', p.toFixed(4));
-      stage.style.setProperty('--fade', clamp((p - 0.5) / 0.4).toFixed(4));
-      wm.style.setProperty('--s', (1 + (geo.s - 1) * e).toFixed(4));
-      const to = brand.getBoundingClientRect(), st = stage.getBoundingClientRect();
-      const dx = to.left + (geo.w * geo.s) / 2 - (st.left + geo.cx);
-      const dy = to.top + to.height / 2 - (st.top + geo.cy);
-      wm.style.setProperty('--dx', `${(dx * e).toFixed(1)}px`);
-      wm.style.setProperty('--dy', `${(dy * e).toFixed(1)}px`);
-      wm.style.setProperty('--wm-o', (1 - clamp((p - 0.93) / 0.07)).toFixed(3));
-      root.style.setProperty('--bar-o', clamp((p - 0.85) / 0.12).toFixed(3));
-    }
-    // Titre : chaque mot s'éclaire quand le titre entre dans l'écran.
-    const r = clamp((window.innerHeight * 0.9 - h1.getBoundingClientRect().top) / (window.innerHeight * 0.45));
-    words.forEach((w, k) => w.style.setProperty('--o', (0.15 + 0.85 * clamp(r * words.length - k)).toFixed(3)));
-  }
-
-  let queued = false;
-  const onScroll = () => { if (!queued) { queued = true; requestAnimationFrame(() => { queued = false; frame(); }); } };
-  window.addEventListener('scroll', onScroll, { passive: true });
-  window.addEventListener('resize', () => { measure(); frame(); });
-
-  if (root.classList.contains('with-intro')) {
-    try { localStorage.setItem('intro', new Date().toISOString().slice(0, 10)); } catch {}
-    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
-    window.scrollTo(0, 0);
-    wm.onclick = () => window.scrollTo({ top: intro.offsetHeight - window.innerHeight, behavior: 'smooth' });
-  }
   $('#replay').onclick = () => {
     try { localStorage.removeItem('intro'); } catch {}
     location.href = location.pathname; // sans le jour dans l'adresse, pour rejouer l'ouverture
   };
-  measure();
-  frame();
-  document.fonts?.ready.then(() => { measure(); frame(); });
+  if (!root.classList.contains('with-intro')) return;
+  try { localStorage.setItem('intro', new Date().toISOString().slice(0, 10)); } catch {}
+
+  let done = false;
+  const enter = (e) => {
+    if (done) return;
+    done = true;
+    e?.preventDefault?.();
+    const d = $('#wm-dot').getBoundingClientRect();
+    intro.style.setProperty('--cx', `${d.left + d.width / 2}px`);
+    intro.style.setProperty('--cy', `${d.top + d.height / 2}px`);
+    intro.classList.add('leaving');
+    events.forEach(([t, f]) => window.removeEventListener(t, f));
+    setTimeout(() => {
+      window.scrollTo(0, 0);
+      root.classList.add('entering');
+      root.classList.remove('with-intro');
+    }, 520);
+    setTimeout(() => { intro.remove(); root.classList.remove('entering'); }, 1900);
+  };
+  const events = [['pointerdown', enter], ['keydown', enter], ['wheel', enter], ['touchmove', enter]];
+  events.forEach(([t, f]) => window.addEventListener(t, f, { passive: false }));
+  intro.focus({ preventScroll: true });
 }
 
 setupTheme();

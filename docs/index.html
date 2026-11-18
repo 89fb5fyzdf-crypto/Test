@@ -39,17 +39,13 @@
     </div>
   </header>
 
-  <!-- Ouverture façon Apple : grand logo, balayage radar ; au défilement, le logo rejoint la barre. -->
-  <section id="intro" class="intro" aria-label="Introduction">
-    <div class="stage">
-      <div class="stage-bg"></div>
-      <div class="stage-topo"><div class="stage-lines"></div><div class="stage-sweep"></div></div>
-      <button class="wordmark" id="wordmark" type="button" aria-label="Passer l'introduction">
-        <span class="wm-mark" aria-hidden="true"></span><span class="wm-text">Radar</span>
-      </button>
-      <p class="stage-hint" aria-hidden="true">Faites défiler<svg viewBox="0 0 16 16"><path d="m4 6 4 4 4-4"/></svg></p>
-    </div>
-  </section>
+  <!-- Ouverture : grand logo sur radar ; un toucher n'importe où plonge dans les courbes de niveau. -->
+  <div id="intro" class="intro" role="button" tabindex="0" aria-label="Entrer sur le site">
+    <div class="intro-bg"></div>
+    <div class="intro-topo"><div class="intro-lines"></div><div class="intro-sweep"></div></div>
+    <div class="wordmark" id="wordmark"><span class="wm-mark" id="wm-dot" aria-hidden="true"></span><span class="wm-text">Radar</span></div>
+    <p class="intro-hint" aria-hidden="true">Touchez pour entrer</p>
+  </div>
 
   <main class="wrap">
     <section class="hero">
