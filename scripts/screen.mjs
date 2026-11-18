@@ -114,7 +114,7 @@ async function collectFeed({ name, url, focus, weight }) {
 }
 
 async function collectGoogleNews(entry) {
-  const { query, label, weight } = typeof entry === 'string' ? { query: entry } : entry;
+  const { query, label, weight, focus = true } = typeof entry === 'string' ? { query: entry } : entry;
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query + ' when:2d')}&hl=fr&gl=FR&ceid=FR:fr`;
   const name = label || `Google News · ${query}`;
   try {
@@ -123,7 +123,7 @@ async function collectGoogleNews(entry) {
       // Les titres Google News se terminent par « - Nom du média ».
       const media = it.source || it.title.split(' - ').pop();
       const title = it.title.endsWith(` - ${media}`) ? it.title.slice(0, -(media.length + 3)) : it.title;
-      raw.push({ ...it, title, summary: '', source: media, via: 'Google News', focus: true, sourceWeight: weight ?? 1 });
+      raw.push({ ...it, title, summary: '', source: media, via: 'Google News', focus, sourceWeight: weight ?? 1 });
     }
     report.push({ source: name, ok: true, items: items.length });
   } catch (e) {
