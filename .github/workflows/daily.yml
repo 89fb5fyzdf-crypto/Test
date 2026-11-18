@@ -1,8 +1,12 @@
 name: Screening quotidien
 
 on:
+  # 9 h 30, 13 h 30, 18 h 30 et 21 h 30, heure de Paris.
+  # GitHub compte en UTC : une ligne pour l'heure d'hiver (UTC+1), une pour l'heure d'été (UTC+2) ;
+  # l'étape « Vérifier l'horaire » ne garde que celle qui correspond à l'heure de Paris du jour.
   schedule:
-    - cron: "17 5 * * *"   # tous les jours vers 6h-7h (heure de Paris)
+    - cron: "30 8,12,17,20 * * *"   # heure d'hiver
+    - cron: "30 7,11,16,19 * * *"   # heure d'été
   workflow_dispatch:        # bouton « Run workflow » dans l'onglet Actions
   push:
     branches: [main]
@@ -21,24 +25,42 @@ jobs:
   screen:
     runs-on: ubuntu-latest
     steps:
+      - name: Vérifier l'horaire
+        id: when
+        run: |
+          offset=$(TZ=Europe/Paris date +%z)
+          run=yes
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "$offset" = "+0100" ] && [ "${{ github.event.schedule }}" != "30 8,12,17,20 * * *" ]; then run=no; fi
+            if [ "$offset" = "+0200" ] && [ "${{ github.event.schedule }}" != "30 7,11,16,19 * * *" ]; then run=no; fi
+          fi
+          echo "Heure de Paris : $(TZ=Europe/Paris date '+%H:%M') (UTC$offset) → collecte : $run"
+          echo "run=$run" >> "$GITHUB_OUTPUT"
       - uses: actions/checkout@v4
+        if: steps.when.outputs.run == 'yes'
       - uses: actions/setup-node@v4
+        if: steps.when.outputs.run == 'yes'
         with:
           node-version: 22
       - name: Collecter et scorer
+        if: steps.when.outputs.run == 'yes'
         run: node scripts/screen.mjs
       - name: Enregistrer les données
+        if: steps.when.outputs.run == 'yes'
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
           git add docs/data
-          git diff --cached --quiet || git commit -m "Veille du $(TZ=Europe/Paris date +%F)"
+          git diff --cached --quiet || git commit -m "Veille du $(TZ=Europe/Paris date '+%F à %H:%M')"
           git push
       - uses: actions/configure-pages@v5
+        if: steps.when.outputs.run == 'yes'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.when.outputs.run == 'yes'
         with:
           path: docs
       - id: deploy
+        if: steps.when.outputs.run == 'yes'
         uses: actions/deploy-pages@v4
     environment:
       name: github-pages

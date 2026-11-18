@@ -1,12 +1,12 @@
 # Radar French Tech
 
-Site de veille qui sélectionne chaque matin les articles clés sur la French Tech.
+Site de veille qui sélectionne plusieurs fois par jour les articles clés sur la French Tech. Thème sombre par défaut, mode clair via le bouton en bas de page.
 
 Site en ligne : https://89fb5fyzdf-crypto.github.io/Test/
 
 ## Fonctionnement
 
-1. Chaque jour vers 6 h-7 h (heure de Paris), le workflow GitHub Actions `Screening quotidien` lance `scripts/screen.mjs`.
+1. Quatre fois par jour (9 h 30, 13 h 30, 18 h 30 et 21 h 30, heure de Paris), le workflow GitHub Actions `Screening quotidien` lance `scripts/screen.mjs`.
 2. Le script récupère :
    - les flux RSS des médias startups et tech (Maddyness, FrenchWeb, JDN, Sifted, TechCrunch, Siècle Digital, BFM Tech) ;
    - des recherches Google News : thèmes (« French Tech », levées de fonds, licornes, Station F, Bpifrance, Mistral AI) et médias dont le flux bloque les robots (Les Echos, L'Usine Digitale, EU-Startups, suivis via `site:`).

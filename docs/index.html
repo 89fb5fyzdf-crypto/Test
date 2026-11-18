@@ -5,8 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Radar French Tech</title>
   <meta name="description" content="Revue quotidienne des articles clés de la French Tech.">
-  <meta name="theme-color" content="#f2f3f7" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#000000" id="theme-color">
+  <meta name="color-scheme" content="dark light">
+  <script>
+    // Thème choisi par le visiteur (sombre par défaut), appliqué avant l'affichage.
+    try { if (localStorage.getItem('theme') === 'light') { document.documentElement.dataset.theme = 'light'; document.getElementById('theme-color').content = '#f2f3f7'; } } catch (e) {}
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
@@ -51,7 +55,7 @@
     <section class="about pane">
       <details>
         <summary>Comment c'est trié</summary>
-        <p>Chaque matin, les articles des dernières 36 heures sont collectés. Les articles qui parlent du même sujet sont regroupés, puis classés selon leur thème (levée de fonds, rachat, licorne…), la fiabilité des médias, le nombre de médias qui en parlent et leur fraîcheur.</p>
+        <p>Quatre fois par jour, les articles des dernières 36 heures sont collectés. Les articles qui parlent du même sujet sont regroupés, puis classés selon leur thème (levée de fonds, rachat, licorne…), la fiabilité des médias, le nombre de médias qui en parlent et leur fraîcheur.</p>
       </details>
       <details>
         <summary>Sources du jour <span id="src-count"></span></summary>
@@ -61,7 +65,8 @@
   </main>
 
   <footer class="wrap foot">
-    <span>Mis à jour chaque matin.</span> <span id="updated"></span>
+    <p><span>Mis à jour 4 fois par jour : 9 h 30, 13 h 30, 18 h 30 et 21 h 30.</span> <span id="updated"></span></p>
+    <button id="theme" class="theme-btn glass" type="button"></button>
   </footer>
 
   <dialog id="sheet" class="sheet glass" aria-labelledby="sheet-title">

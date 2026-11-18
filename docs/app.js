@@ -188,10 +188,32 @@ function openSheet(i) {
   $('#close').focus();
 }
 
+// Bouton clair / sombre (sombre par défaut). Le choix est mémorisé dans ce navigateur.
+const ICON_SUN = '<svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="3"/><path d="M8 1.5v1.5M8 13v1.5M1.5 8H3M13 8h1.5M3.4 3.4l1 1M11.6 11.6l1 1M3.4 12.6l1-1M11.6 4.4l1-1"/></svg>';
+const ICON_MOON = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M13.5 9.5A5.5 5.5 0 0 1 6.5 2.5a5.5 5.5 0 1 0 7 7Z"/></svg>';
+function setupTheme() {
+  const btn = $('#theme');
+  const paint = () => {
+    const light = document.documentElement.dataset.theme === 'light';
+    btn.innerHTML = light ? `${ICON_MOON}Mode sombre` : `${ICON_SUN}Mode clair`;
+    btn.setAttribute('aria-label', light ? 'Passer en mode sombre' : 'Passer en mode clair');
+    document.getElementById('theme-color').content = light ? '#f2f3f7' : '#000000';
+  };
+  btn.onclick = () => {
+    const light = document.documentElement.dataset.theme !== 'light';
+    if (light) document.documentElement.dataset.theme = 'light';
+    else delete document.documentElement.dataset.theme;
+    try { localStorage.setItem('theme', light ? 'light' : 'dark'); } catch {}
+    paint();
+  };
+  paint();
+}
+
 function renderEmpty() {
   $('#eyebrow').textContent = 'Bientôt';
   $('#summary').textContent = "La première collecte aura lieu demain matin, ou lancez le workflow « Screening quotidien » depuis l'onglet Actions de GitHub.";
   ['#prev', '#next', '#day'].forEach((s) => ($(s).disabled = true));
 }
 
+setupTheme();
 init();
