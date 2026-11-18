@@ -1,7 +1,7 @@
 const $ = (s) => document.querySelector(s);
-const state = { days: [], day: null, tab: 'all', cats: new Set(), q: '' };
+const state = { days: [], day: null, cats: new Set(), q: '' };
 
-const fmtDay = (d) => new Date(`${d}T12:00:00`).toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+const fmtDay = (d) => new Date(`${d}T12:00:00`).toLocaleDateString('fr-FR', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' });
 const fmtTime = (iso) => new Date(iso).toLocaleString('fr-FR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
 const esc = (s = '') => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 const safeUrl = (u = '') => (/^https?:\/\//i.test(u) ? u : '#');
@@ -17,7 +17,7 @@ async function init() {
     state.days = (await getJSON('data/index.json')).days;
   } catch { state.days = []; }
   const sel = $('#day');
-  sel.innerHTML = state.days.map((d) => `<option value="${d.date}">${fmtDay(d.date)} · ${d.articles + d.linkedin}</option>`).join('');
+  sel.innerHTML = state.days.map((d) => `<option value="${d.date}">${fmtDay(d.date)} · ${d.articles} sujets</option>`).join('');
   if (!state.days.length) return renderEmpty();
   const fromHash = location.hash.slice(1);
   await loadDay(state.days.some((d) => d.date === fromHash) ? fromHash : state.days[0].date);
@@ -26,11 +26,6 @@ async function init() {
   $('#prev').onclick = () => step(1);
   $('#next').onclick = () => step(-1);
   $('#q').oninput = (e) => { state.q = e.target.value.trim().toLowerCase(); render(); };
-  document.querySelectorAll('[data-tab]').forEach((b) => (b.onclick = () => {
-    state.tab = b.dataset.tab;
-    document.querySelectorAll('[data-tab]').forEach((x) => x.setAttribute('aria-selected', x === b));
-    render();
-  }));
 }
 
 function step(delta) {
@@ -52,13 +47,15 @@ async function loadDay(date) {
 
 function renderStatic() {
   const d = state.day;
+  d.items = d.items.filter((i) => i.kind !== 'linkedin'); // anciennes données
+  const media = new Set(d.items.flatMap((i) => i.sources)).size;
   const multi = d.items.filter((i) => i.sources.length > 1).length;
   const funding = d.items.filter((i) => i.categories.includes('Levées de fonds')).length;
   $('#stats').innerHTML = [
-    [d.counts.articles, 'articles retenus'],
-    [d.counts.linkedin, 'posts LinkedIn'],
+    [d.items.length, 'sujets du jour'],
     [funding, 'levées de fonds'],
-    [multi, 'sujets multi-médias'],
+    [multi, 'sujets repris par plusieurs médias'],
+    [media, 'médias cités'],
   ].map(([n, l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join('');
 
   const counts = {};
@@ -72,28 +69,23 @@ function renderStatic() {
     render();
   }));
 
-  $('#watchlist').innerHTML = (d.watchlist || []).map((w) => `<li><a href="${esc(safeUrl(w.url))}" target="_blank" rel="noopener">${esc(w.name)} ↗</a></li>`).join('');
-  $('#li-note').textContent = d.linkedinSearch
-    ? 'Les posts LinkedIn publics sont repérés automatiquement chaque jour, en plus de ceux ajoutés à la main.'
-    : 'Recherche LinkedIn automatique désactivée : ajoutez le secret BRAVE_API_KEY, ou ajoutez des posts dans config/linkedin.json.';
   $('#sources').innerHTML = d.sources.map((s) => `<li><span title="${esc(s.source)}">${esc(s.source)}</span>${s.ok ? `<span>${s.items}</span>` : `<span class="ko" title="${esc(s.error)}">erreur</span>`}</li>`).join('');
   $('#updated').textContent = `dernière collecte le ${fmtTime(d.generatedAt)}`;
 }
 
 function filtered() {
   return state.day.items.filter((i) =>
-    (state.tab === 'all' || i.kind === state.tab) &&
     (!state.cats.size || i.categories.some((c) => state.cats.has(c))) &&
-    (!state.q || `${i.title} ${i.summary} ${i.sources.join(' ')} ${i.author || ''}`.toLowerCase().includes(state.q))
+    (!state.q || `${i.title} ${i.summary} ${i.sources.join(' ')} ${(i.related || []).map((r) => r.title).join(' ')}`.toLowerCase().includes(state.q))
   );
 }
 
 function card(i, withImage) {
-  const li = i.kind === 'linkedin';
+  const related = i.related || [];
   return `<article class="card">
     ${withImage && i.image ? `<img src="${esc(safeUrl(i.image))}" alt="" loading="lazy" onerror="this.remove()">` : ''}
     <div class="meta">
-      ${li ? `<span class="badge li">LinkedIn</span>${i.author ? `<span class="src">${esc(i.author)}</span>` : ''}` : `<span class="src">${esc(i.sources[0])}</span>`}
+      <span class="src">${esc(i.sources[0])}</span>
       ${i.sources.length > 1 ? `<span class="badge multi" title="${esc(i.sources.join(', '))}">${i.sources.length} médias</span>` : ''}
       <span>${fmtTime(i.date)}</span>
       <span class="score" title="Score de pertinence">★ ${i.score}</span>
@@ -101,6 +93,8 @@ function card(i, withImage) {
     <h3><a href="${esc(safeUrl(i.url))}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
     ${i.summary ? `<p>${esc(i.summary)}</p>` : ''}
     ${i.categories.length ? `<div class="meta">${i.categories.map((c) => `<span class="badge">${esc(c)}</span>`).join('')}</div>` : ''}
+    ${related.length ? `<details class="related"><summary>Aussi chez ${esc(related.map((r) => r.source).join(', '))}</summary><ul>${related
+      .map((r) => `<li><a href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener"><b>${esc(r.source)}</b> · ${esc(r.title)}</a></li>`).join('')}</ul></details>` : ''}
   </article>`;
 }
 

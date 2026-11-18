@@ -1,18 +1,18 @@
 {
-  "_doc": "focus=true : média 100% startups/tech FR, tous les articles sont gardés. focus=false : média généraliste, seuls les articles qui parlent de l'écosystème français sont gardés. weight : bonus de score lié à la source.",
+  "_doc": "focus=true : média 100% startups/tech FR, tous les articles sont gardés. focus=false : média généraliste, seuls les articles qui parlent de l'écosystème français sont gardés. weight : bonus de score lié à la source. googleNews : recherches Google News des 2 derniers jours ; 'site:' permet de suivre un média dont le flux RSS bloque les robots.",
   "feeds": [
     { "name": "Maddyness", "url": "https://www.maddyness.com/feed/", "focus": true, "weight": 3 },
     { "name": "FrenchWeb", "url": "https://www.frenchweb.fr/feed", "focus": true, "weight": 3 },
-    { "name": "Les Echos Start", "url": "https://www.lesechos.fr/rss/rss_start-up.xml", "focus": true, "weight": 3 },
-    { "name": "L'Usine Digitale", "url": "https://www.usine-digitale.fr/rss", "focus": false, "weight": 2 },
     { "name": "Journal du Net", "url": "https://www.journaldunet.com/rss/", "focus": false, "weight": 2 },
-    { "name": "Siècle Digital", "url": "https://siecledigital.fr/feed/", "focus": false, "weight": 1 },
-    { "name": "BFM Tech", "url": "https://www.bfmtv.com/rss/tech/", "focus": false, "weight": 1 },
     { "name": "Sifted", "url": "https://sifted.eu/feed", "focus": false, "weight": 2 },
-    { "name": "EU-Startups (France)", "url": "https://www.eu-startups.com/category/france/feed/", "focus": true, "weight": 2 },
-    { "name": "TechCrunch (France)", "url": "https://techcrunch.com/tag/france/feed/", "focus": true, "weight": 2 }
+    { "name": "TechCrunch (France)", "url": "https://techcrunch.com/tag/france/feed/", "focus": true, "weight": 2 },
+    { "name": "Siècle Digital", "url": "https://siecledigital.fr/feed/", "focus": false, "weight": 1 },
+    { "name": "BFM Tech", "url": "https://www.bfmtv.com/rss/tech/", "focus": false, "weight": 1 }
   ],
   "googleNews": [
+    { "query": "site:lesechos.fr start-up OR startup OR \"French Tech\"", "label": "Les Echos (start-up)", "weight": 3 },
+    { "query": "site:usine-digitale.fr startup OR \"French Tech\" OR levée", "label": "L'Usine Digitale", "weight": 2 },
+    { "query": "site:eu-startups.com France OR French OR Paris", "label": "EU-Startups (France)", "weight": 2 },
     "\"French Tech\"",
     "startup française levée de fonds",
     "licorne française",

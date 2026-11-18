@@ -26,8 +26,6 @@ jobs:
         with:
           node-version: 22
       - name: Collecter et scorer
-        env:
-          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
         run: node scripts/screen.mjs
       - name: Enregistrer les données
         run: |

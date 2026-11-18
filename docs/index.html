@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Radar French Tech</title>
-  <meta name="description" content="Revue quotidienne des articles et posts LinkedIn clés de la French Tech.">
+  <meta name="description" content="Revue quotidienne des articles clés de la French Tech.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -18,7 +18,7 @@
         <span class="logo" aria-hidden="true"></span>
         <div>
           <h1>Radar French Tech</h1>
-          <p class="tagline">Les articles et posts LinkedIn qui comptent, chaque matin.</p>
+          <p class="tagline">L'actualité des startups françaises qui compte, chaque matin.</p>
         </div>
       </div>
       <nav class="daynav" aria-label="Choisir le jour">
@@ -33,14 +33,9 @@
     <section id="stats" class="stats" aria-live="polite"></section>
 
     <div class="toolbar">
-      <div class="tabs" role="tablist">
-        <button role="tab" data-tab="all" aria-selected="true">Tout</button>
-        <button role="tab" data-tab="article" aria-selected="false">Articles</button>
-        <button role="tab" data-tab="linkedin" aria-selected="false">LinkedIn</button>
-      </div>
-      <input id="q" type="search" placeholder="Rechercher (startup, investisseur, mot-clé…)" aria-label="Rechercher">
+      <div id="chips" class="chips" aria-label="Filtrer par thème"></div>
+      <input id="q" type="search" placeholder="Rechercher une startup, un investisseur…" aria-label="Rechercher">
     </div>
-    <div id="chips" class="chips" aria-label="Filtrer par thème"></div>
 
     <div class="layout">
       <div>
@@ -49,9 +44,8 @@
       </div>
       <aside class="side">
         <div class="panel">
-          <h2>Comptes LinkedIn à suivre</h2>
-          <ul id="watchlist" class="watch"></ul>
-          <p id="li-note" class="note"></p>
+          <h2>Comment c'est trié</h2>
+          <p class="note">Chaque matin, les articles des dernières 36 heures sont collectés. Les articles qui parlent du même sujet sont regroupés, puis classés par score ★ : thème (levée de fonds, rachat, licorne…), fiabilité du média, nombre de médias qui en parlent et fraîcheur.</p>
         </div>
         <div class="panel">
           <h2>Sources du jour</h2>
