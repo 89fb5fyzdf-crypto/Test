@@ -1,10 +1,10 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T03:43:42.919Z",
+ "generatedAt": "2026-11-18T03:45:29.079Z",
  "windowHours": 36,
  "counts": {
-  "articles": 124,
-  "raw": 173,
+  "articles": 57,
+  "raw": 92,
   "media": 39
  },
  "sources": [
@@ -156,28 +156,17 @@
    "sources": [
     "FrenchWeb",
     "Maddyness",
-    "Les Echos",
-    "L'Usine Digitale",
     "lefilia.fr",
     "WanSquare",
     "Boursorama",
-    "Zonebourse"
+    "Zonebourse",
+    "Les Echos"
    ],
    "related": [
     {
      "source": "Maddyness",
      "title": "Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom",
      "url": "https://www.maddyness.com/2026/11/17/robotique-genesis-ai-boucle-une-serie-a-dun-demi-milliard-de-dollars-aupres-de-nvidia-samsung-et-zoom/"
-    },
-    {
-     "source": "Les Echos",
-     "title": "Genesis AI boucle une levée de plus de 450 M€",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJ3c3RJV2Z3Y0JsdWVfT3pLeU9tQWZlSFc2V3ZQR2hmYzZlZFVYYmo3bGlzYkFCQ0RILXhQSHFHeS1NQzA1S1FKMGJaMTBQZUZNVnoybmE2LWY4alU5TW1YQS1peVNEd2FjOEtYYk9nWUh2VFBlRGNJTHJ1MlBCY0pxNGxXZ1dZRmhoUUF6WjdQRkc0endOU2hyaGZIMzlXaEppRi1UOWpQWHNLYTM5VA?oc=5"
-    },
-    {
-     "source": "L'Usine Digitale",
-     "title": "La start-up tricolore Genesis AI lève 500 millions de dollars pour accélérer dans la robotique humanoïde",
-     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNHFQSWhOUGl5WThFSWV3X0JfdW9mbEJxdGptcXIwMkJmV3pBVFZqZ01sN3dQMWtCMzlFNHlVZU9tTHRwTWhEVmtibU9xUWFBUjlGQ1J1aEJDRnZIeTlfMmhrcDdib3EtazJTSkROTEROamJEYnhERUtZMjdTVEZvdnF4QS1yT1dXcUs4aklVaTVJOXVEQW5YX2VBZzNCNTJiSVFiTENNVUt3c0x0b1FwVXU2V0NZVk9vZzlFakRSNVFRSjVSVVk3dzAwbzlycm5OdWNmWkl0SnNwclVkdmZQRXJpcmVzbFpWTmhSN1FvbTZOX2l1Qmp3d0JocnNodkExMHdqUy1OWFJyanNlVXBFZmdRQXVSY1lYUzZsS2g4Y29FOW1XUXRmd0xldmt3WXc?oc=5"
     },
     {
      "source": "lefilia.fr",
@@ -193,6 +182,16 @@
      "source": "Boursorama",
      "title": "Le fabricant français de robots Genesis lève 500 millions de dollars, avec une valorisation de 3,5 milliards d",
      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPbFZpbkVmb0NnVmRnaDZSQzNKMkxfdGZ5bjZOZUFzMUVkdDd4eU5abjNlRHVMemQwaWstMWx2LS1JenRWSmZZdjNMZ0Fmdm1Qd0NTYlloQkU3NU83dGVid25tcUgxUndab3VhMENRZTRic3I0bHJLMTJkNHdXVm5CcmRXUnZuVXJETXlfVndFMTZUVXlaLTV0cEZvMjJoeTl3NFpLWVVMcGk3ZWpXWktpUU9GWkl0TXpfMHp5WW1iNHdxYTFGd0lUSlFvZ3ZlWEI0c20tNVNmQmNnYWtJamRSR0xMV2xCaHZGdElPM1VuMUxQV20tblpPQnpxVF9BLWltWVI2M2dIbWJEbk1hZGVHNnM3ZTVhMkxIQ1ZZYkFaSDRDV01vMW440gGnAkFVX3lxTE9sVmluRWZvQ2dWZGdoNlJDM0oyTF90ZnluNk5lQXMxRWR0N3h5TlpuM2VEdUx6ZDBpay0xbHYtLUl6dFZKZll2M0xnQWZ2bVB3Q1NiWWhCRTc1Tzd0ZWJ3bm1xSDFSd1pvdWEwQ1FlNGJzcjRscksxMmQ0d1dWbkJyZFdSdm5VckRNeV9Wd0UxNlRVeVotNXRwRm8yMmh5OXc0WktZVUxwaTdlaldaS2lRT0ZaSXRNel8wenlZbWI0d3FhMUZ3SVRKUW9ndmVYQjRzbS01U2ZCY2dha0lqZFJHTExXbEJodkZ0SU8zVW4xTFBXbS1uWk9CenFUX0EtaW1ZUjYzZ0htYkRuTWFkZUc2czdlNWEyTEhDVlliQVpINENXTW8xbjg?oc=5"
+    },
+    {
+     "source": "Zonebourse",
+     "title": "Genesis AI lève plus de 450 millions d'euros",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZl9xV3EzY1N3ZExNakZ5UlNNTkRCQ3ZpdWRUcXlYblBCc3FzcmhROFBFajlWNVBDdldhTjl6X25NRkhiOVRGWFZjc2lMUjlVbFNEaFRwZHhGdHNrZHFuLUxuakw5MDg2UllPRzIxaXBITEtnTDB6ZGhPTmVSV29tUXVhZm5EVF9PUkxfZEUwRW01LVFsYVRNZ3l0aVdUVGJ5OXl1dlFoUzI?oc=5"
+    },
+    {
+     "source": "Les Echos",
+     "title": "Genesis AI boucle une levée de plus de 450 M€",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJ3c3RJV2Z3Y0JsdWVfT3pLeU9tQWZlSFc2V3ZQR2hmYzZlZFVYYmo3bGlzYkFCQ0RILXhQSHFHeS1NQzA1S1FKMGJaMTBQZUZNVnoybmE2LWY4alU5TW1YQS1peVNEd2FjOEtYYk9nWUh2VFBlRGNJTHJ1MlBCY0pxNGxXZ1dZRmhoUUF6WjdQRkc0endOU2hyaGZIMzlXaEppRi1UOWpQWHNLYTM5VA?oc=5"
     }
    ],
    "date": "2026-11-17T13:59:01.000Z",
@@ -312,34 +311,6 @@
    "score": 12.1
   },
   {
-   "id": "organe-decentralise-de-l-union-europeenne-l-ocvv-s-enracine-a-angers",
-   "title": "Organe décentralisé de l'Union européenne, l'OCVV s'enracine à Angers",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDRBNEJCYnVydDM5Vmo4ZHhveVFTNERpWDBzWkhYOVNtaUVEaUhvN29LRTQwNklqR1ZiYWkydE1heW9SWF83YVZFbFE3ZEUxQmJPSWFJbGxJZjBaZ1hyZ3Z5aWlLbzVaSm9hb3JRbTliUG5OaDlLZzBMVm8wNmtySFd2MHF1cDZBUWRBNmU5dFVOWG5XdkNwSW01cnRnZmFyQno2UlkyRGtMY2Rjd1phSzg5NlFjdWZUSkVuZDRSZU9tMDBB?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos",
-    "ZDNET",
-    "RTBF"
-   ],
-   "related": [
-    {
-     "source": "ZDNET",
-     "title": "Mistral et Macron exigent des milliards pour sauver l'IA européenne",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWFrR0dwNUh2Z0lIa2ZIY2RVbExGMzMycmJlbVVLNDN6UHVSVFZLWHVEWHZHaGRkRGEzNWF2dlNaZmo5VlY2ZldIdGc2RWZPdWpGTFU2Z2RuaU15Ql9MYnM3Z3JHbUJ6YnBOVkxNWFVHRDMtaDFQS2dHTHBUcTA5MEtvbGdhLVp4RV9VZG9lWWpiR1N6anQwWUdHUkoxWUxHY1BtY2FiWkpOcXRJYnJRWHNYRHdVWFdwRnhVcFVEdklvQlNO?oc=5"
-    },
-    {
-     "source": "RTBF",
-     "title": "Mistral, l’Union européenne et l’IA : comprendre la complémentarité derrière nos choix technologiques",
-     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPaWZCYjluM2hKeUtVT2xGQVVXRWNQQUJOOXhBOTZLb1NRVVFfTGRXRU9hcjE3VTcxNEpSQ2Q2VFlPN1VDUWFldjlrOHk5OXdhRDNoRzI4R0FXT1VnZzB4bkxycFdvY29hX0pFQWRIa0pxVld5Z2hnbTdMLWVPQXUwS2dOWUpZeUJKNXNaSjJMVkJQYUZ1N1BVN0gyZFA2NldYM3lqWUVIaV9JbDZDR2h2UFhvbDI2TnhucHIyUmViRU00OGxxakU3MzJFYzRvZVNCNG0xbXpKaklWZGhsNTBJX2oxc0NHM2Q3enBPMlFyV3pGUk5MNnpyVzVqeXpGRG1KOFY4N29RZzNMOWc5Y3ZGUWFfSHNzamJXSEU4ekRCalprTnVfNGhpb3BsdERJeUxBWjJDdS1jTFp2WmVhVWg5Vmtn?oc=5"
-    }
-   ],
-   "date": "2026-11-17T02:34:46.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 11.5
-  },
-  {
    "id": "ia-et-droit-d-auteur-la-france-organise-volontairement-son-propre-sabotage-denon",
    "title": "IA et droit d'auteur : « La France organise volontairement son propre sabotage », dénoncent une trentaine de patrons de la French Tech",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRVRmWmVLWVFoNmd5VFBjTGYwc2MzWDNrN2pqYm9rcm45MU5oc19pYjlqaFVQNlBFMkNTYTNfSUFTZU5OLUplLWNXaTdCT1ZHOEdyOFQ3WHNDQmdFVHM1TjJMR2NNcU5SaXJCNEFCRGNHSXk3QXJCQTQwY3pkNFVMUUdPekN0azFVSWJ1V3QwYThsX2tzdHZmckhiOHB6akE3bVRjdkljQzFIRi1MdHI5Ny1GV2xuRFZHdUt2c1JZcTJQOWVuRkJTN2xOOWZ4VXdnRnJua2hkcENwQ18tSkNnVHdYVk5sdXhYSTFhN2Nxd1Nra1BpT3VzVTZYTTByVmxsVzRsSzkxRFFZUQ?oc=5",
@@ -354,44 +325,6 @@
     "Politique & écosystème"
    ],
    "score": 9.3
-  },
-  {
-   "id": "tout-le-monde-se-moquait-de-nous-et-maintenant-tout-le-monde-fait-notre-eloge-le",
-   "title": "« Tout le monde se moquait de nous et maintenant tout le monde fait notre éloge » : le triomphe du hedge fund qui avait lancé l'alerte sur Nvidia et Jensen Huang",
-   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOZVVvUklyNTZMcjhBd082cXhwWERBOXBwNXFrNUlZY3dFcExDdFlncmpFLVFadjFMampoWmd2Tlp2SkxSRUZYX0tXcWU5NTB0aWpQeWRWMGdFeVJqYWdLY29JX0lmZ0owWTZ5bi0xT0tRY1hpSWNnejZWZVYxOGF6b2RCOWpOOHVQUEgzN24yNmRYNk90eS1OWG84OUxhOG1iZERfT1kyU0JxaUdacnNtM2lrVFE2bURHRUZ2OGVHTTQ1dzcxQW4ta3BHd2NsVGZfblhBS3I3VDhLWnhOaGZJQnZxbXZ6WUNERXVPQVNVWC1SM1p5ZDlpbWh6aW1jbkFfbXZ0V2lCLTZiQjRKNHJRVF9HNzRhX3k3TloycDktNzBoaVBfd3VWb2dqcTV4azE4LVFDU0twUUJBLTg5TFN6Mmlodw?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos",
-    "L'Usine Digitale"
-   ],
-   "related": [
-    {
-     "source": "L'Usine Digitale",
-     "title": "[IA Insider] La chute de Jensen Huang remet en cause le futur de Nvidia",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTHY2dmFaa3BYdXB6bG0wWi0yaHh2YTFzT2lFaldTcEtQVW92ME9xS1pha0h4RlNnVnJJS2JZbk1qeHYxUE9KRjVmYnpYai0ycW1kSEFraHUybTFXTFloY2I3bG1DdjJQVVJDX3hCd2dZVzBnMUZTc3Ftamc5ZDBvNUU4Y0tDOFBNa2kxWE1vUlZ5TUFIbWI0QUpPdGx4MGc3aTl0N1RkcC1tQnNxbnlKTWZJZHdWSS1jNWlHcTZaZzV1clR6TV9GNXBxdU9UeWRkRl8tQW1rUUFzdXliajBzOWRtSFdsQ2NHelVNdmkycGpjeGZpSndpTkUtUjdkQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T16:04:51.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 9
-  },
-  {
-   "id": "l-opportunite-est-immense-comment-genesis-ai-est-devenue-la-nouvelle-licorne-de-",
-   "title": "« L'opportunité est immense » : comment Genesis AI est devenue la nouvelle licorne de la robotique humanoïde",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjVIY2QwcjZ2ekFlZDZXNXl0MHBvMlYxU0JONnVCQVAyWjJ0dG1mUXB4NTk2ck02WjhkSlM2M19WVjdtWm0xSU5memRrQ29OOXJGUFNMcmlUV1AzUzFOclMwelExVHVNY2FNaFcyUk5mQTMxTGhQbVhYMDVQcy1TeGtwNzNNaFVOYTVGN3dyanNCSnRpZVg1QS0xRmZsNHA5cEFxMVBsSXdLM2FMR283UnA1NmpjWlQ2dnFHQVlVdGgzQWlXcGNkQmtHWXN3dE5FSko1UGQ2U0JHTnFGSWlr?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T14:51:57.000Z",
-   "categories": [
-    "Licornes & scale-ups",
-    "IA"
-   ],
-   "score": 8.9
   },
   {
    "id": "dette-la-commission-europeenne-s-attend-a-une-nouvelle-degradation-des-finances-",
@@ -467,62 +400,40 @@
    "score": 7.2
   },
   {
-   "id": "fusion-nucleaire-un-kitty-hawk-moment-maitriser-cette-technologie-n-est-plus-une",
-   "title": "Fusion nucléaire, un « Kitty Hawk moment » ? « Maîtriser cette technologie n'est plus une vague promesse scientifique »",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWnpFVHNwaVN2cDVwN21qX2JqWHZOOE9kU2ZxTUkzOUNkZHJiV0dSZVJTZE81VFJCTWp5TFItazBKOG9FNlpKOVR3cXFKaXNuMTJmRUljMVRmb29JYmlPc2RIYnRPZ1Q3ZnJ6c3RKOGszMDFSajBBaHZ3SE5QWE1fdktiTm5MT29hTFBTUHJnbHRpaFhQTFA0QklpM2NmZHBZLUw4NTZlcFN4YkJXYVlGb2dwWUt4SlFfODVPd3BsYmVJMndYQkJ5UHpIcElLMWxVckNlMllSai1Qc2plWTI0TXV5NkJYbjNJNVRuWW56VzA?oc=5",
+   "id": "l-opportunite-est-immense-comment-genesis-ai-est-devenue-la-nouvelle-licorne-de-",
+   "title": "« L'opportunité est immense » : comment Genesis AI est devenue la nouvelle licorne de la robotique humanoïde",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjVIY2QwcjZ2ekFlZDZXNXl0MHBvMlYxU0JONnVCQVAyWjJ0dG1mUXB4NTk2ck02WjhkSlM2M19WVjdtWm0xSU5memRrQ29OOXJGUFNMcmlUV1AzUzFOclMwelExVHVNY2FNaFcyUk5mQTMxTGhQbVhYMDVQcy1TeGtwNzNNaFVOYTVGN3dyanNCSnRpZVg1QS0xRmZsNHA5cEFxMVBsSXdLM2FMR283UnA1NmpjWlQ2dnFHQVlVdGgzQWlXcGNkQmtHWXN3dE5FSko1UGQ2U0JHTnFGSWlr?oc=5",
    "summary": "",
    "sources": [
     "Les Echos"
    ],
    "related": [],
-   "date": "2026-11-17T06:30:08.000Z",
+   "date": "2026-11-17T14:51:57.000Z",
    "categories": [
-    "Rachats & IPO"
+    "Licornes & scale-ups",
+    "IA"
    ],
-   "score": 7.2
+   "score": 6.9
   },
   {
-   "id": "au-royaume-uni-le-debat-sur-le-brexit-remis-sur-les-rails",
-   "title": "Au Royaume-Uni, le débat sur le Brexit remis sur les rails",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRGlFcWlPWmgyejJoSFJidGxDV2t0SGRnN2NfN0NlaU15YjdYbGIwNTFjWXRVdUxJVTZXVEs1NDExX29HX00ySmJvbnF4ODZMWEgzamdJMkYxTWVJOEZsVEVxZElTeGZqTFJqLTJ2QjFqd3JlMWQxSVk2NV9YZkkydkNWd05xckI2eERhYnFBbXJENFlYelZWaEkzVjJYM2VXZElwMg?oc=5",
+   "id": "mistral-et-macron-exigent-des-milliards-pour-sauver-l-ia-europeenne",
+   "title": "Mistral et Macron exigent des milliards pour sauver l'IA européenne",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWFrR0dwNUh2Z0lIa2ZIY2RVbExGMzMycmJlbVVLNDN6UHVSVFZLWHVEWHZHaGRkRGEzNWF2dlNaZmo5VlY2ZldIdGc2RWZPdWpGTFU2Z2RuaU15Ql9MYnM3Z3JHbUJ6YnBOVkxNWFVHRDMtaDFQS2dHTHBUcTA5MEtvbGdhLVp4RV9VZG9lWWpiR1N6anQwWUdHUkoxWUxHY1BtY2FiWkpOcXRJYnJRWHNYRHdVWFdwRnhVcFVEdklvQlNO?oc=5",
    "summary": "",
    "sources": [
-    "Les Echos"
+    "ZDNET",
+    "RTBF"
    ],
-   "related": [],
-   "date": "2026-11-16T22:04:30.000Z",
+   "related": [
+    {
+     "source": "RTBF",
+     "title": "Mistral, l’Union européenne et l’IA : comprendre la complémentarité derrière nos choix technologiques",
+     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPaWZCYjluM2hKeUtVT2xGQVVXRWNQQUJOOXhBOTZLb1NRVVFfTGRXRU9hcjE3VTcxNEpSQ2Q2VFlPN1VDUWFldjlrOHk5OXdhRDNoRzI4R0FXT1VnZzB4bkxycFdvY29hX0pFQWRIa0pxVld5Z2hnbTdMLWVPQXUwS2dOWUpZeUJKNXNaSjJMVkJQYUZ1N1BVN0gyZFA2NldYM3lqWUVIaV9JbDZDR2h2UFhvbDI2TnhucHIyUmViRU00OGxxakU3MzJFYzRvZVNCNG0xbXpKaklWZGhsNTBJX2oxc0NHM2Q3enBPMlFyV3pGUk5MNnpyVzVqeXpGRG1KOFY4N29RZzNMOWc5Y3ZGUWFfSHNzamJXSEU4ekRCalprTnVfNGhpb3BsdERJeUxBWjJDdS1jTFp2WmVhVWg5Vmtn?oc=5"
+    }
+   ],
+   "date": "2026-11-17T02:34:46.000Z",
    "categories": [
-    "Rachats & IPO"
-   ],
-   "score": 7
-  },
-  {
-   "id": "jupiter-la-bombe-humaine-sous-l-elysee",
-   "title": "« Jupiter », la bombe humaine sous l'Elysée",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmdpa1lRM1hoQnVuS241U3dVNEZoMzdtOTNKM2s5cVlzcGlob3A2bWdIbVVGbnB4dlc2bzF5WEZSb1IwWlZIUDQxSnNJcTJHUC1ldjJkOGZnT1cwSkpSaVAtbE9mTjNZUzlfbDFEOHJkNlB2ZUxIV1FTcjZZWWRFUU5SeFMzVDBjR3A0NkdnVDZaUm5Xdmc?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T16:01:24.000Z",
-   "categories": [
-    "Politique & écosystème"
-   ],
-   "score": 7
-  },
-  {
-   "id": "andy-burnham-un-premier-ministre-sans-mandat-du-charme-des-vues-et-rien-derriere",
-   "title": "Andy Burnham, un Premier ministre sans mandat : « Du charme, des vues, et rien derrière »",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVFaTzc1aVkwMElzd0JyWTUyc21NdTdDM1hPODI1cjRydldJQXVNcXhVM2o2Y1h0c2VvZnJQUFJHa25TOHl0M3EtV3hvd1VSdDNsc00yb0FrSWYzVjJDNkpqbm1TZ01kaHFWdHJ6MHVlUXRCYUtRWHJiY1ZYYXBxSHdmZXFyQ2VKc2tPYllqQVB6dnZ1Ylo2bjhXaW5EUmhDQVdhVFJwTEtHcUhzazl0MXNOdmx1UHdjVVRNeDBKOXJGRTFMUmJmRktYUTk?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T08:30:31.000Z",
-   "categories": [
-    "Politique & écosystème"
+    "IA"
    ],
    "score": 6.4
   },
@@ -561,36 +472,6 @@
     "IA"
    ],
    "score": 6
-  },
-  {
-   "id": "du-conseil-au-paiement-l-ia-s-empare-du-parcours-d-achat",
-   "title": "Du conseil au paiement : l'IA s'empare du parcours d'achat",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOclluRE1mU0ppVGEtQ25wdzUwSVg1ZDBMSmNBWEFtd3h2MW5CczJGTGRoQmc0MVVNN01JSTJLLTJ4blVqWlRKQWhPc2daZnVjVVZqbjZHZTctMVhUTThmSlhwNmdoYVcxdnZJUjEzUUtvV3B0YnNST3dlNnRVSVV1bTI1M0ZUMHBiU3VzVlFFZDczbE1vUlQ5bVZFWU9RREZZLTZZ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T14:40:46.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 5.9
-  },
-  {
-   "id": "on-leur-demande-de-s-engager-sur-un-point-d-interrogation-la-generation-ia-face-",
-   "title": "« On leur demande de s'engager sur un point d'interrogation » : la génération IA face au grand vertige de l'orientation scolaire",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQd0xpZFVBZV94eVYtS1F4elNuZmt2SDdscERGZnBybFp0WTdyaEVCU0NRbG16SHV3V0ZnTkhOMWpnOGt4cl9OTkhtVUZDN3pDUE9iem9ERkE0R3JocHZYQkRfOEV0YWtmSndXS3RfcE9FTHd4d1VZaGZieGNCR2ZxRUNmM3M5ZmJfN1VoMTNRbXlYV25UaEFCWHAwXzM1c2hjWlR5bHBMZHJSSzRZN05yLTk0RkxMRl9sVWhDREExQVJNam1OemRLMFE1SlFsWFFXeUhHQThQVHJ0b28wVVA3bXJnNDhJbHZ4QUI1aXRSUW4wRm1WRFFmWEJzZVhRNEZjbHdGbkZxUzNpbVU?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T10:45:08.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 5.6
   },
   {
    "id": "speeral-leve-2-5-millions-d-euros-pour-automatiser-la-revente-des-stocks-dormant",
@@ -653,21 +534,6 @@
    "score": 5.4
   },
   {
-   "id": "kalgard-systems-des-drones-autonomes-sans-gps-grace-a-l-ia-et-une-electronique-f",
-   "title": "Kalgard Systems : des drones autonomes sans GPS grâce à l'IA et une électronique frugale",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbzRCSmRwZGpraE1aQXhCZ1UyZ0U1NExXeWpERGpLZWNXVFUzQ0I2ZWNSb0pYdHpENDk3OEJlWFFCOXQyNWlBRk9HMno3REZqTXpDOEZXME5LelZrLWpJZWd5RVcxMXZxVzFHcDMxSW1LdldIV2R3MUxGSWE5b24zUnBxd1JPaHBwdG0xS0Q5NGV5a1diRG85a2FzQ25jRnVwaVdtUElxSFd4MktXZnYwb0pWeUwtamVudENHQjhzT3ZsWDVYeUxldjJJYWgtRDF3cHBvOXFRRERZd2dHc0RVS1U5VmZfZw?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T08:50:08.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 5.4
-  },
-  {
    "id": "french-tech-cailabs-specialiste-des-communications-laser-17-11",
    "title": "French Tech : Cailabs, spécialiste des communications laser - 17/11",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSGJ6M0dUb3c4dVNWeVkyQXkxV1JvYUlKZWdmQnpGY0g0LXpMaldXdEZXcFNUSnUyLW16ZjRWbUUxOG1HZXd0U2tmUHE2VlhRVmpRVE9JcjhXZm42M2k0OVQxeUo0RGd2bW5XcGZHVC1IajhwOGVlUzNFcDNjRnJKS1dkZGk1RThpSzlwQWdRR1BtOVJhX2NaLXB2Uk9nTG9Kbk9aRlZxbzdKYzhEVko2Ymh0V01jZWxBSVc0bjZWSGw2OEd3RTliVFBZVDhGZGMzWW4weURSMVBwcUN4R0hvWTl1SQ?oc=5",
@@ -679,36 +545,6 @@
    "date": "2026-11-17T07:37:22.000Z",
    "categories": [
     "Politique & écosystème"
-   ],
-   "score": 5.3
-  },
-  {
-   "id": "nous-pouvons-faire-tourner-des-ia-de-vision-sur-des-puces-a-moins-de-10-dollars-",
-   "title": "« Nous pouvons faire tourner des IA de vision sur des puces à moins de 10 dollars » : MountAIn mise sur l'infrastructure en local",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSlFhMUdaYnZGTFNuMmlOdVlpWFVkSmV0ZW9zNFIxR090QkpaaDEzUFd3VzY2WDFvRmtWTWJURGJ4ZmhrLXM0OWRlY1EtZWhQRlh2ZU9kVnloei1NTk51dVlOajFORWRwMU80ZUlMZ0t5NllDdTAyeWM2eEkzTkZmeWlZb0FWSHVOZWsxdTFLU1RCWUJuWFB5Y1RNT0xwVjl0MFJPek1xYWo5SnFQZG5iNGRnUEJPVjRDLWg5UjhYNThXNmJUbHlRZktfbU8tN3ZCVFNsRVhsT3llZGZHQzFKcVQwN3JmbTRuVEdRQkswWGtDTnlwQWdKRDdlckh4YkRkbnd3aw?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T07:00:30.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 5.3
-  },
-  {
-   "id": "orange-ventures-accentue-son-effort-pour-soutenir-les-start-up-de-l-ia-et-de-la-",
-   "title": "Orange Ventures accentue son effort pour soutenir les start-up de l'IA et de la cyber",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUThhbGd3ZmU4c3RWeXdZSHVqaXE2bHNRMnJOX0pHRDhCZ0tfWjdPeks1UmNzMXpGRklacE9saU5vU01xQXNxOUJpb3dYbE0tcXFFdHJEVG02Wnl4N0NQbmZVOTdTUkdfN19qZGFsTmZiYi1XTjl2Z2VUTDRPNFM2M1ZoMF80RkhaS2Zrdl9kd2NWT1hFa0FIalk3clNlNW50ZUVtQXhEVk5RbWk0R0lYeHFBUWNQQllpdDlidlRZbWhCMEVmUDNBb2JxMDlDaExaQXc?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T07:00:55.000Z",
-   "categories": [
-    "IA"
    ],
    "score": 5.3
   },
@@ -782,36 +618,6 @@
    "score": 5
   },
   {
-   "id": "des-ia-dangereuses-sans-protection-adequate-la-californie-poursuit-openai-en-jus",
-   "title": "« Des IA dangereuses sans protection adéquate » : la Californie poursuit OpenAI en justice pour le piratage d'Hugging Face",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNT2VFcjRPVTdSMENOM0x5R2FBbHFwd09jbnN3NnlqSnNhMU42WFgzSkdDZ3lWTEZ4RW1wVnN5b1p6ZnctMENodnhXQzJ4M0t0Ni14MUZPMHpjTHNXaVVzclNHUFRDbHR0VGcxOXhzTFNEWTQ2NXdqQVBnM2NvZmNNUnYyc3pjbzRaT00zT1ZYSkkzd1BzeTNwdnQzT1NWVU0tTmtxaUk3U25sd0tWVkpHcEROazRUZl9meFJnLUZXSnk0bC02RXVJa3FIaXNsOWtJZDFiZ2ZUQVpteE5wdGlQX016V3ZfZzZtZ29sU21Fam1CeDFkaG9yWXItNnY?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T20:47:30.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 5
-  },
-  {
-   "id": "l-ia-et-nous",
-   "title": "L'IA et nous",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1icFpoakhvS1R1Tm94VVFudWthdl9QYVJrR0JvSHVuRk0tcTNJVHNnRWZKeEtRLU9PMWpITEM2UFBDNzltTzZMc2ZHenFMd0hTSThlMmlBLVhkRWFKOW9DVWxwd0ZIQkdOUWVoa2FKVEVGUV8wdVA0OHZnNl8?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T16:17:28.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 5
-  },
-  {
    "id": "immobilier-la-conversion-de-bureaux-en-logements-se-poursuit-a-l-est-de-paris",
    "title": "Immobilier : la conversion de bureaux en logements se poursuit à l'Est de Paris",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEpYZUdVX19pZVg4Rm96YlhKbWkyVUpxVFF6cTduSTdUQTBHcTkxUEFMLW9rNldtaWIxZFZFU1hKUzFGNHFwU1gtQ21IZnd0Tkk4QlpVZmV6MVh6d2R3WENQWGhoOVcyZEI0OWxxRHpGLTNqQTVFZmlpenJDZTF3NTg2ZzEtdm84VFpGR0oxU0pNMThqeXpRQTZzbmNLQXZZSnlpSFNod3lEX2N2eGJ1TVJMQVRPdG1GZll0VlFTT1UyVG9VMzU3ZFVlRE10TWs?oc=5",
@@ -851,36 +657,6 @@
    "score": 4.8
   },
   {
-   "id": "en-vendee-le-fonds-de-revitalisation-augmente-son-soutien-aux-tpe-pme-qui-recrut",
-   "title": "En Vendée, le fonds de revitalisation augmente son soutien aux TPE-PME qui recrutent",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdVUzVVJHTjdEVlB6RlFGZVFGYWhFbVd0OXByNG1wVmFZXzRjek9TaW8wSkh3RnVDOFlCcWttUHhEWklVeEd3enRvMWxXX1dRMUU0OHhla0V6LW01UE1iVFNCOG4yV0szUUZSNVhkUXlBTGhXbXZFR3UxYUNPdGtmR1hKazVTOG1ac0syTnVmOUlvSFh0QWktczNRZ1pnN0tfM0Y5MDd3NmR2VFJqWE43ekVOdERtRFpHOU9VMGJTWWZhNEVoTlA5Z1E4TjFBU2FqN1lFNmwwNzNfYTAw?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T10:20:08.000Z",
-   "categories": [
-    "Talents & nominations"
-   ],
-   "score": 4.6
-  },
-  {
-   "id": "grammy-awards-2027-raye-et-rosalia-en-tete-des-nominations",
-   "title": "Grammy Awards 2027 : Raye et Rosalia en tête des nominations",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkQ5RkwtNnR2Y0lxdjRvNGJXYzZ6cUVIdmJYaUR5MGJSeWhhelpTQVRmTTJ2cFJTbGRJR3lqUi1yN2FhWDNDV2p6bTVzRjFtcXBmR1FzTVVSSFZ6Q3JMZjNfMngwMkNqM0sxM1RnSF9jVDhHcXdEWDh0OFZyMmJNdWxJT0hLSjRMXzFheUJ1MGpSSVFTRjVKdEJkSmNDc0RYNTF6WkpuMl9zV2xhT1NVNQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T10:38:06.000Z",
-   "categories": [
-    "Talents & nominations"
-   ],
-   "score": 4.6
-  },
-  {
    "id": "cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-l-agence-de-cybe",
    "title": "Cette startup française a trouvé des identifiants appartenant à l’agence de cybersécurité américaine…",
    "url": "https://www.maddyness.com/2026/11/17/cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-lagence-de-cybersecurite-americaine/",
@@ -910,47 +686,6 @@
    "score": 4.4
   },
   {
-   "id": "le-droit-de-comprendre-pour-un-acces-libre-securise-et-confidentiel-a-l-ia-face-",
-   "title": "Le droit de comprendre : pour un accès libre, sécurisé et confidentiel à l'IA face à la maladie grave.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJNd3FscGtSZjQtSlE2TFJwc0JLZEI0ZXUzZGNsZS1oRmtnU1VsN3dWYUFYbElGalRMdUZEWTRKMlhhRkhoaHlLaTZZQ2I5cjR4UlgxVXdyMmNoLVc3dVhnZmtwN0g2LUJvVExGWlJicVBTckVOdVE3OTV3SjBaR0lWNS04S000T1Y2bnJKX0FDeDYzVU41czdBdWh0dWVT?oc=5",
-   "summary": "",
-   "sources": [
-    "MyPetition.org"
-   ],
-   "related": [],
-   "date": "2026-11-17T19:07:57.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 4.3
-  },
-  {
-   "id": "thema",
-   "title": "Théma",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREMwY3hoUVVKRVlGRjVWYkNJOFhjNkdXVTl3SXk1UFBaNm1EMGQ4RDdlUEpmOWVQRGx4YXdJcjVJb0NDUThjMWxGRGFSS3ZGZ3kyc2ZLVXlBZE9LcHRGR1hCQXZzSmpuVnZ6VVNCeGJkREJWTWljaEZVNGZQby0tdTFDMzJXemFiUGlDMlVYcmw2V0dlQWNNZ3c0Mkg2N2d5eDRCaEp3aUFMbVZucmNFTTVmOV96WC1vamRr?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T19:50:45.000Z",
-   "categories": [],
-   "score": 4.3
-  },
-  {
-   "id": "age-legal-trimestres-decote-capitalisation-qui-sont-les-gagnants-et-les-perdants",
-   "title": "Age légal, trimestres, décote, capitalisation : qui sont les gagnants et les perdants de la réforme des retraites du RN",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeHdJNy1TTVlBcGRvTDl2ay12M0Vvb2QyOVFzSG1PNm5XTTc5UHFZc0xrbFZ2Wm8ycVhnNHVRX3dkeWhYdlU0Z201aFUyVnNJMnhhNk9aTzByeExIUUlibEZCNFhHSHU4WHJCN3pDRHpKVWtyUUxGOWxHWTJGUFEtNVVPOG1NLVlwQnRFT0hNeDZKb3NzWVh4ZTlZWnpBM25tZVppdFVHLXFTMEZGay1QR0VsYk9MUWFWLU93aVowVHNFQ3JITFdhYzFFMVVycmpPckVuTTEzcmtnLWhYWUV1RDFaX2QtbWFDNmtGd2sxQUVvelJrdUw4cWJRYU84QQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T18:47:24.000Z",
-   "categories": [],
-   "score": 4.3
-  },
-  {
    "id": "apple-sera-juge-pour-obsolescence-programmee-a-paris-en-2027",
    "title": "Apple sera jugé pour obsolescence programmée à Paris en 2027",
    "url": "https://www.journaldunet.com/business/1558143-apple-sera-juge-pour-obsolescence-programmee-a-nanterre-en-2027/",
@@ -965,108 +700,19 @@
    "score": 4.3
   },
   {
-   "id": "ca-reste-un-club-de-happy-few-la-licence-bancaire-un-graal-pour-les-fintechs",
-   "title": "« Ça reste un club de happy few » : la licence bancaire, un graal pour les fintechs",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3lfdXJ1dVFXRnpLOFhGSUtyQ25qSl9jU2JVQmFGR1NGU0htVUdwR0NXcXUtMjk2eTdCQ09tUjM5M1lheTVENktxQld5UEd0bC1menhDano1cVZHZHRQSWtZRWZkRnpiYWo4QzRnZGxQbjNPenJFVEk3QkdRWC1GM2E0WGhZVlRaN0V0cm0taHA1VWNpMjBXVDBkamlJbFRCb2NlMmhRU0VXUlVXMDItNWtCLU5OWlVtbWhybFRRb1lfemhoZmZHWnViQUcxdVJlYS16NGNPdEhTdw?oc=5",
+   "id": "le-droit-de-comprendre-pour-un-acces-libre-securise-et-confidentiel-a-l-ia-face-",
+   "title": "Le droit de comprendre : pour un accès libre, sécurisé et confidentiel à l'IA face à la maladie grave.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJNd3FscGtSZjQtSlE2TFJwc0JLZEI0ZXUzZGNsZS1oRmtnU1VsN3dWYUFYbElGalRMdUZEWTRKMlhhRkhoaHlLaTZZQ2I5cjR4UlgxVXdyMmNoLVc3dVhnZmtwN0g2LUJvVExGWlJicVBTckVOdVE3OTV3SjBaR0lWNS04S000T1Y2bnJKX0FDeDYzVU41czdBdWh0dWVT?oc=5",
    "summary": "",
    "sources": [
-    "Les Echos"
+    "MyPetition.org"
    ],
    "related": [],
-   "date": "2026-11-17T18:16:04.000Z",
-   "categories": [],
-   "score": 4.2
-  },
-  {
-   "id": "pouvoir-d-achat-la-mobilisation-des-fonctionnaires-flechit",
-   "title": "Pouvoir d'achat : la mobilisation des fonctionnaires fléchit",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMzk1enVmREFkUHF3bjhRUkdQWWlZbmV5REh3T3h5MzkwMkFlRzNzQXgzeUM2Wng1VEpLUXVGVWVndzBQRFh2bjVfQlRCc2x1LWdweDNhXzBVZUI4YkY1a3ZDbm1ucW8yVUtoTW1henNTYjZsSm9ubE0tb1dQR0p0ZUNOSF8tc0lVWDJzSGJKNVZIUW9HdXQ4MXZHVHdhT3BkZGpDeHY3WDhVUFJhaVBvQzNn?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
+   "date": "2026-11-17T19:07:57.000Z",
+   "categories": [
+    "IA"
    ],
-   "related": [],
-   "date": "2026-11-17T17:43:00.000Z",
-   "categories": [],
-   "score": 4.2
-  },
-  {
-   "id": "dassault-systemes-quand-la-mise-a-jour-se-plante-en-bourse",
-   "title": "Dassault Systèmes, quand la mise à jour se plante en Bourse",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1JlSEhqY1dDeENGTjZYSWJVcGlYczBWTnZuNjM2TlpiZ1NMZGo1dVRxblNteDFxZTJfdFdFblFtWVNtWUN5TVc1MGZzZks0cmxvMkpnUWhadUppWGhDU3c5RmI3TGYtaDJlUWJ4YnhtTzg1Q0NEcUhYOEs1YkxsTHhhWlIyUHlkbHh3ZnlsZ3RZd2dKS3MxWGVQOUhwSFA1XzRDRUlESnRaTkVWMzFaemQtbFpCRUhwMVF1YkY1eFZmRmNoaEE?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T17:53:59.000Z",
-   "categories": [],
-   "score": 4.2
-  },
-  {
-   "id": "troisieme-revolution-video",
-   "title": "Troisième révolution vidéo",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU0lEQ054Qkp3RjZCQWk2a2o0bVZRODZTYlVwd1NzR2dNYzRaODZmTl9QZGJMUElVcXA2d1pPaUFaQ3pZVE5mYVRZX0I0NDVSdmhYYmkzeWRZNkNSdVkzZExZQWcxbnJhbms1ZnBBRnhaS09LbUN1XzFleFZtSUs2U1RhbFVaU3hjLVFYNHFabjM?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T17:37:10.000Z",
-   "categories": [],
-   "score": 4.2
-  },
-  {
-   "id": "nucleaire-edf-s-apprete-a-signer-un-contrat-de-14-milliards-d-euros-avec-bouygue",
-   "title": "Nucléaire : EDF s'apprête à signer un contrat de 14 milliards d'euros avec Bouygues, Eiffage et Vinci pour les EPR2",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeUFhamxaUy1ILVB5d05OVnZvTk9JRUhqNFl0RU9JZlpBMVBkSTFmWDdMZThzYm1ES01OcjFxSUVMeWxTVThKNWtJMzluUDZFRmduT3ljNnNJQmxYcUYzTkVkYXR6dWJDM1djNHZpRHlMVFIxdFQxYXJjZ1paT1c1MGtXbVI1ZU8wUmhpeDNETXp6cFc3Qlk1NWtzZlM1WUhLVEJYdzdadHVoOHBfeVF2WFkzWW45azI1RDdEdkNad2l0ZjU3UDlxQlBJOG5xYzlUMHJ3X2hGaWhEQkpZR3MySGhhTmFsVzNpV2NvWmRkeEZyeFVEUkpuZWJ0dTBiS2RLdXZEeDdlY3RrOVVOV0xZNg?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T16:47:47.000Z",
-   "categories": [],
-   "score": 4.1
-  },
-  {
-   "id": "canal-accuse-disney-d-avoir-siphonne-sa-base-d-abonnes",
-   "title": "Canal+ accuse Disney d'avoir siphonné sa base d'abonnés",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2NvNHVfN0QzVGpBYm5KM2ppS3VmWjJfWThmamdaOVhBaFFHUV94QWFRWXR3MmV3VWdYWHZFX2ZSd3oxaGlKODJfb1IyRnc3S1hkS2NEaTVrc090SzM3XzZQc2NvbFduQVpoRXZiaU1fTFlSWWU1TFFwTjZPRUI1bjZSdGRTeVZ3WXY1MGZtNzd6TFR1MUU0VW45d2ZNSUc5R2RGeC1R?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T16:56:55.000Z",
-   "categories": [],
-   "score": 4.1
-  },
-  {
-   "id": "le-revolver-n-etait-pas-charge-maintenant-il-l-est-le-ton-monte-entre-les-operat",
-   "title": "« Le revolver n'était pas chargé. Maintenant, il l'est » : le ton monte entre les opérateurs de fibre régionaux et le régulateur des télécoms",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTktIc2FpdUFCNjhLTjZWOVYtU1ZPTGFxSm9CR1M4WFNHRzJ5RkNmaTFsa3M2UU5uajRzUEhjZUZsN1VRSXhQSGk5Zk4tWTVwdkpaOGRHZUxTbk9YdmZCemZqQk5IMTlGZjlON1VOQnc5R2VPdThjQzd4QjNyWU1WMDhDOWVaUXd6U3dQOVBJMFZ6dC1QTXkycXdNX2pka2F3cDJvY2VIX1lRUFRsZmNnc3NZRWFNUTk1RlJHQU56dkpqZC1KMUNNY3ZMdFlvS0NENTNpRFRPa1lMUXdyTWR5RzVzbGFxc29ReHN4X2lYM0NiMWQ3MllfZnMwSk94dENEdHdMTFQtMzVrb3IzYzAzV2tn?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T17:01:08.000Z",
-   "categories": [],
-   "score": 4.1
-  },
-  {
-   "id": "de-jordan-bardella-a-jean-luc-melenchon-la-campagne-presidentielle-2027-se-joue-",
-   "title": "De Jordan Bardella à Jean-Luc Mélenchon, la campagne présidentielle 2027 se joue (déjà) en librairie",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLVE2Sk9yUDU3OFlCdzdZdGNaUjZTV1V2cjhjQkUwa1VXRXg0dkJPbVdUY0NEdXRfYURzUFY5SjlzUGdVcExGV09BQXp0NjJKYXI4Yjk0ck9wY2tNNFhVTktWWEdYVDZON251ZHpTd2RxNzltY3lnOUh0NjVqUzMwWHRuRDdCUDJINUVPRmpNeXFIcGIxaHpLc2JXNjV3Z3ZLRkhxTkV5UFZSd2xaM3VKOU45b0lHMHdMNkZyZXBNa2c0M0RQZF85Z0lnakx3MDRRYlpkRUVpQ2R5bnJwYy1zT0RR?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T17:05:30.000Z",
-   "categories": [],
-   "score": 4.1
+   "score": 4.3
   },
   {
    "id": "presage-veut-tester-les-changements-du-cloud-avant-leur-mise-en-production",
@@ -1085,50 +731,18 @@
    "score": 4.1
   },
   {
-   "id": "databricks-veut-accelerer-l-adoption-de-l-ia-en-entreprise-en-europe-et-au-moyen",
-   "title": "Databricks veut accélérer l’adoption de l’IA en entreprise en Europe et au Moyen-Orient à coups de milliards",
-   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPeG0xQ1djbG5JTXRNdlpySm10N3BSazZkM0lRU2FiU3pDMjhGZnc2VThDaTNta0dpUUxSbllfM0toMjVDemdWVFNadG5YMUkwUUZtbUdOdTl0WkMyNnJFbGJWdjUwRUNodTd4TUFETVVjX2djemtIQ2RvZFdWT2RHWElmRXdNUVctSFdUb1BycnA2dDFCSVhGal9nUkJxNUVYMHZQa25OT0ExdXBnR3Y3NV9aZEJlaXhUWXFTaXVZazJjWWRIZmJGX3Jkc1Bza1ZVMDRSNGpJdC1IUnlwRkZYRWEyUkpCV2ZiOVYtY2RHcDRtNDhSNmZ1RTVDQ1JYU2ZRQkZiZVlhUUpuZlhXS2dKZWJBUVgyWFNVNnBRR1h3ZVNucjR3SXVtbnRscUpvSFVtQXc?oc=5",
+   "id": "ia-insider-la-chute-de-jensen-huang-remet-en-cause-le-futur-de-nvidia",
+   "title": "[IA Insider] La chute de Jensen Huang remet en cause le futur de Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTHY2dmFaa3BYdXB6bG0wWi0yaHh2YTFzT2lFaldTcEtQVW92ME9xS1pha0h4RlNnVnJJS2JZbk1qeHYxUE9KRjVmYnpYai0ycW1kSEFraHUybTFXTFloY2I3bG1DdjJQVVJDX3hCd2dZVzBnMUZTc3Ftamc5ZDBvNUU4Y0tDOFBNa2kxWE1vUlZ5TUFIbWI0QUpPdGx4MGc3aTl0N1RkcC1tQnNxbnlKTWZJZHdWSS1jNWlHcTZaZzV1clR6TV9GNXBxdU9UeWRkRl8tQW1rUUFzdXliajBzOWRtSFdsQ2NHelVNdmkycGpjeGZpSndpTkUtUjdkQQ?oc=5",
    "summary": "",
    "sources": [
     "L'Usine Digitale"
    ],
-   "related": [
-    {
-     "source": "L'Usine Digitale",
-     "title": "Databricks veut accélérer l’adoption de l’IA en entreprise en Europe et au Moyen-Orient à coups de milliards",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oQ2ZkeWRKeGxIX1AzeHRiRE45bDFoN3pqOC1aWjVPU0VGT0tDTXNYNDhxQW92aE91amhMcTVCYlhfVVBLMnZadDBFZkR1MFRPcnZTZzQ1NGFHQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-16T16:32:23.000Z",
+   "related": [],
+   "date": "2026-11-17T16:14:04.000Z",
    "categories": [
     "IA"
    ],
-   "score": 4
-  },
-  {
-   "id": "reussir-au-pays-d-auchan-c-etait-un-gage-de-reussite-ailleurs-dans-le-pays-comme",
-   "title": "« Réussir au pays d'Auchan, c'était un gage de réussite ailleurs dans le pays » : comment Picnic, livreur de courses à domicile, s'attaque au marché tricolore",
-   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOWWFpT04taXlRZVoxckQyRG1OQUpyaXZNbV9aN1pXWER3Y3NERmRQU0xhYnVMdmtDQ3ZndXNrU1RwTW5fTDJNSEtUaXBPa2MyaTVsZVU2RDcyTkdvNml0UmE4NDUwWFAwTmFGYk85WmxoTU53RzhwYWNXeS1NNktjUmU1aXF4V1dSSnhwQmJYM3BIUGtsYS10cURaUV9jMTlkT056VDNUNXRYRzN6VWNnRXl5REEyTVhvaVZwRjBqQ284ekdLcjBnVUdGVXZLNHpscEVwYjAycmNaMVY2ZzU2QnFwNDVncXUtOTVQTy1ES1ViN1dUdE1OODVWVTRQQUhGMlNFZDdMeERIcjMyM1BxWFR6QzhxVlAydjRQLWVKSFFEV1pxSlNlRzFkOFNaN1k2aEk0VURraUVVS2Nm?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T16:00:15.000Z",
-   "categories": [],
-   "score": 4
-  },
-  {
-   "id": "immobilier-sixieme-avenue-table-sur-les-services-et-l-exposition-mediatique-sur-",
-   "title": "Immobilier : Sixième Avenue table sur les services et l'exposition médiatique sur M6 et RTL pour gagner du terrain",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNam1lOHctWTdhRDh1WkN5YzNnbXpyOVRrejZxYUJJcjJpRGRCbldfVERmbGFKLVJjZkw1dkU2dUpia1U0eFJ2RVZpdHhPeWlrY0Z1V2pJbW1DZ2JtS3J3dDRqZWhRbXc2OWVnS1l0Tm9ENWVRazZhcWhpemM3djh1UXZCTDdoX3dDbjJ4WVVpMmZfZDV0ZGxELUFtZGxXR2ZDUHctZnFCc2gzdHM2clBic2p4WW9GbGd0SXRJUzMwYlN3VmZ3NmxNLTVkX1VYZ3ViS3BHZHlhd056eXlKcW1nQ1pMV2pRTEI5WjdPOWtSUXdNQ09XZ2FlMHpiREljdkNnTXNOVU9OQ0E?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T15:31:00.000Z",
-   "categories": [],
    "score": 4
   },
   {
@@ -1147,58 +761,6 @@
    "score": 3.9
   },
   {
-   "id": "guerre-en-ukraine-kiev-endommage-le-strategique-pont-de-crimee-moscou-replique",
-   "title": "Guerre en Ukraine : Kiev endommage le stratégique pont de Crimée, Moscou réplique",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUDJoeE5NX0JIcUozN2ZHOWI2VkdadkpxaDM1TnpXWWk0emZLamNVeWVLbmUzcXhveklreWpJWTU0SjU4c0ducDZUZWdXYUlmWnZqT2FfdUVrekd1MjlPSmE1d0VBWkJvWDRVQVVkU0lIUmd5cnZhUXJKSzZLYVo5TFBBREFXb1IzYloyaTFFZ0lBSkVtSERZbmg3Q2VVVG05bTJ0TzJKSnlMMERjNmJwb0VLVnluc1B5WmpDSnk3amY?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T14:43:46.000Z",
-   "categories": [],
-   "score": 3.9
-  },
-  {
-   "id": "le-ciseau-se-referme-sur-nous-les-agriculteurs-des-cotes-d-armor-sous-pression",
-   "title": "« Le ciseau se referme sur nous » : les agriculteurs des Côtes-d'Armor sous pression",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc3hRX29LN3F2NzVfd0RZak1ELVB1Y2ROdldSSHJ0V1FVVm9UdXVXUWtMd2RDOE9CZTgwSWxSVjU4VC04UU1yc2xjT1VKbzV3amc5cl94eDd6eW5sdW5yN0NaUU9IR2g3TUJmYTlFejFzaThzNWhyUzlLZzQ0cWFib1FBcmhnaEZ3Nll6V3FoRlVsX2NqU0ItM3pTS2YxMWZLLTRwQzhkeXhSRHlMX0VpSklJRWxTazV4aHJaWXN5SldYbm1NQUtDZ0VB?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T14:15:44.000Z",
-   "categories": [],
-   "score": 3.9
-  },
-  {
-   "id": "sailcoop-impose-son-modele-original-dans-le-transport-maritime",
-   "title": "Sailcoop impose son modèle original dans le transport maritime",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFVDRFlEMWNINjRRbmRLLTI0TlNfN3ZjVFBFWTFsa1c4N0QyM1BrTExReldBLWI5YWJTNThyLUdvdXNvNnlvOGJmWkZnY1hvcGRQcWdoMndfQkY0U0JaeGdIUV9DdlRud3IyODJqRWhtSzlONXVxSU5vZm1hWFlUNUtPeWNiZTNsVk5qMDVWZEVPdmhZTng1MW5VMjhvRUpMV09wZHpfRGwyUDFyYzdhVDMwMnI3Zw?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T14:10:10.000Z",
-   "categories": [],
-   "score": 3.9
-  },
-  {
-   "id": "comment-augmenter-le-pouvoir-d-achat",
-   "title": "Comment augmenter le pouvoir d'achat ?",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2tRdXE2V2wtdkk2RmNXRXZwOC1WMHhRbWJKREZrLUFWemoxSTZGdXVXekwxQWh1V3Z4eVdYU2NqOG9rMFRwQzJOLXVKUkt4eUJYWXFIWm9XeFBmMFo1d3Rqa1NUcGxUdU5oaGd5RE4tQUcwNVdaSGJVWm5Qa0dIN3Rvbk9Fd2ZLWjJhZWxZTDFMTzI5czhVWFNXUFc?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T14:20:20.000Z",
-   "categories": [],
-   "score": 3.9
-  },
-  {
    "id": "anyos-ouvre-son-capital-au-grand-public-pour-en-finir-avec-les-bornes-de-recharg",
    "title": "Anyos ouvre son capital au grand public pour en finir avec les bornes de recharge jetables",
    "url": "https://www.maddyness.com/2026/11/17/anyos-capital-sowefund-bornes-recharge/",
@@ -1210,129 +772,6 @@
    "date": "2026-11-17T13:00:46.000Z",
    "categories": [],
    "score": 3.8
-  },
-  {
-   "id": "jusqu-a-un-million-de-tesla-par-an-musk-promet-de-creer-la-plus-grosse-usine-aut",
-   "title": "Jusqu'à un million de Tesla par an : Musk promet de créer la plus grosse usine automobile d'Europe avec la gigafactory de Berlin",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcURaT2JsaXduczAydGI4eTBPYU5GbXlCdmNBcnBCV3JZSUxwUjBMejFNaWtVbmk0TS1pY0kzUTZ6aWVPeXQ4UzBCcmdJMjFZZkY2bGRQTUU4NUlMcWFJLUcwNTF3YU5GVkhaQ2FyZXpHNDVOOXRfQi1RSTV3QUZuMklhc0ZzSjNhVkJrb3FXaWxBVjZoS3l2ZDcxVGdmS1I2V242UjVTbUdSTmV2UlJ1UVU4cnhVUEFCSEdVSHJaTVR4czJpVjcyc3dJR3ZYaWZwRnlXd24tYl8tMHlLVXkxbnVZTXZKYUdZaXU3RWQzb3lrc3pJR2JYRDg5Rk5CYU5nWHkyYVNwbkZ3Q3FfODhidjQzanU?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [
-    {
-     "source": "Les Echos",
-     "title": "VIDEO - Pourquoi Tesla veut bâtir la plus grande usine automobile d'Europe",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0dENHpzdGltbDRxYlJnMWYzYTNMLTd3cFRRODdHSC02SjcySTNfamI1R2J2QThsMUxlMU9xb18wQjRJUGRFMUJ6Q2hDNnJ4ZTY3MnRQWFRBSHJyNUJZcVdkS2VQa3NJTXIxS3dJcTZfVDFkbjZRMjdFaFdjQVJWVkFiWlozU1RucFRsUkFtV3lKWjJMLWRfLWQ4MXNaV2tDMnVLSEQ1QWRkZ3lXRm9CVkJPWkZZQ1BPc00tZU82dHg0S1o5cVc1ZTNBU09nUQ?oc=5"
-    }
-   ],
-   "date": "2026-11-16T18:04:33.000Z",
-   "categories": [],
-   "score": 3.8
-  },
-  {
-   "id": "souverainete-des-paiements-comment-l-europe-tente-de-reprendre-la-main",
-   "title": "Souveraineté des paiements : comment l'Europe tente de reprendre la main",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFdoN0x5OUEyVmhlVTFyQXZHUnlGQUFGalJMYmtIS29mekVYX1diYjRnNW0yMWRpOGhXWGdDQ1dJZlhvM3RUS2tUR2dnN3B3aDV3eV9kaHVSMkpkRXdWYlQ2VE4wb0xZakp5V3BtR256YVVsbjBmTXR5RUhFNklvYjN0Y0k2aGp6N0RYTXV5Y3dBTmxxUDBXRnR0TE9YMzJ2dUJWT3ZJMzF4MG5YRlVqU1NheW0wYnM?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T13:05:43.000Z",
-   "categories": [],
-   "score": 3.8
-  },
-  {
-   "id": "le-coup-diplomatique-de-l-annee-en-recevant-trump-et-poutine-la-chine-veut-se-po",
-   "title": "Le coup diplomatique de l'année ? En recevant Trump et Poutine, la Chine veut se poser en acteur incontournable",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTTlFdDI5cXI3TVlnRjh4cGprRWU2MXZEOTJkTUh1SWhyNFYzUW5LZzBBRDRldEdXX1lvNjRLX3VIVGNXNzBOYzd6d29ZdTRRVzhhM2FuVU5WaGVoaFNWclEwbTA1dFhITGpteTA0cnlxVUNWMVpNZUhNYzQwVUllWXVNMzd6eFVhazRLVkpjLWdTOW94WWd1RjJEZ2RNYzVGVE9DYTVnN1U5ZXN4WXJiX0ZGS0xmTzJBclVGdHJjUkZnNFJIbmJjQlRNSFZkcUM3eFhyT0puTk9GWktXVFFna3lJeDRLUQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T13:44:34.000Z",
-   "categories": [],
-   "score": 3.8
-  },
-  {
-   "id": "reseaux-sociaux-un-enseignant-derriere-le-compte-antisemite-realmarcel",
-   "title": "Réseaux sociaux : un enseignant derrière le compte antisémite RealMarcel",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzA4YUFmYXl2QmpGYVhLRFB3NXlZb1c3cXdsdU02dEtSd3BEWTN0MWtfWEtKME85UVhKc0RCRkJNeFJQNUZUUTNrbmIzbm5oSmVwXzFwNVNPdDJyWURaLV91THNxeVdNNllETGZQN0JoNHc4UUZkMmFKYVB4RTEyeUZrLVZQdUxheV9RZ2RFNnhmMzk1Q3YtUkoxbEJhdzFkUk9fdWg5OGMzVDVZLVI4ZGVOMW1vSkZpQmdNNQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T12:30:09.000Z",
-   "categories": [],
-   "score": 3.7
-  },
-  {
-   "id": "avec-le-comac-ce-25a-la-chine-tient-la-corde-dans-la-course-au-premier-avion-ele",
-   "title": "Avec le Comac CE-25A, la Chine tient la corde dans la course au premier avion électrique commercial",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSXFqTmlXQWFaX2pSa3k2Rk5CQk40WGR5ZjJxZFFBYnBkNjFZMDdjbzB3RkI1SDN4SjdFMzhZaDBPVUpLNERWR2lfdkRaMV9XTVFqeDVEVDZHTWowTjBSRHhid0trX3dvenpkR0ZSVWxrNkNrVXdGSlRUc2oyc0VhUVNKaWNxanhpVnBSQkhsN0U4YUNCMjkwSmZKNk9UVXh4NzhPRy1mVGNmRnB1Y3RlbjVnSGM2SXJncDZBVjZ5R0k2RjUydG83Z041dXBjMXBwX085Uk1NbllIUDRael9QRi1tOUdTV1FiY1RWa2tqelo2LWc?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T12:38:28.000Z",
-   "categories": [],
-   "score": 3.7
-  },
-  {
-   "id": "combien-ont-gagne-les-patrons-du-cac-40-en-2025",
-   "title": "Combien ont gagné les patrons du CAC 40 en 2025 ?",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONDBqcWVuellsTjhERHZZVUhlM1BWdldRNXRzZTlFU0pNWENtVS1VeU1TdnFkaEoxUFpDYUJkd1VtUVBGSENMQU9XWEFSeWRvY1o2TTh5SDA3bFg0enVZOUFycVk5bHdaTjVXOGswdm52dm5CWjJNRW5wbWx1TUdJaVFibllSMTRkVXRCaWdtTW1UQk15ZmVtaW5abUkwVFJYSGtBTnJPaWhlRkRzMEloQl9yaTc1cnNMdG0ycUJxOUM?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T11:33:01.000Z",
-   "categories": [],
-   "score": 3.7
-  },
-  {
-   "id": "pet-food-et-pet-care-riga-veut-etre-une-alternative-aux-geants-du-secteur",
-   "title": "« Pet food » et « pet care » : Riga veut être une alternative aux géants du secteur",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWc2MG15anFIWTVNMlRhZUxiVnBqMmpwTFlFZlZPTVBzY21Ma3l0WHFpZ3Y2c0szdFU5S2NwVko2dVZVU0Y4Q1VYYVZQdENfbFVKVWdpMnEydGpTMGExbXg5eGhESElFOUdWYVVDMWFxR3ZVaV9rODRxOG4xUlN6NlJSYS1YYU9QMFlGM1FteTRVY3k4RHNNMWNlSlMxamV3cWQwZWQ5ajAwWlNQV3V4TUtYTjZweVY3TFZtUlEyM053U01PWXdEYnBVdldidw?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T11:50:10.000Z",
-   "categories": [],
-   "score": 3.7
-  },
-  {
-   "id": "clichy-et-g7-vont-tester-des-robotaxis-d-ici-a-2028",
-   "title": "Clichy et G7 vont tester des robotaxis d'ici à 2028",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanJTWWZZUmJTcGRIdmhFVm5fcUNyN3dOc1ZCVUNYUk40eVBxNGJCZDF4T19Ba3BKSm1vcWRMM1lUT3ZvZ0FLYWh0RmRlMUEyNG5nelhDOFZJekVnMHU0dnI2bW5SUmtpRFpYc3pyUlJsVVJlSmRnalI2SkgtR29vMHROUjd3a3RTMVJsUG10amptcnpsVVlYR2RQVVpJT3k0T3h1dWl6dklVZFpl?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T12:00:08.000Z",
-   "categories": [],
-   "score": 3.7
-  },
-  {
-   "id": "retraites-du-retour-aux-60-ans-a-une-grosse-dose-de-capitalisation-des-propositi",
-   "title": "Retraites : du retour aux 60 ans à une grosse dose de capitalisation, des propositions diamétralement opposées dans le débat présidentiel",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPejRObEpIaWZ2SVlOOTh0YWNOeUNhMFB4el94eERPN3NsWklpanlVQTVSNll4R04zc2Vab1ppR3A0R3VwSVkxN1dWMlhDbWh4Zlg4MmVHS3k1emJDeklyRGtxSU5HUWZ5R2hlMUFzckJTWnhVR051VElWQ291MW15TFB1eEFZMC15azdhRXNwRlpXbzN3dmFTTDBOUE1JODZsb0w5QzRwZ3lNQmdPXzRCaWNTRWNWcWdheWFHYzhIdGRCZ2NOOGFSMmlveUlMNGhYZnZxY1hiVWRLZk9GbnMzaDdHX3FmMjFzd2FESjR1QllJYnJsNkJyX0FjRU8yMkxRZ05QQ0dmRGhWMm1ycEtRUU8tQWZkZmZpN3d4YXVMbThiaEFI?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T12:01:50.000Z",
-   "categories": [],
-   "score": 3.7
   },
   {
    "id": "des-tonnes-de-francais-echangent-leur-livret-a-par-cette-epargne-a-5-5-brut-vu-l",
@@ -1382,45 +821,6 @@
    "score": 3.6
   },
   {
-   "id": "extremes-politiques-violences-dans-la-rue-la-democratie-liberale-est-aujourd-hui",
-   "title": "Extrêmes politiques, violences dans la rue… « La démocratie libérale est aujourd'hui coupable",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLS1KRXpFQkZsNldlV1YwaVZHb0dWUjJIUUFjdFdFYVVYdV9jenZfaWdCLTlOTDdZc0F1WUpPeTdLMTBHc1RYbll4Wlc4VmZHakd1UTF6TXdkbUx6X1dEN0xwZG1PQVQ5NEtNWGtBZFNPVUMzSzZSV1BZcV9rZ0EtcjBrZFNBcWo2MjZxV2taQkp6VFpGZi1sN2N6X21KMDRGaDg3MlduREdveDBaQmtPVm52OEpuWDlvWkpScHI5OXd1UV8xQWdfY0pGdTRIZUpFeFg1b1dGRQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T10:10:17.000Z",
-   "categories": [],
-   "score": 3.5
-  },
-  {
-   "id": "distrisoft-change-de-tactique-avec-tictac-learn",
-   "title": "Distrisoft change de tactique avec TicTac Learn",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd19MTk1uTWM4enE5R09jbTQzLXB4cWw3VDhVWFE4dWNzQ2thc2xPSzMyLTBvcjkzRk5XMmhha09sbkFzd3hOWjE1aFhXMjdnWElKZ3dXekF5THl1cFppcWo0YnJEczdZYy1wcXhRM3hfN2FjSm9VNW5yQWJic2tiYklvQTcyMHZRRUJHTy1DUFVQd2p1WlYwT1RVUVM4WFQ5d2N5VDA0YmtqNXdD?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T10:05:08.000Z",
-   "categories": [],
-   "score": 3.5
-  },
-  {
-   "id": "transactions-miroirs-pour-oligarques-declarations-fiscales-de-trump-une-fuite-de",
-   "title": "« Transactions miroirs » pour oligarques, déclarations fiscales de Trump… Une fuite de 15 millions de documents compromettante pour Deutsche Bank",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOVWdIN05wbzJCWFd4ZW5VLTBxRUoxZmVFbkhSX0VsNU9iaFpRcGxPcXhHNnBWSG9oV2R2N1Q2RVJQTVdqQUluejduQlNiRnUwNTBfS0tsdHNhRWRMM0dYRE84Q0Jnak1DZHU4cGJHWkRuZjNQYjc4M2NiZ0Z2M0lDUXhyeUlpVjdEanB3Qi1xOXdEOU9fczdvTXBPbjJhYnlLcDF2bXN6dEV0Q2lYcWFZLTROVGRXcHdOUHBCbGNMRklWMnpHM01lamQ3SFVOYzNXYUlMVFY2YU1BT2tjbmZxaHo3UUo3c19aVHdXcmN2Uml1V0s3dWhBdUdBa0FLRzV6cmNVWUV2ZFNFRWc2WUlMVmt3VEVuOEdma3cxTHVQcVZnSGwtaTJTb0czdXphdHYtUFJN?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T08:47:26.000Z",
-   "categories": [],
-   "score": 3.4
-  },
-  {
    "id": "cette-startup-veut-aider-les-commercants-a-revendre-leurs-invendus-sur-leboncoin",
    "title": "Cette startup veut aider les commerçants à revendre leurs invendus sur Leboncoin ou Vinted",
    "url": "https://www.maddyness.com/2026/11/17/cette-startup-veut-aider-les-commercants-a-revendre-leurs-invendus-sur-leboncoin-ou-vinted/",
@@ -1434,41 +834,33 @@
    "score": 3.3
   },
   {
-   "id": "industrie-decarbonation-et-numerique-des-leviers-pour-mieux-attirer-les-talents",
-   "title": "Industrie : décarbonation et numérique, des leviers pour mieux attirer les talents",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTI2Z01fS2FqOEhDWmk4Y3EzbUE5c1VwVFZwVzRBS3JwUnk3ajFyQkM1YURucXZLYnR6ZjItRkk1LVBwQVZZbVk3OVczMG9Fb1FjQ0ZHVERYZ0tHdFZmNm1McUZfWFRmOHVsZ2h3S19UQUdtTEh3Y25acENLdHotY0xVZWVZRnFEQUhWMlVXdng2QzBiQWpDZFdTNXdla1FMLUkzeF80Sl84bTU1WHJmeFROamtyaGM5b19RWHhhenlTdGlP?oc=5",
+   "id": "nous-pouvons-faire-tourner-des-ia-de-vision-sur-des-puces-a-moins-de-10-dollars-",
+   "title": "« Nous pouvons faire tourner des IA de vision sur des puces à moins de 10 dollars » : MountAIn mise sur l'infrastructure en local",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSlFhMUdaYnZGTFNuMmlOdVlpWFVkSmV0ZW9zNFIxR090QkpaaDEzUFd3VzY2WDFvRmtWTWJURGJ4ZmhrLXM0OWRlY1EtZWhQRlh2ZU9kVnloei1NTk51dVlOajFORWRwMU80ZUlMZ0t5NllDdTAyeWM2eEkzTkZmeWlZb0FWSHVOZWsxdTFLU1RCWUJuWFB5Y1RNT0xwVjl0MFJPek1xYWo5SnFQZG5iNGRnUEJPVjRDLWg5UjhYNThXNmJUbHlRZktfbU8tN3ZCVFNsRVhsT3llZGZHQzFKcVQwN3JmbTRuVEdRQkswWGtDTnlwQWdKRDdlckh4YkRkbnd3aw?oc=5",
    "summary": "",
    "sources": [
     "Les Echos"
    ],
-   "related": [
-    {
-     "source": "Les Echos",
-     "title": "Décarbonation et numérique : des leviers pour séduire les talents industriels",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGtxS1lSdm02NTB4UXotZWVWMHpHZnA4Mnc3V3R2WDM0YUl5UWNOd3pScWRUSnBlYWM2azRKYUxfSjhwS0xKQTlFbkpQR3QxSjZpUDBRUnQwUXpNZmQzMHhaS3VSaFVOVktwbTRyUVlUVlo2MWJIS042YmQ0OXMyNEttVjJMZFYtRzJremNMRUNIamJQQld5ZUZ1cFRhaFVBbnhobUN0V0k3SlJuUV9ONEhOU0ZZcnVFQ0JkNkRaNA?oc=5"
-    }
+   "related": [],
+   "date": "2026-11-17T07:00:30.000Z",
+   "categories": [
+    "IA"
    ],
-   "date": "2026-11-17T06:20:08.000Z",
-   "categories": [],
    "score": 3.3
   },
   {
-   "id": "alerte-en-asie-la-russie-multiplie-les-incursions-aeriennes-avant-le-sommet-entr",
-   "title": "Alerte en Asie : la Russie multiplie les incursions aériennes avant le sommet entre Trump, Xi et Poutine",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTGRvOGdoX3dyODNRSG5VRXkzX0tmbVN3Yy0xNVFOUnE2UGpzV0V5V296MlJMMzJPZ0pHRHl6bnVkWkdFYktVa0UyajhWSGJvTHpCT0hSX1YzRFF1U1NlYzJTb092LWJuR2lIZHA0dFdzb0I4WDJydnp1eHQtbm9vek5JUkhHcXM0Y3B1WlR3WWJ0MFBmU0VPSkJjMXBrbGJvYkcwMDVSZkxmUFdPY1lnVDh4bXJKTDZVNUQxWUtGT2pBM0xtakg0eTdVNktvV21oUXFRWVV3dy1HdXAta1JPNVJUUjRWRFhYaEE?oc=5",
+   "id": "orange-ventures-accentue-son-effort-pour-soutenir-les-start-up-de-l-ia-et-de-la-",
+   "title": "Orange Ventures accentue son effort pour soutenir les start-up de l'IA et de la cyber",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUThhbGd3ZmU4c3RWeXdZSHVqaXE2bHNRMnJOX0pHRDhCZ0tfWjdPeks1UmNzMXpGRklacE9saU5vU01xQXNxOUJpb3dYbE0tcXFFdHJEVG02Wnl4N0NQbmZVOTdTUkdfN19qZGFsTmZiYi1XTjl2Z2VUTDRPNFM2M1ZoMF80RkhaS2Zrdl9kd2NWT1hFa0FIalk3clNlNW50ZUVtQXhEVk5RbWk0R0lYeHFBUWNQQllpdDlidlRZbWhCMEVmUDNBb2JxMDlDaExaQXc?oc=5",
    "summary": "",
    "sources": [
     "Les Echos"
    ],
-   "related": [
-    {
-     "source": "Les Echos",
-     "title": "Donald Trump débarque dans une Asie qui n'attend plus grand-chose de lui",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnVwTXh2dDFhQXVxVzdaTGE5Tlh4LTg5RUlEaUZ3Rl9WejNURWFxdkd0a25qdVRBSE1HaC0xYTBvdkJGR1dFdExOV3IwUkZMdk5IUnlETTlMVUNwbzhxWThuS0tKWUk2MGpmTFlWc0lLRDRzUkZ4YUtCWXdEQkMzTzdCcElrcHdJUEllZ3IxX0JEU1pCNHY1XzZCak5YR1RVSXJiYTU0WGlJSkJTUjFuTUd5RnhXN3lVY3pwUFAtRFlrZw?oc=5"
-    }
+   "related": [],
+   "date": "2026-11-17T07:00:55.000Z",
+   "categories": [
+    "IA"
    ],
-   "date": "2026-11-17T05:10:08.000Z",
-   "categories": [],
    "score": 3.3
   },
   {
@@ -1484,58 +876,6 @@
    "categories": [
     "IA"
    ],
-   "score": 3.2
-  },
-  {
-   "id": "l-alerte-c-est-quand-une-personne-entre-en-contact-avec-le-dirigeant-en-lui-offr",
-   "title": "« L'alerte, c'est quand une personne entre en contact avec le dirigeant en lui offrant beaucoup, beaucoup trop » : comment les patrons se protègent des espions",
-   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQXBwMkNLVUxkTnRrV29KWTk1QVdYNXczSlJtSFVlNkNmMC1mU1BkbnNCSHRBTzJSbUx2WTVJRExjeGZNN2IwRFRhUEVPaHB6OGhuTkpaNFJtUDN1bDJONlkyZkxFV3JkVU4wYW9mbTNpVnNkblo0QnZmSVAtZERqeVlTbHFfQW9udksxMlVwT0FXYnB1R0UtczAwd1c3Y2NmTTVUd09xaGJVdlV2WmhHWGg2d2IyN2pKSlBrU0lGdF84NGxod2FaTDVuSXJ5U21icE11bGw2T2VkX1R6SWVRbEd6ejBkVm9VUTkzT2FFMkIzSGp4V2lIaEhRc1J0YXdMRS01UnRudktPOWdYR2xXMUpXeVNUZUpxVjgwMjVLdXZwVVNXNUxWSEJzM3ZFZVpURVhJOUc1ZGxnRDlf?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T06:17:08.000Z",
-   "categories": [],
-   "score": 3.2
-  },
-  {
-   "id": "le-seul-moyen-de-detecter-une-erreur-est-de-comparer-son-avis-d-impot-pourquoi-l",
-   "title": "« Le seul moyen de détecter une erreur est de comparer son avis d'impôt » : pourquoi les investisseurs locatifs ne doivent pas payer aveuglément leur CFE",
-   "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNdGl6QnFJekdnOU1NMkZ0SmRvVlVXOU9BbmxTTU94RU90UDdOalJ0N2puV3dYMkRJbzNzeXVXckZKQnZDMnJrZ2F0TDdTOXd3Tlg4d2VudUZMNXJ3WVN5djNybW9ld3NRcUVFNHlibXN6RlhSU1QzVFpycWJFRlg4aElkLURaZVZrREFaSW0ycy1TQjRxS3d4WEJXaWRyOWp6Mm9fUUMwc0x5cGx2T2Z2M0IwR0Jxa0hBb2FmVEFJUERNZmEyYVJpMU1tM1FUM1l1dlFrbjRCWDc5MmxjbGJvV2ZLSHktRGQxSTVmLUlFVVRBUFVSOFJWX1ljQTF1Z2tZMnQ2cy0zb3FIalc3WHp4WjYyaGxTQkhXUE0wbUZMMUppZUtyMXlyOGJSUWlFUWdqWXE3akJYbFJsRjEtZk1IXzZMVDdlVEhMMHRJbDZaQlJsVmlqZGxPUk9PQVRuRHBYSjBaMUN3R0lDMmNybFE?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T05:55:08.000Z",
-   "categories": [],
-   "score": 3.2
-  },
-  {
-   "id": "chantage-du-marche-ou-necessaire-rigueur-lula-et-le-casse-tete-de-la-dette-du-br",
-   "title": "« Chantage du marché » ou nécessaire rigueur ? Lula et le casse-tête de la dette du Brésil",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMG9mQmlRTFBJM1MzX2hJNXhrUlN3MWZ1bzgyUE9VMW1NbS1lUnBPWFYzQVFIdldOcjFMbE5XUW9qcWNNM3NDZGdZb0VTZFBzU1NNNjM1WmdFSTVMT3YwNEZrRzJwU1hEekM3VGR1UEtsUnV3YzJmLS1sZDd0YkN0R2F3X0NaTnhMeXg2Rk0wVHEzR0tIc0Z5dGFIWnpUbGNEVE1WT1pEaUtkZEZrZHRFaU13ekc4UTdod2VrWXBvMmRHWG9nSllaSS1QQm5vVDNyNFRHMXRpZnlZZzNIaWc?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T06:15:11.000Z",
-   "categories": [],
-   "score": 3.2
-  },
-  {
-   "id": "le-point-commun-entre-lehman-brothers-et-nvidia",
-   "title": "Le point commun entre Lehman Brothers et Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDFXdGY4TC02cWRGM3RzamdIb0hYcW9tbDdkN1FXVWpCcHVsNEE4LXBQdGZjN0VubE84T0hoUHdVS2EzUGgwVmpVSHF0X1JDbGk0emxTcG1PZHpFT2p6eXJCLWV0SWpnWUJyYzU4WVRDaXNMX3Roak1JUHpUU0U5dTdMQWZiUDNyUjI1RFlfTWs0b1hXZWRNUHU2dDZPUnFXOW9pcXJUV19tcFZy?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T06:35:33.000Z",
-   "categories": [],
    "score": 3.2
   },
   {
@@ -1568,58 +908,6 @@
    "score": 3.1
   },
   {
-   "id": "retraites-le-senat-rejette-la-reforme-touchant-les-familles-nombreuses-et-la-des",
-   "title": "Retraites : le Sénat rejette la réforme touchant les familles nombreuses et la désindexation sur l'inflation",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTW5IYUlLa1BrUmZzVmUyTzNyYVhxUE5Ed2pKWFc0cjNXSnhwWDJfeEsxYWxwUl9MTjBlMHhSU1FER2RJdmxTQnRWUjk0S2d2YVBRUkw5akt1SWxnd2RwZ3FqTno1a3dUc1pId2t2S3lRMTdfOEVQM0RBVWRGR18zQ19MYzBKWnZCbzRDRnNnVFdBNE1LSHRHeGFUVEJXaXh0eWs2SExwTUpJWkxUN0xlSmlTSFFTNjRLZDBtcWMxM2NiRFpWamlHSl9yRmh1cldXSnlOZW56ZW45bjlVLUlpdXpUOGgwT0JhVkF2a2VzRFhxOWVNSlE?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T05:15:51.000Z",
-   "categories": [],
-   "score": 3.1
-  },
-  {
-   "id": "emploi-des-cadres-de-tres-sombres-perspectives-d-embauches-pour-la-fin-2026",
-   "title": "Emploi des cadres : de très sombres perspectives d'embauches pour la fin 2026",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1B6UkdyNDBtRGtKd2tPZHhvNVF6YnczY0dSMU9OUkdPQjN0eTFERmJLMmU4Tk1fWVQ0X09hbFFWR1ZkLWxBd3psQV9PTDFRb0RyZ2pVT3ZlV1NxQUhwc01ZdUJEdkpieXVrcDFxOVNlV3U3ZnJWdzBzYldpMUUtck1Ob3U4NUVlVWlrVnU4cFRaLVhhVExPVFhCekp2NnpxbGpnb0Rrd0xqYVdFcFNieHJEbXJOb19Galh0QmlJdUI5cDkxbXVHTQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T05:00:42.000Z",
-   "categories": [],
-   "score": 3.1
-  },
-  {
-   "id": "pauvrete-logement-pouvoir-d-achat-retraites-ce-qu-il-faut-retenir-du-debat-presi",
-   "title": "Pauvreté, logement, pouvoir d'achat, retraites… ce qu'il faut retenir du débat présidentiel très animé organisé par les Restos du coeur",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRGphYV9zM0RxTW1IdldnbExzb28zYVE5NmVvWHQ1bE5hWTloVTAza2ZMUEdlcVVjWjQ4REVuQW1ldGxtY3dWejZ5R3Q4cElfMjJmb2tzekpZbG5qTkZFX1FwRWxrQjJzeWNQeUNPREFjdkhYZTN4NUZEdkxuQ3Y2dHlSdEVoR0NuRDdDVHVNd3d2cHg4TC1WWXNkQVM3ZkVydmI2cndNelB5REQ3aXM4cnNsOHR3MmVNcTZXTFNaTV83M2lpVVl0TmZDek5vTGtRNnBZVlZZbjI3OTlRVEI3bFpSM21YN3BVYjdtUXhRS0VYb2Z1RWpXZ2FudllEeDNZLXY4R1hYbTR2NFRWMFVLRWlvcGs?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T05:00:33.000Z",
-   "categories": [],
-   "score": 3.1
-  },
-  {
-   "id": "ce-qui-est-arrive-au-credit-mutuel-arkea-pourrait-nous-arriver-a-tous-les-premie",
-   "title": "« Ce qui est arrivé au Crédit Mutuel Arkéa pourrait nous arriver à tous » : les premières leçons de la cyberattaque qui a choqué les banques",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNREhOY1ZsNVJZR2xqbXRhSmNrdmlpSm92VUVNR0tGNm8xR0prbEpIWUpHWWFoN2Fta0NaM1FhWGpWY1pqdzY4NnJqOXZiN1JKOXdMSnA5ckJlX0k1TnM4UVdOWkZVYzg0d3pTVGdkY3l4NklTd09JMHRNWlhKX25QcFhJaG5MZ1d2MG1Yekp6T1JDajJ0RmpmODNBejNGdG5Bb0dNeWN2MWlMaTRBWVFkWU5rc2hpakdFYUpVWU5YVjdZd1hISXprckRUVVVQV1A3WkhqcDhWUndzcFdPa3Q5YzhBRWhhTmwzXy1QQVJSOGZ6TTlnNnNuX2w3Xzc5SFowZG5vd2JtenJ4ZXJyb0tjRnR1eUJPMHgyWU5YMHM4cWZqeW10Z0t3?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-17T05:05:11.000Z",
-   "categories": [],
-   "score": 3.1
-  },
-  {
    "id": "la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-",
    "title": "La banque en ligne 100% française offre jusqu’à 260 euros à ses nouveaux clients ET un taux boosté pour épargner",
    "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-et-un-taux-booste-pour-epargner_AB-202611170704.html",
@@ -1630,19 +918,6 @@
    ],
    "related": [],
    "date": "2026-11-17T15:52:00.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "celia-seramour-la-redaction-l-usine-digitale",
-   "title": "Célia Séramour | La rédaction L'Usine Digitale",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VZVNYSkhzcFZTbE1jQUZickExcDNrc0tvNHBYQ21qUHVZR3g2dVpuUUtETURhRGxCQnJnT1pkRTd3VFIxcWlmRXc5Z1hZRkpjakl4RDAtMGpYRTlvREdfTm1QRXFLWUJBbHc?oc=5",
-   "summary": "",
-   "sources": [
-    "L'Usine Digitale"
-   ],
-   "related": [],
-   "date": "2026-11-17T16:14:04.000Z",
    "categories": [],
    "score": 3
   },
@@ -1674,220 +949,6 @@
    "categories": [
     "IA"
    ],
-   "score": 3
-  },
-  {
-   "id": "l-europe-a-besoin-de-banques-plus-solides-bruxelles-donne-un-feu-vert-inconditio",
-   "title": "« L'Europe a besoin de banques plus solides » : Bruxelles donne un feu vert inconditionnel au rachat de Commerzbank par UniCredit",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPY3hBTVBXekNLbXlBNjdwMzRDVy1SNnltcU94UnU1NGxfcGR5OXIzOUlyTmI4N3p0ckI4cTNmZ0tYcGtBSnQ0cDllLUlHR0JQQ3RLc3lWekZNbUZ5ckZXWEpMUlFiMkR5OHUwdmY4ZUN2UERpSjNXQnBhRDRQenZTaTZPbk1QT1dpUVJ0emRHT2dwVzk0MWw0WER0V2JnMUsxMWVMM2Q4X3doSGI5NjFOdkJ3cGVya3d4VzJMX1RxcVNSX0MtajluYnUxbmU4QmtPU3RrczNPVFBNNkJaczNqMzZXOUtxQWtnemFkTWM4NmlTY3c4clBlUVRSV1EyV3JFemFGaTc0OWkzVTIzazdOdXFGdGFOTmc?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T16:41:58.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "ukraine-bruxelles-prepare-un-pret-de-45-milliards-et-resserre-l-etau-sur-les-rev",
-   "title": "Ukraine : Bruxelles prépare un prêt de 45 milliards et resserre l'étau sur les revenus russes",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSGlBcFhLSThNWHZZQlQ2aW50M2toZllpcFpSdUYyczB5QUh0MnRzM3lnWDFGR3Z4TURpY3lxQjN2TzRBWVNxck5PbW4wR1pycWxIbWw2ZktiM1BnXzMyUGs5TkM5VGtHT0tlejZYOEhiNVRPRVVUTlpXWkVWUXdoUXYtSVN5MkZEUlBvYXg2TDJXYzRsV0tWM0FjWEs5Y0RVUG05T0ZiOFk1bldnc3JhUjNYNXBlblhhWERvd0NERFFVZ2ZWZnlrVFFRUXh2RHI0?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T17:28:29.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "pourquoi-le-qatar-gros-pays-exportateur-est-devenu-le-premier-acheteur-de-gnl-am",
-   "title": "Pourquoi le Qatar, gros pays exportateur, est devenu le premier acheteur de GNL américain",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMF9PVTYzSml5OHJtRHJBRF8zVkNTVzNKSVVhc3cza0F2U0tCbDNWeDlBbzV2ZWxfOWZEUk9XVHRDMFlGVUp5a2tzTmE2UU5Ta0Faa0RrTjlsUU5FQ2IyVVl2WTRvbUVhUEIwOWRZUzZjSDQ4dk5lSFh2SEU1WWhfSEJwVUdCMWVqVE5uSnhPOFpucXRDN2xFRUwybHI2N2JUV3l6bmJPTGozdGNPR1dsS1NhajBVNEF2dU1Eb3hkdUt2R0xkcDJicnR2Mmp5TXo5SkJ1ZXhlZGhPblN0OUwwUFNMTjRKUFBOWDBLdjVJeEFOQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T16:53:20.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "epidemie-de-pannes-informatiques-aux-etats-unis-apres-microsoft-et-les-aeroports",
-   "title": "Epidémie de pannes informatiques aux Etats-Unis : après Microsoft et les aéroports, au tour de JPMorgan Chase",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWTBENF9LYkpodktwaTV1ZmMwS1d3Mi0wbGplTFNYUlhWdHRFdE5WSVAxSnFmWG15Q0RaRnl2Z1BOZHNuNFUzNDNrUGJ2RWVSU1d6MHZGRVRaLXF2QnpKMjkyemZjV0tLczU4dWo0ejM5ZWtWWnBYQy1fVS1tbXZySmp5c05NUVhfZkFwb29fMzllbTdVTl9rV1ZoYTFZeGN3MmtRY0VTc0ZJT0RwNkN5Y1FYZ2p2eVN2YThxSlNfWkliajM0ZnlUc1BZd3lmVWlyXzB2cXdYdTdjOFEwM1NJNUVPUEZPNnkxMTlZ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T21:35:47.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "presidentielle-2027-marine-le-pen-joue-gros-en-devoilant-sa-reforme-des-retraite",
-   "title": "Présidentielle 2027 : Marine Le Pen joue gros en dévoilant sa réforme des retraites",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNE1BalRtdGxqUk1VcC1UU1RFczV5RUwwd3o2SUpwblRLRUVhbUE5RlhXRGJTZ0p3eGN6X3RwcEM1Y3pNS0t2eElERWpBWlY4Z0lTeVVFNmdaN0stN2huaVFQb3ZTLVp0QUQ3aTc2T2RQUFZuV1ZJcDRUSnM2dlJEZkdhNk8yTTdSSTNkQXg1Y3dZN050bkVVaURMMDlydk5EU0dxRndwZy1CMmhHd085Y2k0NDhaT2gzcE1wbWZGblVwY2JUQ3lxSGRrYmY1elc2czBfNQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [
-    {
-     "source": "Les Echos",
-     "title": "Présidentielle 2027 : Marine Le Pen persiste et signe sur l'arrêt des aides à l'Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb21aOXVsSVU4clZDMkVNR3Mxd0NNMlpYZzMxV2V4dFd5WTdUc1p4ejBmQnZSMkV3UTdyaHVHSjNyOU04cTVOMkpmWjF0TS1MeFoxa1cxTEN2ZFVwVnJqU2N2MVZMaGxiQkV5ZFZzeERWZG9zOHVkVEpYQW8xaEtjWnRILWlCaEJPUWNOVnRWYVRNd041aDcwdEpveVd2N1JuUnZxNlVpR09QY0x2SHNkU0xxa3gtSXFYSDJfeEwwcmpWdTNva2xqSzU0d1VucTdCc2hYU3g4WQ?oc=5"
-    }
-   ],
-   "date": "2026-11-16T16:20:09.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "alertes-a-la-bombe-en-serie-cyberattaques-sabotages-l-europe-cherche-la-bonne-pa",
-   "title": "Alertes à la bombe en série, cyberattaques, sabotages… l'Europe cherche la bonne parade",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOS11ZDJmUTVfNDlsRXZkYnBXVTJpdk1nbmFvZTFpbncyYkFZcVdaVWt6ZDVZVFFQdF9GNmVYdGhGNEVMXzNJYWpFWUpheGpnYXBxUE5kUnVPVlEyS0FMVGhqWDJZUU1IZ0RibmEycUptdVl2ZXd2UXBMeDZwNTFURGhPdGJPeWtqRGlpSklQeHNkMWlsNmczN1YwRFd4SVZGVXBfVnlhYW1xcUNCalAybDNXU3ZRRkh4V3NJRkkybUZkcElLUV9CRkVvWG5YRzFRMWxQdmdsVGtIZ0k?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T16:26:55.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "cinema-robert-pattinson-est-le-nouveau-james-bond",
-   "title": "Cinéma : Robert Pattinson est le nouveau James Bond",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2VsTTYyWHlOdlVxdGpiZmYzOFBrUW1lS1ozdTIyR1F4dG53TEdUS0cwUXdSWE81eG56MUtmckVxT2lwdUQ3YTBtZFRiTk9RZ2tYRUM3WTM4ZnlaUVR6c1lvcF9XckZJZjFtcXN3ZHZEUXFlMjg0WTRxSnpvTkl2QTR4ZkQxTEMxOFQyTlRUVWZTQ1RQQnlZWTRsdDBVS3F0T3o0aVJR?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T16:12:00.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "calvados-aux-accents-tourbes-cognacs-rares-notre-selection-de-spiritueux-qui-sor",
-   "title": "Calvados aux accents tourbés, cognacs rares : notre sélection de spiritueux qui sortent des sentiers battus",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUWV1Y3VpUmtRbUNtT0lpNUxOOWk2dUxVYzBvY3B5MS1pZFMtX01NbUJhb2dLZGVVbi1DNndnbE1vOUFrQVZvbGxZcWU2bG14RlJFYjBublJWUzl2MnluR0FuYzhtTm9LOWU3VGNrbGNDYXoyMWVjd2hKdzE5eEZvbUdnNG1uQkw2M0RpbkM5THdrREZPclFqTUpIS000Y19CeHpoc0tUS01TSGtQQm9tTkRxOG1DdlB5Z3N0cU9NQ0lwRnNJLTlsZUVfX1Q1LUVFLUlOR1M2eWxXMDhtZUpaWUpma3N2X3dwcU1sOGJEbF9hOFE?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T17:05:31.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "budget-2027-la-facture-des-mesures-anti-crise-s-allonge-dangereusement",
-   "title": "Budget 2027 : la facture des mesures anti-crise s'allonge dangereusement",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVnlpSTgzakE1VVpvYmxuaTdFWmdndUxuMmRweW9pSTRZdWJ6RkJhY2ZKeDBPa1JDQUJLUVJSTVNnaVg1cEtXOUVrV3RtdEJaSHV5alNsMXVSZTNsS0h5OTNUdkJMeEx1aW1nT213RzNxbzdFRHozdmxaYk5rbmFnRVF2cUlfZmVCQ1prOEU5NS1YckxZQjVxMzk0R3c3T2U1WXV4OFF4R2N3VnZtMEdkR3Qybl9hMkdHTzdwejZqOHNCU2FiSW45NlpaeU0xS2s?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T16:49:15.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "uniper-la-cote-deconnectee",
-   "title": "Uniper, la cote déconnectée",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlJOMlU5WUh3WGJjSjI4Q1VaT1lYT3JsM3psVHpJV3ZkQlZjMU52YTFNSm9BeGFNOUNXbTJJR3NQREhGYW9kQUVhT0s3WmYxSmYtd3pUUnFNQW1XUjZNVllNc3pMS296OWtrSkFyellWUENNVG80WEhTcVVhQkl1Z1pJZkZLVmdjOWxfWW5OcXZ1eG11dGF0ZDBkQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T18:06:47.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "hubs-de-retour-ce-que-l-on-sait-du-centre-pour-migrants-que-cinq-pays-d-europe-v",
-   "title": "« Hubs de retour » : ce que l'on sait du centre pour migrants que cinq pays d'Europe veulent ouvrir au Rwanda en 2027",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNG1RaDYtY2ZWZ0FzQlA2WElwNmZxZVlLeHhnUnlrbEU4Z3NhVDdUVk9mLXVvSi1SRVJLR0V0bDJzUG9fLURTWjNjMExPZWtrbDQ5UDZOZ3ZaRkdHdjhqTmlydmFNY2UtaEVTRWh6UEk2YUdlZUlyZXJsWXZvNHh1Zi1Yck1jUno5ZVBsTW9VWXZ2T2JkNllfOFZQZWJzMWFnQWJ6WHhUN2pxNURDcjZjc1VaTHp2RnRqTUJEY3J0QkZodC1mdEhBYy1adkNKTVVsbGhRS2lVTXlVRnlkSGhXTWt1WF9iT2pCMnc?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T18:04:15.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "l-ere-de-la-guerre-technologique",
-   "title": "L'ère de la guerre technologique",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmZHWlNmczFGRGR1X09jOUxfQjJEcDYxZkRXUnl0UHJrVDB1bWlDbVRFUEJ0VWsteUM1cklDRFFIWFFBOXJ3a21PdWFIemUyQmREU1Vnc3B5cEQxM0luQll0T3pIblJqMS1Wc096bGZVVjlhc2NscWN5LXpJTEZGX3ZCV3R2ajNZd0pocnRDS1E0b091VEI0?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T16:49:30.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "en-indonesie-le-nationalisme-des-ressources-minieres-prend-de-l-ampleur",
-   "title": "En Indonésie, le nationalisme des ressources minières prend de l'ampleur",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2dZZU9nSG8wVEphMVk5bkItQ0hkMWlkWW4zNmZXNWw5cXR2MHR5Y1BxRmthM0ozOEVnY0Fvb2NHR2dlMFZNZm5CNGZvSXNaWmhSamg2dXhuU3FLZlVkSWRZREhkWmZhR3lrUzRxR2hoV3lGQ2lNR1FhZ05aLUhpd1JoRUhxMnB5bzRoRUNfRWM4QzdsSUhGU1p4VkdhbjQ3bjE2dk5jRjFjZHltVU02MVhzNGoxQmczUWdUaFZiMEItaU9BZlptZUxFX1BLZnlUQTk0?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T16:11:54.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "la-consommation-de-cartes-sim-est-souvent-un-signal-precurseur-d-une-escroquerie",
-   "title": "« La consommation de cartes SIM est souvent un signal précurseur d'une escroquerie de masse » : comment le Gafi travaille pour démanteler les fraudes",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOSTB3TXNQaUpqYUt4RnlYN0lfM3gyMjdCMXFXV3haMDV2bWNjSHJBTlh3UDI3Znh4Rnp0X2E1RWptU1RSQWdOa0hqOHJBRmVLOEZKb2FGczF6eVJBVWlrb0VQYXIyb0p3bGJHcHRPMERwb3NaV0dFcHoyNGdnVDdJdC1xVGw2T3JlcmF3dTVCZDh3em5FSUhYaHZuZ2VYVTlwVU9QSkl5d2VSU0R1YWtmSlVucXRlclc1enRRd3M5cFlGdWhBeXJVTW14TlBoaVc2Mk81ZWV5ZUxYS0NWMDYyaXNpeXVHWm5nXzZ2NWk3VmFkS2tEWjhaTEFXamVhcXozbDMyT004MDlkNXhZUloydnN5TjE5dG1od0tvLXBoaERTdEVtUVREcGJR?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T17:00:09.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "affrontements-expulsions-morts-la-lutte-contre-l-orpaillage-clandestin-degenere-",
-   "title": "Affrontements, expulsions, morts… La lutte contre l'orpaillage clandestin dégénère en Guinée",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeng5ZmpOZmdhT3oxOUp6ZjhKbE9RelMzRjVrQU9SOVBIN0NUMG9NT293ZmlWMF9xOEpiM2VFbW9IdDk3V2J5YkVBc2U1UERyTUhybTBESXZLNFlpTFU5TXg4MGd3WTFwb0MyRkZZcy1rbEdvQXBvWnc1S0FXVVVITUNnbzNGTDZxaTFiVmJ5STg3bjNsQUhhZ2U3RmM2TXAwQkR3LWlOT2xrbVB4TG00UUotWVFTdWpPVDV4MmFLTWZVTF9FdzQ1aWhvMFktNG91NUpkVlZET3hEcWxuM1hCRXBZbUp5MzF5TlBj?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T17:19:14.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "l-atelier-v-veut-democratiser-la-consommation-de-legumineuses",
-   "title": "L'atelier V veut « démocratiser » la consommation de légumineuses",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUdfSngtZnpzTVdxa3p6YWJFSGdTbjloVXBzRGVCODhKTE45U01MWFZQNEtNOVg2Mkx2UjJTRzlvSnRuZUI1WXNPNHRnMG51UTZhMmc3Q05DSFV1SGNibkxEcVl0VGdONjFqSnEteDMydmw4Y045M0ZWdWxmWVZtd3JZZ29GRGlRYkM3ZFBYdWhTenp5NTRTOHRZNm1QWkY2d3h2S3FRTEo3M0V1U3lSOWZaSQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "related": [],
-   "date": "2026-11-16T16:05:11.000Z",
-   "categories": [],
    "score": 3
   },
   {
