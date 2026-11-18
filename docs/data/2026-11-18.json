@@ -1,11 +1,11 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T04:28:59.566Z",
+ "generatedAt": "2026-11-18T04:39:39.706Z",
  "windowHours": 36,
  "counts": {
-  "articles": 57,
-  "raw": 90,
-  "media": 39
+  "articles": 58,
+  "raw": 93,
+  "media": 40
  },
  "sources": [
   {
@@ -41,7 +41,7 @@
   {
    "source": "Google News · Mistral AI",
    "ok": true,
-   "items": 26
+   "items": 28
   },
   {
    "source": "Google News · startup française levée de fonds",
@@ -101,9 +101,9 @@
     "Maddyness",
     "lefilia.fr",
     "WanSquare",
+    "Les Echos",
     "Boursorama",
-    "Zonebourse",
-    "Les Echos"
+    "Zonebourse"
    ],
    "articles": [
     {
@@ -127,6 +127,11 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHAzbVVNWFpZUU1RTHp3STlrcmpSZFFfVjZla05PZ0hpam5nOE9XejNMOGhKYkxaTGp0QkROVlMxZlAwSkJ2d2dndDkzN2VPRFZtWmFNQzVnNk1wVWZTS0hJQnA0bnQtMUVuSU9kQVp6SjR1ejRCWE1yTGFmNjZHTE1oVXJLbTNDOVpKVWJZbUtvdkdWVF9aQnBWb25lb3BuenlIMlpjVi1PaUlvVkVCdXZNR0w5dw?oc=5"
     },
     {
+     "source": "Les Echos",
+     "title": "Genesis AI boucle une levée de plus de 450 M€",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJ3c3RJV2Z3Y0JsdWVfT3pLeU9tQWZlSFc2V3ZQR2hmYzZlZFVYYmo3bGlzYkFCQ0RILXhQSHFHeS1NQzA1S1FKMGJaMTBQZUZNVnoybmE2LWY4alU5TW1YQS1peVNEd2FjOEtYYk9nWUh2VFBlRGNJTHJ1MlBCY0pxNGxXZ1dZRmhoUUF6WjdQRkc0endOU2hyaGZIMzlXaEppRi1UOWpQWHNLYTM5VA?oc=5"
+    },
+    {
      "source": "Boursorama",
      "title": "Le fabricant français de robots Genesis lève 500 millions de dollars, avec une valorisation de 3,5 milliards d",
      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPbFZpbkVmb0NnVmRnaDZSQzNKMkxfdGZ5bjZOZUFzMUVkdDd4eU5abjNlRHVMemQwaWstMWx2LS1JenRWSmZZdjNMZ0Fmdm1Qd0NTYlloQkU3NU83dGVid25tcUgxUndab3VhMENRZTRic3I0bHJLMTJkNHdXVm5CcmRXUnZuVXJETXlfVndFMTZUVXlaLTV0cEZvMjJoeTl3NFpLWVVMcGk3ZWpXWktpUU9GWkl0TXpfMHp5WW1iNHdxYTFGd0lUSlFvZ3ZlWEI0c20tNVNmQmNnYWtJamRSR0xMV2xCaHZGdElPM1VuMUxQV20tblpPQnpxVF9BLWltWVI2M2dIbWJEbk1hZGVHNnM3ZTVhMkxIQ1ZZYkFaSDRDV01vMW440gGnAkFVX3lxTE9sVmluRWZvQ2dWZGdoNlJDM0oyTF90ZnluNk5lQXMxRWR0N3h5TlpuM2VEdUx6ZDBpay0xbHYtLUl6dFZKZll2M0xnQWZ2bVB3Q1NiWWhCRTc1Tzd0ZWJ3bm1xSDFSd1pvdWEwQ1FlNGJzcjRscksxMmQ0d1dWbkJyZFdSdm5VckRNeV9Wd0UxNlRVeVotNXRwRm8yMmh5OXc0WktZVUxwaTdlaldaS2lRT0ZaSXRNel8wenlZbWI0d3FhMUZ3SVRKUW9ndmVYQjRzbS01U2ZCY2dha0lqZFJHTExXbEJodkZ0SU8zVW4xTFBXbS1uWk9CenFUX0EtaW1ZUjYzZ0htYkRuTWFkZUc2czdlNWEyTEhDVlliQVpINENXTW8xbjg?oc=5"
@@ -135,11 +140,6 @@
      "source": "Zonebourse",
      "title": "Genesis AI lève plus de 450 millions d'euros",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZl9xV3EzY1N3ZExNakZ5UlNNTkRCQ3ZpdWRUcXlYblBCc3FzcmhROFBFajlWNVBDdldhTjl6X25NRkhiOVRGWFZjc2lMUjlVbFNEaFRwZHhGdHNrZHFuLUxuakw5MDg2UllPRzIxaXBITEtnTDB6ZGhPTmVSV29tUXVhZm5EVF9PUkxfZEUwRW01LVFsYVRNZ3l0aVdUVGJ5OXl1dlFoUzI?oc=5"
-    },
-    {
-     "source": "Les Echos",
-     "title": "Genesis AI boucle une levée de plus de 450 M€",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJ3c3RJV2Z3Y0JsdWVfT3pLeU9tQWZlSFc2V3ZQR2hmYzZlZFVYYmo3bGlzYkFCQ0RILXhQSHFHeS1NQzA1S1FKMGJaMTBQZUZNVnoybmE2LWY4alU5TW1YQS1peVNEd2FjOEtYYk9nWUh2VFBlRGNJTHJ1MlBCY0pxNGxXZ1dZRmhoUUF6WjdQRkc0endOU2hyaGZIMzlXaEppRi1UOWpQWHNLYTM5VA?oc=5"
     }
    ],
    "brief": {
@@ -171,7 +171,7 @@
     "Levées de fonds",
     "IA"
    ],
-   "score": 26.1
+   "score": 26
   },
   {
    "id": "qluster-leve-4-7-millions-d-euros-pour-developper-un-accelerateur-quantique-phot",
@@ -247,13 +247,14 @@
     "Maddyness",
     "Siècle Digital",
     "FranceTransactions.com",
-    "BFM",
+    "Brief IA",
     "BDM",
+    "BFM",
     "Ouest-France",
     "Numerama",
     "Servicesmobiles.fr",
     "Melles750",
-    "Brief IA"
+    "lefilia.fr"
    ],
    "articles": [
     {
@@ -272,14 +273,19 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3g0T2lhbWdVMUJVQUNyMzcyZHFnVlY1dlpLVi11b1FlLTVpLVJpSFhvVklDVUQwNFpIVTlFUEJ5ZTFCN1M1Wmc1NFFlM1JVV1dsRWdLdjNOTUZ4Q0k4R3hwblF1RjRUeTgyWXRDUXhJa0RISm94dmI2eGw4OW1zZjZRVDIxQVFDbXJCLUFVQUZXWnRhTWJJS202VjJyTVU4bUc5cGtXekZ0aF9HbWJtaW81cWJXZDV5SWR1UlVNdE8xTnplU0k2WWR1R1RpbXNUeTExV3hfeklUQTNoZXc?oc=5"
     },
     {
-     "source": "BFM",
-     "title": "Moins de 100 salariés face aux géants de l'IA: le pari fou du français OVHcloud qui veut concurrencer Mistral et les Américains et vise 100 millions d'utilisateurs",
-     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZmZJM3VRa1hKTWJyalRfNGt2b3NFU0JPRkZtVFpZVXBKczNOQU1SblpEYkVmaHhvcml0czNiMUhJX1I3OE5VLS1OVXF2Nm1SU050OGFwdzBqV2FkYXcwUEpValJKOC0ySHljTXhWUFZtUlpTS1RKXzNiODllVGluSWk5OUtuOFlqLWc5SUlWX1d0YjhESTFubzA4eEdOeG5wekdzNEIyUTV0TUJHSnpKcFI0aDFjNWlMQk91cDNSYk9iM3BxSUZEcWFqV25yQ1M1RzVhRDhuN2NVcDRmMGZ0djB0cDVleXBkLUR4c3QxcGNpb2tTbExCR1V2QjZFSFJ1YzlDTFg3Z0FaWldDY1pHX1FyWGw1ckVGdEFpZ3Q3MXFlR2ZpS0JpbF9MUGV6SU1hWHo2Y2JSdEJHNmNla1Y3a2hReGwyNlpqVXpSVk0wM3RfNDJuZGduaQ?oc=5"
+     "source": "Brief IA",
+     "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5"
     },
     {
      "source": "BDM",
      "title": "Le Français OVHcloud se lance dans les LLM avec Olala, un petit modèle ouvert",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnRjNiQ21YdVhuQ0FmTno0V1oyQXFWX2JfMEVvTU9FYUNNNUtNQWNZdFhqRUFZUGZvZDk1RnBSaVc2NU1YaE16THJ0RmR2X2R6WS1sZThidkd4ZXFjNU9yQlhkd3E4NE1MRnBqRmZrZWVISzlKeDZmTnRYcmo?oc=5"
+    },
+    {
+     "source": "BFM",
+     "title": "Moins de 100 salariés face aux géants de l'IA: le pari fou du français OVHcloud qui veut concurrencer Mistral et les Américains et vise 100 millions d'utilisateurs",
+     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZmZJM3VRa1hKTWJyalRfNGt2b3NFU0JPRkZtVFpZVXBKczNOQU1SblpEYkVmaHhvcml0czNiMUhJX1I3OE5VLS1OVXF2Nm1SU050OGFwdzBqV2FkYXcwUEpValJKOC0ySHljTXhWUFZtUlpTS1RKXzNiODllVGluSWk5OUtuOFlqLWc5SUlWX1d0YjhESTFubzA4eEdOeG5wekdzNEIyUTV0TUJHSnpKcFI0aDFjNWlMQk91cDNSYk9iM3BxSUZEcWFqV25yQ1M1RzVhRDhuN2NVcDRmMGZ0djB0cDVleXBkLUR4c3QxcGNpb2tTbExCR1V2QjZFSFJ1YzlDTFg3Z0FaWldDY1pHX1FyWGw1ckVGdEFpZ3Q3MXFlR2ZpS0JpbF9MUGV6SU1hWHo2Y2JSdEJHNmNla1Y3a2hReGwyNlpqVXpSVk0wM3RfNDJuZGduaQ?oc=5"
     },
     {
      "source": "Ouest-France",
@@ -302,9 +308,9 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1Z1enZadDl2SzJBVWRVeFlmdVJiVlYybTlmUVlXWVAtTGVVRC1RVUo4S1JsaGdXNUQyNm1BeVdJVk5HZ25MbExTNG1GdlNNd1d1bHRyb3JsOHBGZGtlT1k2TjRGUG5pTGtqeHJaTWVJSEVDYzJ2T1Z1amZ1YkVIZ1R4TmhTcUFUMWVHSlRibUpLWWJ0UG1YWA?oc=5"
     },
     {
-     "source": "Brief IA",
-     "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5"
+     "source": "lefilia.fr",
+     "title": "Olala mini : la première IA française d’OVHcloud tient sur un PC sans carte graphique dédiée",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3dUZHh0Y0dnRlZhdkNKaTRZRkRROHNvWTg2WmhVc3ZrdTByM1pVLXBuOU5lU3F0RmF5cklFaXo2eHlpOUVMeWtYSUdTc2dLZThFRkZEQjUzbzduMVZxM3FvSjNXS2RnNGNqcEVpNjRVek1OeDFnTzFYZkl2WnhocFplWlJMWS1ZYTlhbkFzUkx2MlAzYTV2NEY1NjY5TVAwVExLa01weDZrcXlqdkQ0enI5X3BmNWpvOEs4bjhDLXNlekFobmJXYw?oc=5"
     }
    ],
    "brief": {
@@ -316,7 +322,7 @@
     ],
     "facts": []
    },
-   "date": "2026-11-17T08:07:29.000Z",
+   "date": "2026-11-17T07:08:02.000Z",
    "categories": [
     "IA"
    ],
@@ -447,7 +453,7 @@
     "IA",
     "Politique & écosystème"
    ],
-   "score": 9.3
+   "score": 9.2
   },
   {
    "id": "dette-la-commission-europeenne-s-attend-a-une-nouvelle-degradation-des-finances-",
@@ -547,7 +553,7 @@
    ],
    "date": "2026-11-17T16:40:42.000Z",
    "categories": [],
-   "score": 7.2
+   "score": 7.1
   },
   {
    "id": "l-opportunite-est-immense-comment-genesis-ai-est-devenue-la-nouvelle-licorne-de-",
@@ -624,7 +630,6 @@
    "title": "MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA",
    "url": "https://www.maddyness.com/2026/11/17/mad30-shopify-ia-e-commerce/",
    "summary": "",
-   "image": "https://www.maddyness.com/app/uploads/2026/11/Mad-30-elargit.png",
    "sources": [
     "Maddyness"
    ],
@@ -667,7 +672,6 @@
    "title": "Si l'IA fait le travail des débutants, d'où viendront les experts de demain ?",
    "url": "https://www.maddyness.com/2026/11/17/si-lia-fait-le-travail-des-debutants-dou-viendront-les-experts-de-demain/",
    "summary": "",
-   "image": "https://www.maddyness.com/app/uploads/2026/11/Jean-Eudes-Yahouedeou-Seeqle.jpg",
    "sources": [
     "Maddyness"
    ],
@@ -689,7 +693,6 @@
    "title": "L'IA ne se déploie pas, elle se manage",
    "url": "https://www.maddyness.com/2026/11/17/management-ia-transformation-travail/",
    "summary": "",
-   "image": "https://www.maddyness.com/app/uploads/2026/11/Illus-V5-57.jpg",
    "sources": [
     "Maddyness"
    ],
@@ -703,27 +706,6 @@
    "date": "2026-11-17T08:00:21.000Z",
    "categories": [
     "IA"
-   ],
-   "score": 5.3
-  },
-  {
-   "id": "french-tech-cailabs-specialiste-des-communications-laser-17-11",
-   "title": "French Tech : Cailabs, spécialiste des communications laser - 17/11",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSGJ6M0dUb3c4dVNWeVkyQXkxV1JvYUlKZWdmQnpGY0g0LXpMaldXdEZXcFNUSnUyLW16ZjRWbUUxOG1HZXd0U2tmUHE2VlhRVmpRVE9JcjhXZm42M2k0OVQxeUo0RGd2bW5XcGZHVC1IajhwOGVlUzNFcDNjRnJKS1dkZGk1RThpSzlwQWdRR1BtOVJhX2NaLXB2Uk9nTG9Kbk9aRlZxbzdKYzhEVko2Ymh0V01jZWxBSVc0bjZWSGw2OEd3RTliVFBZVDhGZGMzWW4weURSMVBwcUN4R0hvWTl1SQ?oc=5",
-   "summary": "",
-   "sources": [
-    "BFM"
-   ],
-   "articles": [
-    {
-     "source": "BFM",
-     "title": "French Tech : Cailabs, spécialiste des communications laser - 17/11",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSGJ6M0dUb3c4dVNWeVkyQXkxV1JvYUlKZWdmQnpGY0g0LXpMaldXdEZXcFNUSnUyLW16ZjRWbUUxOG1HZXd0U2tmUHE2VlhRVmpRVE9JcjhXZm42M2k0OVQxeUo0RGd2bW5XcGZHVC1IajhwOGVlUzNFcDNjRnJKS1dkZGk1RThpSzlwQWdRR1BtOVJhX2NaLXB2Uk9nTG9Kbk9aRlZxbzdKYzhEVko2Ymh0V01jZWxBSVc0bjZWSGw2OEd3RTliVFBZVDhGZGMzWW4weURSMVBwcUN4R0hvWTl1SQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T07:37:22.000Z",
-   "categories": [
-    "Politique & écosystème"
    ],
    "score": 5.3
   },
@@ -749,6 +731,27 @@
    "score": 5.3
   },
   {
+   "id": "french-tech-cailabs-specialiste-des-communications-laser-17-11",
+   "title": "French Tech : Cailabs, spécialiste des communications laser - 17/11",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSGJ6M0dUb3c4dVNWeVkyQXkxV1JvYUlKZWdmQnpGY0g0LXpMaldXdEZXcFNUSnUyLW16ZjRWbUUxOG1HZXd0U2tmUHE2VlhRVmpRVE9JcjhXZm42M2k0OVQxeUo0RGd2bW5XcGZHVC1IajhwOGVlUzNFcDNjRnJKS1dkZGk1RThpSzlwQWdRR1BtOVJhX2NaLXB2Uk9nTG9Kbk9aRlZxbzdKYzhEVko2Ymh0V01jZWxBSVc0bjZWSGw2OEd3RTliVFBZVDhGZGMzWW4weURSMVBwcUN4R0hvWTl1SQ?oc=5",
+   "summary": "",
+   "sources": [
+    "BFM"
+   ],
+   "articles": [
+    {
+     "source": "BFM",
+     "title": "French Tech : Cailabs, spécialiste des communications laser - 17/11",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSGJ6M0dUb3c4dVNWeVkyQXkxV1JvYUlKZWdmQnpGY0g0LXpMaldXdEZXcFNUSnUyLW16ZjRWbUUxOG1HZXd0U2tmUHE2VlhRVmpRVE9JcjhXZm42M2k0OVQxeUo0RGd2bW5XcGZHVC1IajhwOGVlUzNFcDNjRnJKS1dkZGk1RThpSzlwQWdRR1BtOVJhX2NaLXB2Uk9nTG9Kbk9aRlZxbzdKYzhEVko2Ymh0V01jZWxBSVc0bjZWSGw2OEd3RTliVFBZVDhGZGMzWW4weURSMVBwcUN4R0hvWTl1SQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T07:37:22.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5.2
+  },
+  {
    "id": "de-start-up-a-banque-comment-qonto-s-est-taille-une-place-a-part-dans-l-ecosyste",
    "title": "De start-up à banque, comment Qonto s'est taillé une place à part dans l'écosystème français",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUU9YZFFlSlJNdTFyaXNVUVJEN0t0WElEdS1kZHptd2FkWFllX0N6TjhEM1FkU1ZoaUIwLTNaTkNCeXVsZnRZdVBaUHR1M3Z6S1BWdkI2TDRTeWgxOUN2dWFqT2VZM1BkOXJmeXRLanVZa1ZvM3ZjUVRlVWExSGVRNG1mZTJUX1N3eFFYVlJucHl6MzhJX19SbS1OcWVZN1d4ZlZQeEZ0Wk83c3hRQi1SZE5GUEd2LUg4YllmYWh2OHhjckhZZ3pvOTliQ0M5S1ZfaDVVV1dlWUFkN0FtdHJtdmg4NnZZVEdDVkVV?oc=5",
@@ -763,7 +766,7 @@
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUU9YZFFlSlJNdTFyaXNVUVJEN0t0WElEdS1kZHptd2FkWFllX0N6TjhEM1FkU1ZoaUIwLTNaTkNCeXVsZnRZdVBaUHR1M3Z6S1BWdkI2TDRTeWgxOUN2dWFqT2VZM1BkOXJmeXRLanVZa1ZvM3ZjUVRlVWExSGVRNG1mZTJUX1N3eFFYVlJucHl6MzhJX19SbS1OcWVZN1d4ZlZQeEZ0Wk83c3hRQi1SZE5GUEd2LUg4YllmYWh2OHhjckhZZ3pvOTliQ0M5S1ZfaDVVV1dlWUFkN0FtdHJtdmg4NnZZVEdDVkVV?oc=5"
     }
    ],
-   "date": "2026-11-17T18:00:00.000Z",
+   "date": "2026-11-17T17:57:46.000Z",
    "categories": [],
    "score": 5.1
   },
@@ -947,6 +950,27 @@
    "score": 4.5
   },
   {
+   "id": "6-ia-qui-ouvrent-de-nouvelles-possibilites-en-gestion",
+   "title": "6 IA QUI OUVRENT DE NOUVELLES POSSIBILITÉS EN GESTION 🤔",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkw2M0RyZUFRaGpJQ3EwbjFGdFZ1UExXaUt5S2JiNzE5dG1lZ3JwRkJmaW16OHQ1bk8xRkxMT05YWXBaVWRfWENJVHc0WmRNVUw2WDJldDZZaFdiRU9MdWVqZ2VweFMwTWlPd044T1c5TVh0NXhKdlpSSm55S3p3MFZaelFuV19fdFB3Uk9R?oc=5",
+   "summary": "",
+   "sources": [
+    "HRImag"
+   ],
+   "articles": [
+    {
+     "source": "HRImag",
+     "title": "6 IA QUI OUVRENT DE NOUVELLES POSSIBILITÉS EN GESTION 🤔",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkw2M0RyZUFRaGpJQ3EwbjFGdFZ1UExXaUt5S2JiNzE5dG1lZ3JwRkJmaW16OHQ1bk8xRkxMT05YWXBaVWRfWENJVHc0WmRNVUw2WDJldDZZaFdiRU9MdWVqZ2VweFMwTWlPd044T1c5TVh0NXhKdlpSSm55S3p3MFZaelFuV19fdFB3Uk9R?oc=5"
+    }
+   ],
+   "date": "2026-11-17T21:46:10.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.4
+  },
+  {
    "id": "cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-l-agence-de-cybe",
    "title": "Cette startup française a trouvé des identifiants appartenant à l’agence de cybersécurité américaine…",
    "url": "https://www.maddyness.com/2026/11/17/cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-lagence-de-cybersecurite-americaine/",
@@ -1018,6 +1042,48 @@
    "score": 4.2
   },
   {
+   "id": "ia-une-proposition-de-loi-pour-proteger-la-creation-toujours-enlisee-a-l-assembl",
+   "title": "IA : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc24zVTVUNE5kU2Y4YXQ2SVkwbExtWDRIVkJYM3RaN1lrSVl2X3VRUkVKSUE5ZU9DV1ZwTGlVRXJBTUx4RV9VNkV1MFlIelhtcnRkWVN3VVZrNmgtMVU5SmIzNndTRlZqTVNXUmVGcEF0c0NUSUFMZEU2QUZmak5WMDdxLUZEY05leXExWkt3dHdEbHd2SFNZ?oc=5",
+   "summary": "",
+   "sources": [
+    "CB News"
+   ],
+   "articles": [
+    {
+     "source": "CB News",
+     "title": "IA : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc24zVTVUNE5kU2Y4YXQ2SVkwbExtWDRIVkJYM3RaN1lrSVl2X3VRUkVKSUE5ZU9DV1ZwTGlVRXJBTUx4RV9VNkV1MFlIelhtcnRkWVN3VVZrNmgtMVU5SmIzNndTRlZqTVNXUmVGcEF0c0NUSUFMZEU2QUZmak5WMDdxLUZEY05leXExWkt3dHdEbHd2SFNZ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T19:02:15.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.2
+  },
+  {
+   "id": "ia-insider-la-chute-de-jensen-huang-remet-en-cause-le-futur-de-nvidia",
+   "title": "[IA Insider] La chute de Jensen Huang remet en cause le futur de Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTHY2dmFaa3BYdXB6bG0wWi0yaHh2YTFzT2lFaldTcEtQVW92ME9xS1pha0h4RlNnVnJJS2JZbk1qeHYxUE9KRjVmYnpYai0ycW1kSEFraHUybTFXTFloY2I3bG1DdjJQVVJDX3hCd2dZVzBnMUZTc3Ftamc5ZDBvNUU4Y0tDOFBNa2kxWE1vUlZ5TUFIbWI0QUpPdGx4MGc3aTl0N1RkcC1tQnNxbnlKTWZJZHdWSS1jNWlHcTZaZzV1clR6TV9GNXBxdU9UeWRkRl8tQW1rUUFzdXliajBzOWRtSFdsQ2NHelVNdmkycGpjeGZpSndpTkUtUjdkQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "L'Usine Digitale"
+   ],
+   "articles": [
+    {
+     "source": "L'Usine Digitale",
+     "title": "[IA Insider] La chute de Jensen Huang remet en cause le futur de Nvidia",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTHY2dmFaa3BYdXB6bG0wWi0yaHh2YTFzT2lFaldTcEtQVW92ME9xS1pha0h4RlNnVnJJS2JZbk1qeHYxUE9KRjVmYnpYai0ycW1kSEFraHUybTFXTFloY2I3bG1DdjJQVVJDX3hCd2dZVzBnMUZTc3Ftamc5ZDBvNUU4Y0tDOFBNa2kxWE1vUlZ5TUFIbWI0QUpPdGx4MGc3aTl0N1RkcC1tQnNxbnlKTWZJZHdWSS1jNWlHcTZaZzV1clR6TV9GNXBxdU9UeWRkRl8tQW1rUUFzdXliajBzOWRtSFdsQ2NHelVNdmkycGpjeGZpSndpTkUtUjdkQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T16:14:04.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4
+  },
+  {
    "id": "presage-veut-tester-les-changements-du-cloud-avant-leur-mise-en-production",
    "title": "PRÉSAGE veut tester les changements du cloud avant leur mise en production",
    "url": "https://www.frenchweb.fr/presage-veut-tester-les-changements-du-cloud-avant-leur-mise-en-production/900000047?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
@@ -1044,49 +1110,7 @@
    "categories": [
     "Talents & nominations"
    ],
-   "score": 4.1
-  },
-  {
-   "id": "ia-insider-la-chute-de-jensen-huang-remet-en-cause-le-futur-de-nvidia",
-   "title": "[IA Insider] La chute de Jensen Huang remet en cause le futur de Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTHY2dmFaa3BYdXB6bG0wWi0yaHh2YTFzT2lFaldTcEtQVW92ME9xS1pha0h4RlNnVnJJS2JZbk1qeHYxUE9KRjVmYnpYai0ycW1kSEFraHUybTFXTFloY2I3bG1DdjJQVVJDX3hCd2dZVzBnMUZTc3Ftamc5ZDBvNUU4Y0tDOFBNa2kxWE1vUlZ5TUFIbWI0QUpPdGx4MGc3aTl0N1RkcC1tQnNxbnlKTWZJZHdWSS1jNWlHcTZaZzV1clR6TV9GNXBxdU9UeWRkRl8tQW1rUUFzdXliajBzOWRtSFdsQ2NHelVNdmkycGpjeGZpSndpTkUtUjdkQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "L'Usine Digitale"
-   ],
-   "articles": [
-    {
-     "source": "L'Usine Digitale",
-     "title": "[IA Insider] La chute de Jensen Huang remet en cause le futur de Nvidia",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTHY2dmFaa3BYdXB6bG0wWi0yaHh2YTFzT2lFaldTcEtQVW92ME9xS1pha0h4RlNnVnJJS2JZbk1qeHYxUE9KRjVmYnpYai0ycW1kSEFraHUybTFXTFloY2I3bG1DdjJQVVJDX3hCd2dZVzBnMUZTc3Ftamc5ZDBvNUU4Y0tDOFBNa2kxWE1vUlZ5TUFIbWI0QUpPdGx4MGc3aTl0N1RkcC1tQnNxbnlKTWZJZHdWSS1jNWlHcTZaZzV1clR6TV9GNXBxdU9UeWRkRl8tQW1rUUFzdXliajBzOWRtSFdsQ2NHelVNdmkycGpjeGZpSndpTkUtUjdkQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T16:14:04.000Z",
-   "categories": [
-    "IA"
-   ],
    "score": 4
-  },
-  {
-   "id": "ia-et-droits-d-auteur-la-proposition-de-loi-darcos-pour-proteger-la-creation-tou",
-   "title": "IA et droits d’auteur : la proposition de loi Darcos pour protéger la création toujours enlisée à l’Assemblée nationale",
-   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUFRXSWJQaUhxVzBRakw0b1VYa2pUMm53c2YycV8tMHJ5LVRxZC1pUl9lQzhsckM0TW5qVnBKRy1talpqSnNPSjZJZXdzVTFDNWhhRVdCZmpDUEp6aFd3NTBQcmx2eF91TEJTLWkyUGw0Y2NwTUhrbi1vMjRoajNqSDRqcjQyYklNcmFUelZMaUNZZm03N3VmcjJXbGcwOEVUb2xSSmdHVzR1cjhremlnNXRsa2pBdTA3WTlvNVJLdi1lMWVJVi1yWXBIS2FjNTdxV09yTnVJdkJzNVZPbXYxN1R6Vm5TdzVQWVlNeXhoSGE5djhzcWRmaGlNOWlQOFpJTExYdUhxRzRxU25qNExYZkNEdW8xSURCNDhBZ1JZaTM0SjRFUmZ6NGNld0Y?oc=5",
-   "summary": "",
-   "sources": [
-    "Sud Ouest"
-   ],
-   "articles": [
-    {
-     "source": "Sud Ouest",
-     "title": "IA et droits d’auteur : la proposition de loi Darcos pour protéger la création toujours enlisée à l’Assemblée nationale",
-     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUFRXSWJQaUhxVzBRakw0b1VYa2pUMm53c2YycV8tMHJ5LVRxZC1pUl9lQzhsckM0TW5qVnBKRy1talpqSnNPSjZJZXdzVTFDNWhhRVdCZmpDUEp6aFd3NTBQcmx2eF91TEJTLWkyUGw0Y2NwTUhrbi1vMjRoajNqSDRqcjQyYklNcmFUelZMaUNZZm03N3VmcjJXbGcwOEVUb2xSSmdHVzR1cjhremlnNXRsa2pBdTA3WTlvNVJLdi1lMWVJVi1yWXBIS2FjNTdxV09yTnVJdkJzNVZPbXYxN1R6Vm5TdzVQWVlNeXhoSGE5djhzcWRmaGlNOWlQOFpJTExYdUhxRzRxU25qNExYZkNEdW8xSURCNDhBZ1JZaTM0SjRFUmZ6NGNld0Y?oc=5"
-    }
-   ],
-   "date": "2026-11-17T15:31:32.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3.9
   },
   {
    "id": "anyos-ouvre-son-capital-au-grand-public-pour-en-finir-avec-les-bornes-de-recharg",
@@ -1224,27 +1248,6 @@
    "score": 3.2
   },
   {
-   "id": "l-ia-va-encore-augmenter-d-un-cran-la-crise-cognitive-les-secrets-d-un-bureau-an",
-   "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T05:45:07.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3.1
-  },
-  {
    "id": "airbus-decline-son-accord-avec-mistral-ai-dans-la-cybersecurite",
    "title": "Airbus décline son accord avec Mistral AI dans la cybersécurité",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNenlXelIwZ1JicjNiUWliT1QyUUdFeXkyRkRCVlF3a0JPclBua2YtTWtJeUhNUlRhYnJiRWgwcDNtT1lZSkJWRWNQMG1Qek5jcFprTjRPNjhFMHpHbG9DWmh5V3NXd1hyaEdOOHJra2VTbVJzc1RRTFZDRF9GZDRhaG1CUHdkb3hMdndQMWRTYWhJR3llSjV3eV95U09fVlZCczFVV2pmWUVVMHItbWhZX2dSXzhzbUpUWFRMbHM5VTNqU0NFMWN4b2N2enJiWEEwVW1vM2F6VEZrVm95Y3NfeW1jNmtTUQ?oc=5",
@@ -1260,6 +1263,27 @@
     }
    ],
    "date": "2026-11-17T05:20:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.1
+  },
+  {
+   "id": "l-ia-va-encore-augmenter-d-un-cran-la-crise-cognitive-les-secrets-d-un-bureau-an",
+   "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T05:45:07.000Z",
    "categories": [
     "IA"
    ],
@@ -1293,27 +1317,6 @@
    "score": 3
   },
   {
-   "id": "six-jours-apres-orange-bouygues-telecom-riposte-avec-six-mois-de-google-ai-plus-",
-   "title": "Six jours après Orange, Bouygues Telecom riposte avec six mois de Google AI Plus gratuits",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFBweXU4ZXZDSTBPdVJsbGZURFM2UEV5QW5Ocm1ZcnNpb2wza3Fnb2hBOTNrT2xIRm1kd0xzd2FpNkY1eHhFV3I0SnktbGNaQVI3ank2RmhvUmtsSkFKTHpNUjkxS2VRMXU1bmhpZWdPbU9BRzBjYTcwa25pNzR3NXRERnJhelM5Z2JGZEF5cWJISnBUalpOTmpNR2lpcGZTMHpQVlBYdTFTUmJLaWlfWkdDRDBCQ3NhOUxGTGlFbzhPSktoVkxIa0R6WlJwUQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Clubic"
-   ],
-   "articles": [
-    {
-     "source": "Clubic",
-     "title": "Six jours après Orange, Bouygues Telecom riposte avec six mois de Google AI Plus gratuits",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFBweXU4ZXZDSTBPdVJsbGZURFM2UEV5QW5Ocm1ZcnNpb2wza3Fnb2hBOTNrT2xIRm1kd0xzd2FpNkY1eHhFV3I0SnktbGNaQVI3ank2RmhvUmtsSkFKTHpNUjkxS2VRMXU1bmhpZWdPbU9BRzBjYTcwa25pNzR3NXRERnJhelM5Z2JGZEF5cWJISnBUalpOTmpNR2lpcGZTMHpQVlBYdTFTUmJLaWlfWkdDRDBCQ3NhOUxGTGlFbzhPSktoVkxIa0R6WlJwUQ?oc=5"
-    }
-   ],
-   "date": "2026-11-16T18:33:00.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3
-  },
-  {
    "id": "l-europe-accelere-ses-efforts-pour-briser-la-domination-des-etats-unis-et-de-la-",
    "title": "L'Europe accélère ses efforts pour briser la domination des États-Unis et de la Chine dans le domaine de l'IA.",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0xGTEJYcmRTaGpPZmJ5bEVZVUpuWG5aSUpUTlI2Wm0yTkN2SkRqTWRERWkyYVlTMVR2RzR2UE56S0xDUHQ1LVFDX3Q0bGt1UHk5ZDA2NENyZ2xjZXYzcnZHRmxvUVJzRnIzdmhVei0zWVRtRUtNYjI3SjRHWFI1TmlDOWwyOXZs?oc=5",
@@ -1329,6 +1332,27 @@
     }
    ],
    "date": "2026-11-16T19:43:21.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "six-jours-apres-orange-bouygues-telecom-riposte-avec-six-mois-de-google-ai-plus-",
+   "title": "Six jours après Orange, Bouygues Telecom riposte avec six mois de Google AI Plus gratuits",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFBweXU4ZXZDSTBPdVJsbGZURFM2UEV5QW5Ocm1ZcnNpb2wza3Fnb2hBOTNrT2xIRm1kd0xzd2FpNkY1eHhFV3I0SnktbGNaQVI3ank2RmhvUmtsSkFKTHpNUjkxS2VRMXU1bmhpZWdPbU9BRzBjYTcwa25pNzR3NXRERnJhelM5Z2JGZEF5cWJISnBUalpOTmpNR2lpcGZTMHpQVlBYdTFTUmJLaWlfWkdDRDBCQ3NhOUxGTGlFbzhPSktoVkxIa0R6WlJwUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Clubic"
+   ],
+   "articles": [
+    {
+     "source": "Clubic",
+     "title": "Six jours après Orange, Bouygues Telecom riposte avec six mois de Google AI Plus gratuits",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFBweXU4ZXZDSTBPdVJsbGZURFM2UEV5QW5Ocm1ZcnNpb2wza3Fnb2hBOTNrT2xIRm1kd0xzd2FpNkY1eHhFV3I0SnktbGNaQVI3ank2RmhvUmtsSkFKTHpNUjkxS2VRMXU1bmhpZWdPbU9BRzBjYTcwa25pNzR3NXRERnJhelM5Z2JGZEF5cWJISnBUalpOTmpNR2lpcGZTMHpQVlBYdTFTUmJLaWlfWkdDRDBCQ3NhOUxGTGlFbzhPSktoVkxIa0R6WlJwUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-16T18:33:00.000Z",
    "categories": [
     "IA"
    ],
@@ -1508,25 +1532,6 @@
    "score": 1.8
   },
   {
-   "id": "future-40-2026-40-startups-dont-cinq-autofinancees",
-   "title": "Future 40 2026 : 40 startups, dont cinq autofinancées",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlVXWkE1YzYycnQ4Nnd0UVlaeUdBY0xzZUtkdEhDT1EwTllwQWdVa0ZsQ19uQzBWcVZNV2ctRklIRFZSU0ZNNzZXVmVjRzhhWVl5Rkt4eDBUMzVHSF82UFJ1TDl5QUM4cHdJLXFYbXBSOVFjOHRmVFM5bFNlYjQyaFBFSHBkS2xocGNCcGZLWQ?oc=5",
-   "summary": "",
-   "sources": [
-    "quasa.io"
-   ],
-   "articles": [
-    {
-     "source": "quasa.io",
-     "title": "Future 40 2026 : 40 startups, dont cinq autofinancées",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlVXWkE1YzYycnQ4Nnd0UVlaeUdBY0xzZUtkdEhDT1EwTllwQWdVa0ZsQ19uQzBWcVZNV2ctRklIRFZSU0ZNNzZXVmVjRzhhWVl5Rkt4eDBUMzVHSF82UFJ1TDl5QUM4cHdJLXFYbXBSOVFjOHRmVFM5bFNlYjQyaFBFSHBkS2xocGNCcGZLWQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T12:24:00.000Z",
-   "categories": [],
-   "score": 1.7
-  },
-  {
    "id": "tech-iadates-entre-apocalypse-cognitive-et-quete-de-sens",
    "title": "Tech - #IADates : entre apocalypse cognitive et quête de sens",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzhLTmQ3b0JmZEF2Y3NtTmpuNEllWFhJWkZ4TDRNekNxY3NCeFdnd0UxVldnNk5ycGllRk9pWFltQWdhdkNwS3FVNGE4emIwRU5zbS1uYkpTdlVBdE9EcjItZk5yMElrakNENm1XVHNSZGRUSWpJSDlIMktjbnNSWWZWM3pRVEVuczhCbjgzREcwYTlHcWppMzRSdmgyUEpWYWc?oc=5",
@@ -1544,6 +1549,25 @@
    "date": "2026-11-17T13:03:37.000Z",
    "categories": [],
    "score": 1.7
+  },
+  {
+   "id": "future-40-2026-40-startups-dont-cinq-autofinancees",
+   "title": "Future 40 2026 : 40 startups, dont cinq autofinancées",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlVXWkE1YzYycnQ4Nnd0UVlaeUdBY0xzZUtkdEhDT1EwTllwQWdVa0ZsQ19uQzBWcVZNV2ctRklIRFZSU0ZNNzZXVmVjRzhhWVl5Rkt4eDBUMzVHSF82UFJ1TDl5QUM4cHdJLXFYbXBSOVFjOHRmVFM5bFNlYjQyaFBFSHBkS2xocGNCcGZLWQ?oc=5",
+   "summary": "",
+   "sources": [
+    "quasa.io"
+   ],
+   "articles": [
+    {
+     "source": "quasa.io",
+     "title": "Future 40 2026 : 40 startups, dont cinq autofinancées",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlVXWkE1YzYycnQ4Nnd0UVlaeUdBY0xzZUtkdEhDT1EwTllwQWdVa0ZsQ19uQzBWcVZNV2ctRklIRFZSU0ZNNzZXVmVjRzhhWVl5Rkt4eDBUMzVHSF82UFJ1TDl5QUM4cHdJLXFYbXBSOVFjOHRmVFM5bFNlYjQyaFBFSHBkS2xocGNCcGZLWQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T12:24:00.000Z",
+   "categories": [],
+   "score": 1.6
   },
   {
    "id": "hool-lance-un-nouveau-programme-pour-aider-les-associations-a-developper-leurs-r",
