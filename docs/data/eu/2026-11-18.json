@@ -1,10 +1,10 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T05:23:28.760Z",
+ "generatedAt": "2026-11-18T05:26:25.314Z",
  "windowHours": 36,
  "counts": {
-  "articles": 23,
-  "raw": 38,
+  "articles": 29,
+  "raw": 44,
   "media": 13
  },
  "scope": "eu",
@@ -17,8 +17,8 @@
   },
   {
    "source": "EU-Startups",
-   "ok": true,
-   "items": 10
+   "ok": false,
+   "error": "The operation was aborted due to timeout"
   },
   {
    "source": "Financial Times",
@@ -56,6 +56,11 @@
    "error": "HTTP 403"
   },
   {
+   "source": "Tech.eu (via Google News)",
+   "ok": true,
+   "items": 28
+  },
+  {
    "source": "TechCrunch Europe",
    "ok": true,
    "items": 20
@@ -68,22 +73,52 @@
  ],
  "items": [
   {
-   "id": "plural-raises-1-billion-fund-for-european-frontier-tech",
-   "title": "Plural raises €1 billion fund for European frontier tech",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5",
+   "id": "model-ml-hits-1-5b-valuation-with-250m-raise-just-18-months-after-emerging-from-",
+   "title": "Model ML hits $1.5B valuation with $250M raise, just 18 months after emerging from stealth",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV29VLWxrSWhiZUV4SlBMbFFjOFZMN2h4d1czU05IdG9LY3otNjVscjkzMmhpeE9JekVueE1QTHFHeDhsc1MwOHd2ZWFoaFBZcVJfWmV3d0V4c1BfR0M4RWFOVmlKS2JqbWttb0EzajlFOTBDanRIWnF5VGZjdFplRDNTR1JaLXhrQmM3OXA1d0N0OW45dDl4V0xPV2NvaHlEWUhPSkVJbjI4a1ZtSms3Z1d3UVM?oc=5",
    "summary": "",
    "sources": [
-    "IT Brief UK",
-    "Alternatives Watch",
-    "Ventureburn",
-    "ArcticStartup"
+    "Tech.eu",
+    "EU-Startups",
+    "UA.NEWS"
    ],
    "articles": [
     {
-     "source": "IT Brief UK",
-     "title": "Plural raises €1 billion fund for European frontier tech",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5"
+     "source": "Tech.eu",
+     "title": "Model ML hits $1.5B valuation with $250M raise, just 18 months after emerging from stealth",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV29VLWxrSWhiZUV4SlBMbFFjOFZMN2h4d1czU05IdG9LY3otNjVscjkzMmhpeE9JekVueE1QTHFHeDhsc1MwOHd2ZWFoaFBZcVJfWmV3d0V4c1BfR0M4RWFOVmlKS2JqbWttb0EzajlFOTBDanRIWnF5VGZjdFplRDNTR1JaLXhrQmM3OXA1d0N0OW45dDl4V0xPV2NvaHlEWUhPSkVJbjI4a1ZtSms3Z1d3UVM?oc=5"
     },
+    {
+     "source": "EU-Startups",
+     "title": "Model ML is Europe's newest Unicorn with €227 million raise to put AI agents to work in finance makes",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWZZdFNVX2lPMUxiZDIyLU9TMHFhak1NQVEtMVM3TnRUM2pqazYtTWVpbkhraDNETC1nVWZIazdQX0dJRkpIaUZzN1gxZktadE9sUHJzUlFxNVNUQ3psWjQySkVpeUw2WFpFVnVCU1pQNUlUZ3VtamxhU1o0ZENPLU5jajZGMXZPQ3hQT2UxZnM0VDJ0ZGV2TkFrR0I1LUxmSEc0NDJUTlRNYXBTekRhcVdqS28tT1pBb1FfY1ZwLVpoeFVETjBwYWc3b2xGTkVobWpZ?oc=5"
+    },
+    {
+     "source": "UA.NEWS",
+     "title": "London startup Model ML raises $250 million for AI for bankers — TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUklmRnlWZVNZMy1aWVpTVlprcXF0NXpSYktHRzdBbzg3MHVHWGpHYjlKY2wwVnFUUTlHNk1XVWg0cXQ0N0l6QU9LUXpqTlZWYVVmdlFYUF9kbEVfQXNFekR4LWF3Z0VXeDJ2OVBZQlc5WTBZb0NhMUVQeFBQRUx2eDFfODl0UEJnYjZlVl9pUnI1Vkl1SGRSYzljUndzYVhRd2k5RklmeFFqWUJWLVE?oc=5"
+    }
+   ],
+   "date": "2026-11-17T12:46:11.000Z",
+   "categories": [
+    "Funding",
+    "Unicorns & scale-ups",
+    "AI"
+   ],
+   "score": 26.2
+  },
+  {
+   "id": "plural-raises-1bn-to-back-european-startups-in-defense-energy-and-ai",
+   "title": "Plural raises €1bn to back European startups in defense, energy and AI",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzA4VjhjV2NkaFVOSTJ0MC0xeWhFVXZhczd0aXBOeExHVG1NOFdmV2pUVGVMck1jbWFnYzl1azRsd0poS1h1QnlkUS1FeWs4Ri1Oa3lUTl9qSFZDeHNFd3NlanJZQWZGLUplM0lsRmQwWDN2THRkU25wMTBvRUZIR0tXWkxKMFViVDdMRmhLZEQ4eGp6YXhvQjZfVEpSekxp?oc=5",
+   "summary": "",
+   "sources": [
+    "Alternatives Watch",
+    "Ventureburn",
+    "IT Brief UK",
+    "ArcticStartup"
+   ],
+   "articles": [
     {
      "source": "Alternatives Watch",
      "title": "Plural raises €1bn to back European startups in defense, energy and AI",
@@ -93,6 +128,11 @@
      "source": "Ventureburn",
      "title": "Plural Raises €1bn to Back Europe’s Next Generation of Technology Founders",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53a21CaWhVc1hReEJQWUZnVWtBNEJ2MUxWdVRpcDNXX1o0bzl1d0xsWDAtRG9nQjYwRlBYTzF3bUlxRk40enRNNVJoZEhzZkhEWWZpTFZTNlNNbHlzcmxGWlhqTXo2VnNETFFnNHdWRl9pTTDSAXNBVV95cUxOd2ttQmloVXNYUXhCUFlGZ1VrQTRCdjFMVnVUaXAzV19aNG85dXdMbFgwLURvZ0I2MEZQWE8xd21JcUZONHp0TTVSaGRIc2ZIRFlmaUxWUzZTTWx5c3JsRlpYak16NlZzRExRZzR3VkZfaU0w?oc=5"
+    },
+    {
+     "source": "IT Brief UK",
+     "title": "Plural raises €1 billion fund for European frontier tech",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5"
     },
     {
      "source": "ArcticStartup",
@@ -111,11 +151,10 @@
    "id": "isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z",
    "title": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
    "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
-   "summary": "Isomorphic Labs, an AI company focussed on designing and developing new medicines, today announced a €4.5 billion ($5 billion) Series C financing round to accelerate the scientific breakthroughs and proprietary AI advances. The round was co-led by Greenoaks and Sequoia Capital, alongside Andreessen Horowitz, with continued significant investment from Alphabet. The round also included participation",
-   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-bar-20-300x169.png",
+   "summary": "",
    "sources": [
     "Sifted",
-    "EU-Startups",
+    "Tech.eu",
     "City AM"
    ],
    "articles": [
@@ -125,9 +164,9 @@
      "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/"
     },
     {
-     "source": "EU-Startups",
-     "title": "AI drug discovery giant Isomorphic Labs raises €4.5 billion in blockbuster funding round",
-     "url": "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/"
+     "source": "Tech.eu",
+     "title": "Sequoia and Greenoaks lead massive $5BN Series C funding round in Isomorphic Labs",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGxYbFA3d0dfRXlUWTFRNW12Sl9zb3FhZmM2dklQdFR6d1VRVTlfWE51alhXUHFycWJFcmNUUGtjN0h4V0I4cjd2aFExbUthV1BWemQ3YnBBRk03eW5GMllOUDEycWh4M2lMX1ZYMGs0SDhJdUxjZGxmRkRxUUtpOXdqYTRReXo1X0hnVmhDbUFpNDQ5d3hfcTBxcl85aWhGZjdnY2hrcWduNXdx?oc=5"
     },
     {
      "source": "City AM",
@@ -135,88 +174,11 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXRXS256RXdLaE96TXBnaFZoN1N0dkpmYng0eU9IUXJaeFNKdVExTXdhVmFGRkhBRWxqNjIzQUNNRVRZalRiTmR0OE5tWFFYYjVEb1NOZzdhQTJadVJlZjRzNlR2UU0zdjBQVjRwNjZLMUFIT2l1UW9vMjhlMW5LVVpsTWZwUTJwYTZlOUVHb0Ezdmg5Z3JR?oc=5"
     }
    ],
-   "brief": {
-    "essentiel": "Isomorphic Labs , an AI company focussed on designing and developing new medicines, today announced a €4.5 billion ($5 billion) Series C financing round to accelerate the scientific breakthroughs and proprietary AI advances.",
-    "points": [
-     "In the UK, London-based Helical raised €8.4 million for its virtual AI laboratory, Ternary Therapeutics secured €4.1 million for AI-designed molecular glues, and Sable Bio attracted €3.15 million for its drug-safety platform.",
-     "Elsewhere, France’s Orakl Oncology raised €30 million and Rivercell secured €22 million, while Switzerland’s Adaptyv Bio announced €34.35 million for automated biological testing.",
-     "Together with other relevant rounds involving WhiteLab Genomics , Generare and Sightera Biosciences , these financings represent approximately €148.2 million in 2026 funding reported by EU-Startups, excluding Isomorphic Labs.",
-     "EU-Startups also previously covered Isomorphic Labs’ €1.8 billion Series B among the major UK technology financings of the first half of 2026."
-    ],
-    "facts": [
-     {
-      "key": "amount",
-      "value": "$5bn"
-     },
-     {
-      "key": "round",
-      "value": "Series C"
-     },
-     {
-      "key": "investors",
-      "value": "Sequoia and A16z"
-     }
-    ]
-   },
    "date": "2026-11-17T12:55:56.000Z",
    "categories": [
-    "Funding",
-    "AI"
+    "Funding"
    ],
-   "score": 24.1
-  },
-  {
-   "id": "model-ml-is-europe-s-newest-unicorn-with-227-million-raise-to-put-ai-agents-to-w",
-   "title": "Model ML is Europe’s newest Unicorn with €227 million raise to put AI agents to work in finance makes",
-   "url": "https://www.eu-startups.com/2026/11/model-ml-is-europes-newest-unicorn-with-e227-million-raise-to-put-ai-agents-to-work-in-finance-makes/",
-   "summary": "London-based Model ML, an AI platform developing personalised agents for financial and professional services, has raised €227 million ($250 million) in Series B funding at a €1.3 billion ($1.5 billion) valuation – in order to support the expansion of its research and engineering teams in London and New York, further product development and larger deployments […]",
-   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-bar-19-300x169.png",
-   "sources": [
-    "EU-Startups",
-    "UA.NEWS"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Model ML is Europe’s newest Unicorn with €227 million raise to put AI agents to work in finance makes",
-     "url": "https://www.eu-startups.com/2026/11/model-ml-is-europes-newest-unicorn-with-e227-million-raise-to-put-ai-agents-to-work-in-finance-makes/"
-    },
-    {
-     "source": "UA.NEWS",
-     "title": "London startup Model ML raises $250 million for AI for bankers — TechCrunch",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUklmRnlWZVNZMy1aWVpTVlprcXF0NXpSYktHRzdBbzg3MHVHWGpHYjlKY2wwVnFUUTlHNk1XVWg0cXQ0N0l6QU9LUXpqTlZWYVVmdlFYUF9kbEVfQXNFekR4LWF3Z0VXeDJ2OVBZQlc5WTBZb0NhMUVQeFBQRUx2eDFfODl0UEJnYjZlVl9pUnI1Vkl1SGRSYzljUndzYVhRd2k5RklmeFFqWUJWLVE?oc=5"
-    }
-   ],
-   "brief": {
-    "essentiel": "The round was co-led by General Atlantic and QED Investors, with participation from Evolution Equity Partners, Airtree, Forestay Capital, Y Combinator, FT Partners, Latitude, Inception Fund and 13Books Capital.",
-    "points": [
-     "This brings Model ML’s total funding to €318 million ($350 million), following a €68 million ($75 million) Series A in November 2025 .",
-     "In the UK, London-based 9fin raised €148 million for its debt-markets intelligence platform, while Nevis secured €62 million for AI-driven wealth management workflows and Stacks raised €19 million for enterprise finance automation.",
-     "Elsewhere, Berlin-based Moss closed €30 million to expand its Finance AI suite, and Copenhagen’s Performativ secured €11.96 million for wealth management software.",
-     "Together with smaller rounds for Round Treasury, Zalos, TODAY and Diligent AI, these announcements represent approximately €284 million in funding, excluding Model ML’s latest investment."
-    ],
-    "facts": [
-     {
-      "key": "amount",
-      "value": "€227 million"
-     },
-     {
-      "key": "round",
-      "value": "Series B"
-     },
-     {
-      "key": "investors",
-      "value": "General Atlantic and QED Investors"
-     }
-    ]
-   },
-   "date": "2026-11-17T12:50:16.000Z",
-   "categories": [
-    "Funding",
-    "Unicorns & scale-ups",
-    "AI"
-   ],
-   "score": 22.2
+   "score": 22.1
   },
   {
    "id": "finland-s-satellite-provider-iceye-bids-2-billion-for-italian-rocket-maker-avio",
@@ -266,7 +228,6 @@
    "title": "Exclusive: Munich-based humanoid startup Vesoma seeks €50m",
    "url": "https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/",
    "summary": "",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=1400,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/17145700/vesoma-1-design-visualisation-01.jpeg",
    "sources": [
     "Sifted"
    ],
@@ -284,144 +245,26 @@
    "score": 11.8
   },
   {
-   "id": "exclusive-backed-by-google-s-first-investor-rhise-ai-raises-2-66-million-to-buil",
-   "title": "EXCLUSIVE: Backed by Google’s first investor, RHISE AI raises €2.66 million to build Europe’s sovereign personal AI",
-   "url": "https://www.eu-startups.com/2026/11/exclusive-backed-by-googles-first-investor-munichs-rhise-ai-raises-e2-66-million-to-build-europes-sovereign-personal-ai/",
-   "summary": "RHISE AI Technologies, the Munich-based startup behind Lucie, a personal AI designed for Europe, has raised an angel round of €2.66 million (just under $3 million, or $2.925 million to be exact). The angel round saw participation from more than 40 investors, including Andy Bechtolsheim, co-founder of Arista Networks and the first outside investor in […]",
+   "id": "uk-employee-benefits-unicorn-stream-targets-ipo-in-18-months",
+   "title": "UK employee benefits unicorn Stream targets IPO in 18 months",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlM0QWtXYTNQalRMNmJSWVNYUm1uWkh2VTlyb1l3dUFxYnFydmN4cXdOTVFsc3lOUUp1WlJSMjZrdXE3NkhQVTFyQ0hhX2U1U1d6dVczWmRjcC1qamdWTlBFZzY1NU9Jc1otU3JybnBETGprODJYVjJGM3V1dUl6OTJtMEdJaUF6RVlXRQ?oc=5",
+   "summary": "",
    "sources": [
-    "EU-Startups"
+    "Tech.eu"
    ],
    "articles": [
     {
-     "source": "EU-Startups",
-     "title": "EXCLUSIVE: Backed by Google’s first investor, RHISE AI raises €2.66 million to build Europe’s sovereign personal AI",
-     "url": "https://www.eu-startups.com/2026/11/exclusive-backed-by-googles-first-investor-munichs-rhise-ai-raises-e2-66-million-to-build-europes-sovereign-personal-ai/"
+     "source": "Tech.eu",
+     "title": "UK employee benefits unicorn Stream targets IPO in 18 months",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlM0QWtXYTNQalRMNmJSWVNYUm1uWkh2VTlyb1l3dUFxYnFydmN4cXdOTVFsc3lOUUp1WlJSMjZrdXE3NkhQVTFyQ0hhX2U1U1d6dVczWmRjcC1qamdWTlBFZzY1NU9Jc1otU3JybnBETGprODJYVjJGM3V1dUl6OTJtMEdJaUF6RVlXRQ?oc=5"
     }
    ],
-   "brief": {
-    "essentiel": "RHISE AI Technologies , the Munich-based startup behind Lucie, a personal AI designed for Europe, has raised an angel round of €2.66 million (just under $3 million, or $2.925 million to be exact).",
-    "points": [
-     "Loy previously co-founded the industrial AI firm KONUX and scaled it to a valuation of around €693 million.",
-     "The angel round saw participation from more than 40 investors, including Andy Bechtolsheim, co-founder of Arista Networks and the first outside investor in Google; Prince Max von und zu Liechtenstein, CEO of LGT; Dr.",
-     "“ European society deserves sovereign AI that serves people and does not consume them ,” said Prince Max von und zu Liechtenstein , CEO of LGT.",
-     "Klaus Kleinfeld, former CEO of Siemens, Alcoa and NEOM; Michael Baum, founding CEO of Splunk; Raoul Heraeus, managing partner of ALERA Capital; Leon Goretzka, former Germany international and Champions League winner; and European unicorn founders Jonas Rieke of Personio and Dr."
-    ],
-    "facts": [
-     {
-      "key": "amount",
-      "value": "€2.66 million"
-     },
-     {
-      "key": "round",
-      "value": "Series C"
-     },
-     {
-      "key": "valuation",
-      "value": "around €693 m"
-     },
-     {
-      "key": "investors",
-      "value": "Google’s first investor, RHISE AI raises €2"
-     }
-    ]
-   },
-   "date": "2026-11-17T06:00:18.000Z",
+   "date": "2026-11-17T11:31:14.000Z",
    "categories": [
-    "Funding",
-    "AI",
-    "Policy & ecosystem"
+    "M&A & IPOs",
+    "Unicorns & scale-ups"
    ],
-   "score": 11.1
-  },
-  {
-   "id": "denmark-s-commit-biologics-secures-54-million-seed-funding-to-advance-cancer-and",
-   "title": "Denmark’s Commit Biologics secures €54 million Seed funding to advance cancer and autoimmune therapies",
-   "url": "https://www.eu-startups.com/2026/11/denmarks-commit-biologics-secures-e54-million-seed-funding-to-advance-cancer-and-autoimmune-therapies/",
-   "summary": "Copenhagen-based BioTech startup Commit Biologics has raised €54 million ($60 million) in Seed funding to develop new treatments for cancer and autoimmune diseases. The investment will help the Danish company bring its first drug candidate closer to clinical trials. The final close was led by Ackermans & van Haaren, with participation from additional new investors […]",
-   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-bar-18-300x169.png",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Denmark’s Commit Biologics secures €54 million Seed funding to advance cancer and autoimmune therapies",
-     "url": "https://www.eu-startups.com/2026/11/denmarks-commit-biologics-secures-e54-million-seed-funding-to-advance-cancer-and-autoimmune-therapies/"
-    }
-   ],
-   "brief": {
-    "essentiel": "Copenhagen-based BioTech startup Commit Biologics has raised €54 million ($60 million) in Seed funding to develop new treatments for cancer and autoimmune diseases.",
-    "points": [
-     "In Switzerland, Nouscom secured €120 million for cancer immunotherapy development, while France’s ErVimmune and Brenus Pharma raised €17 million and €11 million, respectively, to advance their oncology programmes.",
-     "In the Netherlands, Laigo Bio added €5.5 million for targeted cancer and autoimmune therapies.",
-     "Closer to home, Danish biopharmaceutical company Breye Therapeutics secured €67.5 million in a round co-led by Novo Holdings, while antibody-based cancer therapy developer PanTarg received a €1.3 million convertible loan.",
-     "These European therapeutics financing announcements in 2026 total approximately €278.5 million."
-    ],
-    "facts": [
-     {
-      "key": "amount",
-      "value": "€54 million"
-     },
-     {
-      "key": "round",
-      "value": "Seed"
-     },
-     {
-      "key": "investors",
-      "value": "Ackermans & van Haaren"
-     }
-    ]
-   },
-   "date": "2026-11-17T09:01:50.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 10.3
-  },
-  {
-   "id": "barcelona-based-fermat-raises-7-26-million-for-its-ai-operating-system-for-fashi",
-   "title": "Barcelona-based Fermat raises €7.26 million for its AI operating system for fashion and luxury brands",
-   "url": "https://www.eu-startups.com/2026/11/barcelona-based-fermat-raises-e7-26-million-for-its-ai-operating-system-for-fashion-and-luxury-brands/",
-   "summary": "Fermat, a Barcelona-based AI platform for the fashion industry, has raised €7.26 million ($8 million) in Seed funding to open a New York office and expand its software from a design tool to full garment production. The round was led by Kibo Ventures and Lunar Ventures, with participation from London-based PROfounders Capital. Masia Ventures, Blue […]",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Barcelona-based Fermat raises €7.26 million for its AI operating system for fashion and luxury brands",
-     "url": "https://www.eu-startups.com/2026/11/barcelona-based-fermat-raises-e7-26-million-for-its-ai-operating-system-for-fashion-and-luxury-brands/"
-    }
-   ],
-   "brief": {
-    "essentiel": "Fermat , a Barcelona-based AI platform for the fashion industry, has raised €7.26 million ($8 million) in Seed funding to open a New York office and expand its software from a design tool to full garment production.",
-    "points": [
-     "Jordi Vidal , Partner at Kibo Ventures, commented, “We invested in Fermat because it’s the emerging category leader in AI-native fashion design, with rare early proof: explosive growth, near-zero customer churn, and tier-1 brands like New Look, J.Crew Group, and ASOS adopting it bottom-up, designer by designer.",
-     "The round was led by Kibo Ventures and Lunar Ventures, with participation from London-based PROfounders Capital.",
-     "Pol, Uri, Oscar and the team have shown that embedding AI directly into designers’ own workflows — not just generating images — is how you build the defining vertical AI product for fashion.” Founded in 2022, Fermat claims to be the software layer between designers and the finished product.",
-     "Masia Ventures, Blue Wire Capital, Common Magic, Betaworks, and tech entrepreneur Dídac Lee also participated."
-    ],
-    "facts": [
-     {
-      "key": "amount",
-      "value": "€7.26 million"
-     },
-     {
-      "key": "round",
-      "value": "Seed"
-     },
-     {
-      "key": "investors",
-      "value": "Kibo Ventures and Lunar Ventures"
-     }
-    ]
-   },
-   "date": "2026-11-17T09:20:13.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 9.3
+   "score": 11.5
   },
   {
    "id": "tiberius-aerospace-with-strong-uk-links-raises-85m",
@@ -442,7 +285,96 @@
    "categories": [
     "Funding"
    ],
-   "score": 9.2
+   "score": 11.2
+  },
+  {
+   "id": "synthesia-and-datadog-ceos-back-ai-startup-remanence-in-30m-funding-round",
+   "title": "Synthesia and Datadog CEOs back AI startup Remanence in $30M funding round",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUdEQk5jYjNWZ1U3YjlMOWYyMF9jTTAtOHZkV04xSjZoYlZMam40dEFfaVBJUUpEZHY3RHo5TmVRa201Q0g2UktfMGRQZ3pyaTNfRTNpSExHQXFMTHNPVWpXN3BaOUFydU43SUxIaXY4dnpHU2R2YkVBdGJXTXVvcXE5Z1ZMODVmY21OeU1mOHQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Synthesia and Datadog CEOs back AI startup Remanence in $30M funding round",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUdEQk5jYjNWZ1U3YjlMOWYyMF9jTTAtOHZkV04xSjZoYlZMam40dEFfaVBJUUpEZHY3RHo5TmVRa201Q0g2UktfMGRQZ3pyaTNfRTNpSExHQXFMTHNPVWpXN3BaOUFydU43SUxIaXY4dnpHU2R2YkVBdGJXTXVvcXE5Z1ZMODVmY21OeU1mOHQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T11:16:11.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 10.5
+  },
+  {
+   "id": "swiss-neurotech-indivi-acquires-cogitat-to-advance-ai-powered-brain-monitoring",
+   "title": "Swiss neurotech Indivi acquires Cogitat to advance AI-powered brain monitoring",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd3BCYzVLZ0FtRmgtZVRuc3BFc1hJajFYNUstSFNmSjB0cHc4S3lPVlJaTkdCaDJ0dUk2UnU1WDhTTG9uSU1oUV9lNU5SaGFseXZHdS1oM0JIcExWczV3cmVJSWJjbEJyR0w1SkV6RzA5emRWbU00S2d1ejc0Zkk3NXhTT2dkTTVrNmpuc3lZVUg4SmVmRUkxRWVHTDNyQmt1blE5WnpvLU95MmpSUVd5Rlk1QjJabVJWazNjWm1BZXBnNkQwb1djZEt1WVdtaDE4Z041dWJHSQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Swiss neurotech Indivi acquires Cogitat to advance AI-powered brain monitoring",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd3BCYzVLZ0FtRmgtZVRuc3BFc1hJajFYNUstSFNmSjB0cHc4S3lPVlJaTkdCaDJ0dUk2UnU1WDhTTG9uSU1oUV9lNU5SaGFseXZHdS1oM0JIcExWczV3cmVJSWJjbEJyR0w1SkV6RzA5emRWbU00S2d1ejc0Zkk3NXhTT2dkTTVrNmpuc3lZVUg4SmVmRUkxRWVHTDNyQmt1blE5WnpvLU95MmpSUVd5Rlk1QjJabVJWazNjWm1BZXBnNkQwb1djZEt1WVdtaDE4Z041dWJHSQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T08:00:53.000Z",
+   "categories": [
+    "M&A & IPOs",
+    "AI"
+   ],
+   "score": 10.2
+  },
+  {
+   "id": "previsia-raises-3-8m-to-bring-ai-powered-risk-prevention-to-businesses-across-eu",
+   "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5"
+    }
+   ],
+   "date": "2026-11-17T08:00:52.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 10.2
+  },
+  {
+   "id": "exclusive-backed-by-google-s-first-investor-rhise-ai-raises-2-66-million-to-buil",
+   "title": "EXCLUSIVE: Backed by Google’s first investor, RHISE AI raises €2.66 million to build Europe’s sovereign personal AI",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUXpLaXUzY3pISmlqdE1GNnVIcE1YSUxrNHc1dU9sUkdzVkNoa25kY2VaNnBDRjlkTHlEejcyZmNFZ3o3eDB6dGlEQk1QMndsV0hVQ0I5YTMtSm96UWstczZOVVhTSWJPQVMxak14emJlamN4UDZkRnU4OHE4Mnl3TjhLX0NlQWtEaXFxemZJZ2ZEdDhFYkxPSF80cFgtSHVPU0xVTTAxcWx5RG9PaTl5MHFvQ1h1dzZiX2JjbE54YjFhdXpEX0lJU2FNOV9DUlNwUWJxcWM0MUVYNVdDT3oyN3dPU0U0LUxPbTU1cw?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "EXCLUSIVE: Backed by Google’s first investor, RHISE AI raises €2.66 million to build Europe’s sovereign personal AI",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUXpLaXUzY3pISmlqdE1GNnVIcE1YSUxrNHc1dU9sUkdzVkNoa25kY2VaNnBDRjlkTHlEejcyZmNFZ3o3eDB6dGlEQk1QMndsV0hVQ0I5YTMtSm96UWstczZOVVhTSWJPQVMxak14emJlamN4UDZkRnU4OHE4Mnl3TjhLX0NlQWtEaXFxemZJZ2ZEdDhFYkxPSF80cFgtSHVPU0xVTTAxcWx5RG9PaTl5MHFvQ1h1dzZiX2JjbE54YjFhdXpEX0lJU2FNOV9DUlNwUWJxcWM0MUVYNVdDT3oyN3dPU0U0LUxPbTU1cw?oc=5"
+    }
+   ],
+   "date": "2026-11-17T06:00:18.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 10
   },
   {
    "id": "can-ai-be-secure-it-depends-on-where-it-runs",
@@ -477,6 +409,49 @@
    "score": 9.1
   },
   {
+   "id": "nabu-secures-1-1m-to-bring-ai-automation-to-financial-compliance",
+   "title": "NABU secures €1.1M to bring AI automation to financial compliance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE1sbDVLZ2NiUkczXzJxcUtaOVpsU1ZHYTVndGFxbkFrY1k3c3pZMVduYVhrTnhPUE9rc0FEVEhlTjRvUGtqQndsWDRYM2xGN2g4V1g5bHI4OVp1YzJhdHZna3lyWXpHZ3pudFVBX2htY3JSTDNqZE92RGctS0VxRkpqaWZ4MlllVFdFYU1UZmpIME5wb0hEdlJn?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "NABU secures €1.1M to bring AI automation to financial compliance",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE1sbDVLZ2NiUkczXzJxcUtaOVpsU1ZHYTVndGFxbkFrY1k3c3pZMVduYVhrTnhPUE9rc0FEVEhlTjRvUGtqQndsWDRYM2xGN2g4V1g5bHI4OVp1YzJhdHZna3lyWXpHZ3pudFVBX2htY3JSTDNqZE92RGctS0VxRkpqaWZ4MlllVFdFYU1UZmpIME5wb0hEdlJn?oc=5"
+    }
+   ],
+   "date": "2026-11-17T07:05:52.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 9.1
+  },
+  {
+   "id": "adesso-ventures-secures-26m-in-first-close-of-its-second-fund-opening-to-externa",
+   "title": "adesso Ventures secures €26M in first close of its second fund, opening to external investors",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmZFWGpHSjRvOGRoVlZ3X3I2a0dLekp1U2xiZFBTblFVQ08wak1lbmE0a284MjBmQ0M1WXFNaW1UcXRXYzEtNUw3ckREcXBsSEctOGxrckRqSDJtbjlkeVVIMTBkVzRNRVhCRGN2a3lqQ2pxTDhzazBHTFhQQlctOHdjRGRTcFc2c1YwbnFGeEdnazV0bmpfcTc5ZmxpZ0wyUHdkRmpTbzhaQ1ppdkpJOFhVRjk0Sl9Pd1p3aUR3QQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "adesso Ventures secures €26M in first close of its second fund, opening to external investors",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmZFWGpHSjRvOGRoVlZ3X3I2a0dLekp1U2xiZFBTblFVQ08wak1lbmE0a284MjBmQ0M1WXFNaW1UcXRXYzEtNUw3ckREcXBsSEctOGxrckRqSDJtbjlkeVVIMTBkVzRNRVhCRGN2a3lqQ2pxTDhzazBHTFhQQlctOHdjRGRTcFc2c1YwbnFGeEdnazV0bmpfcTc5ZmxpZ0wyUHdkRmpTbzhaQ1ppdkpJOFhVRjk0Sl9Pd1p3aUR3QQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T09:01:02.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8.3
+  },
+  {
    "id": "q3-2026-european-vc-valuations-report",
    "title": "Q3 2026 European VC Valuations Report",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sczN1cXA0OWVLNWdFb0lzWGpERHpha2RTV2pJTUFPbENyYk5HN24tVXZld05LcEVWa3RENllWamNXcGFXR3AtR2l2RUNiUHlZVkk3ZmFSOFhFWEVRMkQ1djVRUURPUEIxTDNLcmk3QWdqWVdRQ1kxTlQ5aVc?oc=5",
@@ -499,9 +474,9 @@
    "score": 8.3
   },
   {
-   "id": "previsia-raises-3-8m-to-bring-ai-powered-risk-prevention-to-businesses-across-eu",
-   "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5",
+   "id": "nomadic-bags-6m-to-deploy-self-charging-drones-that-spot-weak-points-in-power-gr",
+   "title": "Nomadic bags $6M to deploy self-charging drones that spot weak points in power grids",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmk3bG9wMnoxbkVySy1QQlZYSDhtTlFsTU5NZElPU2trUDIwNWVCR280VFB6NlRIdjA2YU9pM3JVa1J2d0dJWkh4NkpDc0JTLV9VdTJ5V2g1NXRmMkVNcUlfdm9VZkpiVGM4R2VRM1VHTEc0SnJYbTNaaXJTUnBTQ0xFQXoxNS1wUXBDanhDQlJRT2x6aVZLTlR4aHdIQWlVaVVNNjdLY2o1Q005NHdRNQ?oc=5",
    "summary": "",
    "sources": [
     "Tech.eu"
@@ -509,93 +484,36 @@
    "articles": [
     {
      "source": "Tech.eu",
-     "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5"
+     "title": "Nomadic bags $6M to deploy self-charging drones that spot weak points in power grids",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmk3bG9wMnoxbkVySy1QQlZYSDhtTlFsTU5NZElPU2trUDIwNWVCR280VFB6NlRIdjA2YU9pM3JVa1J2d0dJWkh4NkpDc0JTLV9VdTJ5V2g1NXRmMkVNcUlfdm9VZkpiVGM4R2VRM1VHTEc0SnJYbTNaaXJTUnBTQ0xFQXoxNS1wUXBDanhDQlJRT2x6aVZLTlR4aHdIQWlVaVVNNjdLY2o1Q005NHdRNQ?oc=5"
     }
    ],
-   "date": "2026-11-17T08:00:52.000Z",
+   "date": "2026-11-17T09:06:01.000Z",
    "categories": [
-    "Funding",
-    "AI"
+    "Funding"
    ],
-   "score": 8.2
+   "score": 7.3
   },
   {
-   "id": "swappie-co-founder-s-ai-healthtech-startup-treat-raises-3-million-to-streamline-",
-   "title": "Swappie co-founder’s AI HealthTech startup Treat raises €3 million to streamline private healthcare",
-   "url": "https://www.eu-startups.com/2026/11/swappie-co-founders-ai-healthtech-startup-treat-raises-e3-million-to-streamline-private-healthcare/",
-   "summary": "Treat, a Helsinki-based HealthTech startup co-founded by Swappie co-founder Sami Marttinen, has raised €3 million in a pre-Seed funding round. The round was led by byFounders, an early backer of Lovable, alongside Illusian, the investment vehicle of Supercell founder Ilkka Paananen. “Private healthcare across the globe is bogged down by fragmented systems and mismatched Incentives. […]",
+   "id": "fermat-raises-8m-to-bridge-the-gap-between-fashion-designers-and-manufacturers",
+   "title": "Fermat raises $8M to bridge the gap between fashion designers and manufacturers",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQk41OGc0NWdraVVZbmNiQUpaTS12SFJtWHgzQ2VWelZQdHhycEJ5ZnpxemV3cjhLeGR2ZkFMLUxUd3pOT2lDV2xvUS1WLVVQUEQ2clpXb20zZTJubWFvOXJUY0tCT2o3dHVSalhOQjdYQmNDSDQzcm15QVZhS3I2UGd5UldOLW1XMXcyV1FkN0x5c09Tc3Ruc0QtX0Nid01OaUtVN2ZsWDNOUQ?oc=5",
+   "summary": "",
    "sources": [
-    "EU-Startups"
+    "Tech.eu"
    ],
    "articles": [
     {
-     "source": "EU-Startups",
-     "title": "Swappie co-founder’s AI HealthTech startup Treat raises €3 million to streamline private healthcare",
-     "url": "https://www.eu-startups.com/2026/11/swappie-co-founders-ai-healthtech-startup-treat-raises-e3-million-to-streamline-private-healthcare/"
+     "source": "Tech.eu",
+     "title": "Fermat raises $8M to bridge the gap between fashion designers and manufacturers",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQk41OGc0NWdraVVZbmNiQUpaTS12SFJtWHgzQ2VWelZQdHhycEJ5ZnpxemV3cjhLeGR2ZkFMLUxUd3pOT2lDV2xvUS1WLVVQUEQ2clpXb20zZTJubWFvOXJUY0tCT2o3dHVSalhOQjdYQmNDSDQzcm15QVZhS3I2UGd5UldOLW1XMXcyV1FkN0x5c09Tc3Ruc0QtX0Nid01OaUtVN2ZsWDNOUQ?oc=5"
     }
    ],
-   "brief": {
-    "essentiel": "Treat , a Helsinki-based HealthTech startup co-founded by Swappie co-founder Sami Marttinen, has raised €3 million in a pre-Seed funding round.",
-    "points": [
-     "The round was led by byFounders, an early backer of Lovable, alongside Illusian, the investment vehicle of Supercell founder Ilkka Paananen.",
-     "“ Private healthcare across the globe is bogged down by fragmented systems and mismatched Incentives.",
-     "By stripping away billable runarounds and aligning technology directly with clinical workflows, the team behind Treat is building a new benchmark for primary care ,” said Sara Rywe , General Partner at byFounders.",
-     "The platform acts as a gateway to care, with patients first describing their symptoms in their own words via a chat interface, and an AI-powered intake tool structures the information into a detailed brief."
-    ],
-    "facts": [
-     {
-      "key": "amount",
-      "value": "€3 million"
-     },
-     {
-      "key": "round",
-      "value": "Pre-Seed"
-     },
-     {
-      "key": "investors",
-      "value": "byFounders, an early backer of Lovable, alongside Illusian"
-     }
-    ]
-   },
-   "date": "2026-11-17T06:20:35.000Z",
+   "date": "2026-11-17T08:00:50.000Z",
    "categories": [
-    "Funding",
-    "AI"
+    "Funding"
    ],
-   "score": 8.1
-  },
-  {
-   "id": "opinion-maintaining-the-open-web-is-central-to-europe-s-ai-sovereignty-ambitions",
-   "title": "Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions",
-   "url": "https://www.eu-startups.com/2026/11/opinion-maintaining-the-open-web-is-central-to-europes-ai-sovereignty-ambitions/",
-   "summary": "Europe’s ambitions for AI sovereignty depend on giving its startups the resources to succeed, innovate and compete with established companies. As it stands, the EU remains heavily reliant on digital technologies developed and managed from elsewhere, raising questions about its ability to control the systems underpinning its economy. In June this year, the European Commission […]",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions",
-     "url": "https://www.eu-startups.com/2026/11/opinion-maintaining-the-open-web-is-central-to-europes-ai-sovereignty-ambitions/"
-    }
-   ],
-   "brief": {
-    "essentiel": "Europe’s ambitions for AI sovereignty depend on giving its startups the resources to succeed, innovate and compete with established companies.",
-    "points": [
-     "As it stands, the EU remains heavily reliant on digital technologies developed and managed from elsewhere, raising questions about its ability to control the systems underpinning its economy.",
-     "In June this year, the European Commission unveiled its European Technological Sovereignty Package .",
-     "The Tech Sovereignty Package also aims to fast-track the implementation of the European Commission’s existing AI Continent Action Plan.",
-     "This includes the Cloud and AI Development Act, which specifically aims to support the research, development and innovation of next-generation AI technologies, including frontier AI models."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-17T15:04:31.000Z",
-   "categories": [
-    "AI",
-    "Policy & ecosystem"
-   ],
-   "score": 7.8
+   "score": 7.2
   },
   {
    "id": "exclusive-openai-and-meta-insiders-back-startup-policing-rogue-ai-agents",
@@ -619,6 +537,28 @@
    "score": 7
   },
   {
+   "id": "opinion-maintaining-the-open-web-is-central-to-europe-s-ai-sovereignty-ambitions",
+   "title": "Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0g3blgzWEl6M2s1TjdKR0RLMEk5T0pwcGx4d2RTY3BxN3ZjaDVXcndKbWJreUJ5X05CQ20xNHNOQzVkNWMwZXRHUTZmUG8yYjJtQ3pheGdaNjRRRW1ZWThyYkRYdjUtaWVMNUpURWJjVTNaNkZ4ZW5LdHByY3p3TFVoLUpyUGRxd1U5UVRBOFY0bjlyMWFCSjgweDVueENZdWM3OXJ0blJoMm1VTm9QSTc0QV9uVkU?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0g3blgzWEl6M2s1TjdKR0RLMEk5T0pwcGx4d2RTY3BxN3ZjaDVXcndKbWJreUJ5X05CQ20xNHNOQzVkNWMwZXRHUTZmUG8yYjJtQ3pheGdaNjRRRW1ZWThyYkRYdjUtaWVMNUpURWJjVTNaNkZ4ZW5LdHByY3p3TFVoLUpyUGRxd1U5UVRBOFY0bjlyMWFCSjgweDVueENZdWM3OXJ0blJoMm1VTm9QSTc0QV9uVkU?oc=5"
+    }
+   ],
+   "date": "2026-11-17T15:04:31.000Z",
+   "categories": [
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 6.8
+  },
+  {
    "id": "8-key-findings-from-atomico-s-state-of-european-tech-report",
    "title": "8 key findings from Atomico’s State of European Tech report",
    "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/",
@@ -636,6 +576,46 @@
    "date": "2026-11-18T05:00:42.000Z",
    "categories": [],
    "score": 6
+  },
+  {
+   "id": "trouva-co-founder-mandeep-singh-joins-tapestry-vc-as-general-partner",
+   "title": "Trouva co-founder Mandeep Singh joins Tapestry VC as General Partner",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHllMnpnbHBaQVVIUnlnbUJiMDN6OW5NLTAxN0FlNzIyT25aaGRvR2ZWVTl4T0xkeTFTLXVCWEQyTWZjSzVlbWdzQWx0Y2pXaENiMW80VkxjUFgwOXJzdWdIUmUxZThmbGxDT3dDNEUwSVY3akhnN3NpWDRKMmExaFB2TWlYbjVDU3RqZzBNQlVmVnl5ZnpBZ2pHT3E?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Trouva co-founder Mandeep Singh joins Tapestry VC as General Partner",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHllMnpnbHBaQVVIUnlnbUJiMDN6OW5NLTAxN0FlNzIyT25aaGRvR2ZWVTl4T0xkeTFTLXVCWEQyTWZjSzVlbWdzQWx0Y2pXaENiMW80VkxjUFgwOXJzdWdIUmUxZThmbGxDT3dDNEUwSVY3akhnN3NpWDRKMmExaFB2TWlYbjVDU3RqZzBNQlVmVnl5ZnpBZ2pHT3E?oc=5"
+    }
+   ],
+   "date": "2026-11-17T05:01:04.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 5
+  },
+  {
+   "id": "inside-glovo-s-startup-campus-building-the-next-generation-of-european-founders",
+   "title": "Inside Glovo's Startup Campus: Building the next generation of European founders",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUJtMkh6YUFEQ2tEdVNlUUxvNF9yaGFXRzcyaHpNd01jY1FRaWg0TGtvc2lMUWFNX0U1Q2QzYlNjOF9EUXdoS0VWSmpDMmttQUpBNENVXzR5TThsQTJWZDVpWUs5ZU90cVZ3NFo4MGZ1dXNqc0UtVjNQUW9SV1IxNnVXekUxWmNqTWxPa1R0NzVXMFFHcW1adTU1a0UzenVJTzEzaWRwUmh6dw?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Inside Glovo's Startup Campus: Building the next generation of European founders",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUJtMkh6YUFEQ2tEdVNlUUxvNF9yaGFXRzcyaHpNd01jY1FRaWg0TGtvc2lMUWFNX0U1Q2QzYlNjOF9EUXdoS0VWSmpDMmttQUpBNENVXzR5TThsQTJWZDVpWUs5ZU90cVZ3NFo4MGZ1dXNqc0UtVjNQUW9SV1IxNnVXekUxWmNqTWxPa1R0NzVXMFFHcW1adTU1a0UzenVJTzEzaWRwUmh6dw?oc=5"
+    }
+   ],
+   "date": "2026-11-17T11:01:09.000Z",
+   "categories": [],
+   "score": 4.5
   },
   {
    "id": "europe-s-world-models-startups-mapped",
@@ -676,6 +656,25 @@
    "score": 3.9
   },
   {
+   "id": "post-training-tag",
+   "title": "post-training Tag",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NV0hiZ0FyNUZnRVBkbGUzU0EzWFV6U2gxQUM3elZHWXVZMk9YVm4xM1ozcU0yY2NnWUJnbE5MUEZNRjFrYTBZelh3?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "post-training Tag",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NV0hiZ0FyNUZnRVBkbGUzU0EzWFV6U2gxQUM3elZHWXVZMk9YVm4xM1ozcU0yY2NnWUJnbE5MUEZNRjFrYTBZelh3?oc=5"
+    }
+   ],
+   "date": "2026-11-17T11:32:38.000Z",
+   "categories": [],
+   "score": 3.5
+  },
+  {
    "id": "legora-s-revenue-chief-on-hiring-at-speed-keeping-culture-intact-and-the-need-fo",
    "title": "Legora’s revenue chief on hiring at speed, keeping culture intact and the need for ‘extreme urgency’",
    "url": "https://sifted.eu/articles/legoras-revenue-vp-leonard-schreij-interview/",
@@ -712,35 +711,6 @@
    "date": "2026-11-17T05:00:14.000Z",
    "categories": [],
    "score": 3
-  },
-  {
-   "id": "impact-unleashed-jack-mardack-on-building-companies-that-scale-positive-change",
-   "title": "Impact Unleashed: Jack Mardack on building companies that scale positive change",
-   "url": "https://www.eu-startups.com/2026/11/impact-unleashed-jack-mardack-on-building-companies-that-scale-positive-change/",
-   "summary": "What if the supposed tradeoff between commercial success and positive impact was not an unavoidable reality of business, but a problem of business design? That is the central argument behind Impact Unleashed: Building Companies that Scale Positive Change, the new book by Jack Mardack, co-founder of global employment platform Oyster. Drawing on his experience building […]",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Impact Unleashed: Jack Mardack on building companies that scale positive change",
-     "url": "https://www.eu-startups.com/2026/11/impact-unleashed-jack-mardack-on-building-companies-that-scale-positive-change/"
-    }
-   ],
-   "brief": {
-    "essentiel": "What if the supposed tradeoff between commercial success and positive impact was not an unavoidable reality of business, but a problem of business design?",
-    "points": [
-     "That is the central argument behind Impact Unleashed: Building Companies that Scale Positive Change , the new book by Jack Mardack , co-founder of global employment platform Oyster.",
-     "Drawing on his experience building one of the few companies to achieve both unicorn status and B Corp certification, Mardack challenges a longstanding assumption in entrepreneurship: that founders must choose between commercial success and making a meaningful difference in the world.",
-     "Instead, he argues that businesses can be designed so that growth and positive impact reinforce one another.",
-     "The principle is captured in the book’s central idea: “ impact by design, not by intention."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-17T10:15:09.000Z",
-   "categories": [],
-   "score": 2.4
   },
   {
    "id": "the-hidden-cost-holding-back-europe-s-energy-innovators",

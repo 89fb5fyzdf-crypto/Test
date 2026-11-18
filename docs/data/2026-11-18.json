@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T05:23:26.162Z",
+ "generatedAt": "2026-11-18T05:26:22.868Z",
  "windowHours": 36,
  "counts": {
   "articles": 58,
@@ -184,9 +184,9 @@
    "sources": [
     "FrenchWeb",
     "Les Echos",
-    "Silicon.fr",
     "L'Informaticien",
-    "J'aime les startups"
+    "J'aime les startups",
+    "Silicon.fr"
    ],
    "articles": [
     {
@@ -200,11 +200,6 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1BIUUZEenlpVS1Td3czeWU4TG1SOVFlX2pvTkFNczNSaTFnYTdWWl9YWnBtVVhOMEpRRXBzUUFJMGdXZmtiYm0wQzRQUEN1SkdoSVY0WEdSQllPN3BVb1liNFFaYmxKcXlIeVNZUGI0dm16ZlphWlVUYUVFdjExUXlsQzY2N1JnRUNsQlhzR0ktWXdJbHlYNG9QOEFSVWFRWHc4OWFjcDMxYXRic3Rsa2NramszRFNYaDdR?oc=5"
     },
     {
-     "source": "Silicon.fr",
-     "title": "Qluster lève 4,7 millions € pour un ordinateur quantique photonique",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYm9WOGJtYTYwRGxtOVF6cDhJakM5MVFUVUxhLXpkZ3VjUVhTN1FaRF8yS0NqanBXT291Ym1zT1hWTUpvb3J0bF9YX2U1blk4MVhZS1otTVVSX0V3V3dLdnJTZFFWUGJyeGV4ZF94YWVncWhTNkxOeUliRGV0UEtrU1JuS1poVXFHTVU2UHZtR0JqZDVud2hyUkd3c2xnWS1rTFEwdkUzOWFPT3ZpV0dZ0gG0AUFVX3lxTFBpOE9wQnBkQzNNZVA5Z0lDckpOczJfaGliVTM1TFhYcW9CaG1sZDFuYVBKSHZrZ1FlcHBSZVhGZlk1bWdWVVlwUl83WjE5QmUwUUpUdGlLbFAtRDdOYWRjRTlvclllZ2FrcmpUbUJfc0dOZks2Tnd1eC1fTkdhTDlER2E4NkcteV9iWnRKZE54LTE4TjBZLVlVZUY2TWlXWGQwdFJxazBla1V5Uy1TcTJhT3VFZA?oc=5"
-    },
-    {
      "source": "L'Informaticien",
      "title": "Première levée de fonds pour Qluster",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHJnR2NCQnBlX0pyczBxLURWd3F1QnRZVnlmdnpES3JhREd5dWNpR2VQZWdWeS16RG5Wc2VINFIyX2tfZk9TVXpXOVZMRDhMck1aaF81RTJSVVdBbFRoM3FYTnk2WmVMYU1qaUNacENBRnpGb21NSXo1clNiWkpkRDVtNklOTjRySmZmbFlSc1NrSHUyTTZUR0JzNTl4ejdzeE0xX1FWNG5qODdNUmNsalJHZ24?oc=5"
@@ -213,6 +208,11 @@
      "source": "J'aime les startups",
      "title": "Qluster lève 4,7 millions d’euros pour développer son ordinateur quantique photonique",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnU4cHNlUnIwakZoMWxGdUkxcXIxb1BqZVJqbC13SmhCWnlGOXkxX1dYTlgza2pwS3VHMnFLRFJjTTEtSUtQYnJteldkQU9sRDVOTFFqd0FmUGhmLVdZSkFKdmZqZ0s4X2c1cnpEb3JPTTFlN2hYaEhwSVY4UVM3UEQ4UEtZNVc5VUd4WWNxUWhrVFlGX2lr?oc=5"
+    },
+    {
+     "source": "Silicon.fr",
+     "title": "Qluster lève 4,7 millions € pour un ordinateur quantique photonique",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYm9WOGJtYTYwRGxtOVF6cDhJakM5MVFUVUxhLXpkZ3VjUVhTN1FaRF8yS0NqanBXT291Ym1zT1hWTUpvb3J0bF9YX2U1blk4MVhZS1otTVVSX0V3V3dLdnJTZFFWUGJyeGV4ZF94YWVncWhTNkxOeUliRGV0UEtrU1JuS1poVXFHTVU2UHZtR0JqZDVud2hyUkd3c2xnWS1rTFEwdkUzOWFPT3ZpV0dZ0gG0AUFVX3lxTFBpOE9wQnBkQzNNZVA5Z0lDckpOczJfaGliVTM1TFhYcW9CaG1sZDFuYVBKSHZrZ1FlcHBSZVhGZlk1bWdWVVlwUl83WjE5QmUwUUpUdGlLbFAtRDdOYWRjRTlvclllZ2FrcmpUbUJfc0dOZks2Tnd1eC1fTkdhTDlER2E4NkcteV9iWnRKZE54LTE4TjBZLVlVZUY2TWlXWGQwdFJxazBla1V5Uy1TcTJhT3VFZA?oc=5"
     }
    ],
    "brief": {
@@ -248,9 +248,9 @@
    "sources": [
     "Maddyness",
     "Siècle Digital",
-    "FranceTransactions.com",
     "Brief IA",
     "BDM",
+    "FranceTransactions.com",
     "BFM",
     "Ouest-France",
     "Numerama",
@@ -270,11 +270,6 @@
      "url": "https://siecledigital.fr/2026/11/17/ovhcloud-devoile-olala-sa-premiere-ia-francaise-pour-concurrencer-les-geants-americains/"
     },
     {
-     "source": "FranceTransactions.com",
-     "title": "Olala : OVHcloud lance son intelligence artificielle française et veut défier les géants américains",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3g0T2lhbWdVMUJVQUNyMzcyZHFnVlY1dlpLVi11b1FlLTVpLVJpSFhvVklDVUQwNFpIVTlFUEJ5ZTFCN1M1Wmc1NFFlM1JVV1dsRWdLdjNOTUZ4Q0k4R3hwblF1RjRUeTgyWXRDUXhJa0RISm94dmI2eGw4OW1zZjZRVDIxQVFDbXJCLUFVQUZXWnRhTWJJS202VjJyTVU4bUc5cGtXekZ0aF9HbWJtaW81cWJXZDV5SWR1UlVNdE8xTnplU0k2WWR1R1RpbXNUeTExV3hfeklUQTNoZXc?oc=5"
-    },
-    {
      "source": "Brief IA",
      "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5"
@@ -283,6 +278,11 @@
      "source": "BDM",
      "title": "Le Français OVHcloud se lance dans les LLM avec Olala, un petit modèle ouvert",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnRjNiQ21YdVhuQ0FmTno0V1oyQXFWX2JfMEVvTU9FYUNNNUtNQWNZdFhqRUFZUGZvZDk1RnBSaVc2NU1YaE16THJ0RmR2X2R6WS1sZThidkd4ZXFjNU9yQlhkd3E4NE1MRnBqRmZrZWVISzlKeDZmTnRYcmo?oc=5"
+    },
+    {
+     "source": "FranceTransactions.com",
+     "title": "Olala : OVHcloud lance son intelligence artificielle française et veut défier les géants américains",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3g0T2lhbWdVMUJVQUNyMzcyZHFnVlY1dlpLVi11b1FlLTVpLVJpSFhvVklDVUQwNFpIVTlFUEJ5ZTFCN1M1Wmc1NFFlM1JVV1dsRWdLdjNOTUZ4Q0k4R3hwblF1RjRUeTgyWXRDUXhJa0RISm94dmI2eGw4OW1zZjZRVDIxQVFDbXJCLUFVQUZXWnRhTWJJS202VjJyTVU4bUc5cGtXekZ0aF9HbWJtaW81cWJXZDV5SWR1UlVNdE8xTnplU0k2WWR1R1RpbXNUeTExV3hfeklUQTNoZXc?oc=5"
     },
     {
      "source": "BFM",
@@ -1413,7 +1413,7 @@
    },
    "date": "2026-11-17T14:25:48.000Z",
    "categories": [],
-   "score": 2.8
+   "score": 2.7
   },
   {
    "id": "pourquoi-personne-n-en-parle-ce-crosscall-stellar-m6-se-vend-discretement-par-pa",
