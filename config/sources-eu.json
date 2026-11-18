@@ -73,6 +73,12 @@
   ],
   "googleNews": [
     {
+      "query": "site:tech.eu",
+      "label": "Tech.eu (via Google News)",
+      "weight": 3,
+      "focus": true
+    },
+    {
       "query": "European startup raises Series",
       "weight": 1,
       "focus": false
