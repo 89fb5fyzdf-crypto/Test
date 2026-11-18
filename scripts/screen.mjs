@@ -31,9 +31,11 @@ const sources = JSON.parse(await readFile(path.join(ROOT, 'config', 'sources.jso
 const keywords = JSON.parse(await readFile(path.join(ROOT, 'config', 'keywords.json'), 'utf8'));
 
 const franceRe = new RegExp(keywords.france.join('|'), 'i');
-const categories = Object.entries(keywords.categories).map(([name, c]) => ({
-  name, weight: c.weight, re: new RegExp(c.patterns.join('|'), 'i'),
-}));
+const categories = Object.entries(keywords.categories).map(([name, c]) => {
+  const re = new RegExp(c.patterns.join('|'), 'i');
+  const ex = c.exclude?.length ? new RegExp(c.exclude.join('|'), 'gi') : null;
+  return { name, weight: c.weight, test: (text) => re.test(ex ? text.replace(ex, ' ') : text) };
+});
 const EVENT_CATS = new Set(['Levées de fonds', 'Rachats & IPO']);
 
 // ---------- utilitaires ----------
@@ -63,6 +65,18 @@ function attr(block, name, attribute) {
   return m ? decode(m[1]) : '';
 }
 
+// Retire les mentions automatiques ajoutées par les flux (« L'article … est apparu en premier sur … »,
+// rubrique · auteur · date en tête, liens « Lire l'article sur … », appels à s'abonner).
+function cleanText(s = '') {
+  return s
+    .replace(/(L[’']article|The post) .{0,300}? (est apparu en premier sur|appeared first on) .*$/i, '')
+    .replace(/Lire l[’']article sur .*$/i, '')
+    .replace(/(Depuis \d{4}, \w+ décrypte|Recevoir la sélection|Abonnez-vous|Inscrivez-vous à notre newsletter).*$/i, '')
+    .replace(/^[A-ZÀ-Ü0-9 '&-]{2,40} · [^·]{2,60} · \d{2}\/\d{2}\/\d{4}\s*/, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 // Parseur RSS 2.0 / Atom minimaliste (suffisant pour les flux de presse).
 function parseFeed(xml) {
   const items = [];
@@ -74,7 +88,8 @@ function parseFeed(xml) {
       title: stripHtml(tag(b, 'title')),
       link: link.trim(),
       date: date ? new Date(stripHtml(date)) : null,
-      summary: stripHtml(tag(b, 'description') || tag(b, 'summary') || tag(b, 'content')).slice(0, 400),
+      summary: cleanText(stripHtml(tag(b, 'description') || tag(b, 'summary') || tag(b, 'content'))).slice(0, 400),
+      content: cleanText(stripHtml(tag(b, 'content:encoded') || tag(b, 'content'))).slice(0, 5000),
       image: attr(b, 'media:content', 'url') || attr(b, 'media:thumbnail', 'url') || attr(b, 'enclosure', 'url'),
       source: stripHtml(tag(b, 'source')),
     });
@@ -193,7 +208,7 @@ const fresh = raw
   .filter((it) => it.focus || franceRe.test(`${it.title} ${it.summary}`)) // média généraliste : sujet FR uniquement
   .map((it) => {
     const text = `${it.title} ${it.summary}`;
-    return { ...it, _w: words(it.title), _ent: entitiesOf(it.title), _c: new Set(categories.filter((c) => c.re.test(text)).map((c) => c.name)) };
+    return { ...it, _w: words(it.title), _ent: entitiesOf(it.title), _c: new Set(categories.filter((c) => c.test(text)).map((c) => c.name)) };
   });
 
 // Un nom n'est retenu que s'il apparaît au moins une fois ailleurs qu'en tête de titre
@@ -242,6 +257,57 @@ const groups = [...byRoot.values()].map((members) => {
   return { members, _c: new Set(members.flatMap((m) => [...m._c])) };
 });
 
+// ---------- résumé sans IA ----------
+// Phrases les plus informatives des articles du sujet + chiffres clés repérés par motifs.
+const MONEY = /(\d+(?:[,.]\d+)?)\s*(milliards?|millions?|Mds?|M)\s*(?:d['’]euros|de dollars|d['’]\s?euros|€|\$|euros|dollars)/i;
+const JUNK = /cookie|abonn|newsletter|inscri|lire aussi|à lire|crédit photo|©|cliquez|podcast|écoutez|en savoir plus/i;
+const splitSentences = (t) => t.split(/(?<=[.!?…])\s+(?=[«"“A-ZÀ-Ü0-9])/).map((x) => x.trim());
+
+function buildFacts(text, cats) {
+  const facts = [];
+  const isFunding = cats.has('Levées de fonds');
+  const money = text.match(MONEY);
+  if (money && isFunding) facts.push({ label: 'Montant', value: money[0].replace(/\s+/g, ' ') });
+  const round = text.match(/\b(s[ée]rie [A-F]|pr[ée]-?seed|seed|amor[çc]age|tour d['’]amor[çc]age)\b/i);
+  if (round && isFunding) facts.push({ label: 'Tour', value: round[1].replace(/^./, (c) => c.toUpperCase()) });
+  const val = text.match(/valoris\w*\s+(?:[\w'’]+\s+){0,3}?(?:à|autour de|de|plus de|environ)\s*((?:plus de |près de |environ )?\d+(?:[,.]\d+)?\s*(?:milliards?|millions?|Mds?)\s*(?:d['’]euros|de dollars|€|\$)?)/i);
+  if (val) facts.push({ label: 'Valorisation', value: val[1].trim() });
+  if (isFunding) {
+    for (const inv of text.matchAll(/(?:co-?men[ée]e? par|men[ée]e? par|aupr[èe]s de|avec la participation de|soutenue? par)\s+([^.;:()]{3,140})/gi)) {
+      const who = inv[1].split(/\s+(?:pour|afin|qui|dont|et doit|ce|cette|valoris\w*)\b|,\s+(?:qui|ce|cette|pour)\b/i)[0].replace(/[,\s]+$/, '');
+      if (who.length >= 3 && who.length <= 90 && /\p{Lu}/u.test(who)) { facts.push({ label: 'Investisseurs', value: who }); break; }
+    }
+  }
+  return facts;
+}
+
+function buildBrief(members, cats) {
+  const seenS = [];
+  const cands = [];
+  members.forEach((m, mi) => {
+    splitSentences(m._content).forEach((sentence, pos) => {
+      if (sentence.length < 50 || sentence.length > 320 || JUNK.test(sentence)) return;
+      const w = words(sentence);
+      if (w.size < 5 || seenS.some((o) => similar(o, w) >= 0.55)) return;
+      seenS.push(w);
+      let score = 3 - Math.min(pos, 6) * 0.5 - mi * 0.15;
+      if (MONEY.test(sentence)) score += 2;
+      if (/\d/.test(sentence)) score += 0.5;
+      score += categories.filter((c) => cats.has(c.name) && c.test(sentence)).length;
+      cands.push({ sentence, score, mi, pos });
+    });
+  });
+  if (!cands.length) return null;
+  // L'essentiel : la 1re phrase de l'article le plus complet, sinon la meilleure phrase.
+  const richest = members.reduce((a, b) => (b._content.length > a._content.length ? b : a));
+  const first = cands.find((c) => members[c.mi] === richest && c.pos <= 1) || cands.reduce((a, b) => (b.score > a.score ? b : a));
+  const points = cands.filter((c) => c !== first).sort((a, b) => b.score - a.score).slice(0, 4).map((c) => c.sentence);
+  const allText = members.map((m) => `${m.title}. ${m._content.replace(/[.\s]*$/, '')}.`).join(' ');
+  const facts = buildFacts(allText, cats);
+  if (!points.length && !facts.length && first.sentence.length < 80) return null;
+  return { essentiel: first.sentence, points, facts };
+}
+
 // ---------- scoring ----------
 const items = groups.map(({ members, _c }) => {
   const lead = members[0];
@@ -257,6 +323,7 @@ const items = groups.map(({ members, _c }) => {
     (franceRe.test(text) ? 1 : 0) +
     Math.max(0, 2 - ageH / 12);
   const seen = new Set([lead.link]);
+  members.forEach((m) => (m._content = m.content || m.summary || ''));
   return {
     id: slug(lead.title).slice(0, 80),
     title: lead.title,
@@ -264,9 +331,11 @@ const items = groups.map(({ members, _c }) => {
     summary: lead.summary || members.find((m) => m.summary)?.summary || '',
     image: members.find((m) => m.image)?.image || undefined,
     sources: sourcesList,
-    // Autres articles sur le même sujet (un par média).
-    related: members.slice(1).filter((m) => !seen.has(m.link) && seen.add(m.link)).filter((m, i, arr) => arr.findIndex((x) => x.source === m.source) === i)
-      .slice(0, 6).map((m) => ({ source: m.source, title: m.title, url: m.link })),
+    // Tous les articles du sujet (un par média), sans « source principale ».
+    articles: [lead, ...members.slice(1).filter((m) => !seen.has(m.link) && seen.add(m.link))]
+      .filter((m, i, arr) => arr.findIndex((x) => x.source === m.source) === i)
+      .slice(0, 20).map((m) => ({ source: m.source, title: m.title, url: m.link })),
+    brief: buildBrief(members, _c) || undefined,
     date: date.toISOString(),
     categories: cats.map((c) => c.name),
     score: Math.round(score * 10) / 10,

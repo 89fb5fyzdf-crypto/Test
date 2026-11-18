@@ -2,62 +2,74 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Radar French Tech</title>
   <meta name="description" content="Revue quotidienne des articles clés de la French Tech.">
+  <meta name="theme-color" content="#f2f3f7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23123a8c'/><circle cx='16' cy='16' r='9' fill='none' stroke='white' stroke-width='2.5'/><circle cx='16' cy='16' r='3' fill='%23e8424b'/></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%231d1d1f'/><circle cx='16' cy='16' r='8' fill='none' stroke='white' stroke-width='2'/><circle cx='16' cy='16' r='2.5' fill='%230071e3'/></svg>">
 </head>
 <body>
-  <header class="masthead">
-    <div class="wrap masthead-inner">
-      <div class="brand">
-        <span class="logo" aria-hidden="true"></span>
-        <div>
-          <h1>Radar French Tech</h1>
-          <p class="tagline">L'actualité des startups françaises qui compte, chaque matin.</p>
-        </div>
-      </div>
+  <div class="backdrop" aria-hidden="true"><div class="topo"></div></div>
+
+  <header class="bar-wrap wrap">
+    <div class="bar glass">
+      <a class="brand" href="./">
+        <span class="mark" aria-hidden="true"></span>
+        Radar
+      </a>
       <nav class="daynav" aria-label="Choisir le jour">
-        <button id="prev" class="icon-btn" aria-label="Jour précédent">‹</button>
+        <button id="prev" class="nav-btn" aria-label="Jour précédent"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3 5 8l5 5"/></svg></button>
         <select id="day" aria-label="Jour"></select>
-        <button id="next" class="icon-btn" aria-label="Jour suivant">›</button>
+        <button id="next" class="nav-btn" aria-label="Jour suivant"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m6 3 5 5-5 5"/></svg></button>
       </nav>
     </div>
   </header>
 
   <main class="wrap">
-    <section id="stats" class="stats" aria-live="polite"></section>
+    <section class="hero">
+      <p id="eyebrow" class="eyebrow"></p>
+      <h1>L'essentiel de la French Tech.</h1>
+      <p id="summary" class="lede" aria-live="polite"></p>
+    </section>
 
-    <div class="toolbar">
+    <div class="controls">
+      <label class="search glass">
+        <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.5"/><path d="m10.5 10.5 3 3"/></svg>
+        <input id="q" type="search" placeholder="Rechercher" aria-label="Rechercher une startup, un investisseur">
+      </label>
       <div id="chips" class="chips" aria-label="Filtrer par thème"></div>
-      <input id="q" type="search" placeholder="Rechercher une startup, un investisseur…" aria-label="Rechercher">
     </div>
 
-    <div class="layout">
-      <div>
-        <section id="top" class="top"></section>
-        <section id="list" class="list"></section>
-      </div>
-      <aside class="side">
-        <div class="panel">
-          <h2>Comment c'est trié</h2>
-          <p class="note">Chaque matin, les articles des dernières 36 heures sont collectés. Les articles qui parlent du même sujet sont regroupés, puis classés par score ★ : thème (levée de fonds, rachat, licorne…), fiabilité du média, nombre de médias qui en parlent et fraîcheur.</p>
-        </div>
-        <div class="panel">
-          <h2>Sources du jour</h2>
-          <ul id="sources" class="src"></ul>
-        </div>
-      </aside>
-    </div>
+    <section id="top" class="top"></section>
+    <section id="list"></section>
+
+    <section class="about pane">
+      <details>
+        <summary>Comment c'est trié</summary>
+        <p>Chaque matin, les articles des dernières 36 heures sont collectés. Les articles qui parlent du même sujet sont regroupés, puis classés selon leur thème (levée de fonds, rachat, licorne…), la fiabilité des médias, le nombre de médias qui en parlent et leur fraîcheur.</p>
+      </details>
+      <details>
+        <summary>Sources du jour <span id="src-count"></span></summary>
+        <ul id="sources" class="src"></ul>
+      </details>
+    </section>
   </main>
 
   <footer class="wrap foot">
-    Mise à jour automatique chaque matin · <span id="updated"></span>
+    <span>Mis à jour chaque matin.</span> <span id="updated"></span>
   </footer>
+
+  <dialog id="sheet" class="sheet glass" aria-labelledby="sheet-title">
+    <div class="sheet-scroll">
+      <button class="close glass" id="close" aria-label="Fermer"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 4 8 8M12 4l-8 8"/></svg></button>
+      <div id="sheet-body"></div>
+    </div>
+  </dialog>
 
   <script src="app.js"></script>
 </body>
