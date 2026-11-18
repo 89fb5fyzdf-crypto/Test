@@ -132,16 +132,19 @@ function articlesMenu(i) {
 const COVER_HUES = { 'Levées de fonds': [212, 172], 'Rachats & IPO': [268, 222], 'Licornes & scale-ups': [290, 330], 'IA': [238, 300],
   'Politique & écosystème': [28, 350], 'Difficultés': [2, 330], 'Talents & nominations': [150, 196] };
 function hashHue(t) { let h = 0; for (const c of t) h = (h * 31 + c.charCodeAt(0)) % 360; return h; }
-function cover(i) {
-  const [a, b] = COVER_HUES[i.categories[0]] || [hashHue(i.title), (hashHue(i.title) + 60) % 360];
-  return `<div class="cover" style="--h1:${a};--h2:${b}" aria-hidden="true"><span>${esc(i.categories[0] || 'French Tech')}</span></div>`;
+function hues(i) {
+  return COVER_HUES[i.categories[0]] || [hashHue(i.title), (hashHue(i.title) + 60) % 360];
 }
+// Photo et couverture générée partagent les mêmes couches (teinte, courbes de niveau, pastille)
+// pour garder une cohérence graphique.
 function visual(i, cls) {
-  return `<div class="visual ${cls}">${i.image
-    ? `<img src="${esc(safeUrl(i.image))}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cover="${idx(i)}" onerror="imgFail(this)">`
-    : cover(i)}</div>`;
+  const [a, b] = hues(i);
+  const img = i.image ? `<img src="${esc(safeUrl(i.image))}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="imgFail(this)">` : '';
+  return `<div class="visual ${cls} ${img ? 'photo' : 'generated'}" style="--h1:${a};--h2:${b}" aria-hidden="true">
+    ${img}<i class="tint"></i><i class="lines"></i><span class="pill">${esc(i.categories[0] || 'French Tech')}</span>
+  </div>`;
 }
-window.imgFail = (el) => { el.outerHTML = cover(state.day.items[Number(el.dataset.cover)]); };
+window.imgFail = (el) => { el.parentElement.classList.replace('photo', 'generated'); el.remove(); };
 
 function feature(i, lead) {
   const t = teaserOf(i);
@@ -166,7 +169,6 @@ function row(i) {
       ${t ? `<p class="teaser">${esc(t)}</p>` : ''}
       ${articlesMenu(i)}
     </div>
-    ${visual(i, 'thumb')}
   </article>`;
 }
 
@@ -236,5 +238,71 @@ function renderEmpty() {
   ['#prev', '#next', '#day'].forEach((s) => ($(s).disabled = true));
 }
 
+// ---------- Ouverture façon Apple ----------
+// Le grand logo « Radar » rejoint la barre en suivant le défilement, les courbes de niveau
+// dézooment, le fond noir s'efface, puis le titre s'éclaire mot à mot.
+const clamp = (x) => Math.min(1, Math.max(0, x));
+const ease = (t) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2); // accélère puis ralentit
+function setupIntro() {
+  const root = document.documentElement;
+  const intro = $('#intro'), stage = intro.querySelector('.stage'), wm = $('#wordmark');
+  const h1 = document.querySelector('h1');
+  h1.innerHTML = h1.textContent.split(' ').map((w) => `<span class="w">${esc(w)}</span>`).join(' ');
+  const words = [...h1.querySelectorAll('.w')];
+  let geo = null;
+
+  function measure() {
+    if (!root.classList.contains('with-intro')) return;
+    intro.style.setProperty('--bar-h', `${document.querySelector('.bar-wrap').offsetHeight}px`);
+    wm.style.setProperty('--s', 1); wm.style.setProperty('--dx', '0px'); wm.style.setProperty('--dy', '0px');
+    const from = wm.getBoundingClientRect(), stageTop = stage.getBoundingClientRect().top;
+    const to = document.querySelector('.brand').getBoundingClientRect();
+    const scale = parseFloat(getComputedStyle(document.querySelector('.brand')).fontSize) / parseFloat(getComputedStyle(wm).fontSize);
+    geo = {
+      s: scale,
+      dx: (to.left + to.width / 2) - (from.left + from.width / 2) + (from.width * scale - to.width) / 2,
+      dy: (to.top + to.height / 2) - (from.top - stageTop + from.height / 2),
+    };
+  }
+
+  function frame() {
+    if (root.classList.contains('with-intro') && geo) {
+      const range = intro.offsetHeight - window.innerHeight;
+      const p = clamp(window.scrollY / range);
+      const e = ease(clamp(p / 0.85));
+      stage.style.setProperty('--p', p.toFixed(4));
+      stage.style.setProperty('--fade', clamp((p - 0.6) / 0.4).toFixed(4));
+      wm.style.setProperty('--s', (1 + (geo.s - 1) * e).toFixed(4));
+      wm.style.setProperty('--dx', `${(geo.dx * e).toFixed(1)}px`);
+      wm.style.setProperty('--dy', `${(geo.dy * e).toFixed(1)}px`);
+      wm.style.setProperty('--wm-o', (1 - clamp((p - 0.93) / 0.07)).toFixed(3));
+      root.style.setProperty('--bar-o', clamp((p - 0.85) / 0.12).toFixed(3));
+    }
+    // Titre : chaque mot s'éclaire quand le titre entre dans l'écran.
+    const r = clamp((window.innerHeight * 0.9 - h1.getBoundingClientRect().top) / (window.innerHeight * 0.45));
+    words.forEach((w, k) => w.style.setProperty('--o', (0.15 + 0.85 * clamp(r * words.length - k)).toFixed(3)));
+  }
+
+  let queued = false;
+  const onScroll = () => { if (!queued) { queued = true; requestAnimationFrame(() => { queued = false; frame(); }); } };
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', () => { measure(); frame(); });
+
+  if (root.classList.contains('with-intro')) {
+    try { localStorage.setItem('intro', new Date().toISOString().slice(0, 10)); } catch {}
+    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+    window.scrollTo(0, 0);
+    wm.onclick = () => window.scrollTo({ top: intro.offsetHeight - window.innerHeight, behavior: 'smooth' });
+  }
+  $('#replay').onclick = () => {
+    try { localStorage.removeItem('intro'); } catch {}
+    location.href = location.pathname; // sans le jour dans l'adresse, pour rejouer l'ouverture
+  };
+  measure();
+  frame();
+  document.fonts?.ready.then(() => { measure(); frame(); });
+}
+
 setupTheme();
+setupIntro();
 init();

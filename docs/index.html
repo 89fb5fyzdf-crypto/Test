@@ -9,6 +9,11 @@
   <meta name="color-scheme" content="dark light">
   <script>
     // Thème choisi par le visiteur (sombre par défaut), appliqué avant l'affichage.
+    try {
+      var today = new Date().toISOString().slice(0, 10);
+      var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if (!reduce && localStorage.getItem('intro') !== today && !location.hash) document.documentElement.classList.add('with-intro');
+    } catch (e) {}
     try { if (localStorage.getItem('theme') === 'light') { document.documentElement.dataset.theme = 'light'; document.getElementById('theme-color').content = '#f2f3f7'; } } catch (e) {}
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -33,6 +38,19 @@
       </nav>
     </div>
   </header>
+
+  <!-- Ouverture façon Apple : grand logo, balayage radar ; au défilement, le logo rejoint la barre. -->
+  <section id="intro" class="intro" aria-label="Introduction">
+    <div class="stage">
+      <div class="stage-bg"></div>
+      <div class="stage-topo"><div class="stage-lines"></div><div class="stage-sweep"></div></div>
+      <button class="wordmark" id="wordmark" type="button" aria-label="Passer l'introduction">
+        <span class="wm-mark" aria-hidden="true"></span><span class="wm-text">Radar</span>
+      </button>
+      <p class="stage-tag">La French Tech, quatre fois par jour.</p>
+      <p class="stage-hint" aria-hidden="true">Faites défiler<svg viewBox="0 0 16 16"><path d="m4 6 4 4 4-4"/></svg></p>
+    </div>
+  </section>
 
   <main class="wrap">
     <section class="hero">
@@ -66,7 +84,10 @@
 
   <footer class="wrap foot">
     <p><span>Mis à jour 4 fois par jour : 9 h 30, 13 h 30, 18 h 30 et 21 h 30.</span> <span id="updated"></span></p>
-    <button id="theme" class="theme-btn glass" type="button"></button>
+    <div class="foot-actions">
+      <button id="replay" class="theme-btn glass" type="button">Revoir l'introduction</button>
+      <button id="theme" class="theme-btn glass" type="button"></button>
+    </div>
   </footer>
 
   <dialog id="sheet" class="sheet glass" aria-labelledby="sheet-title">

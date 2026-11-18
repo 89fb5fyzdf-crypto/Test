@@ -1,6 +1,6 @@
 # Radar French Tech
 
-Site de veille qui sélectionne plusieurs fois par jour les articles clés sur la French Tech. Thème sombre par défaut, mode clair via le bouton en bas de page.
+Site de veille qui sélectionne plusieurs fois par jour les articles clés sur la French Tech. Thème sombre par défaut, mode clair via le bouton en bas de page. Une ouverture animée (logo, balayage radar, transition au défilement) s'affiche à la première visite de la journée ; « Revoir l'introduction » en bas de page la rejoue.
 
 Site en ligne : https://89fb5fyzdf-crypto.github.io/Test/
 

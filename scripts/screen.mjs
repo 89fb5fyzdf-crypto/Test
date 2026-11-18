@@ -358,7 +358,7 @@ const items = groups.map(({ members, _c }) => {
 }).sort((a, b) => b.score - a.score);
 
 // ---------- images manquantes ----------
-// Pour les sujets affichés (5 à la une + les 10 plus relayés), on va chercher l'image de
+// Pour les sujets à la une, on va chercher l'image de
 // partage (og:image) sur la page d'un des articles. Les liens Google News ne mènent pas
 // directement à l'article : ils sont ignorés.
 async function ogImage(url) {
@@ -373,11 +373,7 @@ async function ogImage(url) {
     return /^https:\/\//.test(img) ? img : '';
   } catch { return ''; }
 }
-const shown = new Set([
-  ...items.slice(0, 5),
-  ...items.slice(5).sort((a, b) => b.articles.length - a.articles.length || b.score - a.score).slice(0, 10),
-  ...items.slice(5, 25),
-]);
+const shown = new Set(items.slice(0, 8)); // les 5 sujets à la une (+ marge)
 const needImage = [...shown].filter((i) => !i.image);
 let found = 0;
 if (!args.fixtures) {
