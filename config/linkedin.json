@@ -1,0 +1,18 @@
+{
+  "_doc": "LinkedIn n'offre pas d'API publique pour lire les posts. Deux options : (1) ajouter à la main les posts repérés dans 'posts' (date au format AAAA-MM-JJ) ; (2) définir le secret BRAVE_API_KEY dans GitHub pour chercher chaque jour les posts publics indexés via les requêtes ci-dessous. 'watchlist' alimente la colonne « Comptes à suivre » du site.",
+  "searchQueries": [
+    "site:linkedin.com/posts \"French Tech\"",
+    "site:linkedin.com/posts levée de fonds startup",
+    "site:linkedin.com/posts \"Station F\"",
+    "site:linkedin.com/pulse \"French Tech\""
+  ],
+  "posts": [],
+  "watchlist": [
+    { "name": "La French Tech", "url": "https://www.linkedin.com/company/lafrenchtech/posts/" },
+    { "name": "Bpifrance", "url": "https://www.linkedin.com/company/bpifrance/posts/" },
+    { "name": "Station F", "url": "https://www.linkedin.com/company/stationf/posts/" },
+    { "name": "Maddyness", "url": "https://www.linkedin.com/company/maddyness/posts/" },
+    { "name": "France Digitale", "url": "https://www.linkedin.com/company/france-digitale/posts/" },
+    { "name": "Mistral AI", "url": "https://www.linkedin.com/company/mistralai/posts/" }
+  ]
+}

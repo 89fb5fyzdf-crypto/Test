@@ -1,0 +1,13 @@
+{
+  "_doc": "Chaque catégorie a des motifs (expressions régulières, insensibles à la casse) et un poids. Le score d'un article = somme des poids des catégories trouvées + poids de la source + bonus si plusieurs médias couvrent le même sujet.",
+  "france": ["french ?tech", "fran[cç]ais", "france", "paris", "lyon", "station f", "bpifrance", "next ?40", "ft ?120", "hexagon"],
+  "categories": {
+    "Levées de fonds": { "weight": 4, "patterns": ["l[eè]ve \\d", "lev[ée]e de fonds", "tour de table", "s[ée]rie [abcd]\\b", "seed", "amor[cç]age", "millions? d'euros", "m€", "\\bfunding\\b", "raises? [€$]", "\\braises\\b"] },
+    "Rachats & IPO": { "weight": 4, "patterns": ["rach[eè]t", "acqui[ers]", "fusion", "\\bipo\\b", "introduction en bourse", "cotation", "exit", "acquisition"] },
+    "Licornes & scale-ups": { "weight": 3, "patterns": ["licorne", "unicorn", "scale-?up", "next ?40", "ft ?120", "d[ée]cacorne"] },
+    "IA": { "weight": 2, "patterns": ["\\bia\\b", "intelligence artificielle", "\\bai\\b", "mistral", "\\bllm\\b", "g[ée]n[ée]rative", "h company", "poolside"] },
+    "Politique & écosystème": { "weight": 3, "patterns": ["french ?tech", "bpifrance", "station f", "minist", "gouvernement", "[ée]lys[ée]e", "choose france", "vivatech", "france 2030", "cr[ée]dit d'imp[oô]t", "\\bcir\\b"] },
+    "Difficultés": { "weight": 2, "patterns": ["liquidation", "redressement", "plan social", "licenci", "faillite", "ferme ses portes", "cessation", "layoffs?"] },
+    "Talents & nominations": { "weight": 1, "patterns": ["nomm[ée]", "recrute", "nomination", "rejoint", "\\bceo\\b", "directeur g[ée]n[ée]ral"] }
+  }
+}

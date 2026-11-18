@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radar French Tech</title>
+  <meta name="description" content="Revue quotidienne des articles et posts LinkedIn clés de la French Tech.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23123a8c'/><circle cx='16' cy='16' r='9' fill='none' stroke='white' stroke-width='2.5'/><circle cx='16' cy='16' r='3' fill='%23e8424b'/></svg>">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <div class="brand">
+        <span class="logo" aria-hidden="true"></span>
+        <div>
+          <h1>Radar French Tech</h1>
+          <p class="tagline">Les articles et posts LinkedIn qui comptent, chaque matin.</p>
+        </div>
+      </div>
+      <nav class="daynav" aria-label="Choisir le jour">
+        <button id="prev" class="icon-btn" aria-label="Jour précédent">‹</button>
+        <select id="day" aria-label="Jour"></select>
+        <button id="next" class="icon-btn" aria-label="Jour suivant">›</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="stats" class="stats" aria-live="polite"></section>
+
+    <div class="toolbar">
+      <div class="tabs" role="tablist">
+        <button role="tab" data-tab="all" aria-selected="true">Tout</button>
+        <button role="tab" data-tab="article" aria-selected="false">Articles</button>
+        <button role="tab" data-tab="linkedin" aria-selected="false">LinkedIn</button>
+      </div>
+      <input id="q" type="search" placeholder="Rechercher (startup, investisseur, mot-clé…)" aria-label="Rechercher">
+    </div>
+    <div id="chips" class="chips" aria-label="Filtrer par thème"></div>
+
+    <div class="layout">
+      <div>
+        <section id="top" class="top"></section>
+        <section id="list" class="list"></section>
+      </div>
+      <aside class="side">
+        <div class="panel">
+          <h2>Comptes LinkedIn à suivre</h2>
+          <ul id="watchlist" class="watch"></ul>
+          <p id="li-note" class="note"></p>
+        </div>
+        <div class="panel">
+          <h2>Sources du jour</h2>
+          <ul id="sources" class="src"></ul>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="wrap foot">
+    Mise à jour automatique chaque matin · <span id="updated"></span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
