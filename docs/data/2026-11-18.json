@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T03:28:48.105Z",
+ "generatedAt": "2026-11-18T03:29:56.684Z",
  "windowHours": 36,
  "counts": {
   "articles": 70,
@@ -40,9 +40,9 @@
    "items": 10
   },
   {
-   "source": "Sifted",
+   "source": "BFM Tech",
    "ok": true,
-   "items": 24
+   "items": 30
   },
   {
    "source": "EU-Startups (France)",
@@ -50,24 +50,14 @@
    "error": "HTTP 403"
   },
   {
-   "source": "BFM Tech",
+   "source": "Sifted",
    "ok": true,
-   "items": 30
+   "items": 24
   },
   {
    "source": "TechCrunch (France)",
    "ok": true,
    "items": 20
-  },
-  {
-   "source": "Journal du Net",
-   "ok": true,
-   "items": 60
-  },
-  {
-   "source": "Google News · startup française levée de fonds",
-   "ok": true,
-   "items": 10
   },
   {
    "source": "Google News · Bpifrance startup",
@@ -90,24 +80,34 @@
    "items": 10
   },
   {
-   "source": "Les Echos Start",
-   "ok": false,
-   "error": "HTTP 404"
-  },
-  {
    "source": "Google News · Mistral AI",
    "ok": true,
    "items": 27
   },
   {
-   "source": "Siècle Digital",
+   "source": "Journal du Net",
    "ok": true,
-   "items": 20
+   "items": 60
   },
   {
    "source": "L'Usine Digitale",
    "ok": false,
    "error": "HTTP 403"
+  },
+  {
+   "source": "Google News · startup française levée de fonds",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "Les Echos Start",
+   "ok": false,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "Siècle Digital",
+   "ok": true,
+   "items": 20
   },
   {
    "source": "FrenchWeb",
@@ -143,8 +143,8 @@
    "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/e1452ebdc1c11e4e9688eba8e43a38dda555a44abec42a403cb740d38369797a.webp",
    "sources": [
     "FrenchWeb",
-    "J'aime les startups",
-    "Silicon.fr"
+    "Silicon.fr",
+    "J'aime les startups"
    ],
    "date": "2026-11-17T08:44:40.000Z",
    "categories": [
@@ -741,22 +741,6 @@
    "score": 4.1
   },
   {
-   "id": "remanence-obtient-30-millions-de-dollars-pour-former-l-ia-en-entreprise",
-   "kind": "article",
-   "title": "Remanence obtient 30 millions de dollars pour former l’IA en entreprise",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamVDSnFDcXhObGdkWUNORFNubC1yeTZ3bkN5QWQ1UXFidXZFbXZkREt0UnZYSEdxdGxaUkdHYnB5MDBsTnJxc3NVd3k3aFhWOU5UREJhQnZUbFJPcmVaNm9zSUVOWGdNZHV5Yjk5Njg0eVUybVRqeXdfXzhINlZUQVNsZjFzQ1Z1TnB4cjJqSmhMLUpQR3BVU19GZUp5czJsdGpOXw?oc=5",
-   "summary": "",
-   "sources": [
-    "Brief IA"
-   ],
-   "via": "Google News",
-   "date": "2026-11-17T14:34:56.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3.9
-  },
-  {
    "id": "ia-et-droit-d-auteur-une-proposition-de-loi-pour-proteger-la-creation-toujours-e",
    "kind": "article",
    "title": "IA et droit d'auteur : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
@@ -767,6 +751,22 @@
    ],
    "via": "Google News",
    "date": "2026-11-17T14:32:30.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.9
+  },
+  {
+   "id": "remanence-obtient-30-millions-de-dollars-pour-former-l-ia-en-entreprise",
+   "kind": "article",
+   "title": "Remanence obtient 30 millions de dollars pour former l’IA en entreprise",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamVDSnFDcXhObGdkWUNORFNubC1yeTZ3bkN5QWQ1UXFidXZFbXZkREt0UnZYSEdxdGxaUkdHYnB5MDBsTnJxc3NVd3k3aFhWOU5UREJhQnZUbFJPcmVaNm9zSUVOWGdNZHV5Yjk5Njg0eVUybVRqeXdfXzhINlZUQVNsZjFzQ1Z1TnB4cjJqSmhMLUpQR3BVU19GZUp5czJsdGpOXw?oc=5",
+   "summary": "",
+   "sources": [
+    "Brief IA"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T14:34:56.000Z",
    "categories": [
     "IA"
    ],
