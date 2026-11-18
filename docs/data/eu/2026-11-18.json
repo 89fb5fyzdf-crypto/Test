@@ -1,11 +1,11 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T05:21:36.563Z",
+ "generatedAt": "2026-11-18T05:23:28.760Z",
  "windowHours": 36,
  "counts": {
-  "articles": 36,
-  "raw": 64,
-  "media": 29
+  "articles": 23,
+  "raw": 38,
+  "media": 13
  },
  "scope": "eu",
  "lang": "en",
@@ -68,6 +68,46 @@
  ],
  "items": [
   {
+   "id": "plural-raises-1-billion-fund-for-european-frontier-tech",
+   "title": "Plural raises €1 billion fund for European frontier tech",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5",
+   "summary": "",
+   "sources": [
+    "IT Brief UK",
+    "Alternatives Watch",
+    "Ventureburn",
+    "ArcticStartup"
+   ],
+   "articles": [
+    {
+     "source": "IT Brief UK",
+     "title": "Plural raises €1 billion fund for European frontier tech",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5"
+    },
+    {
+     "source": "Alternatives Watch",
+     "title": "Plural raises €1bn to back European startups in defense, energy and AI",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzA4VjhjV2NkaFVOSTJ0MC0xeWhFVXZhczd0aXBOeExHVG1NOFdmV2pUVGVMck1jbWFnYzl1azRsd0poS1h1QnlkUS1FeWs4Ri1Oa3lUTl9qSFZDeHNFd3NlanJZQWZGLUplM0lsRmQwWDN2THRkU25wMTBvRUZIR0tXWkxKMFViVDdMRmhLZEQ4eGp6YXhvQjZfVEpSekxp?oc=5"
+    },
+    {
+     "source": "Ventureburn",
+     "title": "Plural Raises €1bn to Back Europe’s Next Generation of Technology Founders",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53a21CaWhVc1hReEJQWUZnVWtBNEJ2MUxWdVRpcDNXX1o0bzl1d0xsWDAtRG9nQjYwRlBYTzF3bUlxRk40enRNNVJoZEhzZkhEWWZpTFZTNlNNbHlzcmxGWlhqTXo2VnNETFFnNHdWRl9pTTDSAXNBVV95cUxOd2ttQmloVXNYUXhCUFlGZ1VrQTRCdjFMVnVUaXAzV19aNG85dXdMbFgwLURvZ0I2MEZQWE8xd21JcUZONHp0TTVSaGRIc2ZIRFlmaUxWUzZTTWx5c3JsRlpYak16NlZzRExRZzR3VkZfaU0w?oc=5"
+    },
+    {
+     "source": "ArcticStartup",
+     "title": "Plural raises €1bn fund to back Europe's next generation of frontier technology companies - ArcticStartup",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0Yk45TXlBY0cyeUtCNkxjQnpPcGdLaVJvbHVkVDk4OW5sZ3BTMUp0NGJscDFMTnVveWVrZ3k4RTM1NjY4c3NlNnE3LVRCeE8xZFVtNkw5VjHSAVhBVV95cUxQdGJOOU15QWNHMnlLQjZMY0J6T3BnS2lSb2x1ZFQ5ODlubGdwUzFKdDRibHAxTE51b3lla2d5OEUzNTY2OHNzZTZxNy1UQnhPMWRVbTZMOVYx?oc=5"
+    }
+   ],
+   "date": "2026-11-17T01:03:39.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 24.6
+  },
+  {
    "id": "isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z",
    "title": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
    "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
@@ -76,10 +116,7 @@
    "sources": [
     "Sifted",
     "EU-Startups",
-    "City AM",
-    "Fierce Biotech",
-    "Proactive financial news",
-    "TechCrunch"
+    "City AM"
    ],
    "articles": [
     {
@@ -96,21 +133,6 @@
      "source": "City AM",
      "title": "Isomorphic Labs raises $5bn in ‘one of UK tech’s biggest funding rounds’",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXRXS256RXdLaE96TXBnaFZoN1N0dkpmYng0eU9IUXJaeFNKdVExTXdhVmFGRkhBRWxqNjIzQUNNRVRZalRiTmR0OE5tWFFYYjVEb1NOZzdhQTJadVJlZjRzNlR2UU0zdjBQVjRwNjZLMUFIT2l1UW9vMjhlMW5LVVpsTWZwUTJwYTZlOUVHb0Ezdmg5Z3JR?oc=5"
-    },
-    {
-     "source": "Fierce Biotech",
-     "title": "Isomorphic Labs raises $5B series C months after $2.1B round",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOendaLU5JaDRyX040VjJfUHNuRDVrTFVjVVlXeGpkWjVFaWN4a1lENllJVkxWSU5US1hvbHlEYWFnWXRCMlpkTDljWmtaVVM4VnhCOFZIZGFjU0YxaTBLLWNiazhWcjBTZmdoam9qVFJDcE1nQ0ZuRG1kamVwNTBMYUdoajJtajhESVo3WDJuX09aZkoxRWNjVURtVQ?oc=5"
-    },
-    {
-     "source": "Proactive financial news",
-     "title": "Isomorphic Labs raises $5 billion as AI drug developer targets clinical trials",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY3V4cXFjeTJoQUF5b3FYZ1I3S1dVUVg0aXcwdXZBczlFYjJNU2JWLWJBUUsxc0VWeGpyOUh3NldqalZWSlByNmFRZUVaa0Fhb1dicHltaV9lcGlYUFA1M2Nac05OblhRYjBXakhteV9VZHFjM19PbmRUQ0NPZ0U5Zkx3M1hyekZJYUhtbWx5WWpvVjdsRHdaUFVaV3FUdFdTQ0JaWVdsa1dEZW1OU1RDQVhKejVyYkdlSWZRa1p1bXVROFh6RVNsLTBQT3ZhQUFIdmZYS2VBaDVkdHBrclllTjRB?oc=5"
-    },
-    {
-     "source": "TechCrunch",
-     "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcC1LN2ZlaTVNZ2xpRU53bDRxX0pGWUpQMnNJN3FqcVpuQXIzMndaWDNoTGdaQkJjVnVDYTRiRFV1VnhDMmxjT18zTU9Vc2pnNU9xbllkWnFxWE10MXlFaE8xZVNYblYzd3U1cVNweXNzTVFWUnpPdGI4eDlvdDN3QUtuVkl2OTNhOE9TWExwR0N2RE9EOFFINF8yaXYwb2M0dHk1ai1nRnA2U1ZPampmS3dBeHY3Zw?oc=5"
     }
    ],
    "brief": {
@@ -141,7 +163,7 @@
     "Funding",
     "AI"
    ],
-   "score": 33.1
+   "score": 24.1
   },
   {
    "id": "model-ml-is-europe-s-newest-unicorn-with-227-million-raise-to-put-ai-agents-to-w",
@@ -151,9 +173,7 @@
    "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-bar-19-300x169.png",
    "sources": [
     "EU-Startups",
-    "Tech.eu",
-    "UA.NEWS",
-    "www.tokenpost.com"
+    "UA.NEWS"
    ],
    "articles": [
     {
@@ -162,19 +182,9 @@
      "url": "https://www.eu-startups.com/2026/11/model-ml-is-europes-newest-unicorn-with-e227-million-raise-to-put-ai-agents-to-work-in-finance-makes/"
     },
     {
-     "source": "Tech.eu",
-     "title": "Model ML hits $1.5B valuation with $250M raise, just 18 months after emerging from stealth",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV29VLWxrSWhiZUV4SlBMbFFjOFZMN2h4d1czU05IdG9LY3otNjVscjkzMmhpeE9JekVueE1QTHFHeDhsc1MwOHd2ZWFoaFBZcVJfWmV3d0V4c1BfR0M4RWFOVmlKS2JqbWttb0EzajlFOTBDanRIWnF5VGZjdFplRDNTR1JaLXhrQmM3OXA1d0N0OW45dDl4V0xPV2NvaHlEWUhPSkVJbjI4a1ZtSms3Z1d3UVM?oc=5"
-    },
-    {
      "source": "UA.NEWS",
      "title": "London startup Model ML raises $250 million for AI for bankers — TechCrunch",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUklmRnlWZVNZMy1aWVpTVlprcXF0NXpSYktHRzdBbzg3MHVHWGpHYjlKY2wwVnFUUTlHNk1XVWg0cXQ0N0l6QU9LUXpqTlZWYVVmdlFYUF9kbEVfQXNFekR4LWF3Z0VXeDJ2OVBZQlc5WTBZb0NhMUVQeFBQRUx2eDFfODl0UEJnYjZlVl9pUnI1Vkl1SGRSYzljUndzYVhRd2k5RklmeFFqWUJWLVE?oc=5"
-    },
-    {
-     "source": "www.tokenpost.com",
-     "title": "Sqwish Raises $3 Million to Build Its Tunable Decision Model",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnRVRURHNKZFc0UVNhNm5uUzAtSzUxSkk1dk1KT1VyTUZBQTRwZk9MY3d6czZkYlpHN0hsTkQzRDFXclc2UTg0ZENXREZ5dVFkU0dtSHkzQWM?oc=5"
     }
    ],
    "brief": {
@@ -200,169 +210,13 @@
      }
     ]
    },
-   "date": "2026-11-17T12:46:11.000Z",
+   "date": "2026-11-17T12:50:16.000Z",
    "categories": [
     "Funding",
     "Unicorns & scale-ups",
     "AI"
    ],
-   "score": 28.2
-  },
-  {
-   "id": "tiberius-the-munitions-startup-becomes-the-latest-defence-tech-unicorn-raising-8",
-   "title": "Tiberius, the munitions startup, becomes the latest defence tech unicorn, raising $85M at a $1B valuation",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmNRcDBJbm5FbzZ5Zk1OQ2R6NUZVUGVfY3FvVU04MDIza1JNS1hpX0RrUHVodzZBSEoyTEdtZUVHYkdzb3c2MjlkYm9Fblp5d0lsbi1jZlY0bERZVlVRdm5hOG94a1p5a0lDZy1oUGZkVmc1dG1Xd05jc2kyUjVpaEkwLXExSkZ6aGpVUlJFZTJUVUJsZlpfMm5Hc2xsM0JiMUlDZTBrMEF5Q1I3S19TUXFnRFFVUQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Resilience Media",
-    "Via TT",
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Resilience Media",
-     "title": "Tiberius, the munitions startup, becomes the latest defence tech unicorn, raising $85M at a $1B valuation",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmNRcDBJbm5FbzZ5Zk1OQ2R6NUZVUGVfY3FvVU04MDIza1JNS1hpX0RrUHVodzZBSEoyTEdtZUVHYkdzb3c2MjlkYm9Fblp5d0lsbi1jZlY0bERZVlVRdm5hOG94a1p5a0lDZy1oUGZkVmc1dG1Xd05jc2kyUjVpaEkwLXExSkZ6aGpVUlJFZTJUVUJsZlpfMm5Hc2xsM0JiMUlDZTBrMEF5Q1I3S19TUXFnRFFVUQ?oc=5"
-    },
-    {
-     "source": "Via TT",
-     "title": "Lakestar and Rochefort Asset Management Co-Lead Series A for Tiberius Aerospace at over $1 Billion Valuation",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMlVWaVhUTDF4YmhaUXpjSm1GSEp3YnBUTXg3OWpuOF9vYWVkV29EVHVWQmVxNkpBZ3VnQ2Y2QW81cjY5MnlVZE9kc2F2RW93Mk9jTDR6VjFzcWRiUW4zN21MaW5QbHJ4SUxMZXN2X3NqRk1LRU83aHZkU2huOHlkNjJISDFMWlVFZUJiUWZMZjF3MEpIbUhHNC1YMDludDN2WFU5OWVnV2dSQTlNcUkxNk9GWVlCdkFzcndqTE45WUQwdHkyMXBpN1hTYTh5WkUzVFRwbC1RMElqb3JETzU1ajRRcnJaRnpQQVVMWVY5bHd1d21VczV5eHhhRmZFS3EyUmZTaEtHbnN6NXczR1k4?oc=5"
-    },
-    {
-     "source": "Tech.eu",
-     "title": "Tiberius Aerospace with strong UK links raises $85M",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejJxQTRaRjhoUGszVjdxNzlQRm85UWNXLTJoRkhTWGtjNVJlTnhOdDA4M3hsNkU4dlNxdjN3TmloY3RIbEFuelVRY090MFo2cXg1M3d1YnNJZjhHYW0wSlRZbjlXbzdCZUk0OGV2ckxQazhmS0dIQmc1QzRGNUxJcHdlbDZuaU9naUVoX3dn?oc=5"
-    }
-   ],
-   "date": "2026-11-16T21:34:06.000Z",
-   "categories": [
-    "Funding",
-    "Unicorns & scale-ups"
-   ],
    "score": 22.2
-  },
-  {
-   "id": "robotics-startup-genesis-ai-raises-500m-backed-by-nvidia",
-   "title": "Robotics startup Genesis AI raises $500m backed by Nvidia",
-   "url": "https://sifted.eu/articles/genesis-ai-raises-500m/",
-   "summary": "",
-   "sources": [
-    "Sifted",
-    "WSJ"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "Robotics startup Genesis AI raises $500m backed by Nvidia",
-     "url": "https://sifted.eu/articles/genesis-ai-raises-500m/"
-    },
-    {
-     "source": "WSJ",
-     "title": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5"
-    }
-   ],
-   "date": "2026-11-17T14:00:00.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 18.7
-  },
-  {
-   "id": "finnish-startup-raises-3-5-million-pre-seed-to-bring-ai-to-data-centre-construct",
-   "title": "Finnish startup raises €3.5 million pre-seed to bring AI to data centre construction sites - ArcticStartup",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTNXRQM3I0Y2RkNTZpdXZLa3h3Yy10Y0JRcHFDMmVBVVI2b2tFWkZaSGgxakNlVmExWHFMQUtPWEtVa0pxa3lhTUZBNXVVV3AyNkhBU3VmZV9vS0RySGd1QXJzb9IBY0FVX3lxTFBTNXRQM3I0Y2RkNTZpdXZLa3h3Yy10Y0JRcHFDMmVBVVI2b2tFWkZaSGgxakNlVmExWHFMQUtPWEtVa0pxa3lhTUZBNXVVV3AyNkhBU3VmZV9vS0RySGd1QXJzbw?oc=5",
-   "summary": "",
-   "sources": [
-    "ArcticStartup",
-    "Ventureburn"
-   ],
-   "articles": [
-    {
-     "source": "ArcticStartup",
-     "title": "Finnish startup raises €3.5 million pre-seed to bring AI to data centre construction sites - ArcticStartup",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTNXRQM3I0Y2RkNTZpdXZLa3h3Yy10Y0JRcHFDMmVBVVI2b2tFWkZaSGgxakNlVmExWHFMQUtPWEtVa0pxa3lhTUZBNXVVV3AyNkhBU3VmZV9vS0RySGd1QXJzb9IBY0FVX3lxTFBTNXRQM3I0Y2RkNTZpdXZLa3h3Yy10Y0JRcHFDMmVBVVI2b2tFWkZaSGgxakNlVmExWHFMQUtPWEtVa0pxa3lhTUZBNXVVV3AyNkhBU3VmZV9vS0RySGd1QXJzbw?oc=5"
-    },
-    {
-     "source": "Ventureburn",
-     "title": "Plural Raises €1bn to Back Europe’s Next Generation of Technology Founders",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53a21CaWhVc1hReEJQWUZnVWtBNEJ2MUxWdVRpcDNXX1o0bzl1d0xsWDAtRG9nQjYwRlBYTzF3bUlxRk40enRNNVJoZEhzZkhEWWZpTFZTNlNNbHlzcmxGWlhqTXo2VnNETFFnNHdWRl9pTTDSAXNBVV95cUxOd2ttQmloVXNYUXhCUFlGZ1VrQTRCdjFMVnVUaXAzV19aNG85dXdMbFgwLURvZ0I2MEZQWE8xd21JcUZONHp0TTVSaGRIc2ZIRFlmaUxWUzZTTWx5c3JsRlpYak16NlZzRExRZzR3VkZfaU0w?oc=5"
-    }
-   ],
-   "date": "2026-11-17T01:03:39.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 18.6
-  },
-  {
-   "id": "exclusive-corporate-card-startup-ramp-raising-funds-at-70-billion-valuation",
-   "title": "Exclusive | Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSm81UWJFSmdEMk0wU0poTTJ4X2lGSmZ2d2xhWGFkSjRnM0stUmZkaDVncmtDQjNEekpiVW9faEdZSGJoQUtGTjVINlR6cFFsM0llQXNPU25zMl9UdmdkQkpXUTVwVmw3TERnYzY0eUI3a3hNbVlxY2xfWmx2eU1FcFNWd0hRYzhQeVBMcDhZZGlsWHlWd2EzeF90ekNfOTNLcVpxNA?oc=5",
-   "summary": "",
-   "sources": [
-    "WSJ"
-   ],
-   "articles": [
-    {
-     "source": "WSJ",
-     "title": "Exclusive | Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSm81UWJFSmdEMk0wU0poTTJ4X2lGSmZ2d2xhWGFkSjRnM0stUmZkaDVncmtDQjNEekpiVW9faEdZSGJoQUtGTjVINlR6cFFsM0llQXNPU25zMl9UdmdkQkpXUTVwVmw3TERnYzY0eUI3a3hNbVlxY2xfWmx2eU1FcFNWd0hRYzhQeVBMcDhZZGlsWHlWd2EzeF90ekNfOTNLcVpxNA?oc=5"
-    }
-   ],
-   "date": "2026-11-17T20:00:00.000Z",
-   "categories": [
-    "Funding",
-    "Unicorns & scale-ups"
-   ],
-   "score": 16.2
-  },
-  {
-   "id": "plural-raises-1bn-to-back-european-startups-in-defense-energy-and-ai",
-   "title": "Plural raises €1bn to back European startups in defense, energy and AI",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzA4VjhjV2NkaFVOSTJ0MC0xeWhFVXZhczd0aXBOeExHVG1NOFdmV2pUVGVMck1jbWFnYzl1azRsd0poS1h1QnlkUS1FeWs4Ri1Oa3lUTl9qSFZDeHNFd3NlanJZQWZGLUplM0lsRmQwWDN2THRkU25wMTBvRUZIR0tXWkxKMFViVDdMRmhLZEQ4eGp6YXhvQjZfVEpSekxp?oc=5",
-   "summary": "",
-   "sources": [
-    "Alternatives Watch"
-   ],
-   "articles": [
-    {
-     "source": "Alternatives Watch",
-     "title": "Plural raises €1bn to back European startups in defense, energy and AI",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzA4VjhjV2NkaFVOSTJ0MC0xeWhFVXZhczd0aXBOeExHVG1NOFdmV2pUVGVMck1jbWFnYzl1azRsd0poS1h1QnlkUS1FeWs4Ri1Oa3lUTl9qSFZDeHNFd3NlanJZQWZGLUplM0lsRmQwWDN2THRkU25wMTBvRUZIR0tXWkxKMFViVDdMRmhLZEQ4eGp6YXhvQjZfVEpSekxp?oc=5"
-    }
-   ],
-   "date": "2026-11-17T06:14:00.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 15.1
-  },
-  {
-   "id": "stark-future-reaches-1-2-billion-valuation-after-150-million-investment",
-   "title": "Stark Future Reaches €1.2 Billion Valuation After €150 Million Investment",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW51c1ZqVzlFVk9hY0xyZmJCMERkRXl3clFTclNDZV9ib1B5dS1aNUdOTy00ckQxbXhkdF9RRmhuTDQ3SE5jelhaXzZaNVg2RHVTbkJRS0w3cDNRTVNmWTlhZ2QwZ0c2a1pHSUkxTWVpM2UtVm9nSk02NzdmekpUdld1MGM5LUpyZjJNZGg4eHBqc0NaNGdYc2U3WUl5NjhsUWtYeXV2M0pQYnl1V1NGc0hlY1J0RG5CVnc?oc=5",
-   "summary": "",
-   "sources": [
-    "Fullnoise Motorcycle News"
-   ],
-   "articles": [
-    {
-     "source": "Fullnoise Motorcycle News",
-     "title": "Stark Future Reaches €1.2 Billion Valuation After €150 Million Investment",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW51c1ZqVzlFVk9hY0xyZmJCMERkRXl3clFTclNDZV9ib1B5dS1aNUdOTy00ckQxbXhkdF9RRmhuTDQ3SE5jelhaXzZaNVg2RHVTbkJRS0w3cDNRTVNmWTlhZ2QwZ0c2a1pHSUkxTWVpM2UtVm9nSk02NzdmekpUdld1MGM5LUpyZjJNZGg4eHBqc0NaNGdYc2U3WUl5NjhsUWtYeXV2M0pQYnl1V1NGc0hlY1J0RG5CVnc?oc=5"
-    }
-   ],
-   "date": "2026-11-16T22:57:28.000Z",
-   "categories": [
-    "Funding",
-    "Unicorns & scale-ups"
-   ],
-   "score": 15
   },
   {
    "id": "finland-s-satellite-provider-iceye-bids-2-billion-for-italian-rocket-maker-avio",
@@ -384,48 +238,6 @@
     "Funding"
    ],
    "score": 13.6
-  },
-  {
-   "id": "plural-raises-1-billion-fund-for-european-frontier-tech",
-   "title": "Plural raises €1 billion fund for European frontier tech",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5",
-   "summary": "",
-   "sources": [
-    "IT Brief UK"
-   ],
-   "articles": [
-    {
-     "source": "IT Brief UK",
-     "title": "Plural raises €1 billion fund for European frontier tech",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5"
-    }
-   ],
-   "date": "2026-11-17T08:00:00.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 13.2
-  },
-  {
-   "id": "stark-future-s-1-2bn-round-a-remarkable-winning-ride",
-   "title": "Stark Future's €1.2bn Round: A Remarkable, Winning Ride",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjNxaU5XSk54S2RXU1hOWEIxZ3JKUF96M3h3X2RPVHdCZnl6eEdPOEVpSFljZV9WbFp3Uzk5bWJJYTFTVHFZU0NBbmNWdkoxUGpablBWOFU0RjJDVnpoY1EwaDdLRTFXdWQyaHlWYjFZa3F5a3k4bG5iQVZYaFZ1MGhncmI?oc=5",
-   "summary": "",
-   "sources": [
-    "Global Brands Magazine"
-   ],
-   "articles": [
-    {
-     "source": "Global Brands Magazine",
-     "title": "Stark Future's €1.2bn Round: A Remarkable, Winning Ride",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjNxaU5XSk54S2RXU1hOWEIxZ3JKUF96M3h3X2RPVHdCZnl6eEdPOEVpSFljZV9WbFp3Uzk5bWJJYTFTVHFZU0NBbmNWdkoxUGpablBWOFU0RjJDVnpoY1EwaDdLRTFXdWQyaHlWYjFZa3F5a3k4bG5iQVZYaFZ1MGhncmI?oc=5"
-    }
-   ],
-   "date": "2026-11-17T12:20:33.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 12.6
   },
   {
    "id": "anthropic-s-1-4tn-ipo-puts-europe-s-ai-boom-to-the-test",
@@ -454,6 +266,7 @@
    "title": "Exclusive: Munich-based humanoid startup Vesoma seeks €50m",
    "url": "https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/",
    "summary": "",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=1400,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/17145700/vesoma-1-design-visualisation-01.jpeg",
    "sources": [
     "Sifted"
    ],
@@ -566,29 +379,6 @@
    "score": 10.3
   },
   {
-   "id": "us-ai-unicorn-secures-2b-new-financing-with-valuation-doubling-in-one-year",
-   "title": "US AI Unicorn Secures $2B New Financing with Valuation Doubling in One Year",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43Y24wbVk1Q2NjZ2JlWDl3MmtqYXZTQ1hyS01TMm9sTGFuaUlLaGRRU1ExdThkOWhaMThqQ2dBZm8xV2lUaTJlNmtPeXltWG1ZZjk0?oc=5",
-   "summary": "",
-   "sources": [
-    "36Kr"
-   ],
-   "articles": [
-    {
-     "source": "36Kr",
-     "title": "US AI Unicorn Secures $2B New Financing with Valuation Doubling in One Year",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43Y24wbVk1Q2NjZ2JlWDl3MmtqYXZTQ1hyS01TMm9sTGFuaUlLaGRRU1ExdThkOWhaMThqQ2dBZm8xV2lUaTJlNmtPeXltWG1ZZjk0?oc=5"
-    }
-   ],
-   "date": "2026-11-17T04:33:04.000Z",
-   "categories": [
-    "Funding",
-    "Unicorns & scale-ups",
-    "AI"
-   ],
-   "score": 10
-  },
-  {
    "id": "barcelona-based-fermat-raises-7-26-million-for-its-ai-operating-system-for-fashi",
    "title": "Barcelona-based Fermat raises €7.26 million for its AI operating system for fashion and luxury brands",
    "url": "https://www.eu-startups.com/2026/11/barcelona-based-fermat-raises-e7-26-million-for-its-ai-operating-system-for-fashion-and-luxury-brands/",
@@ -632,6 +422,27 @@
     "AI"
    ],
    "score": 9.3
+  },
+  {
+   "id": "tiberius-aerospace-with-strong-uk-links-raises-85m",
+   "title": "Tiberius Aerospace with strong UK links raises $85M",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejJxQTRaRjhoUGszVjdxNzlQRm85UWNXLTJoRkhTWGtjNVJlTnhOdDA4M3hsNkU4dlNxdjN3TmloY3RIbEFuelVRY090MFo2cXg1M3d1YnNJZjhHYW0wSlRZbjlXbzdCZUk0OGV2ckxQazhmS0dIQmc1QzRGNUxJcHdlbDZuaU9naUVoX3dn?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Tiberius Aerospace with strong UK links raises $85M",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejJxQTRaRjhoUGszVjdxNzlQRm85UWNXLTJoRkhTWGtjNVJlTnhOdDA4M3hsNkU4dlNxdjN3TmloY3RIbEFuelVRY090MFo2cXg1M3d1YnNJZjhHYW0wSlRZbjlXbzdCZUk0OGV2ckxQazhmS0dIQmc1QzRGNUxJcHdlbDZuaU9naUVoX3dn?oc=5"
+    }
+   ],
+   "date": "2026-11-17T07:31:05.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 9.2
   },
   {
    "id": "can-ai-be-secure-it-depends-on-where-it-runs",
@@ -808,70 +619,6 @@
    "score": 7
   },
   {
-   "id": "spatial-intelligence-startup-se3-raises-30m-series-a-led-by-accel",
-   "title": "Spatial Intelligence Startup SE3 Raises $30M Series A Led by Accel",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HdWZrcGFickJfWXdGTndfY29QOUc2dTNlei1DUWRlakN0T1dSRU1xSnhWRS13WDIzRlZrMGFYb0lRcDcyUW1VMjFTMVdOa09jV1N3?oc=5",
-   "summary": "",
-   "sources": [
-    "Wowtale"
-   ],
-   "articles": [
-    {
-     "source": "Wowtale",
-     "title": "Spatial Intelligence Startup SE3 Raises $30M Series A Led by Accel",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HdWZrcGFickJfWXdGTndfY29QOUc2dTNlei1DUWRlakN0T1dSRU1xSnhWRS13WDIzRlZrMGFYb0lRcDcyUW1VMjFTMVdOa09jV1N3?oc=5"
-    }
-   ],
-   "date": "2026-11-17T11:59:03.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 6.6
-  },
-  {
-   "id": "the-missing-middle-a-u-s-ipo-myth-and-a-coordination-failure",
-   "title": "The missing middle, a U.S. IPO myth and a coordination failure",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0dzbWZYV29LeEtiRHQ0ZFBDRzVfa3ItTjZBMUJ2czdKWHZBQVZ2SFk2V1JnQkxqYnZ5azlVdzA0Y0I2cjBuQ1pXN2M2SXNIM01JNHFFVm5kSFppYlJXSXNyYzMwMXZWMWphM1ZhTjh2T05kVWM0OFpXaDlpa3VmTU95VzJpaGNMZ3hjMGItVQ?oc=5",
-   "summary": "",
-   "sources": [
-    "IO+"
-   ],
-   "articles": [
-    {
-     "source": "IO+",
-     "title": "The missing middle, a U.S. IPO myth and a coordination failure",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0dzbWZYV29LeEtiRHQ0ZFBDRzVfa3ItTjZBMUJ2czdKWHZBQVZ2SFk2V1JnQkxqYnZ5azlVdzA0Y0I2cjBuQ1pXN2M2SXNIM01JNHFFVm5kSFppYlJXSXNyYzMwMXZWMWphM1ZhTjh2T05kVWM0OFpXaDlpa3VmTU95VzJpaGNMZ3hjMGItVQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T23:06:22.000Z",
-   "categories": [
-    "M&A & IPOs"
-   ],
-   "score": 6.5
-  },
-  {
-   "id": "leading-ai-angel-mandeep-singh-joins-tapestry-vc-as-partner",
-   "title": "Leading AI angel Mandeep Singh joins Tapestry VC as partner",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pGWGVkejBjWmVNNVJJMDItU0E5UGZ1MDZUdFRuY1BudjBqY0pNTjNBSWdvejU1LUJMcThmOEN1aXFRNWNVd2l4cUhIM2FEVEd1WkZqXzBUZUdXY1FSTW9tN1FtNFlIM1loLUdNR0M0dS1QNVZzb2pqM3UzdFdzWm44b3Y2Z0pRNEZjZ0lYNE1aRDRKUEQwRjdjU2pEczI1ZDZtZGpn?oc=5",
-   "summary": "",
-   "sources": [
-    "PEI Private Equity"
-   ],
-   "articles": [
-    {
-     "source": "PEI Private Equity",
-     "title": "Leading AI angel Mandeep Singh joins Tapestry VC as partner",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0pGWGVkejBjWmVNNVJJMDItU0E5UGZ1MDZUdFRuY1BudjBqY0pNTjNBSWdvejU1LUJMcThmOEN1aXFRNWNVd2l4cUhIM2FEVEd1WkZqXzBUZUdXY1FSTW9tN1FtNFlIM1loLUdNR0M0dS1QNVZzb2pqM3UzdFdzWm44b3Y2Z0pRNEZjZ0lYNE1aRDRKUEQwRjdjU2pEczI1ZDZtZGpn?oc=5"
-    }
-   ],
-   "date": "2026-11-17T18:26:09.000Z",
-   "categories": [
-    "AI",
-    "Policy & ecosystem"
-   ],
-   "score": 6.1
-  },
-  {
    "id": "8-key-findings-from-atomico-s-state-of-european-tech-report",
    "title": "8 key findings from Atomico’s State of European Tech report",
    "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/",
@@ -889,69 +636,6 @@
    "date": "2026-11-18T05:00:42.000Z",
    "categories": [],
    "score": 6
-  },
-  {
-   "id": "guidewire-hyperexponential-2-1b-deal-highlights-last-week-s-fundings-rounds-and-",
-   "title": "Guidewire/Hyperexponential $2.1B Deal Highlights Last Week's Fundings Rounds And Acquisitions",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONGxybC1rMElDWHFhOEZoTkVGLWIycEFLNmhpLWF4ZFFCYkJ0bF9YUmlmaV8tdXFmWDV6aEM1WUFlWFdSTHVJNzRCeHRUX0I2STRKUDBWSGczczZPSGhZeGNVRHpnME9iaW9RYTlaX2dYNXlSWkdyWDZZdW9yV2Z2U25mX1o4OHJRZzJxV2FXUmw1ZlBBWFRYU0VQLTRGU2Ryc1JZVHdyY2FkREtrMkJPWERROWwxa0hpV3NYaE9aUUppQzY0N1Z4UnBRbnNESkVFM1l3YUZsSQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Crowdfund Insider"
-   ],
-   "articles": [
-    {
-     "source": "Crowdfund Insider",
-     "title": "Guidewire/Hyperexponential $2.1B Deal Highlights Last Week's Fundings Rounds And Acquisitions",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONGxybC1rMElDWHFhOEZoTkVGLWIycEFLNmhpLWF4ZFFCYkJ0bF9YUmlmaV8tdXFmWDV6aEM1WUFlWFdSTHVJNzRCeHRUX0I2STRKUDBWSGczczZPSGhZeGNVRHpnME9iaW9RYTlaX2dYNXlSWkdyWDZZdW9yV2Z2U25mX1o4OHJRZzJxV2FXUmw1ZlBBWFRYU0VQLTRGU2Ryc1JZVHdyY2FkREtrMkJPWERROWwxa0hpV3NYaE9aUUppQzY0N1Z4UnBRbnNESkVFM1l3YUZsSQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T15:03:04.000Z",
-   "categories": [
-    "M&A & IPOs"
-   ],
-   "score": 5.8
-  },
-  {
-   "id": "asynchronics-raises-3-1m-to-boost-its-digital-twin-software",
-   "title": "Asynchronics Raises $3.1M To Boost its Digital-Twin Software",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkxncVIxR3RXeFhKMXV2MDh3YkU4MVBDNXFBU19lNjdPa1JaMVdXclp4cWVMUDZFN2llZkc5dlQ1NndrNnF1NjQzOUUzZ3RZR0htRkt0ZHNvR1UyUjBDNkUwNlVuTUJiazV0VkNoNENscGNhUlE0clhKUWhiTDNRY19OTWtOSGFqVlJkM3dn?oc=5",
-   "summary": "",
-   "sources": [
-    "Payload Space"
-   ],
-   "articles": [
-    {
-     "source": "Payload Space",
-     "title": "Asynchronics Raises $3.1M To Boost its Digital-Twin Software",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkxncVIxR3RXeFhKMXV2MDh3YkU4MVBDNXFBU19lNjdPa1JaMVdXclp4cWVMUDZFN2llZkc5dlQ1NndrNnF1NjQzOUUzZ3RZR0htRkt0ZHNvR1UyUjBDNkUwNlVuTUJiazV0VkNoNENscGNhUlE0clhKUWhiTDNRY19OTWtOSGFqVlJkM3dn?oc=5"
-    }
-   ],
-   "date": "2026-11-17T13:14:01.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 5.7
-  },
-  {
-   "id": "stark-future-is-a-unicorn-now-the-money-is-for-leaving-the-dirt",
-   "title": "Stark Future Is a Unicorn Now. The Money Is for Leaving the Dirt",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNXVmcnpVaDQ0RXFZMEJtNWJ5NUlFTkRjN0pGbTZiZUFVUklKMEE1ZDVfblVKVG5Od05jSk5tY0ZKbGlBWHJKVUhKOWQ1Ty1TQ2V1TV9LZ0x1eVY0aFdQYS05emgtck1XWEFLUFNhNXRqLVZkQnhWSHo4d3lJQW8?oc=5",
-   "summary": "",
-   "sources": [
-    "Business Model Analyst"
-   ],
-   "articles": [
-    {
-     "source": "Business Model Analyst",
-     "title": "Stark Future Is a Unicorn Now. The Money Is for Leaving the Dirt",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNXVmcnpVaDQ0RXFZMEJtNWJ5NUlFTkRjN0pGbTZiZUFVUklKMEE1ZDVfblVKVG5Od05jSk5tY0ZKbGlBWHJKVUhKOWQ1Ty1TQ2V1TV9LZ0x1eVY0aFdQYS05emgtck1XWEFLUFNhNXRqLVZkQnhWSHo4d3lJQW8?oc=5"
-    }
-   ],
-   "date": "2026-11-17T11:00:00.000Z",
-   "categories": [
-    "Unicorns & scale-ups"
-   ],
-   "score": 4.5
   },
   {
    "id": "europe-s-world-models-startups-mapped",

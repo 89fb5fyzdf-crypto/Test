@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T05:21:34.077Z",
+ "generatedAt": "2026-11-18T05:23:26.162Z",
  "windowHours": 36,
  "counts": {
   "articles": 58,
@@ -773,25 +773,6 @@
    "score": 5.2
   },
   {
-   "id": "de-start-up-a-banque-comment-qonto-s-est-taille-une-place-a-part-dans-l-ecosyste",
-   "title": "De start-up à banque, comment Qonto s'est taillé une place à part dans l'écosystème français",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUU9YZFFlSlJNdTFyaXNVUVJEN0t0WElEdS1kZHptd2FkWFllX0N6TjhEM1FkU1ZoaUIwLTNaTkNCeXVsZnRZdVBaUHR1M3Z6S1BWdkI2TDRTeWgxOUN2dWFqT2VZM1BkOXJmeXRLanVZa1ZvM3ZjUVRlVWExSGVRNG1mZTJUX1N3eFFYVlJucHl6MzhJX19SbS1OcWVZN1d4ZlZQeEZ0Wk83c3hRQi1SZE5GUEd2LUg4YllmYWh2OHhjckhZZ3pvOTliQ0M5S1ZfaDVVV1dlWUFkN0FtdHJtdmg4NnZZVEdDVkVV?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "De start-up à banque, comment Qonto s'est taillé une place à part dans l'écosystème français",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUU9YZFFlSlJNdTFyaXNVUVJEN0t0WElEdS1kZHptd2FkWFllX0N6TjhEM1FkU1ZoaUIwLTNaTkNCeXVsZnRZdVBaUHR1M3Z6S1BWdkI2TDRTeWgxOUN2dWFqT2VZM1BkOXJmeXRLanVZa1ZvM3ZjUVRlVWExSGVRNG1mZTJUX1N3eFFYVlJucHl6MzhJX19SbS1OcWVZN1d4ZlZQeEZ0Wk83c3hRQi1SZE5GUEd2LUg4YllmYWh2OHhjckhZZ3pvOTliQ0M5S1ZfaDVVV1dlWUFkN0FtdHJtdmg4NnZZVEdDVkVV?oc=5"
-    }
-   ],
-   "date": "2026-11-17T17:57:46.000Z",
-   "categories": [],
-   "score": 5.1
-  },
-  {
    "id": "jeremy-caussade-dans-lemission-french-tech-sur-bfm-business-aura-aero",
    "title": "Jérémy Caussade dans lémission French Tech sur BFM Business. - Aura Aero",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2FQS1NaNXU3YS1qTGpwQjllSnVhSEIzcDBDSUNjMnVZQ0tmUmViLWJKNFFNZElKSmc3SjBBenM4SmpXMVBsdXVVWS15ZzBsQkVLRlNGaGo1alVmTXc2NFpvU2x4V2VjRG5DTmNHTDJHSmJCdFRrWEhfSk85elpCOXg3UEZqVUZfaHNhOUloQVp6Uk9raFB2azIyQzNDSE1uaElN?oc=5",
@@ -810,6 +791,25 @@
    "categories": [
     "Politique & écosystème"
    ],
+   "score": 5
+  },
+  {
+   "id": "de-start-up-a-banque-comment-qonto-s-est-taille-une-place-a-part-dans-l-ecosyste",
+   "title": "De start-up à banque, comment Qonto s'est taillé une place à part dans l'écosystème français",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUU9YZFFlSlJNdTFyaXNVUVJEN0t0WElEdS1kZHptd2FkWFllX0N6TjhEM1FkU1ZoaUIwLTNaTkNCeXVsZnRZdVBaUHR1M3Z6S1BWdkI2TDRTeWgxOUN2dWFqT2VZM1BkOXJmeXRLanVZa1ZvM3ZjUVRlVWExSGVRNG1mZTJUX1N3eFFYVlJucHl6MzhJX19SbS1OcWVZN1d4ZlZQeEZ0Wk83c3hRQi1SZE5GUEd2LUg4YllmYWh2OHhjckhZZ3pvOTliQ0M5S1ZfaDVVV1dlWUFkN0FtdHJtdmg4NnZZVEdDVkVV?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "De start-up à banque, comment Qonto s'est taillé une place à part dans l'écosystème français",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUU9YZFFlSlJNdTFyaXNVUVJEN0t0WElEdS1kZHptd2FkWFllX0N6TjhEM1FkU1ZoaUIwLTNaTkNCeXVsZnRZdVBaUHR1M3Z6S1BWdkI2TDRTeWgxOUN2dWFqT2VZM1BkOXJmeXRLanVZa1ZvM3ZjUVRlVWExSGVRNG1mZTJUX1N3eFFYVlJucHl6MzhJX19SbS1OcWVZN1d4ZlZQeEZ0Wk83c3hRQi1SZE5GUEd2LUg4YllmYWh2OHhjckhZZ3pvOTliQ0M5S1ZfaDVVV1dlWUFkN0FtdHJtdmg4NnZZVEdDVkVV?oc=5"
+    }
+   ],
+   "date": "2026-11-17T17:57:46.000Z",
+   "categories": [],
    "score": 5
   },
   {
