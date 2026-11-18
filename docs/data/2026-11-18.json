@@ -1,10 +1,10 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T04:19:33.433Z",
+ "generatedAt": "2026-11-18T04:28:59.566Z",
  "windowHours": 36,
  "counts": {
   "articles": 57,
-  "raw": 92,
+  "raw": 90,
   "media": 39
  },
  "sources": [
@@ -41,7 +41,7 @@
   {
    "source": "Google News · Mistral AI",
    "ok": true,
-   "items": 27
+   "items": 26
   },
   {
    "source": "Google News · startup française levée de fonds",
@@ -242,18 +242,18 @@
    "title": "OVHcloud dévoile son premier modèle d'IA",
    "url": "https://www.maddyness.com/2026/11/17/ovhcloud-devoile-son-premier-modele-dia/",
    "summary": "Le marché de l’IA ne cesse de prendre de l’ampleur : même OVHcloud propose désormais son propre modèle. Baptisé Olala, il sera disponible cette semaine sur Hugging Face. L’objectif est également ambitieux, puisque l’entreprise espère atteindre 100 millions d’utilisateurs. Le défi sera de trouver sa place parmi les géants du secteur. OVH se tourne vers […]",
+   "image": "https://siecledigital.fr/wp-content/uploads/2026/11/6199912724-600x350.jpg",
    "sources": [
     "Maddyness",
     "Siècle Digital",
     "FranceTransactions.com",
-    "Brief IA",
-    "BDM",
     "BFM",
+    "BDM",
     "Ouest-France",
     "Numerama",
     "Servicesmobiles.fr",
     "Melles750",
-    "lefilia.fr"
+    "Brief IA"
    ],
    "articles": [
     {
@@ -272,19 +272,14 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3g0T2lhbWdVMUJVQUNyMzcyZHFnVlY1dlpLVi11b1FlLTVpLVJpSFhvVklDVUQwNFpIVTlFUEJ5ZTFCN1M1Wmc1NFFlM1JVV1dsRWdLdjNOTUZ4Q0k4R3hwblF1RjRUeTgyWXRDUXhJa0RISm94dmI2eGw4OW1zZjZRVDIxQVFDbXJCLUFVQUZXWnRhTWJJS202VjJyTVU4bUc5cGtXekZ0aF9HbWJtaW81cWJXZDV5SWR1UlVNdE8xTnplU0k2WWR1R1RpbXNUeTExV3hfeklUQTNoZXc?oc=5"
     },
     {
-     "source": "Brief IA",
-     "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5"
+     "source": "BFM",
+     "title": "Moins de 100 salariés face aux géants de l'IA: le pari fou du français OVHcloud qui veut concurrencer Mistral et les Américains et vise 100 millions d'utilisateurs",
+     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZmZJM3VRa1hKTWJyalRfNGt2b3NFU0JPRkZtVFpZVXBKczNOQU1SblpEYkVmaHhvcml0czNiMUhJX1I3OE5VLS1OVXF2Nm1SU050OGFwdzBqV2FkYXcwUEpValJKOC0ySHljTXhWUFZtUlpTS1RKXzNiODllVGluSWk5OUtuOFlqLWc5SUlWX1d0YjhESTFubzA4eEdOeG5wekdzNEIyUTV0TUJHSnpKcFI0aDFjNWlMQk91cDNSYk9iM3BxSUZEcWFqV25yQ1M1RzVhRDhuN2NVcDRmMGZ0djB0cDVleXBkLUR4c3QxcGNpb2tTbExCR1V2QjZFSFJ1YzlDTFg3Z0FaWldDY1pHX1FyWGw1ckVGdEFpZ3Q3MXFlR2ZpS0JpbF9MUGV6SU1hWHo2Y2JSdEJHNmNla1Y3a2hReGwyNlpqVXpSVk0wM3RfNDJuZGduaQ?oc=5"
     },
     {
      "source": "BDM",
      "title": "Le Français OVHcloud se lance dans les LLM avec Olala, un petit modèle ouvert",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnRjNiQ21YdVhuQ0FmTno0V1oyQXFWX2JfMEVvTU9FYUNNNUtNQWNZdFhqRUFZUGZvZDk1RnBSaVc2NU1YaE16THJ0RmR2X2R6WS1sZThidkd4ZXFjNU9yQlhkd3E4NE1MRnBqRmZrZWVISzlKeDZmTnRYcmo?oc=5"
-    },
-    {
-     "source": "BFM",
-     "title": "Moins de 100 salariés face aux géants de l'IA: le pari fou du français OVHcloud qui veut concurrencer Mistral et les Américains et vise 100 millions d'utilisateurs",
-     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZmZJM3VRa1hKTWJyalRfNGt2b3NFU0JPRkZtVFpZVXBKczNOQU1SblpEYkVmaHhvcml0czNiMUhJX1I3OE5VLS1OVXF2Nm1SU050OGFwdzBqV2FkYXcwUEpValJKOC0ySHljTXhWUFZtUlpTS1RKXzNiODllVGluSWk5OUtuOFlqLWc5SUlWX1d0YjhESTFubzA4eEdOeG5wekdzNEIyUTV0TUJHSnpKcFI0aDFjNWlMQk91cDNSYk9iM3BxSUZEcWFqV25yQ1M1RzVhRDhuN2NVcDRmMGZ0djB0cDVleXBkLUR4c3QxcGNpb2tTbExCR1V2QjZFSFJ1YzlDTFg3Z0FaWldDY1pHX1FyWGw1ckVGdEFpZ3Q3MXFlR2ZpS0JpbF9MUGV6SU1hWHo2Y2JSdEJHNmNla1Y3a2hReGwyNlpqVXpSVk0wM3RfNDJuZGduaQ?oc=5"
     },
     {
      "source": "Ouest-France",
@@ -307,9 +302,9 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1Z1enZadDl2SzJBVWRVeFlmdVJiVlYybTlmUVlXWVAtTGVVRC1RVUo4S1JsaGdXNUQyNm1BeVdJVk5HZ25MbExTNG1GdlNNd1d1bHRyb3JsOHBGZGtlT1k2TjRGUG5pTGtqeHJaTWVJSEVDYzJ2T1Z1amZ1YkVIZ1R4TmhTcUFUMWVHSlRibUpLWWJ0UG1YWA?oc=5"
     },
     {
-     "source": "lefilia.fr",
-     "title": "Olala mini : la première IA française d’OVHcloud tient sur un PC sans carte graphique dédiée",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3dUZHh0Y0dnRlZhdkNKaTRZRkRROHNvWTg2WmhVc3ZrdTByM1pVLXBuOU5lU3F0RmF5cklFaXo2eHlpOUVMeWtYSUdTc2dLZThFRkZEQjUzbzduMVZxM3FvSjNXS2RnNGNqcEVpNjRVek1OeDFnTzFYZkl2WnhocFplWlJMWS1ZYTlhbkFzUkx2MlAzYTV2NEY1NjY5TVAwVExLa01weDZrcXlqdkQ0enI5X3BmNWpvOEs4bjhDLXNlekFobmJXYw?oc=5"
+     "source": "Brief IA",
+     "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5"
     }
    ],
    "brief": {
@@ -321,7 +316,7 @@
     ],
     "facts": []
    },
-   "date": "2026-11-17T07:08:02.000Z",
+   "date": "2026-11-17T08:07:29.000Z",
    "categories": [
     "IA"
    ],
@@ -393,7 +388,7 @@
     "Levées de fonds",
     "IA"
    ],
-   "score": 21.9
+   "score": 21.8
   },
   {
    "id": "du-web3-du-luxe-a-la-tracabilite-industrielle-arianee-change-de-mains",
@@ -629,6 +624,7 @@
    "title": "MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA",
    "url": "https://www.maddyness.com/2026/11/17/mad30-shopify-ia-e-commerce/",
    "summary": "",
+   "image": "https://www.maddyness.com/app/uploads/2026/11/Mad-30-elargit.png",
    "sources": [
     "Maddyness"
    ],
@@ -643,7 +639,7 @@
    "categories": [
     "IA"
    ],
-   "score": 6
+   "score": 5.9
   },
   {
    "id": "speeral-leve-2-5-millions-d-euros-pour-automatiser-la-revente-des-stocks-dormant",
@@ -671,6 +667,7 @@
    "title": "Si l'IA fait le travail des débutants, d'où viendront les experts de demain ?",
    "url": "https://www.maddyness.com/2026/11/17/si-lia-fait-le-travail-des-debutants-dou-viendront-les-experts-de-demain/",
    "summary": "",
+   "image": "https://www.maddyness.com/app/uploads/2026/11/Jean-Eudes-Yahouedeou-Seeqle.jpg",
    "sources": [
     "Maddyness"
    ],
@@ -692,6 +689,7 @@
    "title": "L'IA ne se déploie pas, elle se manage",
    "url": "https://www.maddyness.com/2026/11/17/management-ia-transformation-travail/",
    "summary": "",
+   "image": "https://www.maddyness.com/app/uploads/2026/11/Illus-V5-57.jpg",
    "sources": [
     "Maddyness"
    ],
@@ -770,25 +768,6 @@
    "score": 5.1
   },
   {
-   "id": "risques-climatiques-la-france-parmi-les-pays-les-plus-vulnerables",
-   "title": "Risques climatiques : la France parmi les pays les plus vulnérables",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeU5yc2VJd0o3VmFBNUdYTnl0WFlzc3Y4YWdBalFtclNJWFZNSGM3cnctb0R2U3dLVVZHQjVCZXBYaXhvZ0VrWEIxclNHN3QyLUFVNHp6SENxWU9iNDkxZ1pLMWJ3TkpJZG9haHM2cG9qcGhEeHZOWHBiTC0tRkJ1RThmUS1UZjFBS3h6S0JUb3lhN2RTQ0M0WHRqSGJFUnIwbVo5c3ZsaW9FbEswbGxMamQxWTg0anU0ZFdxMDRaUHNvaFE?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "Risques climatiques : la France parmi les pays les plus vulnérables",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeU5yc2VJd0o3VmFBNUdYTnl0WFlzc3Y4YWdBalFtclNJWFZNSGM3cnctb0R2U3dLVVZHQjVCZXBYaXhvZ0VrWEIxclNHN3QyLUFVNHp6SENxWU9iNDkxZ1pLMWJ3TkpJZG9haHM2cG9qcGhEeHZOWHBiTC0tRkJ1RThmUS1UZjFBS3h6S0JUb3lhN2RTQ0M0WHRqSGJFUnIwbVo5c3ZsaW9FbEswbGxMamQxWTg0anU0ZFdxMDRaUHNvaFE?oc=5"
-    }
-   ],
-   "date": "2026-11-17T16:59:46.000Z",
-   "categories": [],
-   "score": 5.1
-  },
-  {
    "id": "jeremy-caussade-dans-lemission-french-tech-sur-bfm-business-aura-aero",
    "title": "Jérémy Caussade dans lémission French Tech sur BFM Business. - Aura Aero",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2FQS1NaNXU3YS1qTGpwQjllSnVhSEIzcDBDSUNjMnVZQ0tmUmViLWJKNFFNZElKSmc3SjBBenM4SmpXMVBsdXVVWS15ZzBsQkVLRlNGaGo1alVmTXc2NFpvU2x4V2VjRG5DTmNHTDJHSmJCdFRrWEhfSk85elpCOXg3UEZqVUZfaHNhOUloQVp6Uk9raFB2azIyQzNDSE1uaElN?oc=5",
@@ -810,24 +789,22 @@
    "score": 5
   },
   {
-   "id": "le-droit-de-comprendre-pour-un-acces-libre-securise-et-confidentiel-a-l-ia-face-",
-   "title": "Le droit de comprendre : pour un accès libre, sécurisé et confidentiel à l'IA face à la maladie grave.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJNd3FscGtSZjQtSlE2TFJwc0JLZEI0ZXUzZGNsZS1oRmtnU1VsN3dWYUFYbElGalRMdUZEWTRKMlhhRkhoaHlLaTZZQ2I5cjR4UlgxVXdyMmNoLVc3dVhnZmtwN0g2LUJvVExGWlJicVBTckVOdVE3OTV3SjBaR0lWNS04S000T1Y2bnJKX0FDeDYzVU41czdBdWh0dWVT?oc=5",
+   "id": "risques-climatiques-la-france-parmi-les-pays-les-plus-vulnerables",
+   "title": "Risques climatiques : la France parmi les pays les plus vulnérables",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeU5yc2VJd0o3VmFBNUdYTnl0WFlzc3Y4YWdBalFtclNJWFZNSGM3cnctb0R2U3dLVVZHQjVCZXBYaXhvZ0VrWEIxclNHN3QyLUFVNHp6SENxWU9iNDkxZ1pLMWJ3TkpJZG9haHM2cG9qcGhEeHZOWHBiTC0tRkJ1RThmUS1UZjFBS3h6S0JUb3lhN2RTQ0M0WHRqSGJFUnIwbVo5c3ZsaW9FbEswbGxMamQxWTg0anU0ZFdxMDRaUHNvaFE?oc=5",
    "summary": "",
    "sources": [
-    "MyPetition.org"
+    "Les Echos"
    ],
    "articles": [
     {
-     "source": "MyPetition.org",
-     "title": "Le droit de comprendre : pour un accès libre, sécurisé et confidentiel à l'IA face à la maladie grave.",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJNd3FscGtSZjQtSlE2TFJwc0JLZEI0ZXUzZGNsZS1oRmtnU1VsN3dWYUFYbElGalRMdUZEWTRKMlhhRkhoaHlLaTZZQ2I5cjR4UlgxVXdyMmNoLVc3dVhnZmtwN0g2LUJvVExGWlJicVBTckVOdVE3OTV3SjBaR0lWNS04S000T1Y2bnJKX0FDeDYzVU41czdBdWh0dWVT?oc=5"
+     "source": "Les Echos",
+     "title": "Risques climatiques : la France parmi les pays les plus vulnérables",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeU5yc2VJd0o3VmFBNUdYTnl0WFlzc3Y4YWdBalFtclNJWFZNSGM3cnctb0R2U3dLVVZHQjVCZXBYaXhvZ0VrWEIxclNHN3QyLUFVNHp6SENxWU9iNDkxZ1pLMWJ3TkpJZG9haHM2cG9qcGhEeHZOWHBiTC0tRkJ1RThmUS1UZjFBS3h6S0JUb3lhN2RTQ0M0WHRqSGJFUnIwbVo5c3ZsaW9FbEswbGxMamQxWTg0anU0ZFdxMDRaUHNvaFE?oc=5"
     }
    ],
-   "date": "2026-11-18T03:49:22.000Z",
-   "categories": [
-    "IA"
-   ],
+   "date": "2026-11-17T16:59:46.000Z",
+   "categories": [],
    "score": 5
   },
   {
@@ -871,6 +848,27 @@
    "score": 4.9
   },
   {
+   "id": "le-droit-de-comprendre-pour-un-acces-libre-securise-et-confidentiel-a-l-ia-face-",
+   "title": "Le droit de comprendre : pour un accès libre, sécurisé et confidentiel à l'IA face à la maladie grave.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJNd3FscGtSZjQtSlE2TFJwc0JLZEI0ZXUzZGNsZS1oRmtnU1VsN3dWYUFYbElGalRMdUZEWTRKMlhhRkhoaHlLaTZZQ2I5cjR4UlgxVXdyMmNoLVc3dVhnZmtwN0g2LUJvVExGWlJicVBTckVOdVE3OTV3SjBaR0lWNS04S000T1Y2bnJKX0FDeDYzVU41czdBdWh0dWVT?oc=5",
+   "summary": "",
+   "sources": [
+    "MyPetition.org"
+   ],
+   "articles": [
+    {
+     "source": "MyPetition.org",
+     "title": "Le droit de comprendre : pour un accès libre, sécurisé et confidentiel à l'IA face à la maladie grave.",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJNd3FscGtSZjQtSlE2TFJwc0JLZEI0ZXUzZGNsZS1oRmtnU1VsN3dWYUFYbElGalRMdUZEWTRKMlhhRkhoaHlLaTZZQ2I5cjR4UlgxVXdyMmNoLVc3dVhnZmtwN0g2LUJvVExGWlJicVBTckVOdVE3OTV3SjBaR0lWNS04S000T1Y2bnJKX0FDeDYzVU41czdBdWh0dWVT?oc=5"
+    }
+   ],
+   "date": "2026-11-18T03:49:22.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.9
+  },
+  {
    "id": "immobilier-la-conversion-de-bureaux-en-logements-se-poursuit-a-l-est-de-paris",
    "title": "Immobilier : la conversion de bureaux en logements se poursuit à l'Est de Paris",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEpYZUdVX19pZVg4Rm96YlhKbWkyVUpxVFF6cTduSTdUQTBHcTkxUEFMLW9rNldtaWIxZFZFU1hKUzFGNHFwU1gtQ21IZnd0Tkk4QlpVZmV6MVh6d2R3WENQWGhoOVcyZEI0OWxxRHpGLTNqQTVFZmlpenJDZTF3NTg2ZzEtdm84VFpGR0oxU0pNMThqeXpRQTZzbmNLQXZZSnlpSFNod3lEX2N2eGJ1TVJMQVRPdG1GZll0VlFTT1UyVG9VMzU3ZFVlRE10TWs?oc=5",
@@ -887,7 +885,7 @@
    ],
    "date": "2026-11-17T14:32:34.000Z",
    "categories": [],
-   "score": 4.9
+   "score": 4.8
   },
   {
    "id": "charge-d-affaires-mecanique-h-f-assystem-cattenom-grand-est-france-cdd",
@@ -906,7 +904,7 @@
    ],
    "date": "2026-11-18T01:25:59.000Z",
    "categories": [],
-   "score": 4.8
+   "score": 4.7
   },
   {
    "id": "stellantis-alors-qu-un-premier-concessionnaire-francais-trebuche-la-crainte-d-un",
@@ -925,7 +923,28 @@
    ],
    "date": "2026-11-17T13:26:13.000Z",
    "categories": [],
-   "score": 4.8
+   "score": 4.7
+  },
+  {
+   "id": "aarden-ai-obtient-8-millions-pour-conseiller-les-proprietaires",
+   "title": "Aarden AI obtient 8 millions pour conseiller les propriétaires",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUV3S1k5bTQ5ZWZhZHNmWTAxX1pCS1hnRkFicXlFQ1JQd3dHV0lpSzRNd0hXTnZMSTRQaXhqTjNNOWRBamNodE0ycGVTVHRmTzNkbEJ1YjRJcnFwZXV1RjIzeU1xUUhMVi1GTzFoSnhaTUtJQnk2NmNpTVNjQ3F4bDlDS0xXMkVpRnUzbnZzNTRHdER3RE13UA?oc=5",
+   "summary": "",
+   "sources": [
+    "Brief IA"
+   ],
+   "articles": [
+    {
+     "source": "Brief IA",
+     "title": "Aarden AI obtient 8 millions pour conseiller les propriétaires",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUV3S1k5bTQ5ZWZhZHNmWTAxX1pCS1hnRkFicXlFQ1JQd3dHV0lpSzRNd0hXTnZMSTRQaXhqTjNNOWRBamNodE0ycGVTVHRmTzNkbEJ1YjRJcnFwZXV1RjIzeU1xUUhMVi1GTzFoSnhaTUtJQnk2NmNpTVNjQ3F4bDlDS0xXMkVpRnUzbnZzNTRHdER3RE13UA?oc=5"
+    }
+   ],
+   "date": "2026-11-17T22:16:45.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.5
   },
   {
    "id": "cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-l-agence-de-cybe",
@@ -943,31 +962,6 @@
     }
    ],
    "date": "2026-11-17T08:00:11.000Z",
-   "categories": [],
-   "score": 4.3
-  },
-  {
-   "id": "apple-sera-juge-pour-obsolescence-programmee-a-paris-en-2027",
-   "title": "Apple sera jugé pour obsolescence programmée à Paris en 2027",
-   "url": "https://www.journaldunet.com/business/1558143-apple-sera-juge-pour-obsolescence-programmee-a-nanterre-en-2027/",
-   "summary": "Le fabricant américain devra répondre devant la justice française d'entraves présumées à la réparation de ses iPhone, à la suite d'une plainte de l'association HOP.",
-   "image": "https://img-0.journaldunet.com/WCp9gy3uq3IBllat_UnHqlEgUhM=/1280x/smart/1662a5ba8f224a59a6fd764142b61a0d/ccmcms-jdn/39546394.jpg",
-   "sources": [
-    "Journal du Net"
-   ],
-   "articles": [
-    {
-     "source": "Journal du Net",
-     "title": "Apple sera jugé pour obsolescence programmée à Paris en 2027",
-     "url": "https://www.journaldunet.com/business/1558143-apple-sera-juge-pour-obsolescence-programmee-a-nanterre-en-2027/"
-    }
-   ],
-   "brief": {
-    "essentiel": "Le fabricant américain devra répondre devant la justice française d'entraves présumées à la réparation de ses iPhone, à la suite d'une plainte de l'association HOP.",
-    "points": [],
-    "facts": []
-   },
-   "date": "2026-11-17T19:23:42.000Z",
    "categories": [],
    "score": 4.3
   },
@@ -999,23 +993,29 @@
    "score": 4.3
   },
   {
-   "id": "les-francais-reduisent-enfin-leur-consommation-d-antibiotiques",
-   "title": "Les Français réduisent enfin leur consommation d'antibiotiques",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDgwNnVmVkdVV1YwRF92cmlpdG5iLUc4cDRmUENxRzNZNlM3dEZHdFRKc0hsQ0U4eGtoc082dXhLWjlnV0I3dExWVDE1Q21PNlJsUENPR19JVG9mMEZRVWx6TE9rUjFHYW9hRzJWQ3I3MXFtb2VSOGg0UThBZWZRclNOMUJZbkdraXBfc3dab3ZZT0ZwTGUyUlhuaGdONE5NMUlDcXNCZWlNa3ZOZTU5WHYzR1gya1NzQTdmSXJaa1JhS2xjNmhv?oc=5",
-   "summary": "",
+   "id": "apple-sera-juge-pour-obsolescence-programmee-a-paris-en-2027",
+   "title": "Apple sera jugé pour obsolescence programmée à Paris en 2027",
+   "url": "https://www.journaldunet.com/business/1558143-apple-sera-juge-pour-obsolescence-programmee-a-nanterre-en-2027/",
+   "summary": "Le fabricant américain devra répondre devant la justice française d'entraves présumées à la réparation de ses iPhone, à la suite d'une plainte de l'association HOP.",
+   "image": "https://img-0.journaldunet.com/WCp9gy3uq3IBllat_UnHqlEgUhM=/1280x/smart/1662a5ba8f224a59a6fd764142b61a0d/ccmcms-jdn/39546394.jpg",
    "sources": [
-    "Les Echos"
+    "Journal du Net"
    ],
    "articles": [
     {
-     "source": "Les Echos",
-     "title": "Les Français réduisent enfin leur consommation d'antibiotiques",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDgwNnVmVkdVV1YwRF92cmlpdG5iLUc4cDRmUENxRzNZNlM3dEZHdFRKc0hsQ0U4eGtoc082dXhLWjlnV0I3dExWVDE1Q21PNlJsUENPR19JVG9mMEZRVWx6TE9rUjFHYW9hRzJWQ3I3MXFtb2VSOGg0UThBZWZRclNOMUJZbkdraXBfc3dab3ZZT0ZwTGUyUlhuaGdONE5NMUlDcXNCZWlNa3ZOZTU5WHYzR1gya1NzQTdmSXJaa1JhS2xjNmhv?oc=5"
+     "source": "Journal du Net",
+     "title": "Apple sera jugé pour obsolescence programmée à Paris en 2027",
+     "url": "https://www.journaldunet.com/business/1558143-apple-sera-juge-pour-obsolescence-programmee-a-nanterre-en-2027/"
     }
    ],
-   "date": "2026-11-17T06:00:29.000Z",
+   "brief": {
+    "essentiel": "Le fabricant américain devra répondre devant la justice française d'entraves présumées à la réparation de ses iPhone, à la suite d'une plainte de l'association HOP.",
+    "points": [],
+    "facts": []
+   },
+   "date": "2026-11-17T19:23:42.000Z",
    "categories": [],
-   "score": 4.1
+   "score": 4.2
   },
   {
    "id": "presage-veut-tester-les-changements-du-cloud-avant-leur-mise-en-production",
@@ -1068,21 +1068,21 @@
    "score": 4
   },
   {
-   "id": "ia-et-droit-d-auteur-une-proposition-de-loi-pour-proteger-la-creation-toujours-e",
-   "title": "IA et droit d'auteur : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPN1g5RmR5OXI5eWN5Q3FHZkloNnJ1NExEamdhSDhQNEFKeWRCcXJxNzl5bHJwM3pNZ3F1Yzd4bmt0eF9XN0NKMXE3N2RRVU84Y2ljdkhuRVRnOVFqc3Y3M0Vn?oc=5",
+   "id": "ia-et-droits-d-auteur-la-proposition-de-loi-darcos-pour-proteger-la-creation-tou",
+   "title": "IA et droits d’auteur : la proposition de loi Darcos pour protéger la création toujours enlisée à l’Assemblée nationale",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUFRXSWJQaUhxVzBRakw0b1VYa2pUMm53c2YycV8tMHJ5LVRxZC1pUl9lQzhsckM0TW5qVnBKRy1talpqSnNPSjZJZXdzVTFDNWhhRVdCZmpDUEp6aFd3NTBQcmx2eF91TEJTLWkyUGw0Y2NwTUhrbi1vMjRoajNqSDRqcjQyYklNcmFUelZMaUNZZm03N3VmcjJXbGcwOEVUb2xSSmdHVzR1cjhremlnNXRsa2pBdTA3WTlvNVJLdi1lMWVJVi1yWXBIS2FjNTdxV09yTnVJdkJzNVZPbXYxN1R6Vm5TdzVQWVlNeXhoSGE5djhzcWRmaGlNOWlQOFpJTExYdUhxRzRxU25qNExYZkNEdW8xSURCNDhBZ1JZaTM0SjRFUmZ6NGNld0Y?oc=5",
    "summary": "",
    "sources": [
-    "TradingView"
+    "Sud Ouest"
    ],
    "articles": [
     {
-     "source": "TradingView",
-     "title": "IA et droit d'auteur : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPN1g5RmR5OXI5eWN5Q3FHZkloNnJ1NExEamdhSDhQNEFKeWRCcXJxNzl5bHJwM3pNZ3F1Yzd4bmt0eF9XN0NKMXE3N2RRVU84Y2ljdkhuRVRnOVFqc3Y3M0Vn?oc=5"
+     "source": "Sud Ouest",
+     "title": "IA et droits d’auteur : la proposition de loi Darcos pour protéger la création toujours enlisée à l’Assemblée nationale",
+     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUFRXSWJQaUhxVzBRakw0b1VYa2pUMm53c2YycV8tMHJ5LVRxZC1pUl9lQzhsckM0TW5qVnBKRy1talpqSnNPSjZJZXdzVTFDNWhhRVdCZmpDUEp6aFd3NTBQcmx2eF91TEJTLWkyUGw0Y2NwTUhrbi1vMjRoajNqSDRqcjQyYklNcmFUelZMaUNZZm03N3VmcjJXbGcwOEVUb2xSSmdHVzR1cjhremlnNXRsa2pBdTA3WTlvNVJLdi1lMWVJVi1yWXBIS2FjNTdxV09yTnVJdkJzNVZPbXYxN1R6Vm5TdzVQWVlNeXhoSGE5djhzcWRmaGlNOWlQOFpJTExYdUhxRzRxU25qNExYZkNEdW8xSURCNDhBZ1JZaTM0SjRFUmZ6NGNld0Y?oc=5"
     }
    ],
-   "date": "2026-11-17T14:32:30.000Z",
+   "date": "2026-11-17T15:31:32.000Z",
    "categories": [
     "IA"
    ],
@@ -1106,53 +1106,6 @@
    "date": "2026-11-17T13:00:46.000Z",
    "categories": [],
    "score": 3.7
-  },
-  {
-   "id": "building-bridges-to-the-u-s-2026-une-opportunite-unique-pour-les-entreprises-fra",
-   "title": "Building Bridges to the U.S. 2026 : une opportunité unique pour les entreprises françaises qui souhaitent se développer aux États-Unis",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOEZzVkg1cmFybG5kQXNURE5lZ0IwaVdTejgzUDR0anBOdG0zc05zTF9KNzc2T0RyZlFPNmRmZVN1NFliaGdReDAtQVZadUswZHl2Z19tWnAxX3lKSVg1TUZZLTFpWFZzcHBQZ1hhZk4tSjRzVE5md2pYU28zX2dwSm55SThKZWVHRHRmY3ZxWkJHRkZqbzk4eG5mOUdWbWVSZHI2aVFXcTh0UzNwS0tlX3U3Y3pYM29aU2xGSVhxc1Y1YTJXcGVoNmVPVGcwTHlNN1hxSnFnRUxUdXV2MDdTcndCSEFfMkpPMkRnRXBtR1pHSmpnUTU3V3JYNDJtdFZBQWcwMnVPR2dsRnox?oc=5",
-   "summary": "",
-   "sources": [
-    "French Tech Bordeaux"
-   ],
-   "articles": [
-    {
-     "source": "French Tech Bordeaux",
-     "title": "Building Bridges to the U.S. 2026 : une opportunité unique pour les entreprises françaises qui souhaitent se développer aux États-Unis",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOEZzVkg1cmFybG5kQXNURE5lZ0IwaVdTejgzUDR0anBOdG0zc05zTF9KNzc2T0RyZlFPNmRmZVN1NFliaGdReDAtQVZadUswZHl2Z19tWnAxX3lKSVg1TUZZLTFpWFZzcHBQZ1hhZk4tSjRzVE5md2pYU28zX2dwSm55SThKZWVHRHRmY3ZxWkJHRkZqbzk4eG5mOUdWbWVSZHI2aVFXcTh0UzNwS0tlX3U3Y3pYM29aU2xGSVhxc1Y1YTJXcGVoNmVPVGcwTHlNN1hxSnFnRUxUdXV2MDdTcndCSEFfMkpPMkRnRXBtR1pHSmpnUTU3V3JYNDJtdFZBQWcwMnVPR2dsRnox?oc=5"
-    }
-   ],
-   "date": "2026-11-17T23:02:05.000Z",
-   "categories": [],
-   "score": 3.6
-  },
-  {
-   "id": "faux-conseiller-bancaire-du-premier-appel-au-virement-qui-pouvait-arreter-l-arna",
-   "title": "Faux conseiller bancaire : du premier appel au virement, qui pouvait arrêter l’arnaque ?",
-   "url": "https://www.frenchweb.fr/faux-conseiller-bancaire-du-premier-appel-au-virement-qui-pouvait-arreter-l-arnaque/900000049?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-   "summary": "Le numéro affiché était celui inscrit au dos de sa carte bancaire. Après vingt et une minutes d’appel, deux virements frauduleux ont été exécutés. Le tribunal judiciaire de Paris a condamné BNP PARIBAS à rembourser 8 861,34 euros et BOUYGUES TELECOM à garantir la banque. De l’appel au compte destinataire, l’affaire montre comment une fraude traverse plusieurs systèmes de contrôle avant que la just",
-   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/8fad726cd09719140bc73c15e83554749c512a924d9cf4babb5f2e66dfa8f5f1.webp",
-   "sources": [
-    "FrenchWeb"
-   ],
-   "articles": [
-    {
-     "source": "FrenchWeb",
-     "title": "Faux conseiller bancaire : du premier appel au virement, qui pouvait arrêter l’arnaque ?",
-     "url": "https://www.frenchweb.fr/faux-conseiller-bancaire-du-premier-appel-au-virement-qui-pouvait-arreter-l-arnaque/900000049?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
-    }
-   ],
-   "brief": {
-    "essentiel": "Après vingt et une minutes d’appel, deux virements frauduleux ont été exécutés.",
-    "points": [
-     "Le tribunal judiciaire de Paris a condamné BNP PARIBAS à rembourser 8 861,34 euros et BOUYGUES TELECOM à garantir la banque.",
-     "De l’appel au compte destinataire, l’affaire montre comment une fraude traverse plusieurs systèmes de contrôle avant que la just"
-    ],
-    "facts": []
-   },
-   "date": "2026-11-17T11:03:17.000Z",
-   "categories": [],
-   "score": 3.6
   },
   {
    "id": "des-tonnes-de-francais-echangent-leur-livret-a-par-cette-epargne-a-5-5-brut-vu-l",
@@ -1180,6 +1133,53 @@
     "facts": []
    },
    "date": "2026-11-17T15:48:00.000Z",
+   "categories": [],
+   "score": 3.5
+  },
+  {
+   "id": "building-bridges-to-the-u-s-2026-une-opportunite-unique-pour-les-entreprises-fra",
+   "title": "Building Bridges to the U.S. 2026 : une opportunité unique pour les entreprises françaises qui souhaitent se développer aux États-Unis",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOEZzVkg1cmFybG5kQXNURE5lZ0IwaVdTejgzUDR0anBOdG0zc05zTF9KNzc2T0RyZlFPNmRmZVN1NFliaGdReDAtQVZadUswZHl2Z19tWnAxX3lKSVg1TUZZLTFpWFZzcHBQZ1hhZk4tSjRzVE5md2pYU28zX2dwSm55SThKZWVHRHRmY3ZxWkJHRkZqbzk4eG5mOUdWbWVSZHI2aVFXcTh0UzNwS0tlX3U3Y3pYM29aU2xGSVhxc1Y1YTJXcGVoNmVPVGcwTHlNN1hxSnFnRUxUdXV2MDdTcndCSEFfMkpPMkRnRXBtR1pHSmpnUTU3V3JYNDJtdFZBQWcwMnVPR2dsRnox?oc=5",
+   "summary": "",
+   "sources": [
+    "French Tech Bordeaux"
+   ],
+   "articles": [
+    {
+     "source": "French Tech Bordeaux",
+     "title": "Building Bridges to the U.S. 2026 : une opportunité unique pour les entreprises françaises qui souhaitent se développer aux États-Unis",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOEZzVkg1cmFybG5kQXNURE5lZ0IwaVdTejgzUDR0anBOdG0zc05zTF9KNzc2T0RyZlFPNmRmZVN1NFliaGdReDAtQVZadUswZHl2Z19tWnAxX3lKSVg1TUZZLTFpWFZzcHBQZ1hhZk4tSjRzVE5md2pYU28zX2dwSm55SThKZWVHRHRmY3ZxWkJHRkZqbzk4eG5mOUdWbWVSZHI2aVFXcTh0UzNwS0tlX3U3Y3pYM29aU2xGSVhxc1Y1YTJXcGVoNmVPVGcwTHlNN1hxSnFnRUxUdXV2MDdTcndCSEFfMkpPMkRnRXBtR1pHSmpnUTU3V3JYNDJtdFZBQWcwMnVPR2dsRnox?oc=5"
+    }
+   ],
+   "date": "2026-11-17T23:02:05.000Z",
+   "categories": [],
+   "score": 3.5
+  },
+  {
+   "id": "faux-conseiller-bancaire-du-premier-appel-au-virement-qui-pouvait-arreter-l-arna",
+   "title": "Faux conseiller bancaire : du premier appel au virement, qui pouvait arrêter l’arnaque ?",
+   "url": "https://www.frenchweb.fr/faux-conseiller-bancaire-du-premier-appel-au-virement-qui-pouvait-arreter-l-arnaque/900000049?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "Le numéro affiché était celui inscrit au dos de sa carte bancaire. Après vingt et une minutes d’appel, deux virements frauduleux ont été exécutés. Le tribunal judiciaire de Paris a condamné BNP PARIBAS à rembourser 8 861,34 euros et BOUYGUES TELECOM à garantir la banque. De l’appel au compte destinataire, l’affaire montre comment une fraude traverse plusieurs systèmes de contrôle avant que la just",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/8fad726cd09719140bc73c15e83554749c512a924d9cf4babb5f2e66dfa8f5f1.webp",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Faux conseiller bancaire : du premier appel au virement, qui pouvait arrêter l’arnaque ?",
+     "url": "https://www.frenchweb.fr/faux-conseiller-bancaire-du-premier-appel-au-virement-qui-pouvait-arreter-l-arnaque/900000049?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    }
+   ],
+   "brief": {
+    "essentiel": "Après vingt et une minutes d’appel, deux virements frauduleux ont été exécutés.",
+    "points": [
+     "Le tribunal judiciaire de Paris a condamné BNP PARIBAS à rembourser 8 861,34 euros et BOUYGUES TELECOM à garantir la banque.",
+     "De l’appel au compte destinataire, l’affaire montre comment une fraude traverse plusieurs systèmes de contrôle avant que la just"
+    ],
+    "facts": []
+   },
+   "date": "2026-11-17T11:03:17.000Z",
    "categories": [],
    "score": 3.5
   },
@@ -1293,33 +1293,6 @@
    "score": 3
   },
   {
-   "id": "la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-",
-   "title": "La banque en ligne 100% française offre jusqu’à 260 euros à ses nouveaux clients ET un taux boosté pour épargner",
-   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-et-un-taux-booste-pour-epargner_AB-202611170704.html",
-   "summary": "Si en cette fin d’année, vous cherchez à ouvrir un compte dans une banque en ligne, Fortuneo a l’offre qu’il vous faut. En ce moment, les nouveaux clients peuvent profiter d’un compte rentable dès l’ouverture avec jusqu’à 260 euros offerts.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/0dAf4XJPr3tANddOWk8GFIByXL4=/0x0:1600x900/800x0/images/La-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-ET-un-taux-booste-pour-epargner-2385552.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "La banque en ligne 100% française offre jusqu’à 260 euros à ses nouveaux clients ET un taux boosté pour épargner",
-     "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-et-un-taux-booste-pour-epargner_AB-202611170704.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Si en cette fin d’année, vous cherchez à ouvrir un compte dans une banque en ligne, Fortuneo a l’offre qu’il vous faut.",
-    "points": [
-     "En ce moment, les nouveaux clients peuvent profiter d’un compte rentable dès l’ouverture avec jusqu’à 260 euros offerts."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-17T15:52:00.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
    "id": "six-jours-apres-orange-bouygues-telecom-riposte-avec-six-mois-de-google-ai-plus-",
    "title": "Six jours après Orange, Bouygues Telecom riposte avec six mois de Google AI Plus gratuits",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFBweXU4ZXZDSTBPdVJsbGZURFM2UEV5QW5Ocm1ZcnNpb2wza3Fnb2hBOTNrT2xIRm1kd0xzd2FpNkY1eHhFV3I0SnktbGNaQVI3ank2RmhvUmtsSkFKTHpNUjkxS2VRMXU1bmhpZWdPbU9BRzBjYTcwa25pNzR3NXRERnJhelM5Z2JGZEF5cWJISnBUalpOTmpNR2lpcGZTMHpQVlBYdTFTUmJLaWlfWkdDRDBCQ3NhOUxGTGlFbzhPSktoVkxIa0R6WlJwUQ?oc=5",
@@ -1362,10 +1335,38 @@
    "score": 3
   },
   {
+   "id": "la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-",
+   "title": "La banque en ligne 100% française offre jusqu’à 260 euros à ses nouveaux clients ET un taux boosté pour épargner",
+   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-et-un-taux-booste-pour-epargner_AB-202611170704.html",
+   "summary": "Si en cette fin d’année, vous cherchez à ouvrir un compte dans une banque en ligne, Fortuneo a l’offre qu’il vous faut. En ce moment, les nouveaux clients peuvent profiter d’un compte rentable dès l’ouverture avec jusqu’à 260 euros offerts.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/0dAf4XJPr3tANddOWk8GFIByXL4=/0x0:1600x900/800x0/images/La-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-ET-un-taux-booste-pour-epargner-2385552.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "La banque en ligne 100% française offre jusqu’à 260 euros à ses nouveaux clients ET un taux boosté pour épargner",
+     "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-et-un-taux-booste-pour-epargner_AB-202611170704.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Si en cette fin d’année, vous cherchez à ouvrir un compte dans une banque en ligne, Fortuneo a l’offre qu’il vous faut.",
+    "points": [
+     "En ce moment, les nouveaux clients peuvent profiter d’un compte rentable dès l’ouverture avec jusqu’à 260 euros offerts."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-17T15:52:00.000Z",
+   "categories": [],
+   "score": 2.9
+  },
+  {
    "id": "openai-signe-un-accord-avec-17-medias-francais-dont-le-parisien-et-les-echos",
    "title": "OpenAI signe un accord avec 17 médias français dont Le Parisien et Les Échos",
    "url": "https://siecledigital.fr/2026/11/17/openai-signe-un-accord-avec-17-medias-francais-dont-le-parisien-et-les-echos/",
    "summary": "OpenAI offre de la visibilité aux médias de LVMH, puisque plusieurs d’entre eux, dont Le Parisien et Les Échos, seront mis en avant. Cet accord stratégique comprend également l’utilisation de plusieurs outils, notamment ChatGPT Enterprise. L’annonce a été faite le 16 novembre et aucun montant n’a été communiqué. Un nouvel accord avec OpenAI Ce n’est […]",
+   "image": "https://siecledigital.fr/wp-content/uploads/2026/11/3753347376-600x350.jpg",
    "sources": [
     "Siècle Digital"
    ],
@@ -1433,7 +1434,7 @@
    ],
    "date": "2026-11-17T18:14:33.000Z",
    "categories": [],
-   "score": 2.2
+   "score": 2.1
   },
   {
    "id": "ulike-les-innovations-beaute-presentees-a-paris",
