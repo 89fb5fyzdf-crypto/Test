@@ -127,11 +127,26 @@ function articlesMenu(i) {
   return `<details class="articles"><summary>${list.length > 1 ? `Les ${list.length} articles` : "L'article"} ${ICON_CHEVRON}</summary>${articleList(list)}</details>`;
 }
 
+// Visuel : image de l'article si disponible, sinon couverture générée (dégradé + courbes de niveau)
+// teintée selon le thème du sujet.
+const COVER_HUES = { 'Levées de fonds': [212, 172], 'Rachats & IPO': [268, 222], 'Licornes & scale-ups': [290, 330], 'IA': [238, 300],
+  'Politique & écosystème': [28, 350], 'Difficultés': [2, 330], 'Talents & nominations': [150, 196] };
+function hashHue(t) { let h = 0; for (const c of t) h = (h * 31 + c.charCodeAt(0)) % 360; return h; }
+function cover(i) {
+  const [a, b] = COVER_HUES[i.categories[0]] || [hashHue(i.title), (hashHue(i.title) + 60) % 360];
+  return `<div class="cover" style="--h1:${a};--h2:${b}" aria-hidden="true"><span>${esc(i.categories[0] || 'French Tech')}</span></div>`;
+}
+function visual(i, cls) {
+  return `<div class="visual ${cls}">${i.image
+    ? `<img src="${esc(safeUrl(i.image))}" alt="" loading="lazy" referrerpolicy="no-referrer" data-cover="${idx(i)}" onerror="imgFail(this)">`
+    : cover(i)}</div>`;
+}
+window.imgFail = (el) => { el.outerHTML = cover(state.day.items[Number(el.dataset.cover)]); };
+
 function feature(i, lead) {
   const t = teaserOf(i);
-  const img = lead && i.image ? `<img src="${esc(safeUrl(i.image))}" alt="" loading="lazy" onerror="this.closest('.feature').classList.remove('has-img');this.remove()">` : '';
-  return `<article class="feature pane${lead ? ' lead' : ''}${img ? ' has-img' : ''}">
-    ${img}
+  return `<article class="feature pane${lead ? ' lead' : ''}">
+    ${visual(i, 'wide')}
     <div class="body">
       ${kicker(i)}
       <h3><button class="open" data-open="${idx(i)}">${esc(i.title)}</button></h3>
@@ -145,23 +160,29 @@ function feature(i, lead) {
 function row(i) {
   const t = teaserOf(i);
   return `<article class="row">
-    ${kicker(i)}
-    <h3><button class="open" data-open="${idx(i)}">${esc(i.title)}</button></h3>
-    ${t ? `<p class="teaser">${esc(t)}</p>` : ''}
-    ${articlesMenu(i)}
+    <div class="row-main">
+      ${kicker(i)}
+      <h3><button class="open" data-open="${idx(i)}">${esc(i.title)}</button></h3>
+      ${t ? `<p class="teaser">${esc(t)}</p>` : ''}
+      ${articlesMenu(i)}
+    </div>
+    ${visual(i, 'thumb')}
   </article>`;
 }
 
+const LIST_SIZE = 10;
 function render() {
   const items = filtered();
   const filtering = state.q || state.cats.size;
   const top = filtering ? [] : items.slice(0, 5);
-  const rest = filtering ? items : items.slice(5);
+  // Hors recherche : seulement les 10 sujets repris par le plus grand nombre d'articles.
+  const rest = filtering ? items : items.slice(5)
+    .sort((a, b) => articlesOf(b).length - articlesOf(a).length || b.score - a.score).slice(0, LIST_SIZE);
   $('#top').innerHTML = top.length
     ? `<h2 class="section-title">À la une</h2><div class="top-grid">${top.map((i, n) => feature(i, n === 0)).join('')}</div>`
     : '';
   $('#list').innerHTML = rest.length
-    ? `<h2 class="section-title">${filtering ? 'Résultats' : 'Toute la veille'}<small>${rest.length}</small></h2><div class="group pane">${rest.map(row).join('')}</div>`
+    ? `<h2 class="section-title">${filtering ? 'Résultats' : 'Les plus relayés'}<small>${rest.length}</small></h2><div class="group pane">${rest.map(row).join('')}</div>`
     : (top.length ? '' : '<p class="empty">Aucun article ne correspond à cette recherche.</p>');
 }
 

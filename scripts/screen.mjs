@@ -77,6 +77,20 @@ function cleanText(s = '') {
     .trim();
 }
 
+// Images : pièce jointe image du flux, ou 1re <img> du contenu de l'article.
+function imageEnclosure(b) {
+  const m = b.match(/<enclosure\b[^>]*>/i);
+  return m && /type=["']image\//i.test(m[0]) ? attr(m[0], 'enclosure', 'url') : '';
+}
+function firstImg(html = '') {
+  for (const m of html.matchAll(/<img\b[^>]*?\bsrc=["']([^"']+)["'][^>]*>/gi)) {
+    const w = m[0].match(/\bwidth=["']?(\d+)/i);
+    if (w && Number(w[1]) < 200) continue; // pictos, pixels de suivi
+    if (/^https?:\/\//.test(m[1]) && !/gravatar|emoji|pixel|feedburner|doubleclick/i.test(m[1])) return m[1];
+  }
+  return '';
+}
+
 // Parseur RSS 2.0 / Atom minimaliste (suffisant pour les flux de presse).
 function parseFeed(xml) {
   const items = [];
@@ -90,7 +104,8 @@ function parseFeed(xml) {
       date: date ? new Date(stripHtml(date)) : null,
       summary: cleanText(stripHtml(tag(b, 'description') || tag(b, 'summary') || tag(b, 'content'))).slice(0, 400),
       content: cleanText(stripHtml(tag(b, 'content:encoded') || tag(b, 'content'))).slice(0, 5000),
-      image: attr(b, 'media:content', 'url') || attr(b, 'media:thumbnail', 'url') || attr(b, 'enclosure', 'url'),
+      image: attr(b, 'media:content', 'url') || attr(b, 'media:thumbnail', 'url') || imageEnclosure(b) ||
+        firstImg(decode(tag(b, 'content:encoded'))) || firstImg(decode(tag(b, 'description'))),
       source: stripHtml(tag(b, 'source')),
     });
   }
@@ -329,7 +344,7 @@ const items = groups.map(({ members, _c }) => {
     title: lead.title,
     url: lead.link,
     summary: lead.summary || members.find((m) => m.summary)?.summary || '',
-    image: members.find((m) => m.image)?.image || undefined,
+    image: members.find((m) => m.image && !m.via)?.image || members.find((m) => m.image)?.image || undefined,
     sources: sourcesList,
     // Tous les articles du sujet (un par média), sans « source principale ».
     articles: [lead, ...members.slice(1).filter((m) => !seen.has(m.link) && seen.add(m.link))]
@@ -341,6 +356,43 @@ const items = groups.map(({ members, _c }) => {
     score: Math.round(score * 10) / 10,
   };
 }).sort((a, b) => b.score - a.score);
+
+// ---------- images manquantes ----------
+// Pour les sujets affichés (5 à la une + les 10 plus relayés), on va chercher l'image de
+// partage (og:image) sur la page d'un des articles. Les liens Google News ne mènent pas
+// directement à l'article : ils sont ignorés.
+async function ogImage(url) {
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; FrenchTechScreener/1.0)', Accept: 'text/html' }, redirect: 'follow', signal: AbortSignal.timeout(8000) });
+    if (!res.ok || !/html/i.test(res.headers.get('content-type') || '')) return '';
+    const html = (await res.text()).slice(0, 300000);
+    const m = html.match(/<meta[^>]+(?:property|name)=["'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["'][^>]*>/i);
+    const c = m && m[0].match(/content=["']([^"']+)["']/i);
+    if (!c) return '';
+    const img = new URL(decode(c[1]), res.url).href;
+    return /^https:\/\//.test(img) ? img : '';
+  } catch { return ''; }
+}
+const shown = new Set([
+  ...items.slice(0, 5),
+  ...items.slice(5).sort((a, b) => b.articles.length - a.articles.length || b.score - a.score).slice(0, 10),
+  ...items.slice(5, 25),
+]);
+const needImage = [...shown].filter((i) => !i.image);
+let found = 0;
+if (!args.fixtures) {
+  const queue = [...needImage];
+  await Promise.all(Array.from({ length: 6 }, async () => {
+    while (queue.length) {
+      const it = queue.shift();
+      for (const a of it.articles.filter((x) => !/news\.google\./.test(x.url)).slice(0, 3)) {
+        const img = await ogImage(a.url);
+        if (img) { it.image = img; found++; break; }
+      }
+    }
+  }));
+}
+console.log(`Images : ${items.filter((i) => i.image).length}/${items.length} sujets (dont ${found} trouvées sur les pages des articles)`);
 
 // ---------- écriture ----------
 await mkdir(DATA_DIR, { recursive: true });
