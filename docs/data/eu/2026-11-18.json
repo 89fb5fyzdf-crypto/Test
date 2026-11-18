@@ -1,11 +1,11 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T18:17:01.878Z",
+ "generatedAt": "2026-11-18T21:21:29.050Z",
  "windowHours": 36,
  "counts": {
-  "articles": 38,
-  "raw": 59,
-  "media": 16
+  "articles": 34,
+  "raw": 49,
+  "media": 13
  },
  "scope": "eu",
  "lang": "en",
@@ -13,12 +13,12 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "source": "EU-Startups",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 10
   },
   {
    "source": "Financial Times",
@@ -42,8 +42,8 @@
   },
   {
    "source": "Google News · UK startup raises funding round",
-   "ok": true,
-   "items": 29
+   "ok": false,
+   "error": "HTTP 429"
   },
   {
    "source": "Sifted",
@@ -73,14 +73,76 @@
  ],
  "items": [
   {
+   "id": "how-payhawk-raised-280m-amid-fintech-downturn",
+   "title": "How Payhawk raised $280m amid fintech downturn",
+   "url": "https://sifted.eu/articles/payhawk-series-c/",
+   "summary": "Payhawk, a London-based AI-native spend management platform, today announced a €255.14 million ($280 million) Series C round, valuing the business at €1.82 billion ($2 billion) as it builds the global finance operating system (OS) for the AI era. The round was led by Growth Equity at Goldman Sachs Alternatives. All existing investors, including QED, Greenoaks, […]",
+   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-18T161103.717.jpg",
+   "sources": [
+    "Sifted",
+    "Tech.eu",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "How Payhawk raised $280m amid fintech downturn",
+     "url": "https://sifted.eu/articles/payhawk-series-c/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "Goldman Sachs leads $280M funding round in Payhawk",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdk5rZ2JuR2F1MlhETndHQnNEb3k2X0c4STlPajVpRHNBNS1RdnJLNzJ6Rl9GRTBOSVN0OXpFWERCcEI1ZDBjN29seXMwMjZLRkQtZEFRNGNrZVRQck5abURBMk9HVk5wd2xMcEVqY3VqUkZseEFKT0Q5Q0pFX1JJMlNlZw?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Bulgaria’s first unicorn Payhawk raises €255.14 million at €1.82 billion valuation in Goldman Sachs-led Series C round",
+     "url": "https://www.eu-startups.com/2026/11/bulgarias-first-unicorn-payhawk-raises-e255-14-million-at-e1-82-billion-valuation-to-build-a-global-finance-os-for-the-ai-era/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Payhawk , a London-based AI-native spend management platform, today announced a €255.14 million ($280 million) Series C round, valuing the business at €1.82 billion ($2 billion) as it builds the global finance operating system (OS) for the AI era.",
+    "points": [
+     "This round brings the company’s total funding to more than $515 million.",
+     "In March 2022, it raised an additional €89 million and extended its funding to €191 million, making it Bulgaria’s first unicorn .",
+     "In November 2021, the company raised €99 million in Series B funding, valuing it at €505 million.",
+     "It raised €16.5 million in Series A in April 2021 and €3 million in a Seed round in March 2020."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$280m"
+     },
+     {
+      "key": "round",
+      "value": "Series C"
+     },
+     {
+      "key": "valuation",
+      "value": "€1.82 billion"
+     },
+     {
+      "key": "investors",
+      "value": "Growth Equity at Goldman Sachs Alternatives"
+     }
+    ]
+   },
+   "date": "2026-11-18T08:35:19.000Z",
+   "categories": [
+    "Funding",
+    "Unicorns & scale-ups",
+    "AI"
+   ],
+   "score": 25.5
+  },
+  {
    "id": "model-ml-hits-1-5b-valuation-with-250m-raise-just-18-months-after-emerging-from-",
    "title": "Model ML hits $1.5B valuation with $250M raise, just 18 months after emerging from stealth",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV29VLWxrSWhiZUV4SlBMbFFjOFZMN2h4d1czU05IdG9LY3otNjVscjkzMmhpeE9JekVueE1QTHFHeDhsc1MwOHd2ZWFoaFBZcVJfWmV3d0V4c1BfR0M4RWFOVmlKS2JqbWttb0EzajlFOTBDanRIWnF5VGZjdFplRDNTR1JaLXhrQmM3OXA1d0N0OW45dDl4V0xPV2NvaHlEWUhPSkVJbjI4a1ZtSms3Z1d3UVM?oc=5",
    "summary": "",
    "sources": [
     "Tech.eu",
-    "EU-Startups",
-    "UA.NEWS"
+    "EU-Startups"
    ],
    "articles": [
     {
@@ -92,11 +154,6 @@
      "source": "EU-Startups",
      "title": "Model ML is Europe's newest Unicorn with €227 million raise to put AI agents to work in finance makes",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWZZdFNVX2lPMUxiZDIyLU9TMHFhak1NQVEtMVM3TnRUM2pqazYtTWVpbkhraDNETC1nVWZIazdQX0dJRkpIaUZzN1gxZktadE9sUHJzUlFxNVNUQ3psWjQySkVpeUw2WFpFVnVCU1pQNUlUZ3VtamxhU1o0ZENPLU5jajZGMXZPQ3hQT2UxZnM0VDJ0ZGV2TkFrR0I1LUxmSEc0NDJUTlRNYXBTekRhcVdqS28tT1pBb1FfY1ZwLVpoeFVETjBwYWc3b2xGTkVobWpZ?oc=5"
-    },
-    {
-     "source": "UA.NEWS",
-     "title": "London startup Model ML raises $250 million for AI for bankers — TechCrunch",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUklmRnlWZVNZMy1aWVpTVlprcXF0NXpSYktHRzdBbzg3MHVHWGpHYjlKY2wwVnFUUTlHNk1XVWg0cXQ0N0l6QU9LUXpqTlZWYVVmdlFYUF9kbEVfQXNFekR4LWF3Z0VXeDJ2OVBZQlc5WTBZb0NhMUVQeFBQRUx2eDFfODl0UEJnYjZlVl9pUnI1Vkl1SGRSYzljUndzYVhRd2k5RklmeFFqWUJWLVE?oc=5"
     }
    ],
    "date": "2026-11-17T12:46:11.000Z",
@@ -105,40 +162,7 @@
     "Unicorns & scale-ups",
     "AI"
    ],
-   "score": 25.1
-  },
-  {
-   "id": "plural-raises-1-billion-fund-for-european-frontier-tech",
-   "title": "Plural raises €1 billion fund for European frontier tech",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5",
-   "summary": "",
-   "sources": [
-    "IT Brief UK",
-    "The Recursive",
-    "ArcticStartup"
-   ],
-   "articles": [
-    {
-     "source": "IT Brief UK",
-     "title": "Plural raises €1 billion fund for European frontier tech",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5"
-    },
-    {
-     "source": "The Recursive",
-     "title": "Estonia’s Plural Raises €1B to Back European Deep Tech",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0psWk9XYkN5dUE5T01yeERia012Szg2c0tDRHhKcUZMM0xHVzNyWlBNUE5QQnpqUnlUODNQbW95UTRCSXVFenVnaTBTXzBSZjRhU0x2Vm1NSDBPY3ctLUxEdEpiS2xKMXptOVpNU2VCTzRQQjBNSkVXc2xYSVY2bEduZzVHQUYtbnhqV1pOejlteHNWSFQ4UVJlTmJYdXVRVExmeTB2WDNFUkJFTTdTLThZVS1PWmRkbGY2UjRQOA?oc=5"
-    },
-    {
-     "source": "ArcticStartup",
-     "title": "Plural raises €1bn fund to back Europe's next generation of frontier technology companies - ArcticStartup",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDcnI4ZEJkOFB5YmNUMmtnX2JXOWM0RjNhMER6ODF3NWtPZVcyV0pqUGw4SERqdjlGd1A5R1VKd1YyZTQ1S2trWTRqUUdGWVJsclNMaWh1QV81T3Y2WFM0UtIBYEFVX3lxTFBDcnI4ZEJkOFB5YmNUMmtnX2JXOWM0RjNhMER6ODF3NWtPZVcyV0pqUGw4SERqdjlGd1A5R1VKd1YyZTQ1S2trWTRqUUdGWVJsclNMaWh1QV81T3Y2WFM0Ug?oc=5"
-    }
-   ],
-   "date": "2026-11-17T08:00:00.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 20.5
+   "score": 22
   },
   {
    "id": "investment-in-european-startups-surges-to-81bn-but-europe-faces-challenges-says-",
@@ -165,68 +189,34 @@
    "categories": [
     "Funding"
    ],
-   "score": 19.1
+   "score": 18.8
   },
   {
-   "id": "how-payhawk-raised-280m-amid-fintech-downturn",
-   "title": "How Payhawk raised $280m amid fintech downturn",
-   "url": "https://sifted.eu/articles/payhawk-series-c/",
+   "id": "estonia-s-plural-raises-1b-to-back-european-deep-tech",
+   "title": "Estonia’s Plural Raises €1B to Back European Deep Tech",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0psWk9XYkN5dUE5T01yeERia012Szg2c0tDRHhKcUZMM0xHVzNyWlBNUE5QQnpqUnlUODNQbW95UTRCSXVFenVnaTBTXzBSZjRhU0x2Vm1NSDBPY3ctLUxEdEpiS2xKMXptOVpNU2VCTzRQQjBNSkVXc2xYSVY2bEduZzVHQUYtbnhqV1pOejlteHNWSFQ4UVJlTmJYdXVRVExmeTB2WDNFUkJFTTdTLThZVS1PWmRkbGY2UjRQOA?oc=5",
    "summary": "",
    "sources": [
-    "Sifted",
-    "Tech.eu"
+    "The Recursive",
+    "ArcticStartup"
    ],
    "articles": [
     {
-     "source": "Sifted",
-     "title": "How Payhawk raised $280m amid fintech downturn",
-     "url": "https://sifted.eu/articles/payhawk-series-c/"
+     "source": "The Recursive",
+     "title": "Estonia’s Plural Raises €1B to Back European Deep Tech",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0psWk9XYkN5dUE5T01yeERia012Szg2c0tDRHhKcUZMM0xHVzNyWlBNUE5QQnpqUnlUODNQbW95UTRCSXVFenVnaTBTXzBSZjRhU0x2Vm1NSDBPY3ctLUxEdEpiS2xKMXptOVpNU2VCTzRQQjBNSkVXc2xYSVY2bEduZzVHQUYtbnhqV1pOejlteHNWSFQ4UVJlTmJYdXVRVExmeTB2WDNFUkJFTTdTLThZVS1PWmRkbGY2UjRQOA?oc=5"
     },
     {
-     "source": "Tech.eu",
-     "title": "Goldman Sachs leads $280M funding round in Payhawk",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdk5rZ2JuR2F1MlhETndHQnNEb3k2X0c4STlPajVpRHNBNS1RdnJLNzJ6Rl9GRTBOSVN0OXpFWERCcEI1ZDBjN29seXMwMjZLRkQtZEFRNGNrZVRQck5abURBMk9HVk5wd2xMcEVqY3VqUkZseEFKT0Q5Q0pFX1JJMlNlZw?oc=5"
+     "source": "ArcticStartup",
+     "title": "Plural raises €1bn fund to back Europe's next generation of frontier technology companies - ArcticStartup",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDcnI4ZEJkOFB5YmNUMmtnX2JXOWM0RjNhMER6ODF3NWtPZVcyV0pqUGw4SERqdjlGd1A5R1VKd1YyZTQ1S2trWTRqUUdGWVJsclNMaWh1QV81T3Y2WFM0UtIBYEFVX3lxTFBDcnI4ZEJkOFB5YmNUMmtnX2JXOWM0RjNhMER6ODF3NWtPZVcyV0pqUGw4SERqdjlGd1A5R1VKd1YyZTQ1S2trWTRqUUdGWVJsclNMaWh1QV81T3Y2WFM0Ug?oc=5"
     }
    ],
-   "date": "2026-11-18T08:35:19.000Z",
+   "date": "2026-11-17T12:44:17.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 17.7
-  },
-  {
-   "id": "previsia-raises-3-8m-to-bring-ai-powered-risk-prevention-to-businesses-across-eu",
-   "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu",
-    "EU-Startups",
-    "UK Tech Investment News"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5"
-    },
-    {
-     "source": "EU-Startups",
-     "title": "London’s Perry AI raises €2 million to bring AI-powered legal intelligence to private capital funds",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZXQ5SEhMamN5U2RoQ2dkOXhpSWRXTzRTMVNBOHhkVER1TUZnR3RpZUlDUDlOR0hpbGg5Yi0wdUxxWjNkaEFUck1EOHhGV1oxOTBSbE5nZ2VmVVY5aFFtZWd1SWNJRlA1TGZodEFQMjZCRndkZW9lQ3BOeFJBd3pKRDJpR0lkMXhBcDY1aFhBZHI1aW9LZ3hJWmlqZHBIQUs5YmFiZml0M3IybVIwczMwZENrNDJuQTk5aml4U3dRMWx6UXFQU2JzelozWEZxckVC?oc=5"
-    },
-    {
-     "source": "UK Tech Investment News",
-     "title": "Photosynth AI (t/a Perry AI) secures £1.67 million Seed funding led by Haatch alongside Antler, Araya Ventures and Syncorp Ventures – UK Tech Investment News by Deal Lite",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNc2hQUkI1eTB0WlMwbVAteUdDRUNIdU5qdFZaQ2JKTHdrako4NFNFaGN4aG1aYnhtYVhuUGxxNGlkTTZuUFRQNVl6aW5leElXQTNQbnlfb3VFdUFzWXVwaEFmdkhNQ3UzYngtbTZ1QlprVko2ZzdrSTduaGgwcFRMaV9QRDNETjJnTzV3Tk04amFyZVFSZnN1YkRmY0FsdUdteFBhMzJWdHhwZm0yR0tLakZpZDRVZjZERUJncEY4Zl90YVY3MUNoRXU1SHJPZVVGTmpCWjhfMFNQUk1wMDNjdWlhV3Q4dnJac3NWVGJyRGQwM1pSMk90Uk5Hdw?oc=5"
-    }
-   ],
-   "date": "2026-11-17T08:00:52.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 17.5
+   "score": 17.2
   },
   {
    "id": "elevenlabs-lovable-and-deepl-ceos-urge-eu-to-back-homegrown-ai",
@@ -256,7 +246,55 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 16.5
+   "score": 16.3
+  },
+  {
+   "id": "8-key-findings-from-atomico-s-state-of-european-tech-report",
+   "title": "8 key findings from Atomico’s State of European Tech report",
+   "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/",
+   "summary": "Europe’s tech ecosystem is heading for its second-best investment year on record, with bigger funding rounds, a new generation of founders and startups scaling at unprecedented speed. But the continent’s structural weaknesses remain: venture capital is increasingly concentrated, the US is pulling ahead in AI investment, and European companies still struggle to access growth capital. […]",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=2000,quality=75,fit=cover,format=auto/wp-content/uploads/2023/06/30152932/tom-wehmeier.jpg",
+   "sources": [
+    "Sifted",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "8 key findings from Atomico’s State of European Tech report",
+     "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "5 key findings from Atomico’s State of European Tech 2026",
+     "url": "https://www.eu-startups.com/2026/11/5-key-findings-from-atomicos-state-of-european-tech-2026/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Europe’s tech ecosystem is heading for its second-best investment year on record, with bigger funding rounds, a new generation of founders and startups scaling at unprecedented speed.",
+    "points": [
+     "Among the standout deals are UK-based Wayve’s €1 billion Series D to scale AI-powered autonomous driving, German DefenceTech startup Quantum Systems’ €1 billion Series D , and British AI voice company ElevenLabs’ €424 million Series D .",
+     "Standout examples include Mistral AI’s €3 billion Series D and Nscale’s €1.7 billion Series C .",
+     "During the first nine months of 2026, approximately €18 billion ($20 billion) flowed into European AI and compute companies , compared with €258 billion ($284 billion) in the United States.",
+     "But the continent’s structural weaknesses remain: venture capital is increasingly concentrated, the US is pulling ahead in AI investment, and European companies still struggle to access growth capital."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€73 billion"
+     },
+     {
+      "key": "round",
+      "value": "Seed"
+     }
+    ]
+   },
+   "date": "2026-11-18T05:00:42.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 14.1
   },
   {
    "id": "sequoia-and-greenoaks-lead-massive-5bn-series-c-funding-round-in-isomorphic-labs",
@@ -280,6 +318,57 @@
    "score": 14
   },
   {
+   "id": "perry-ai-secures-2-2m-to-automate-legal-work-across-private-capital",
+   "title": "Perry AI secures $2.2M to automate legal work across private capital",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmVhV18yQXZXaTlLUGZoT0lsZVBsdkh3NExVNEd2N3kxR2paeFR0Z0R1b05WTGtCTW9WbW9uV19qUzBuRjJvTGh5VEVLR09BbWJiWVdZRzBuRFpfUlM2ek9YcjBEWndEQkFlaTRYc3gtWldxbFdhS0U5ZUY1dGI3WU1DdC1wY0lxZ0l0M200RGNhNXRrM1FUMTNn?oc=5",
+   "summary": "Perry AI, the London-based startup building an AI-powered legal operating system for private equity and venture capital funds, has raised €2 million ($2.2 million) in a Seed funding round. The round was led by Haatch, with participation from Antler, Syncorp Ventures, Araya Ventures, US super angel Kelsey Chase, and a cohort of strategic angel investors. […]",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Perry AI secures $2.2M to automate legal work across private capital",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmVhV18yQXZXaTlLUGZoT0lsZVBsdkh3NExVNEd2N3kxR2paeFR0Z0R1b05WTGtCTW9WbW9uV19qUzBuRjJvTGh5VEVLR09BbWJiWVdZRzBuRFpfUlM2ek9YcjBEWndEQkFlaTRYc3gtWldxbFdhS0U5ZUY1dGI3WU1DdC1wY0lxZ0l0M200RGNhNXRrM1FUMTNn?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London’s Perry AI raises €2 million to bring AI-powered legal intelligence to private capital funds",
+     "url": "https://www.eu-startups.com/2026/11/londons-perry-ai-raises-e2-million-to-bring-ai-powered-legal-intelligence-to-private-capital-funds/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Perry AI , the London-based startup building an AI-powered legal operating system for private equity and venture capital funds, has raised €2 million ($2.2 million) in a Seed funding round.",
+    "points": [
+     "Demand has been exceptional, and this round lets us build on our momentum in Europe and take Perry AI across the US and Asia .” The company says funds already using Perry AI manage over €1.4 billion ($1.5 billion) in assets under management across more than 1,000 portfolio companies.",
+     "The round was led by Haatch, with participation from Antler, Syncorp Ventures, Araya Ventures, US super angel Kelsey Chase, and a cohort of strategic angel investors.",
+     "“ The biggest wins in AI will go to companies that go deep in markets where the stakes are high and generalist tools fall short.",
+     "Shashwat and Vaneesa have spent nearly three decades between them doing this work, and it shows in the product: Perry AI doesn’t just review documents, it builds a living memory of every commitment a fund has made and acts on it."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$2.2M"
+     },
+     {
+      "key": "round",
+      "value": "Seed"
+     },
+     {
+      "key": "investors",
+      "value": "Haatch"
+     }
+    ]
+   },
+   "date": "2026-11-18T06:42:52.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 13.8
+  },
+  {
    "id": "finland-s-satellite-provider-iceye-bids-2-billion-for-italian-rocket-maker-avio",
    "title": "Finland’s satellite provider Iceye bids €2 billion for Italian rocket maker Avio",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVW5nTEw2Q2M4V0luWkhMeVNuU2lTbFpKU3BaeTUxNUpyN096aEVaWm1CbjNnZG80ajloOHROUEVONDdaWmJFRnZmN3pnWGZLVnZBaDJwY1NFYUNNa2pzTmVMOUNfYU52ZjJUOE05ZHZZMmxHZXMxOUJsU0FOekRGQUhwcXpFSDUwcnhYaFdLX1hTWF9tOWFHZ1IyVFc2YXM?oc=5",
@@ -299,6 +388,49 @@
     "Funding"
    ],
    "score": 13
+  },
+  {
+   "id": "ireland-s-disseqt-ai-raises-7-3-million-to-safely-deploy-ai-agents",
+   "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
+   "url": "https://www.eu-startups.com/2026/11/irelands-disseqt-ai-raises-e7-3-million-to-safely-deploy-ai-agents/",
+   "summary": "Disseqt AI, a Dublin-based AI assurance platform, has raised €7.3 million ($8 million) to help enterprises deploy AI agents safely, at scale and enable them to meet regulatory requirements. Gresham House Ventures led the round, with participation from Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland, alongside angels including senior leaders from OpenAI, Palo […]",
+   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-bar-9-1-300x169.png",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
+     "url": "https://www.eu-startups.com/2026/11/irelands-disseqt-ai-raises-e7-3-million-to-safely-deploy-ai-agents/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Disseqt AI , a Dublin-based AI assurance platform, has raised €7.3 million ($8 million) to help enterprises deploy AI agents safely, at scale and enable them to meet regulatory requirements.",
+    "points": [
+     "In the UK, Geordie AI raised €25 million to strengthen AI-agent governance, Trent AI secured €11 million for agentic cybersecurity, and AI Score received €4.6 million to support safer enterprise AI adoption.",
+     "Spain also recorded investments in NeuralTrust (€17.2 million) and AI evaluation platform Galtea (€2.7 million).",
+     "“Enterprise AI deployment spend scaled to £130 billion by September 2026, up from £25 billion last year, and this will accelerate many-folds in a short span.",
+     "McKinsey’s 2026 State of AI survey found that 40% of respondents at companies with more than $1 billion in annual revenue were scaling AI agents in at least one business function, up from 27% a year earlier."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€7.3 million"
+     },
+     {
+      "key": "investors",
+      "value": "Sure Valley Ventures"
+     }
+    ]
+   },
+   "date": "2026-11-18T15:09:19.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 12.5
   },
   {
    "id": "exclusive-munich-based-humanoid-startup-vesoma-seeks-50m",
@@ -344,27 +476,6 @@
    "score": 11
   },
   {
-   "id": "tiberius-aerospace-with-strong-uk-links-raises-85m",
-   "title": "Tiberius Aerospace with strong UK links raises $85M",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejJxQTRaRjhoUGszVjdxNzlQRm85UWNXLTJoRkhTWGtjNVJlTnhOdDA4M3hsNkU4dlNxdjN3TmloY3RIbEFuelVRY090MFo2cXg1M3d1YnNJZjhHYW0wSlRZbjlXbzdCZUk0OGV2ckxQazhmS0dIQmc1QzRGNUxJcHdlbDZuaU9naUVoX3dn?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Tiberius Aerospace with strong UK links raises $85M",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejJxQTRaRjhoUGszVjdxNzlQRm85UWNXLTJoRkhTWGtjNVJlTnhOdDA4M3hsNkU4dlNxdjN3TmloY3RIbEFuelVRY090MFo2cXg1M3d1YnNJZjhHYW0wSlRZbjlXbzdCZUk0OGV2ckxQazhmS0dIQmc1QzRGNUxJcHdlbDZuaU9naUVoX3dn?oc=5"
-    }
-   ],
-   "date": "2026-11-17T07:31:05.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 11
-  },
-  {
    "id": "anthropic-s-1-4tn-ipo-puts-europe-s-ai-boom-to-the-test",
    "title": "Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test",
    "url": "https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/",
@@ -384,7 +495,7 @@
     "M&A & IPOs",
     "AI"
    ],
-   "score": 10.9
+   "score": 10.6
   },
   {
    "id": "each-labs-bags-7m-to-make-generative-media-production-faster-and-cheaper",
@@ -401,12 +512,12 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmdETVVIRmtrVGV6SVdVVmJFMzR5TktOb2ZIZ09Vbm8xaFJfZEdwQ045VkM3OEE1WVowS1U3QVFuVnp6WEhWeDlaeDFaODRZLU43MzdsTV91ZEdkenRSUmU4WGxqa1hhZ1FLVjNsUm1zR2xFbFZUSExuQ3M5dXYtSjBkWlRaeVlTR0twV2xnMlZibnFlNWhBN0RUUUh3emox?oc=5"
     }
    ],
-   "date": "2026-11-18T13:00:03.000Z",
+   "date": "2026-11-18T13:00:54.000Z",
    "categories": [
     "Funding",
     "AI"
    ],
-   "score": 10.6
+   "score": 10.3
   },
   {
    "id": "visage-technologies-launches-3-1m-eu-backed-project-to-develop-adaptive-training",
@@ -428,51 +539,7 @@
     "Funding",
     "Policy & ecosystem"
    ],
-   "score": 10.4
-  },
-  {
-   "id": "swiss-neurotech-indivi-acquires-cogitat-to-advance-ai-powered-brain-monitoring",
-   "title": "Swiss neurotech Indivi acquires Cogitat to advance AI-powered brain monitoring",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd3BCYzVLZ0FtRmgtZVRuc3BFc1hJajFYNUstSFNmSjB0cHc4S3lPVlJaTkdCaDJ0dUk2UnU1WDhTTG9uSU1oUV9lNU5SaGFseXZHdS1oM0JIcExWczV3cmVJSWJjbEJyR0w1SkV6RzA5emRWbU00S2d1ejc0Zkk3NXhTT2dkTTVrNmpuc3lZVUg4SmVmRUkxRWVHTDNyQmt1blE5WnpvLU95MmpSUVd5Rlk1QjJabVJWazNjWm1BZXBnNkQwb1djZEt1WVdtaDE4Z041dWJHSQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Swiss neurotech Indivi acquires Cogitat to advance AI-powered brain monitoring",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd3BCYzVLZ0FtRmgtZVRuc3BFc1hJajFYNUstSFNmSjB0cHc4S3lPVlJaTkdCaDJ0dUk2UnU1WDhTTG9uSU1oUV9lNU5SaGFseXZHdS1oM0JIcExWczV3cmVJSWJjbEJyR0w1SkV6RzA5emRWbU00S2d1ejc0Zkk3NXhTT2dkTTVrNmpuc3lZVUg4SmVmRUkxRWVHTDNyQmt1blE5WnpvLU95MmpSUVd5Rlk1QjJabVJWazNjWm1BZXBnNkQwb1djZEt1WVdtaDE4Z041dWJHSQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T08:00:53.000Z",
-   "categories": [
-    "M&A & IPOs",
-    "AI"
-   ],
-   "score": 10
-  },
-  {
-   "id": "ireland-s-disseqt-ai-raises-7-3-million-to-safely-deploy-ai-agents",
-   "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNak1LVkNWUlZGb01RVlNhaHhxd2FuN19rdU5hUGtBTDZIT0dHbTdjTkduTGNfUFhFWjJxbkxMU29WaEJ0TW5ISzZleWJGdmtqeW8tVmI0TFZQcGh3SVVWbks4QzlocGEyT0NNTmM4VGRSOHR1clIwLTdNVFdXUjRPUF9hZ2FEYlc3LUt2WnNMNDZVVXpLSm9Ld1ZyM0Q3YkNCcHgzSzBB?oc=5",
-   "summary": "",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNak1LVkNWUlZGb01RVlNhaHhxd2FuN19rdU5hUGtBTDZIT0dHbTdjTkduTGNfUFhFWjJxbkxMU29WaEJ0TW5ISzZleWJGdmtqeW8tVmI0TFZQcGh3SVVWbks4QzlocGEyT0NNTmM4VGRSOHR1clIwLTdNVFdXUjRPUF9hZ2FEYlc3LUt2WnNMNDZVVXpLSm9Ld1ZyM0Q3YkNCcHgzSzBB?oc=5"
-    }
-   ],
-   "date": "2026-11-18T15:09:19.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 9.7
+   "score": 10.2
   },
   {
    "id": "dcubed-raises-27-2m-series-a-to-scale-space-deployment-and-power-systems",
@@ -489,90 +556,56 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTROUndUb2tCUGgwQTA0TFRjMF9SVWRtLXlIN2NWaDBtUXFic1U4R0xfSXRsb0dRRGhJTnU1bEt1dGUyNTctOV9JTXRySDg1VWdYVHo5dXV6c0VhRDdRRTdyeFdwQVdRSGJMLTJoc2s3Q1A2NG0weXVxV2pvejVhNkVBU2lxZDhfSkVJZFUxdk5aRkZUaGhXdl9ZcUtscHloa0JFSQ?oc=5"
     }
    ],
-   "date": "2026-11-18T12:06:23.000Z",
+   "date": "2026-11-18T12:16:10.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 9.5
+   "score": 9.2
   },
   {
-   "id": "can-ai-be-secure-it-depends-on-where-it-runs",
-   "title": "Can AI be secure? It depends on where it runs",
-   "url": "https://www.uktech.news/opinion/secure-ai-where-it-runs-20261117",
-   "summary": "by Moterra Most UK companies are already using AI. Sales teams draft proposals with it, operations teams summarise contracts, and finance teams work through spreadsheets. The tool people settle on is often Claude, because it copes with long documents, data analysis and the routine workflows they would rather hand off. Nor is it only junior […]",
+   "id": "meatable-co-founder-s-new-firm-iconic-raises-9-1-million-to-build-ai-operating-s",
+   "title": "Meatable co-founder’s new firm Iconic raises €9.1 million to build AI operating system for large capital projects",
+   "url": "https://www.eu-startups.com/2026/11/meatable-co-founders-new-firm-iconic-raises-e9-1-million-to-build-ai-operating-system-for-large-capital-projects/",
+   "summary": "Iconic, an Amsterdam-based startup building an AI operating system for large capital projects, has raised €9.1 million ($10 million) in Seed funding to bring AI-powered intelligence to these projects, with five major clients already onboard. Peak Capital, an early-stage venture capital fund based in Amsterdam, Berlin, and Munich, led the round, with participation from Bridford […]",
    "sources": [
-    "UKTN"
-   ],
-   "articles": [
-    {
-     "source": "UKTN",
-     "title": "Can AI be secure? It depends on where it runs",
-     "url": "https://www.uktech.news/opinion/secure-ai-where-it-runs-20261117"
-    }
-   ],
-   "brief": {
-    "essentiel": "by Moterra Most UK companies are already using AI.",
-    "points": [
-     "Nor is it only junior staff: TrustedTech research in May found that 62% of UK senior leaders use AI tools their organisation has not approved.",
-     "Sales teams draft proposals with it, operations teams summarise contracts, and finance teams work through spreadsheets.",
-     "The tool people settle on is often Claude, because it copes with long documents, data analysis and the routine workflows they would rather hand off.",
-     "That leaves many companies with a question they cannot yet answer: where does the data go when staff use AI?"
-    ],
-    "facts": []
-   },
-   "date": "2026-11-17T07:00:10.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 9
-  },
-  {
-   "id": "nabu-secures-1-1m-to-bring-ai-automation-to-financial-compliance",
-   "title": "NABU secures €1.1M to bring AI automation to financial compliance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE1sbDVLZ2NiUkczXzJxcUtaOVpsU1ZHYTVndGFxbkFrY1k3c3pZMVduYVhrTnhPUE9rc0FEVEhlTjRvUGtqQndsWDRYM2xGN2g4V1g5bHI4OVp1YzJhdHZna3lyWXpHZ3pudFVBX2htY3JSTDNqZE92RGctS0VxRkpqaWZ4MlllVFdFYU1UZmpIME5wb0hEdlJn?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "NABU secures €1.1M to bring AI automation to financial compliance",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE1sbDVLZ2NiUkczXzJxcUtaOVpsU1ZHYTVndGFxbkFrY1k3c3pZMVduYVhrTnhPUE9rc0FEVEhlTjRvUGtqQndsWDRYM2xGN2g4V1g5bHI4OVp1YzJhdHZna3lyWXpHZ3pudFVBX2htY3JSTDNqZE92RGctS0VxRkpqaWZ4MlllVFdFYU1UZmpIME5wb0hEdlJn?oc=5"
-    }
-   ],
-   "date": "2026-11-17T07:05:52.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 9
-  },
-  {
-   "id": "8-key-findings-from-atomico-s-state-of-european-tech-report",
-   "title": "8 key findings from Atomico’s State of European Tech report",
-   "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/",
-   "summary": "",
-   "sources": [
-    "Sifted",
     "EU-Startups"
    ],
    "articles": [
     {
-     "source": "Sifted",
-     "title": "8 key findings from Atomico’s State of European Tech report",
-     "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/"
-    },
-    {
      "source": "EU-Startups",
-     "title": "5 key findings from Atomico’s State of European Tech 2026",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0w5QmwwWUgwQnF0bmpkbkIzbGR2UzRxX0ZVWGhWdXVaTGhTY1ZMN05iZkRFU29Yb2Rzd1N0dXJHYlkwZVlEUXlPZzluYTNYdk1iV083LU4tOTMwYmZvWEFZRXZsWU92ejZJNjlaS0ZiSnhxdklLazhhNVBnWW10Q2d5amltLXo3aVFwWlZUQ01ocXN6dC14Zg?oc=5"
+     "title": "Meatable co-founder’s new firm Iconic raises €9.1 million to build AI operating system for large capital projects",
+     "url": "https://www.eu-startups.com/2026/11/meatable-co-founders-new-firm-iconic-raises-e9-1-million-to-build-ai-operating-system-for-large-capital-projects/"
     }
    ],
-   "date": "2026-11-18T05:00:42.000Z",
-   "categories": [],
-   "score": 8.3
+   "brief": {
+    "essentiel": "Iconic , an Amsterdam-based startup building an AI operating system for large capital projects, has raised €9.1 million ($10 million) in Seed funding to bring AI-powered intelligence to these projects, with five major clients already onboard.",
+    "points": [
+     "Before co-founding Meatable, de Nood led assurance reviews of megaprojects worth up to $15 billion at McKinsey.",
+     "Each spends over $1 billion annually on capital projects.",
+     "Peak Capital, an early-stage venture capital fund based in Amsterdam, Berlin, and Munich, led the round, with participation from Bridford Group, Common Magic, Graduate Ventures, NP-Hard, and Tiny VC.",
+     "“Capital projects are among the largest undertakings in the physical economy, yet far too few land on time, on budget, and on scope."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€9.1 million"
+     },
+     {
+      "key": "round",
+      "value": "Seed"
+     },
+     {
+      "key": "investors",
+      "value": "Bridford Group, Common Magic, Graduate Ventures, NP-Hard, and Tiny VC"
+     }
+    ]
+   },
+   "date": "2026-11-18T07:23:37.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 8.8
   },
   {
    "id": "ellipses-pharma-explores-a-london-stock-exchange-listing-opportunity",
@@ -593,7 +626,7 @@
    "categories": [
     "M&A & IPOs"
    ],
-   "score": 8.2
+   "score": 7.9
   },
   {
    "id": "cloudbackend-raises-6-6m-in-round-led-by-carl-henric-svanberg-s-family-office",
@@ -614,28 +647,39 @@
    "categories": [
     "Funding"
    ],
-   "score": 8
+   "score": 7.8
   },
   {
-   "id": "adesso-ventures-secures-26m-in-first-close-of-its-second-fund-opening-to-externa",
-   "title": "adesso Ventures secures €26M in first close of its second fund, opening to external investors",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmZFWGpHSjRvOGRoVlZ3X3I2a0dLekp1U2xiZFBTblFVQ08wak1lbmE0a284MjBmQ0M1WXFNaW1UcXRXYzEtNUw3ckREcXBsSEctOGxrckRqSDJtbjlkeVVIMTBkVzRNRVhCRGN2a3lqQ2pxTDhzazBHTFhQQlctOHdjRGRTcFc2c1YwbnFGeEdnazV0bmpfcTc5ZmxpZ0wyUHdkRmpTbzhaQ1ppdkpJOFhVRjk0Sl9Pd1p3aUR3QQ?oc=5",
-   "summary": "",
+   "id": "opinion-maintaining-the-open-web-is-central-to-europe-s-ai-sovereignty-ambitions",
+   "title": "Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions",
+   "url": "https://www.eu-startups.com/2026/11/opinion-maintaining-the-open-web-is-central-to-europes-ai-sovereignty-ambitions/",
+   "summary": "Europe’s ambitions for AI sovereignty depend on giving its startups the resources to succeed, innovate and compete with established companies. As it stands, the EU remains heavily reliant on digital technologies developed and managed from elsewhere, raising questions about its ability to control the systems underpinning its economy. In June this year, the European Commission […]",
    "sources": [
-    "Tech.eu"
+    "EU-Startups"
    ],
    "articles": [
     {
-     "source": "Tech.eu",
-     "title": "adesso Ventures secures €26M in first close of its second fund, opening to external investors",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmZFWGpHSjRvOGRoVlZ3X3I2a0dLekp1U2xiZFBTblFVQ08wak1lbmE0a284MjBmQ0M1WXFNaW1UcXRXYzEtNUw3ckREcXBsSEctOGxrckRqSDJtbjlkeVVIMTBkVzRNRVhCRGN2a3lqQ2pxTDhzazBHTFhQQlctOHdjRGRTcFc2c1YwbnFGeEdnazV0bmpfcTc5ZmxpZ0wyUHdkRmpTbzhaQ1ppdkpJOFhVRjk0Sl9Pd1p3aUR3QQ?oc=5"
+     "source": "EU-Startups",
+     "title": "Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions",
+     "url": "https://www.eu-startups.com/2026/11/opinion-maintaining-the-open-web-is-central-to-europes-ai-sovereignty-ambitions/"
     }
    ],
-   "date": "2026-11-17T09:01:02.000Z",
+   "brief": {
+    "essentiel": "Europe’s ambitions for AI sovereignty depend on giving its startups the resources to succeed, innovate and compete with established companies.",
+    "points": [
+     "As it stands, the EU remains heavily reliant on digital technologies developed and managed from elsewhere, raising questions about its ability to control the systems underpinning its economy.",
+     "In June this year, the European Commission unveiled its European Technological Sovereignty Package .",
+     "The Tech Sovereignty Package also aims to fast-track the implementation of the European Commission’s existing AI Continent Action Plan.",
+     "This includes the Cloud and AI Development Act, which specifically aims to support the research, development and innovation of next-generation AI technologies, including frontier AI models."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-17T15:04:31.000Z",
    "categories": [
-    "Funding"
+    "AI",
+    "Policy & ecosystem"
    ],
-   "score": 8
+   "score": 7
   },
   {
    "id": "q3-2026-european-vc-valuations-report",
@@ -657,71 +701,39 @@
     "Unicorns & scale-ups",
     "Policy & ecosystem"
    ],
-   "score": 7.2
-  },
-  {
-   "id": "fermat-raises-8m-to-bridge-the-gap-between-fashion-designers-and-manufacturers",
-   "title": "Fermat raises $8M to bridge the gap between fashion designers and manufacturers",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQk41OGc0NWdraVVZbmNiQUpaTS12SFJtWHgzQ2VWelZQdHhycEJ5ZnpxemV3cjhLeGR2ZkFMLUxUd3pOT2lDV2xvUS1WLVVQUEQ2clpXb20zZTJubWFvOXJUY0tCT2o3dHVSalhOQjdYQmNDSDQzcm15QVZhS3I2UGd5UldOLW1XMXcyV1FkN0x5c09Tc3Ruc0QtX0Nid01OaUtVN2ZsWDNOUQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Fermat raises $8M to bridge the gap between fashion designers and manufacturers",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQk41OGc0NWdraVVZbmNiQUpaTS12SFJtWHgzQ2VWelZQdHhycEJ5ZnpxemV3cjhLeGR2ZkFMLUxUd3pOT2lDV2xvUS1WLVVQUEQ2clpXb20zZTJubWFvOXJUY0tCT2o3dHVSalhOQjdYQmNDSDQzcm15QVZhS3I2UGd5UldOLW1XMXcyV1FkN0x5c09Tc3Ruc0QtX0Nid01OaUtVN2ZsWDNOUQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T08:00:50.000Z",
-   "categories": [
-    "Funding"
-   ],
    "score": 7
   },
   {
-   "id": "nomadic-bags-6m-to-deploy-self-charging-drones-that-spot-weak-points-in-power-gr",
-   "title": "Nomadic bags $6M to deploy self-charging drones that spot weak points in power grids",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmk3bG9wMnoxbkVySy1QQlZYSDhtTlFsTU5NZElPU2trUDIwNWVCR280VFB6NlRIdjA2YU9pM3JVa1J2d0dJWkh4NkpDc0JTLV9VdTJ5V2g1NXRmMkVNcUlfdm9VZkpiVGM4R2VRM1VHTEc0SnJYbTNaaXJTUnBTQ0xFQXoxNS1wUXBDanhDQlJRT2x6aVZLTlR4aHdIQWlVaVVNNjdLY2o1Q005NHdRNQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Nomadic bags $6M to deploy self-charging drones that spot weak points in power grids",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmk3bG9wMnoxbkVySy1QQlZYSDhtTlFsTU5NZElPU2trUDIwNWVCR280VFB6NlRIdjA2YU9pM3JVa1J2d0dJWkh4NkpDc0JTLV9VdTJ5V2g1NXRmMkVNcUlfdm9VZkpiVGM4R2VRM1VHTEc0SnJYbTNaaXJTUnBTQ0xFQXoxNS1wUXBDanhDQlJRT2x6aVZLTlR4aHdIQWlVaVVNNjdLY2o1Q005NHdRNQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T09:06:01.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 7
-  },
-  {
-   "id": "opinion-maintaining-the-open-web-is-central-to-europe-s-ai-sovereignty-ambitions",
-   "title": "Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0g3blgzWEl6M2s1TjdKR0RLMEk5T0pwcGx4d2RTY3BxN3ZjaDVXcndKbWJreUJ5X05CQ20xNHNOQzVkNWMwZXRHUTZmUG8yYjJtQ3pheGdaNjRRRW1ZWThyYkRYdjUtaWVMNUpURWJjVTNaNkZ4ZW5LdHByY3p3TFVoLUpyUGRxd1U5UVRBOFY0bjlyMWFCSjgweDVueENZdWM3OXJ0blJoMm1VTm9QSTc0QV9uVkU?oc=5",
-   "summary": "",
+   "id": "eit-jumpstarter-recognises-europe-s-most-promising-early-stage-innovators-of-202",
+   "title": "EIT Jumpstarter recognises Europe’s most promising early-stage innovators of 2026 (Sponsored)",
+   "url": "https://www.eu-startups.com/2026/11/eit-jumpstarter-recognises-europes-most-promising-early-stage-innovators-of-2026-sponsored/",
+   "summary": "The EIT Jumpstarter 2026 winners have been announced, recognising a new generation of entrepreneurs developing solutions to some of Europe’s most pressing healthcare, food, energy, mobility and industrial challenges. The winners were revealed during the EIT Jumpstarter 2026 Awards Ceremony, held at Unicorn Factory Lisboa in Lisbon, as an official side event of Web Summit. […]",
+   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/Ilaria-Tagliavini-EIT.png",
    "sources": [
     "EU-Startups"
    ],
    "articles": [
     {
      "source": "EU-Startups",
-     "title": "Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0g3blgzWEl6M2s1TjdKR0RLMEk5T0pwcGx4d2RTY3BxN3ZjaDVXcndKbWJreUJ5X05CQ20xNHNOQzVkNWMwZXRHUTZmUG8yYjJtQ3pheGdaNjRRRW1ZWThyYkRYdjUtaWVMNUpURWJjVTNaNkZ4ZW5LdHByY3p3TFVoLUpyUGRxd1U5UVRBOFY0bjlyMWFCSjgweDVueENZdWM3OXJ0blJoMm1VTm9QSTc0QV9uVkU?oc=5"
+     "title": "EIT Jumpstarter recognises Europe’s most promising early-stage innovators of 2026 (Sponsored)",
+     "url": "https://www.eu-startups.com/2026/11/eit-jumpstarter-recognises-europes-most-promising-early-stage-innovators-of-2026-sponsored/"
     }
    ],
-   "date": "2026-11-17T15:04:31.000Z",
+   "brief": {
+    "essentiel": "The EIT Jumpstarter 2026 winners have been announced, recognising a new generation of entrepreneurs developing solutions to some of Europe’s most pressing healthcare, food, energy, mobility and industrial challenges.",
+    "points": [
+     "The winners were revealed during the EIT Jumpstarter 2026 Awards Ceremony, held at Unicorn Factory Lisboa in Lisbon, as an official side event of Web Summit.",
+     "Selected from a pool of 895 applications, the winning teams developed their ideas through training, mentoring, market validation and pitch development.",
+     "Since its launch, EIT Jumpstarter has trained more than 1,500 innovators, supported the creation of over 150 startups, contributed to more than 2,600 jobs and helped participating companies attract over €150 million in external investment.",
+     "Their solutions span a wide range of sectors, including nanotechnology, food and AgriTech, energy, shared mobility, geoscience and other innovative technologies addressing real-world challenges."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-18T09:56:03.000Z",
    "categories": [
-    "AI",
-    "Policy & ecosystem"
+    "Unicorns & scale-ups"
    ],
-   "score": 6
+   "score": 7
   },
   {
    "id": "exclusive-openai-and-meta-insiders-back-startup-policing-rogue-ai-agents",
@@ -742,7 +754,38 @@
    "categories": [
     "AI"
    ],
-   "score": 5.9
+   "score": 5.6
+  },
+  {
+   "id": "the-meout-summit-2026-ultimate-guide-networking-side-events-and-more",
+   "title": "The MeOut Summit 2026 ultimate guide: Networking, side events and more",
+   "url": "https://www.eu-startups.com/2026/11/the-meout-summit-2026-ultimate-guide-networking-side-events-and-more/",
+   "summary": "On 25–26 November, Budapest will welcome the first edition of The MeOut Summit 2026, bringing together over 1,000 founders, investors, corporate innovators, and ecosystem builders for two days of meaningful connections and new opportunities. Organised by MeOut Group in partnership with EU-Startups, the Summit will take place at Akvárium Budapest, right in the heart of […]",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "The MeOut Summit 2026 ultimate guide: Networking, side events and more",
+     "url": "https://www.eu-startups.com/2026/11/the-meout-summit-2026-ultimate-guide-networking-side-events-and-more/"
+    }
+   ],
+   "brief": {
+    "essentiel": "On 25–26 November, Budapest will welcome the first edition of The MeOut Summit 2026 , bringing together over 1,000 founders, investors, corporate innovators, and ecosystem builders for two days of meaningful connections and new opportunities.",
+    "points": [
+     "Organised by MeOut Group in partnership with EU-Startups, the Summit will take place at Akvárium Budapest, right in the heart of the Hungarian capital.",
+     "With just days to go, here’s everything you need to know about networking opportunities, exciting side events, and the practical details to make the most of your Summit experience!",
+     "Networking app is live One of the best ways to make the most of The MeOut Summit is to start connecting before you even arrive.",
+     "Our official networking app is now live , allowing registered attendees to discover fellow participants, explore profiles, exchange messages, and schedule valuable one-on-one meetings in advance."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-18T13:51:10.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 5.4
   },
   {
    "id": "how-to-bounce-back-from-losing-your-dream-job",
@@ -761,7 +804,7 @@
    ],
    "date": "2026-11-18T10:40:37.000Z",
    "categories": [],
-   "score": 4.4
+   "score": 4.1
   },
   {
    "id": "beyond-the-15-minute-delivery-race-glovo-s-next-chapter-in-quick-commerce",
@@ -780,7 +823,7 @@
    ],
    "date": "2026-11-18T11:01:11.000Z",
    "categories": [],
-   "score": 4.4
+   "score": 4.1
   },
   {
    "id": "from-wi-fi-challenger-to-nato-defence-technology-oledcomm-s-li-fi-revival",
@@ -799,7 +842,7 @@
    ],
    "date": "2026-11-18T11:01:09.000Z",
    "categories": [],
-   "score": 4.4
+   "score": 4.1
   },
   {
    "id": "inside-glovo-s-startup-campus-building-the-next-generation-of-european-founders",
@@ -819,63 +862,6 @@
    "date": "2026-11-17T11:01:09.000Z",
    "categories": [],
    "score": 4
-  },
-  {
-   "id": "european-startup-funding-to-hit-81b-in-2026-but-compute-lags-us",
-   "title": "European startup funding to hit $81B in 2026, but compute lags US",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnplWjdMSm5tQi1FTDV0UUZqTmtOZmd4ZGZtRjhIVkNfTk03WWJkWTNPTnRLZXlYT1M4Q3N3R0NaaWRRWG45OGMzWnBjbUpqU1duajZEUXJIUXhhZi1fNjNkMzFVT3VwbUZhY3Yyd09xclFtVE9BU3JoS05nSjVrdGM3QnlMVWtVUnI5UE9BMzBZX1hTMUxiNm9DMXl5Zw?oc=5",
-   "summary": "",
-   "sources": [
-    "Dealroom"
-   ],
-   "articles": [
-    {
-     "source": "Dealroom",
-     "title": "European startup funding to hit $81B in 2026, but compute lags US",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnplWjdMSm5tQi1FTDV0UUZqTmtOZmd4ZGZtRjhIVkNfTk03WWJkWTNPTnRLZXlYT1M4Q3N3R0NaaWRRWG45OGMzWnBjbUpqU1duajZEUXJIUXhhZi1fNjNkMzFVT3VwbUZhY3Yyd09xclFtVE9BU3JoS05nSjVrdGM3QnlMVWtVUnI5UE9BMzBZX1hTMUxiNm9DMXl5Zw?oc=5"
-    }
-   ],
-   "date": "2026-11-18T08:45:07.000Z",
-   "categories": [],
-   "score": 3.2
-  },
-  {
-   "id": "u-s-invested-5-times-more-in-a-i-in-9-months-than-europe-did-in-a-decade",
-   "title": "U.S. Invested 5 Times More in A.I. in 9 Months Than Europe Did in a Decade",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1c2UzLUNHVmR2ckNPOTlWTlNaSHhJV3NrRERiU0JMejlqQi1RQXl3Q1RfUXdPdkV2RXktVXNBcjZpc05OTjBsekUxdFhuNWdsMmhjNktLc0lfc09ZN25FSEtmR3NZdlJzWDdsQTctbGpWaDcxU1d5ZkxQbw?oc=5",
-   "summary": "",
-   "sources": [
-    "www.trendingtopics.eu"
-   ],
-   "articles": [
-    {
-     "source": "www.trendingtopics.eu",
-     "title": "U.S. Invested 5 Times More in A.I. in 9 Months Than Europe Did in a Decade",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1c2UzLUNHVmR2ckNPOTlWTlNaSHhJV3NrRERiU0JMejlqQi1RQXl3Q1RfUXdPdkV2RXktVXNBcjZpc05OTjBsekUxdFhuNWdsMmhjNktLc0lfc09ZN25FSEtmR3NZdlJzWDdsQTctbGpWaDcxU1d5ZkxQbw?oc=5"
-    }
-   ],
-   "date": "2026-11-18T07:27:43.000Z",
-   "categories": [],
-   "score": 3.1
-  },
-  {
-   "id": "switzerland-leads-europe-in-spinout-value-per-capita",
-   "title": "Switzerland leads Europe in spinout value per capita",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGREd00ycFRiV2t0Q0JlbFRQT19ZWFZWLW1TeTN3Nlc5T2RqbEd5R3NyZDl5bk1DWTA4X1RMUXBONGhZT1YzTEE1V0o0a1VZRUt4RjdWUjBWeklOSFlISllJcmtId1ZZV2hvVktfdWQwa05OYTNEanlLTkg4dlp3WTNoWmlNTWhnTlN6Y0YwSjM3am8?oc=5",
-   "summary": "",
-   "sources": [
-    "Startupticker.ch"
-   ],
-   "articles": [
-    {
-     "source": "Startupticker.ch",
-     "title": "Switzerland leads Europe in spinout value per capita",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGREd00ycFRiV2t0Q0JlbFRQT19ZWFZWLW1TeTN3Nlc5T2RqbEd5R3NyZDl5bk1DWTA4X1RMUXBONGhZT1YzTEE1V0o0a1VZRUt4RjdWUjBWeklOSFlISllJcmtId1ZZV2hvVktfdWQwa05OYTNEanlLTkg4dlp3WTNoWmlNTWhnTlN6Y0YwSjM3am8?oc=5"
-    }
-   ],
-   "date": "2026-11-18T07:49:59.000Z",
-   "categories": [],
-   "score": 3.1
   },
   {
    "id": "the-family-cofounder-sentenced-to-16-months-in-prison",
@@ -916,6 +902,44 @@
    "score": 3
   },
   {
+   "id": "european-startup-funding-to-hit-81b-in-2026-but-compute-lags-us",
+   "title": "European startup funding to hit $81B in 2026, but compute lags US",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnplWjdMSm5tQi1FTDV0UUZqTmtOZmd4ZGZtRjhIVkNfTk03WWJkWTNPTnRLZXlYT1M4Q3N3R0NaaWRRWG45OGMzWnBjbUpqU1duajZEUXJIUXhhZi1fNjNkMzFVT3VwbUZhY3Yyd09xclFtVE9BU3JoS05nSjVrdGM3QnlMVWtVUnI5UE9BMzBZX1hTMUxiNm9DMXl5Zw?oc=5",
+   "summary": "",
+   "sources": [
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Dealroom",
+     "title": "European startup funding to hit $81B in 2026, but compute lags US",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnplWjdMSm5tQi1FTDV0UUZqTmtOZmd4ZGZtRjhIVkNfTk03WWJkWTNPTnRLZXlYT1M4Q3N3R0NaaWRRWG45OGMzWnBjbUpqU1duajZEUXJIUXhhZi1fNjNkMzFVT3VwbUZhY3Yyd09xclFtVE9BU3JoS05nSjVrdGM3QnlMVWtVUnI5UE9BMzBZX1hTMUxiNm9DMXl5Zw?oc=5"
+    }
+   ],
+   "date": "2026-11-18T08:45:07.000Z",
+   "categories": [],
+   "score": 2.9
+  },
+  {
+   "id": "switzerland-leads-europe-in-spinout-value-per-capita",
+   "title": "Switzerland leads Europe in spinout value per capita",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGREd00ycFRiV2t0Q0JlbFRQT19ZWFZWLW1TeTN3Nlc5T2RqbEd5R3NyZDl5bk1DWTA4X1RMUXBONGhZT1YzTEE1V0o0a1VZRUt4RjdWUjBWeklOSFlISllJcmtId1ZZV2hvVktfdWQwa05OYTNEanlLTkg4dlp3WTNoWmlNTWhnTlN6Y0YwSjM3am8?oc=5",
+   "summary": "",
+   "sources": [
+    "Startupticker.ch"
+   ],
+   "articles": [
+    {
+     "source": "Startupticker.ch",
+     "title": "Switzerland leads Europe in spinout value per capita",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGREd00ycFRiV2t0Q0JlbFRQT19ZWFZWLW1TeTN3Nlc5T2RqbEd5R3NyZDl5bk1DWTA4X1RMUXBONGhZT1YzTEE1V0o0a1VZRUt4RjdWUjBWeklOSFlISllJcmtId1ZZV2hvVktfdWQwa05OYTNEanlLTkg4dlp3WTNoWmlNTWhnTlN6Y0YwSjM3am8?oc=5"
+    }
+   ],
+   "date": "2026-11-18T07:49:59.000Z",
+   "categories": [],
+   "score": 2.9
+  },
+  {
    "id": "tech-start-ups-europe-on-track-to-reach-a-record-40-000-new-founders",
    "title": "Tech start-ups: Europe on track to reach a record 40,000 new founders",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzZJNkM2d0RpZzk4R29BTzVkb3ltenRWdU10eUZEbzFaejZITk1lVl80bkMwVUlxS3NOYzlRX0p2VU1XVzRzV2o2eDVWSG1ZLTZsRXAtVzRGX3o3Z1VIWE53WWotdW9hXzRwNnkyRmhaS28xek5VU25ubFE5R2hzMDR6MEw0c2dUdnNBR3hXdUNud2dBOGNv?oc=5",
@@ -932,7 +956,26 @@
    ],
    "date": "2026-11-18T06:28:11.000Z",
    "categories": [],
-   "score": 3
+   "score": 2.8
+  },
+  {
+   "id": "u-s-invested-5-times-more-in-a-i-in-9-months-than-europe-did-in-a-decade",
+   "title": "U.S. Invested 5 Times More in A.I. in 9 Months Than Europe Did in a Decade",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1c2UzLUNHVmR2ckNPOTlWTlNaSHhJV3NrRERiU0JMejlqQi1RQXl3Q1RfUXdPdkV2RXktVXNBcjZpc05OTjBsekUxdFhuNWdsMmhjNktLc0lfc09ZN25FSEtmR3NZdlJzWDdsQTctbGpWaDcxU1d5ZkxQbw?oc=5",
+   "summary": "",
+   "sources": [
+    "www.trendingtopics.eu"
+   ],
+   "articles": [
+    {
+     "source": "www.trendingtopics.eu",
+     "title": "U.S. Invested 5 Times More in A.I. in 9 Months Than Europe Did in a Decade",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1c2UzLUNHVmR2ckNPOTlWTlNaSHhJV3NrRERiU0JMejlqQi1RQXl3Q1RfUXdPdkV2RXktVXNBcjZpc05OTjBsekUxdFhuNWdsMmhjNktLc0lfc09ZN25FSEtmR3NZdlJzWDdsQTctbGpWaDcxU1d5ZkxQbw?oc=5"
+    }
+   ],
+   "date": "2026-11-18T07:27:43.000Z",
+   "categories": [],
+   "score": 2.8
   }
  ]
 }
