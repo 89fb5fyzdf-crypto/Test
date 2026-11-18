@@ -42,9 +42,11 @@ jobs:
         if: steps.when.outputs.run == 'yes'
         with:
           node-version: 22
-      - name: Collecter et scorer
+      - name: Collecter et scorer (French Tech puis European Tech)
         if: steps.when.outputs.run == 'yes'
-        run: node scripts/screen.mjs
+        run: |
+          node scripts/screen.mjs
+          node scripts/screen.mjs --scope eu
       - name: Enregistrer les données
         if: steps.when.outputs.run == 'yes'
         run: |

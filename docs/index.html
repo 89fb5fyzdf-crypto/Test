@@ -1,14 +1,14 @@
 <!doctype html>
-<html lang="fr">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Radar French Tech</title>
-  <meta name="description" content="Revue quotidienne des articles clés de la French Tech.">
+  <title>Radar</title>
+  <meta name="description" content="The key French and European tech news, four times a day.">
   <meta name="theme-color" content="#000000" id="theme-color">
   <meta name="color-scheme" content="dark light">
   <script>
-    // Thème choisi par le visiteur (sombre par défaut), appliqué avant l'affichage.
+    // Thème (sombre par défaut) et ouverture du jour, décidés avant l'affichage.
     try {
       var today = new Date().toISOString().slice(0, 10);
       var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -27,39 +27,44 @@
 
   <header class="bar-wrap wrap">
     <div class="bar glass">
-      <a class="brand" href="./">
+      <a class="brand" href="./" aria-label="Radar">
         <span class="mark" aria-hidden="true"></span>
-        Radar
+        <span class="brand-name">Radar</span>
       </a>
-      <nav class="daynav" aria-label="Choisir le jour">
-        <button id="prev" class="nav-btn" aria-label="Jour précédent"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3 5 8l5 5"/></svg></button>
-        <select id="day" aria-label="Jour"></select>
-        <button id="next" class="nav-btn" aria-label="Jour suivant"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m6 3 5 5-5 5"/></svg></button>
+      <div class="scope" id="scope" role="tablist" aria-label="Edition">
+        <span class="scope-thumb" aria-hidden="true"></span>
+        <button type="button" role="tab" data-scope="fr" aria-selected="true"><span class="long">French Tech</span><span class="short">France</span></button>
+        <button type="button" role="tab" data-scope="eu" aria-selected="false"><span class="long">European Tech</span><span class="short">Europe</span></button>
+      </div>
+      <nav class="daynav" aria-label="Choose a day">
+        <button id="prev" class="nav-btn" aria-label="Previous day"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3 5 8l5 5"/></svg></button>
+        <select id="day" aria-label="Day"></select>
+        <button id="next" class="nav-btn" aria-label="Next day"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m6 3 5 5-5 5"/></svg></button>
       </nav>
     </div>
   </header>
 
   <!-- Ouverture : grand logo sur radar ; un toucher n'importe où plonge dans les courbes de niveau. -->
-  <div id="intro" class="intro" role="button" tabindex="0" aria-label="Entrer sur le site">
+  <div id="intro" class="intro" role="button" tabindex="0" aria-label="Enter the site">
     <div class="intro-bg"></div>
     <div class="intro-topo"><div class="intro-lines"></div><div class="intro-sweep"></div></div>
     <div class="wordmark" id="wordmark"><span class="wm-mark" id="wm-dot" aria-hidden="true"></span><span class="wm-text">Radar</span></div>
-    <p class="intro-hint" aria-hidden="true">Touchez pour entrer</p>
+    <p class="intro-hint" aria-hidden="true">Tap to enter</p>
   </div>
 
   <main class="wrap">
     <section class="hero">
       <p id="eyebrow" class="eyebrow"></p>
-      <h1>L'essentiel de la French Tech.</h1>
+      <h1>The essentials of French Tech.</h1>
       <p id="summary" class="lede" aria-live="polite"></p>
     </section>
 
     <div class="controls">
       <label class="search glass">
         <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.5"/><path d="m10.5 10.5 3 3"/></svg>
-        <input id="q" type="search" placeholder="Rechercher" aria-label="Rechercher une startup, un investisseur">
+        <input id="q" type="search" placeholder="Search" aria-label="Search for a startup or an investor">
       </label>
-      <div id="chips" class="chips" aria-label="Filtrer par thème"></div>
+      <div id="chips" class="chips" aria-label="Filter by topic"></div>
     </div>
 
     <section id="top" class="top"></section>
@@ -67,27 +72,27 @@
 
     <section class="about pane">
       <details>
-        <summary>Comment c'est trié</summary>
-        <p>Quatre fois par jour, les articles des dernières 36 heures sont collectés. Les articles qui parlent du même sujet sont regroupés, puis classés selon leur thème (levée de fonds, rachat, licorne…), la fiabilité des médias, le nombre de médias qui en parlent et leur fraîcheur.</p>
+        <summary>How stories are ranked</summary>
+        <p>Four times a day, articles from the last 36 hours are collected. Articles about the same story are grouped, then ranked by topic (funding round, acquisition, unicorn…), outlet reliability, how many outlets cover it and how recent it is. European Tech excludes France and puts the largest rounds first. French Tech stories stay in French; European Tech stories are in English.</p>
       </details>
       <details>
-        <summary>Sources du jour <span id="src-count"></span></summary>
+        <summary>Today's sources <span id="src-count"></span></summary>
         <ul id="sources" class="src"></ul>
       </details>
     </section>
   </main>
 
   <footer class="wrap foot">
-    <p><span>Mis à jour 4 fois par jour : 9 h 30, 13 h 30, 18 h 30 et 21 h 30.</span> <span id="updated"></span></p>
+    <p><span>Updated four times a day: 9:30, 13:30, 18:30 and 21:30 (Paris time).</span> <span id="updated"></span></p>
     <div class="foot-actions">
-      <button id="replay" class="theme-btn glass" type="button">Revoir l'introduction</button>
+      <button id="replay" class="theme-btn glass" type="button">Replay intro</button>
       <button id="theme" class="theme-btn glass" type="button"></button>
     </div>
   </footer>
 
   <dialog id="sheet" class="sheet glass" aria-labelledby="sheet-title">
     <div class="sheet-scroll">
-      <button class="close glass" id="close" aria-label="Fermer"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 4 8 8M12 4l-8 8"/></svg></button>
+      <button class="close glass" id="close" aria-label="Close"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 4 8 8M12 4l-8 8"/></svg></button>
       <div id="sheet-body"></div>
     </div>
   </dialog>

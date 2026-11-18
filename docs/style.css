@@ -357,3 +357,70 @@ html.with-intro { overflow: hidden; }
 @keyframes word-in { from { opacity: 0; transform: translateY(.25em); filter: blur(6px); } }
 
 .foot-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+
+/* ---------- Édition : French Tech / European Tech ---------- */
+/* Teintes du fond animées lors du changement d'édition (propriétés enregistrées). */
+@property --tint-a { syntax: "<color>"; inherits: true; initial-value: transparent; }
+@property --tint-b { syntax: "<color>"; inherits: true; initial-value: transparent; }
+@property --tint-c { syntax: "<color>"; inherits: true; initial-value: transparent; }
+:root { transition: --tint-a .9s ease, --tint-b .9s ease, --tint-c .9s ease; --scope-grad: linear-gradient(100deg, #5ea8ff, #a98bff); }
+:root[data-scope="eu"] { --tint-a: #0a1c4a; --tint-b: #2b2408; --tint-c: #071833; --scope-grad: linear-gradient(100deg, #5ea8ff, #f2c94c); }
+:root[data-theme="light"] { --scope-grad: linear-gradient(100deg, #0071e3, #7b4dff); }
+:root[data-theme="light"][data-scope="eu"] { --tint-a: #dbe6ff; --tint-b: #fff2c7; --tint-c: #e2ebff; --scope-grad: linear-gradient(100deg, #0050c8, #c48a00); }
+
+.bar { gap: 10px; }
+.scope {
+  position: relative; display: flex; padding: 3px; border-radius: 980px; flex: none;
+  background: var(--fill); box-shadow: inset 0 1px 2px rgba(0, 0, 0, .18);
+}
+.scope button {
+  all: unset; position: relative; z-index: 1; cursor: pointer; padding: 7px 15px; border-radius: 980px;
+  font: 500 14px var(--font); letter-spacing: -.01em; color: var(--muted); white-space: nowrap; transition: color .3s ease;
+  display: inline-flex; align-items: center; gap: 7px;
+}
+.scope button::before { /* repère discret : drapeau français / européen */
+  content: ""; width: 7px; height: 7px; border-radius: 50%; flex: none; opacity: .55; transition: opacity .3s;
+  background: linear-gradient(90deg, #2f6bff 0 33%, #fff 33% 66%, #ef4135 66%);
+}
+.scope button[data-scope="eu"]::before { background: radial-gradient(circle, #ffcc00 0 35%, #2f55d4 40%); }
+.scope button[aria-selected="true"] { color: var(--ink); }
+.scope button[aria-selected="true"]::before { opacity: 1; }
+.scope button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.scope .short { display: none; }
+.scope-thumb {
+  position: absolute; top: 3px; bottom: 3px; left: 0; width: var(--w, 0); transform: translateX(var(--x, 0));
+  border-radius: 980px; pointer-events: none;
+  background: linear-gradient(160deg, rgba(255, 255, 255, .24), rgba(255, 255, 255, .08));
+  border: 1px solid var(--glass-edge);
+  box-shadow: inset 0 1px 0 var(--glass-shine), 0 2px 10px rgba(0, 0, 0, .3);
+  transition: transform .5s cubic-bezier(.3, 1.25, .5, 1), width .5s cubic-bezier(.3, 1.25, .5, 1);
+}
+:root[data-theme="light"] .scope-thumb { background: #fff; box-shadow: 0 1px 2px rgba(0, 0, 0, .08), 0 3px 10px rgba(0, 0, 0, .08); }
+.scope.no-anim .scope-thumb { transition: none; }
+.scope button:active { transform: scale(.97); }
+
+/* Le nom de l'édition, en dégradé dans le titre */
+h1 .scope-word { background: var(--scope-grad); -webkit-background-clip: text; background-clip: text; color: transparent; }
+h1.retitle .scope-word { display: inline-block; animation: word-in .55s cubic-bezier(.2, .8, .2, 1) .08s both; }
+h1 .scope-word { white-space: nowrap; }
+
+/* Changement d'édition : le contenu sort d'un côté, le nouveau arrive de l'autre */
+main.swap-out { opacity: 0; transform: translateX(calc(var(--dir, 1) * -28px)); transition: opacity .2s ease, transform .22s ease-in; }
+main.swap-in > * { animation: swap-in .55s cubic-bezier(.2, .8, .2, 1) both; }
+main.swap-in > :nth-child(2) { animation-delay: .05s; }
+main.swap-in > :nth-child(3) { animation-delay: .1s; }
+main.swap-in > :nth-child(n + 4) { animation-delay: .15s; }
+@keyframes swap-in { from { opacity: 0; transform: translateX(calc(var(--dir, 1) * 28px)); } }
+
+/* Barre sur téléphone : logo seul, libellés courts */
+@media (max-width: 640px) {
+  .bar { padding: 0 6px 0 14px; gap: 6px; }
+  .brand-name { display: none; }
+  .scope .long { display: none; }
+  .scope .short { display: inline; }
+  .scope button { padding: 7px 11px; font-size: 13.5px; gap: 6px; }
+  .daynav select { font-size: 14px; padding: 7px 4px; }
+  .nav-btn { width: 30px; height: 30px; }
+}
+@media (max-width: 370px) { .scope button::before { display: none; } }
+@media (prefers-reduced-motion: reduce) { main.swap-out { transform: none; } }

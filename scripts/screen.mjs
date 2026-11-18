@@ -1,9 +1,10 @@
 #!/usr/bin/env node
-// Screening quotidien French Tech : collecte les flux RSS + Google News,
-// filtre, regroupe les articles qui parlent du même sujet, score,
-// et écrit docs/data/AAAA-MM-JJ.json + docs/data/index.json.
+// Screening quotidien : collecte les flux RSS + Google News, filtre, regroupe les articles
+// qui parlent du même sujet, score, et écrit les données du site.
+//   French Tech   (par défaut)  : config/sources.json + keywords.json       → docs/data/
+//   European Tech (--scope eu)  : config/sources-eu.json + keywords-eu.json → docs/data/eu/
 //
-// Usage : node scripts/screen.mjs [--date AAAA-MM-JJ] [--hours 36] [--fixtures dossier]
+// Usage : node scripts/screen.mjs [--scope eu] [--date AAAA-MM-JJ] [--hours 36] [--fixtures dossier]
 //   --fixtures : lit des fichiers XML locaux (nommés <slug>.xml) au lieu du réseau (tests).
 
 import { readFile, writeFile, mkdir, readdir, unlink } from 'node:fs/promises';
@@ -12,7 +13,6 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const DATA_DIR = path.join(ROOT, 'docs', 'data');
 const KEEP_DAYS = 120;
 
 const args = Object.fromEntries(
@@ -27,16 +27,25 @@ const runDate = args.date || parisDate(now);
 const windowHours = Number(args.hours || 36);
 const since = new Date(now.getTime() - windowHours * 3600e3);
 
-const sources = JSON.parse(await readFile(path.join(ROOT, 'config', 'sources.json'), 'utf8'));
-const keywords = JSON.parse(await readFile(path.join(ROOT, 'config', 'keywords.json'), 'utf8'));
+const SCOPE = args.scope === 'eu' ? 'eu' : 'fr';
+const SUFFIX = SCOPE === 'eu' ? '-eu' : '';
+const DATA_DIR = path.join(ROOT, 'docs', 'data', ...(SCOPE === 'eu' ? ['eu'] : []));
+const sources = JSON.parse(await readFile(path.join(ROOT, 'config', `sources${SUFFIX}.json`), 'utf8'));
+const keywords = JSON.parse(await readFile(path.join(ROOT, 'config', `keywords${SUFFIX}.json`), 'utf8'));
+const LANG = sources.lang || 'fr';
+const GN = sources.googleNewsEdition || 'hl=fr&gl=FR&ceid=FR:fr';
 
-const franceRe = new RegExp(keywords.france.join('|'), 'i');
+// Zone géographique couverte (sert à filtrer les médias généralistes et à scorer).
+const franceRe = new RegExp((keywords.geo || keywords.france).join('|'), 'i');
+// Sujets à écarter (European Tech : tout ce qui concerne la France).
+const excludeRe = sources.exclude?.length ? new RegExp(sources.exclude.join('|'), 'i') : null;
 const categories = Object.entries(keywords.categories).map(([name, c]) => {
   const re = new RegExp(c.patterns.join('|'), 'i');
   const ex = c.exclude?.length ? new RegExp(c.exclude.join('|'), 'gi') : null;
   return { name, weight: c.weight, test: (text) => re.test(ex ? text.replace(ex, ' ') : text) };
 });
-const EVENT_CATS = new Set(['Levées de fonds', 'Rachats & IPO']);
+const EVENT_CATS = new Set(keywords.events || ['Levées de fonds', 'Rachats & IPO']);
+const FUNDING = keywords.funding || 'Levées de fonds';
 
 // ---------- utilitaires ----------
 function parisDate(d) {
@@ -145,7 +154,7 @@ async function collectFeed({ name, url, focus, weight }) {
 
 async function collectGoogleNews(entry) {
   const { query, label, weight, focus = true } = typeof entry === 'string' ? { query: entry } : entry;
-  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query + ' when:2d')}&hl=fr&gl=FR&ceid=FR:fr`;
+  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query + ' when:2d')}&${GN}`;
   const name = label || `Google News · ${query}`;
   try {
     const items = parseFeed(await getText(url, slug(name)));
@@ -164,7 +173,7 @@ async function collectGoogleNews(entry) {
 await Promise.all([...sources.feeds.map(collectFeed), ...sources.googleNews.map(collectGoogleNews)]);
 
 // ---------- analyse des titres ----------
-const STOP = new Set('le la les un une des de du et à a au aux en pour par sur dans avec qui que son sa ses ce cette est the of to and in for on with its'.split(' '));
+const STOP = new Set('le la les un une des de du et à a au aux en pour par sur dans avec qui que son sa ses ce cette est the of to and in for on with its from has have will into over after says as at by an is are was its its new'.split(' '));
 const words = (s) => new Set(slug(s).split('-').filter((w) => w.length > 2 && !STOP.has(w)));
 function similar(a, b) {
   let inter = 0;
@@ -182,7 +191,15 @@ robotique fintech healthtech medtech greentech cybersécurité cloud quantique c
 série seed séries ceo cto pdg dg exclusif exclusive interview tribune podcast vidéo infographie édito
 janvier février mars avril mai juin juillet août septembre octobre novembre décembre lundi mardi mercredi jeudi vendredi samedi dimanche
 the a an how why what who when is are this that new first top best
-bpifrance station french-tech gouvernement état etat bourse cac`.split(/\s+/));
+bpifrance station french-tech gouvernement état etat bourse cac
+raises raise raised raising secures secured lands bags closes closed funding round rounds series million millions billion bn mn
+startup startups scaleup scaleups unicorn unicorns decacorn europe european europe's uk british britain london berlin german germany
+investors investor backed backs led leads deal deals buys acquires acquisition acquired merger ipo listing valuation valued
+fintech healthtech climate climatetech defence defense deeptech saas platform app apps
+says said report reports exclusive analysis opinion podcast newsletter week weekly daily today
+how why what who when where which with without into after before over under from for and the its their our your
+launches launch plans plan announces new big biggest top best more most first last year years month months
+january february march april may june july august september october november december monday tuesday wednesday thursday friday`.split(/\s+/));
 
 // Noms propres d'un titre : mots qui commencent par une majuscule (ou entièrement en
 // majuscules), regroupés quand ils se suivent (« H Company », « Genesis AI »).
@@ -190,6 +207,8 @@ function entitiesOf(title) {
   const out = new Set();
   const initialOnly = new Set(); // « Enquête », « Comprendre »… : majuscule seulement parce qu'en tête de titre
   const tokens = title.replace(/[«»“”"’'():;,!?|–—]/g, ' $& ').split(/\s+/).filter(Boolean);
+  const long = tokens.filter((t) => t.length > 3 && /^\p{L}/u.test(t));
+  const titleCase = long.length >= 4 && long.filter((t) => /^\p{Lu}/u.test(t)).length / long.length > 0.6;
   let phrase = [];
   let start = -1;
   const flush = () => {
@@ -200,7 +219,7 @@ function entitiesOf(title) {
         const k = w.toLowerCase();
         if (k.length < 3 || GENERIC.has(k) || /^\d/.test(k)) continue;
         out.add(k);
-        if (start === 0 && phrase.length === 1 && !/\p{Lu}/u.test(w.slice(1))) initialOnly.add(k);
+        if ((start === 0 && phrase.length === 1 || titleCase) && !/\p{Lu}/u.test(w.slice(1))) initialOnly.add(k);
       }
     }
     phrase = [];
@@ -220,16 +239,19 @@ function entitiesOf(title) {
 // ---------- filtrage ----------
 const fresh = raw
   .filter((it) => it.date && !isNaN(it.date) && it.date >= since && it.date <= new Date(now.getTime() + 3600e3))
-  .filter((it) => it.focus || franceRe.test(`${it.title} ${it.summary}`)) // média généraliste : sujet FR uniquement
+  .filter((it) => it.focus || franceRe.test(`${it.title} ${it.summary}`)) // média généraliste : sujet de la zone uniquement
+  .filter((it) => !excludeRe || !excludeRe.test(`${it.title} ${it.summary}`))
   .map((it) => {
     const text = `${it.title} ${it.summary}`;
-    return { ...it, _w: words(it.title), _ent: entitiesOf(it.title), _c: new Set(categories.filter((c) => c.test(text)).map((c) => c.name)) };
+    // Les résumés (écrits normalement) confirment les noms propres des titres en « Title Case ».
+    const fromSummary = entitiesOf(it.summary || '');
+    return { ...it, _w: words(it.title), _ent: entitiesOf(it.title), _sum: fromSummary, _c: new Set(categories.filter((c) => c.test(text)).map((c) => c.name)) };
   });
 
 // Un nom n'est retenu que s'il apparaît au moins une fois ailleurs qu'en tête de titre
 // (ou avec des majuscules internes : « OVHcloud », « QONTO »).
 const confirmed = new Set();
-for (const it of fresh) for (const e of it._ent.all) if (!it._ent.initialOnly.has(e)) confirmed.add(e);
+for (const it of fresh) for (const src of [it._ent, it._sum]) for (const e of src.all) if (!src.initialOnly.has(e)) confirmed.add(e);
 for (const it of fresh) it._e = new Set([...it._ent.all].filter((e) => confirmed.has(e)));
 
 // Un nom cité dans beaucoup d'articles du jour (ex. « Mistral ») peut couvrir
@@ -274,23 +296,49 @@ const groups = [...byRoot.values()].map((members) => {
 
 // ---------- résumé sans IA ----------
 // Phrases les plus informatives des articles du sujet + chiffres clés repérés par motifs.
-const MONEY = /(\d+(?:[,.]\d+)?)\s*(milliards?|millions?|Mds?|M)\s*(?:d['’]euros|de dollars|d['’]\s?euros|€|\$|euros|dollars)/i;
-const JUNK = /cookie|abonn|newsletter|inscri|lire aussi|à lire|crédit photo|©|cliquez|podcast|écoutez|en savoir plus/i;
+const MONEY_FR = /(\d+(?:[,.]\d+)?)\s*(milliards?|millions?|Mds?|M)\s*(?:d['’]euros|de dollars|d['’]\s?euros|€|\$|euros|dollars)/i;
+const MONEY_EN = /(?:[€$£]\s?(\d+(?:[.,]\d+)?)\s?(bn|billion|m|mn|million)\b|(\d+(?:[.,]\d+)?)\s?(billion|million)\s(?:euros?|dollars?|pounds?))/i;
+const MONEY = LANG === 'en' ? MONEY_EN : MONEY_FR;
+function millions(text) {
+  const m = text.match(MONEY);
+  if (!m) return 0;
+  const n = parseFloat((m[1] || m[3] || '0').replace(',', '.'));
+  const unit = (m[2] || m[4] || '').toLowerCase();
+  return /^(milliard|md|bn|billion)/.test(unit) ? n * 1000 : n;
+}
+const JUNK = /cookie|abonn|newsletter|inscri|lire aussi|à lire|crédit photo|©|cliquez|podcast|écoutez|en savoir plus|subscribe|sign up|read more|click here|listen|related:/i;
 const splitSentences = (t) => t.split(/(?<=[.!?…])\s+(?=[«"“A-ZÀ-Ü0-9])/).map((x) => x.trim());
 
+// Chiffres clés (levées de fonds) : clés neutres, le site affiche les libellés dans sa langue.
+const FACT_RE = LANG === 'en' ? {
+  round: /\b(Series [A-F]\+?|pre-seed|seed)\b/i,
+  valuation: /valu(?:ed|ation|ing)\s+(?:[\w'’]+\s+){0,3}?(?:at|of|to|above|around)\s*((?:more than |over |around |about )?[€$£]\s?\d+(?:[.,]\d+)?\s?(?:bn|billion|m|mn|million))/i,
+  investors: /(?:co-led by|led by|backed by|with participation from|from investors including|investors include)\s+([^.;:()]{3,140})/gi,
+  stop: /\s+(?:to|which|who|that|with|as|at a|valu\w*|bringing|taking|and (?:backed|with|joined|participation))\b|,\s+(?:which|who|the|bringing|taking|with)\b/i,
+} : {
+  round: /\b(s[ée]rie [A-F]|pr[ée]-?seed|seed|amor[çc]age|tour d['’]amor[çc]age)\b/i,
+  valuation: /valoris\w*\s+(?:[\w'’]+\s+){0,3}?(?:à|autour de|de|plus de|environ)\s*((?:plus de |près de |environ )?\d+(?:[,.]\d+)?\s*(?:milliards?|millions?|Mds?)\s*(?:d['’]euros|de dollars|€|\$)?)/i,
+  investors: /(?:co-?men[ée]e? par|men[ée]e? par|aupr[èe]s de|avec la participation de|soutenue? par)\s+([^.;:()]{3,140})/gi,
+  stop: /\s+(?:pour|afin|qui|dont|et doit|ce|cette|valoris\w*)\b|,\s+(?:qui|ce|cette|pour)\b/i,
+};
 function buildFacts(text, cats) {
   const facts = [];
-  const isFunding = cats.has('Levées de fonds');
+  const isFunding = cats.has(FUNDING);
   const money = text.match(MONEY);
-  if (money && isFunding) facts.push({ label: 'Montant', value: money[0].replace(/\s+/g, ' ') });
-  const round = text.match(/\b(s[ée]rie [A-F]|pr[ée]-?seed|seed|amor[çc]age|tour d['’]amor[çc]age)\b/i);
-  if (round && isFunding) facts.push({ label: 'Tour', value: round[1].replace(/^./, (c) => c.toUpperCase()) });
-  const val = text.match(/valoris\w*\s+(?:[\w'’]+\s+){0,3}?(?:à|autour de|de|plus de|environ)\s*((?:plus de |près de |environ )?\d+(?:[,.]\d+)?\s*(?:milliards?|millions?|Mds?)\s*(?:d['’]euros|de dollars|€|\$)?)/i);
-  if (val) facts.push({ label: 'Valorisation', value: val[1].trim() });
+  if (money && isFunding) facts.push({ key: 'amount', value: money[0].replace(/\s+/g, ' ') });
+  const round = text.match(FACT_RE.round);
+  if (round && isFunding) facts.push({ key: 'round', value: round[1].replace(/^./, (c) => c.toUpperCase()) });
+  const val = text.match(FACT_RE.valuation);
+  if (val) {
+    facts.push({ key: 'valuation', value: val[1].trim() });
+    // Le montant repéré n'est parfois que la valorisation (« valued at $75bn ») : on ne l'affiche pas deux fois.
+    const amount = facts.find((f) => f.key === 'amount');
+    if (amount && val[1].replace(/\s/g, '').includes(amount.value.replace(/\s/g, ''))) facts.splice(facts.indexOf(amount), 1);
+  }
   if (isFunding) {
-    for (const inv of text.matchAll(/(?:co-?men[ée]e? par|men[ée]e? par|aupr[èe]s de|avec la participation de|soutenue? par)\s+([^.;:()]{3,140})/gi)) {
-      const who = inv[1].split(/\s+(?:pour|afin|qui|dont|et doit|ce|cette|valoris\w*)\b|,\s+(?:qui|ce|cette|pour)\b/i)[0].replace(/[,\s]+$/, '');
-      if (who.length >= 3 && who.length <= 90 && /\p{Lu}/u.test(who)) { facts.push({ label: 'Investisseurs', value: who }); break; }
+    for (const inv of text.matchAll(FACT_RE.investors)) {
+      const who = inv[1].split(FACT_RE.stop)[0].replace(/[,\s]+$/, '');
+      if (who.length >= 3 && who.length <= 90 && /\p{Lu}/u.test(who)) { facts.push({ key: 'investors', value: who }); break; }
     }
   }
   return facts;
@@ -324,6 +372,11 @@ function buildBrief(members, cats) {
 }
 
 // ---------- scoring ----------
+// Plus la levée est grosse, plus le sujet monte (European Tech : priorité aux mega levées).
+function amountBonus(members) {
+  const m = Math.max(0, ...members.map((x) => millions(`${x.title} ${x.summary}`)));
+  return m >= 1000 ? 7 : m >= 250 ? 6 : m >= 100 ? 5 : m >= 50 ? 3 : m >= 20 ? 1 : 0;
+}
 const items = groups.map(({ members, _c }) => {
   const lead = members[0];
   const sourcesList = [...new Set(members.map((m) => m.source))];
@@ -336,7 +389,8 @@ const items = groups.map(({ members, _c }) => {
     Math.max(...members.map((m) => m.sourceWeight)) +
     Math.min(sourcesList.length - 1, 5) * 3 + // plusieurs médias = sujet important
     (franceRe.test(text) ? 1 : 0) +
-    Math.max(0, 2 - ageH / 12);
+    Math.max(0, 2 - ageH / 12) +
+    (sources.amountBoost ? amountBonus(members) : 0);
   const seen = new Set([lead.link]);
   members.forEach((m) => (m._content = m.content || m.summary || ''));
   return {
@@ -397,6 +451,8 @@ const day = {
   generatedAt: now.toISOString(),
   windowHours,
   counts: { articles: items.length, raw: fresh.length, media: new Set(items.flatMap((i) => i.sources)).size },
+  scope: SCOPE,
+  lang: LANG,
   sources: report.sort((a, b) => a.source.localeCompare(b.source, 'fr')),
   items,
 };
@@ -413,6 +469,6 @@ for (const f of files.slice(0, KEEP_DAYS)) {
 await writeFile(path.join(DATA_DIR, 'index.json'), JSON.stringify({ updatedAt: now.toISOString(), days: index }, null, 1));
 
 const failed = report.filter((r) => !r.ok);
-console.log(`[${runDate}] ${raw.length} articles collectés → ${fresh.length} récents et pertinents → ${items.length} sujets`);
+console.log(`[${SCOPE} ${runDate}] ${raw.length} articles collectés → ${fresh.length} récents et pertinents → ${items.length} sujets`);
 for (const f of failed) console.warn(`  ⚠ ${f.source} : ${f.error}`);
 if (failed.length === report.length && report.length) process.exit(1);

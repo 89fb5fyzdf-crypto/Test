@@ -1,6 +1,6 @@
-# Radar French Tech
+# Radar
 
-Site de veille qui sélectionne plusieurs fois par jour les articles clés sur la French Tech. Thème sombre par défaut, mode clair via le bouton en bas de page. Une ouverture (grand logo sur un radar discret ; un toucher n'importe où plonge dans les courbes de niveau et dévoile le site) s'affiche à la première visite de la journée ; « Revoir l'introduction » en bas de page la rejoue.
+Site de veille qui sélectionne plusieurs fois par jour les articles clés de la **French Tech** et de la **European Tech** (hors France, priorité aux plus grosses levées). Un sélecteur dans la barre du haut bascule d'une édition à l'autre. L'interface est en anglais ; le contenu French Tech reste en français, le contenu European Tech est en anglais. Thème sombre par défaut, mode clair via le bouton en bas de page. Une ouverture (grand logo sur un radar discret ; un toucher n'importe où plonge dans les courbes de niveau et dévoile le site) s'affiche à la première visite de la journée ; « Revoir l'introduction » en bas de page la rejoue.
 
 Site en ligne : https://89fb5fyzdf-crypto.github.io/Test/
 
@@ -19,6 +19,8 @@ Site en ligne : https://89fb5fyzdf-crypto.github.io/Test/
 Toute modification de `config/`, `scripts/` ou `docs/` sur `main` relance une collecte et republie le site.
 
 ## Personnalisation
+
+- European Tech : `config/sources-eu.json` (sources anglophones, surtout britanniques ; `exclude` écarte la France ; `amountBoost` fait monter les mega levées) et `config/keywords-eu.json` (thèmes en anglais). Données dans `docs/data/eu/`.
 
 - `config/sources.json` : flux RSS (`focus: true` = média 100 % startups FR, tous ses articles sont gardés) et recherches Google News (texte simple, ou `{ "query", "label", "weight" }`).
 - `config/keywords.json` : thèmes, mots-clés (expressions régulières), expressions à ignorer (`exclude`) et poids.
