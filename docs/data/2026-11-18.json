@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T04:39:39.706Z",
+ "generatedAt": "2026-11-18T04:47:20.652Z",
  "windowHours": 36,
  "counts": {
   "articles": 58,
@@ -247,14 +247,14 @@
     "Maddyness",
     "Siècle Digital",
     "FranceTransactions.com",
-    "Brief IA",
-    "BDM",
     "BFM",
+    "BDM",
     "Ouest-France",
     "Numerama",
     "Servicesmobiles.fr",
     "Melles750",
-    "lefilia.fr"
+    "lefilia.fr",
+    "Brief IA"
    ],
    "articles": [
     {
@@ -273,19 +273,14 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3g0T2lhbWdVMUJVQUNyMzcyZHFnVlY1dlpLVi11b1FlLTVpLVJpSFhvVklDVUQwNFpIVTlFUEJ5ZTFCN1M1Wmc1NFFlM1JVV1dsRWdLdjNOTUZ4Q0k4R3hwblF1RjRUeTgyWXRDUXhJa0RISm94dmI2eGw4OW1zZjZRVDIxQVFDbXJCLUFVQUZXWnRhTWJJS202VjJyTVU4bUc5cGtXekZ0aF9HbWJtaW81cWJXZDV5SWR1UlVNdE8xTnplU0k2WWR1R1RpbXNUeTExV3hfeklUQTNoZXc?oc=5"
     },
     {
-     "source": "Brief IA",
-     "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5"
+     "source": "BFM",
+     "title": "Moins de 100 salariés face aux géants de l'IA: le pari fou du français OVHcloud qui veut concurrencer Mistral et les Américains et vise 100 millions d'utilisateurs",
+     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZmZJM3VRa1hKTWJyalRfNGt2b3NFU0JPRkZtVFpZVXBKczNOQU1SblpEYkVmaHhvcml0czNiMUhJX1I3OE5VLS1OVXF2Nm1SU050OGFwdzBqV2FkYXcwUEpValJKOC0ySHljTXhWUFZtUlpTS1RKXzNiODllVGluSWk5OUtuOFlqLWc5SUlWX1d0YjhESTFubzA4eEdOeG5wekdzNEIyUTV0TUJHSnpKcFI0aDFjNWlMQk91cDNSYk9iM3BxSUZEcWFqV25yQ1M1RzVhRDhuN2NVcDRmMGZ0djB0cDVleXBkLUR4c3QxcGNpb2tTbExCR1V2QjZFSFJ1YzlDTFg3Z0FaWldDY1pHX1FyWGw1ckVGdEFpZ3Q3MXFlR2ZpS0JpbF9MUGV6SU1hWHo2Y2JSdEJHNmNla1Y3a2hReGwyNlpqVXpSVk0wM3RfNDJuZGduaQ?oc=5"
     },
     {
      "source": "BDM",
      "title": "Le Français OVHcloud se lance dans les LLM avec Olala, un petit modèle ouvert",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnRjNiQ21YdVhuQ0FmTno0V1oyQXFWX2JfMEVvTU9FYUNNNUtNQWNZdFhqRUFZUGZvZDk1RnBSaVc2NU1YaE16THJ0RmR2X2R6WS1sZThidkd4ZXFjNU9yQlhkd3E4NE1MRnBqRmZrZWVISzlKeDZmTnRYcmo?oc=5"
-    },
-    {
-     "source": "BFM",
-     "title": "Moins de 100 salariés face aux géants de l'IA: le pari fou du français OVHcloud qui veut concurrencer Mistral et les Américains et vise 100 millions d'utilisateurs",
-     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZmZJM3VRa1hKTWJyalRfNGt2b3NFU0JPRkZtVFpZVXBKczNOQU1SblpEYkVmaHhvcml0czNiMUhJX1I3OE5VLS1OVXF2Nm1SU050OGFwdzBqV2FkYXcwUEpValJKOC0ySHljTXhWUFZtUlpTS1RKXzNiODllVGluSWk5OUtuOFlqLWc5SUlWX1d0YjhESTFubzA4eEdOeG5wekdzNEIyUTV0TUJHSnpKcFI0aDFjNWlMQk91cDNSYk9iM3BxSUZEcWFqV25yQ1M1RzVhRDhuN2NVcDRmMGZ0djB0cDVleXBkLUR4c3QxcGNpb2tTbExCR1V2QjZFSFJ1YzlDTFg3Z0FaWldDY1pHX1FyWGw1ckVGdEFpZ3Q3MXFlR2ZpS0JpbF9MUGV6SU1hWHo2Y2JSdEJHNmNla1Y3a2hReGwyNlpqVXpSVk0wM3RfNDJuZGduaQ?oc=5"
     },
     {
      "source": "Ouest-France",
@@ -311,6 +306,11 @@
      "source": "lefilia.fr",
      "title": "Olala mini : la première IA française d’OVHcloud tient sur un PC sans carte graphique dédiée",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3dUZHh0Y0dnRlZhdkNKaTRZRkRROHNvWTg2WmhVc3ZrdTByM1pVLXBuOU5lU3F0RmF5cklFaXo2eHlpOUVMeWtYSUdTc2dLZThFRkZEQjUzbzduMVZxM3FvSjNXS2RnNGNqcEVpNjRVek1OeDFnTzFYZkl2WnhocFplWlJMWS1ZYTlhbkFzUkx2MlAzYTV2NEY1NjY5TVAwVExLa01weDZrcXlqdkQ0enI5X3BmNWpvOEs4bjhDLXNlekFobmJXYw?oc=5"
+    },
+    {
+     "source": "Brief IA",
+     "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5"
     }
    ],
    "brief": {
@@ -575,7 +575,7 @@
     "Licornes & scale-ups",
     "IA"
    ],
-   "score": 6.9
+   "score": 6.8
   },
   {
    "id": "mistral-et-macron-exigent-des-milliards-pour-sauver-l-ia-europeenne",
@@ -1017,6 +1017,27 @@
    "score": 4.3
   },
   {
+   "id": "ia-une-proposition-de-loi-pour-proteger-la-creation-toujours-enlisee-a-l-assembl",
+   "title": "IA : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc24zVTVUNE5kU2Y4YXQ2SVkwbExtWDRIVkJYM3RaN1lrSVl2X3VRUkVKSUE5ZU9DV1ZwTGlVRXJBTUx4RV9VNkV1MFlIelhtcnRkWVN3VVZrNmgtMVU5SmIzNndTRlZqTVNXUmVGcEF0c0NUSUFMZEU2QUZmak5WMDdxLUZEY05leXExWkt3dHdEbHd2SFNZ?oc=5",
+   "summary": "",
+   "sources": [
+    "CB News"
+   ],
+   "articles": [
+    {
+     "source": "CB News",
+     "title": "IA : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc24zVTVUNE5kU2Y4YXQ2SVkwbExtWDRIVkJYM3RaN1lrSVl2X3VRUkVKSUE5ZU9DV1ZwTGlVRXJBTUx4RV9VNkV1MFlIelhtcnRkWVN3VVZrNmgtMVU5SmIzNndTRlZqTVNXUmVGcEF0c0NUSUFMZEU2QUZmak5WMDdxLUZEY05leXExWkt3dHdEbHd2SFNZ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T19:02:15.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.2
+  },
+  {
    "id": "apple-sera-juge-pour-obsolescence-programmee-a-paris-en-2027",
    "title": "Apple sera jugé pour obsolescence programmée à Paris en 2027",
    "url": "https://www.journaldunet.com/business/1558143-apple-sera-juge-pour-obsolescence-programmee-a-nanterre-en-2027/",
@@ -1039,27 +1060,6 @@
    },
    "date": "2026-11-17T19:23:42.000Z",
    "categories": [],
-   "score": 4.2
-  },
-  {
-   "id": "ia-une-proposition-de-loi-pour-proteger-la-creation-toujours-enlisee-a-l-assembl",
-   "title": "IA : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc24zVTVUNE5kU2Y4YXQ2SVkwbExtWDRIVkJYM3RaN1lrSVl2X3VRUkVKSUE5ZU9DV1ZwTGlVRXJBTUx4RV9VNkV1MFlIelhtcnRkWVN3VVZrNmgtMVU5SmIzNndTRlZqTVNXUmVGcEF0c0NUSUFMZEU2QUZmak5WMDdxLUZEY05leXExWkt3dHdEbHd2SFNZ?oc=5",
-   "summary": "",
-   "sources": [
-    "CB News"
-   ],
-   "articles": [
-    {
-     "source": "CB News",
-     "title": "IA : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc24zVTVUNE5kU2Y4YXQ2SVkwbExtWDRIVkJYM3RaN1lrSVl2X3VRUkVKSUE5ZU9DV1ZwTGlVRXJBTUx4RV9VNkV1MFlIelhtcnRkWVN3VVZrNmgtMVU5SmIzNndTRlZqTVNXUmVGcEF0c0NUSUFMZEU2QUZmak5WMDdxLUZEY05leXExWkt3dHdEbHd2SFNZ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T19:02:15.000Z",
-   "categories": [
-    "IA"
-   ],
    "score": 4.2
   },
   {
@@ -1248,27 +1248,6 @@
    "score": 3.2
   },
   {
-   "id": "airbus-decline-son-accord-avec-mistral-ai-dans-la-cybersecurite",
-   "title": "Airbus décline son accord avec Mistral AI dans la cybersécurité",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNenlXelIwZ1JicjNiUWliT1QyUUdFeXkyRkRCVlF3a0JPclBua2YtTWtJeUhNUlRhYnJiRWgwcDNtT1lZSkJWRWNQMG1Qek5jcFprTjRPNjhFMHpHbG9DWmh5V3NXd1hyaEdOOHJra2VTbVJzc1RRTFZDRF9GZDRhaG1CUHdkb3hMdndQMWRTYWhJR3llSjV3eV95U09fVlZCczFVV2pmWUVVMHItbWhZX2dSXzhzbUpUWFRMbHM5VTNqU0NFMWN4b2N2enJiWEEwVW1vM2F6VEZrVm95Y3NfeW1jNmtTUQ?oc=5",
-   "summary": "",
-   "sources": [
-    "La Lettre"
-   ],
-   "articles": [
-    {
-     "source": "La Lettre",
-     "title": "Airbus décline son accord avec Mistral AI dans la cybersécurité",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNenlXelIwZ1JicjNiUWliT1QyUUdFeXkyRkRCVlF3a0JPclBua2YtTWtJeUhNUlRhYnJiRWgwcDNtT1lZSkJWRWNQMG1Qek5jcFprTjRPNjhFMHpHbG9DWmh5V3NXd1hyaEdOOHJra2VTbVJzc1RRTFZDRF9GZDRhaG1CUHdkb3hMdndQMWRTYWhJR3llSjV3eV95U09fVlZCczFVV2pmWUVVMHItbWhZX2dSXzhzbUpUWFRMbHM5VTNqU0NFMWN4b2N2enJiWEEwVW1vM2F6VEZrVm95Y3NfeW1jNmtTUQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T05:20:00.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3.1
-  },
-  {
    "id": "l-ia-va-encore-augmenter-d-un-cran-la-crise-cognitive-les-secrets-d-un-bureau-an",
    "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5",
@@ -1314,6 +1293,27 @@
    },
    "date": "2026-11-17T16:38:00.000Z",
    "categories": [],
+   "score": 3
+  },
+  {
+   "id": "airbus-decline-son-accord-avec-mistral-ai-dans-la-cybersecurite",
+   "title": "Airbus décline son accord avec Mistral AI dans la cybersécurité",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNenlXelIwZ1JicjNiUWliT1QyUUdFeXkyRkRCVlF3a0JPclBua2YtTWtJeUhNUlRhYnJiRWgwcDNtT1lZSkJWRWNQMG1Qek5jcFprTjRPNjhFMHpHbG9DWmh5V3NXd1hyaEdOOHJra2VTbVJzc1RRTFZDRF9GZDRhaG1CUHdkb3hMdndQMWRTYWhJR3llSjV3eV95U09fVlZCczFVV2pmWUVVMHItbWhZX2dSXzhzbUpUWFRMbHM5VTNqU0NFMWN4b2N2enJiWEEwVW1vM2F6VEZrVm95Y3NfeW1jNmtTUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "La Lettre"
+   ],
+   "articles": [
+    {
+     "source": "La Lettre",
+     "title": "Airbus décline son accord avec Mistral AI dans la cybersécurité",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNenlXelIwZ1JicjNiUWliT1QyUUdFeXkyRkRCVlF3a0JPclBua2YtTWtJeUhNUlRhYnJiRWgwcDNtT1lZSkJWRWNQMG1Qek5jcFprTjRPNjhFMHpHbG9DWmh5V3NXd1hyaEdOOHJra2VTbVJzc1RRTFZDRF9GZDRhaG1CUHdkb3hMdndQMWRTYWhJR3llSjV3eV95U09fVlZCczFVV2pmWUVVMHItbWhZX2dSXzhzbUpUWFRMbHM5VTNqU0NFMWN4b2N2enJiWEEwVW1vM2F6VEZrVm95Y3NfeW1jNmtTUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T05:20:00.000Z",
+   "categories": [
+    "IA"
+   ],
    "score": 3
   },
   {
@@ -1605,7 +1605,7 @@
    ],
    "date": "2026-11-17T05:20:00.000Z",
    "categories": [],
-   "score": 1.1
+   "score": 1
   }
  ]
 }
