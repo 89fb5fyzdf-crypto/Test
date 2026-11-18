@@ -1,11 +1,11 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T05:26:25.314Z",
+ "generatedAt": "2026-11-18T09:30:23.666Z",
  "windowHours": 36,
  "counts": {
-  "articles": 29,
-  "raw": 44,
-  "media": 13
+  "articles": 37,
+  "raw": 53,
+  "media": 16
  },
  "scope": "eu",
  "lang": "en",
@@ -13,12 +13,12 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "source": "EU-Startups",
    "ok": false,
-   "error": "The operation was aborted due to timeout"
+   "error": "HTTP 403"
   },
   {
    "source": "Financial Times",
@@ -33,7 +33,7 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 29
+   "items": 26
   },
   {
    "source": "Google News · European unicorn valuation",
@@ -58,7 +58,7 @@
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 28
+   "items": 26
   },
   {
    "source": "TechCrunch Europe",
@@ -105,30 +105,20 @@
     "Unicorns & scale-ups",
     "AI"
    ],
-   "score": 26.2
+   "score": 25.9
   },
   {
-   "id": "plural-raises-1bn-to-back-european-startups-in-defense-energy-and-ai",
-   "title": "Plural raises €1bn to back European startups in defense, energy and AI",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzA4VjhjV2NkaFVOSTJ0MC0xeWhFVXZhczd0aXBOeExHVG1NOFdmV2pUVGVMck1jbWFnYzl1azRsd0poS1h1QnlkUS1FeWs4Ri1Oa3lUTl9qSFZDeHNFd3NlanJZQWZGLUplM0lsRmQwWDN2THRkU25wMTBvRUZIR0tXWkxKMFViVDdMRmhLZEQ4eGp6YXhvQjZfVEpSekxp?oc=5",
+   "id": "plural-raises-1-billion-fund-for-european-frontier-tech",
+   "title": "Plural raises €1 billion fund for European frontier tech",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdJUm5GSVNNcGMwLUVNZGNuTkFvMmIySXgwS0w1RHExU21GeW9yYUc0RjZGbXo0WDlFaDRWdTdxbU9EamxqVHlWVWx1RlVUdG5wdG5DckNNbWdqZUpkQUZiVXBQNnZCSDIxby1LM05mU2JYZTZRRm9OcUlCRFZaWGVGeXZneHdERFkw?oc=5",
    "summary": "",
    "sources": [
-    "Alternatives Watch",
-    "Ventureburn",
     "IT Brief UK",
-    "ArcticStartup"
+    "ArcticStartup",
+    "Alternatives Watch",
+    "Ventureburn"
    ],
    "articles": [
-    {
-     "source": "Alternatives Watch",
-     "title": "Plural raises €1bn to back European startups in defense, energy and AI",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzA4VjhjV2NkaFVOSTJ0MC0xeWhFVXZhczd0aXBOeExHVG1NOFdmV2pUVGVMck1jbWFnYzl1azRsd0poS1h1QnlkUS1FeWs4Ri1Oa3lUTl9qSFZDeHNFd3NlanJZQWZGLUplM0lsRmQwWDN2THRkU25wMTBvRUZIR0tXWkxKMFViVDdMRmhLZEQ4eGp6YXhvQjZfVEpSekxp?oc=5"
-    },
-    {
-     "source": "Ventureburn",
-     "title": "Plural Raises €1bn to Back Europe’s Next Generation of Technology Founders",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53a21CaWhVc1hReEJQWUZnVWtBNEJ2MUxWdVRpcDNXX1o0bzl1d0xsWDAtRG9nQjYwRlBYTzF3bUlxRk40enRNNVJoZEhzZkhEWWZpTFZTNlNNbHlzcmxGWlhqTXo2VnNETFFnNHdWRl9pTTDSAXNBVV95cUxOd2ttQmloVXNYUXhCUFlGZ1VrQTRCdjFMVnVUaXAzV19aNG85dXdMbFgwLURvZ0I2MEZQWE8xd21JcUZONHp0TTVSaGRIc2ZIRFlmaUxWUzZTTWx5c3JsRlpYak16NlZzRExRZzR3VkZfaU0w?oc=5"
-    },
     {
      "source": "IT Brief UK",
      "title": "Plural raises €1 billion fund for European frontier tech",
@@ -138,6 +128,16 @@
      "source": "ArcticStartup",
      "title": "Plural raises €1bn fund to back Europe's next generation of frontier technology companies - ArcticStartup",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0Yk45TXlBY0cyeUtCNkxjQnpPcGdLaVJvbHVkVDk4OW5sZ3BTMUp0NGJscDFMTnVveWVrZ3k4RTM1NjY4c3NlNnE3LVRCeE8xZFVtNkw5VjHSAVhBVV95cUxQdGJOOU15QWNHMnlLQjZMY0J6T3BnS2lSb2x1ZFQ5ODlubGdwUzFKdDRibHAxTE51b3lla2d5OEUzNTY2OHNzZTZxNy1UQnhPMWRVbTZMOVYx?oc=5"
+    },
+    {
+     "source": "Alternatives Watch",
+     "title": "Plural raises €1bn to back European startups in defense, energy and AI",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzA4VjhjV2NkaFVOSTJ0MC0xeWhFVXZhczd0aXBOeExHVG1NOFdmV2pUVGVMck1jbWFnYzl1azRsd0poS1h1QnlkUS1FeWs4Ri1Oa3lUTl9qSFZDeHNFd3NlanJZQWZGLUplM0lsRmQwWDN2THRkU25wMTBvRUZIR0tXWkxKMFViVDdMRmhLZEQ4eGp6YXhvQjZfVEpSekxp?oc=5"
+    },
+    {
+     "source": "Ventureburn",
+     "title": "Plural Raises €1bn to Back Europe’s Next Generation of Technology Founders",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53a21CaWhVc1hReEJQWUZnVWtBNEJ2MUxWdVRpcDNXX1o0bzl1d0xsWDAtRG9nQjYwRlBYTzF3bUlxRk40enRNNVJoZEhzZkhEWWZpTFZTNlNNbHlzcmxGWlhqTXo2VnNETFFnNHdWRl9pTTDSAXNBVV95cUxOd2ttQmloVXNYUXhCUFlGZ1VrQTRCdjFMVnVUaXAzV19aNG85dXdMbFgwLURvZ0I2MEZQWE8xd21JcUZONHp0TTVSaGRIc2ZIRFlmaUxWUzZTTWx5c3JsRlpYak16NlZzRExRZzR3VkZfaU0w?oc=5"
     }
    ],
    "date": "2026-11-17T01:03:39.000Z",
@@ -145,40 +145,125 @@
     "Funding",
     "AI"
    ],
-   "score": 24.6
+   "score": 24.3
   },
   {
-   "id": "isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z",
-   "title": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
-   "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
+   "id": "investment-in-european-startups-surges-to-81bn-but-europe-faces-challenges-says-",
+   "title": "Investment in European startups surges to $81BN, but Europe faces challenges, says Atomico",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWF0TDRLNWFUc3dhdmJYcUROMi0xanpXRjJTU2d6LS1YRE4xUTg5RC1BRFVWSm5KVFBjLU15cDlFdGZueE9iVExSWFhyRGZZWHJkLThKU3RSUmVfU091RGw0R1Y0ZVctSzRZYTEzM1pzRzQxLUdxYlV4YkZHeUxyY01yc2NxaGNZNEFWTXdieUxWZjFjU3ZfWWNRM3ZnT005VkU1Y0lSblN4VmdrRm1Dczg1QkFBN1g2T1FXQ0NkN3B4U2VmanVzX0dQanJkX3phTkhtM3dvQUE?oc=5",
    "summary": "",
    "sources": [
-    "Sifted",
     "Tech.eu",
-    "City AM"
+    "UA.NEWS"
    ],
    "articles": [
     {
-     "source": "Sifted",
-     "title": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
-     "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/"
+     "source": "Tech.eu",
+     "title": "Investment in European startups surges to $81BN, but Europe faces challenges, says Atomico",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWF0TDRLNWFUc3dhdmJYcUROMi0xanpXRjJTU2d6LS1YRE4xUTg5RC1BRFVWSm5KVFBjLU15cDlFdGZueE9iVExSWFhyRGZZWHJkLThKU3RSUmVfU091RGw0R1Y0ZVctSzRZYTEzM1pzRzQxLUdxYlV4YkZHeUxyY01yc2NxaGNZNEFWTXdieUxWZjFjU3ZfWWNRM3ZnT005VkU1Y0lSblN4VmdrRm1Dczg1QkFBN1g2T1FXQ0NkN3B4U2VmanVzX0dQanJkX3phTkhtM3dvQUE?oc=5"
     },
+    {
+     "source": "UA.NEWS",
+     "title": "Venture firm Atomico forecasts $81 billion for European startups in 2026 — Channel NewsAsia",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWmdHUldRbFpnb1JDa2djNDFNdUFoQzE1eU1RejZIUVI3U3RUVlZVNVYzRGlsanFGSkp6czQ5OUR5WVlSNndpWlNoZzgwWnBoZU1VTi1YVGZLSUFwdmVfX3BSUF9ZYTNIWkJtbFdmd2xLbDVpUVQ5OW5oQmV1MXh4MWQtSHc3Z0IwRTV4VDQzeF9EVGJaVDFOZWhzUnVSSGIxOXhiRVdpZXVDdTB5SElJREg1NmhXRlBnNkNKcGpQd254dlNhRXFhaTMyTQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T23:21:15.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 19.8
+  },
+  {
+   "id": "goldman-sachs-leads-280m-funding-round-in-payhawk",
+   "title": "Goldman Sachs leads $280M funding round in Payhawk",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdk5rZ2JuR2F1MlhETndHQnNEb3k2X0c4STlPajVpRHNBNS1RdnJLNzJ6Rl9GRTBOSVN0OXpFWERCcEI1ZDBjN29seXMwMjZLRkQtZEFRNGNrZVRQck5abURBMk9HVk5wd2xMcEVqY3VqUkZseEFKT0Q5Q0pFX1JJMlNlZw?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Goldman Sachs leads $280M funding round in Payhawk",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdk5rZ2JuR2F1MlhETndHQnNEb3k2X0c4STlPajVpRHNBNS1RdnJLNzJ6Rl9GRTBOSVN0OXpFWERCcEI1ZDBjN29seXMwMjZLRkQtZEFRNGNrZVRQck5abURBMk9HVk5wd2xMcEVqY3VqUkZseEFKT0Q5Q0pFX1JJMlNlZw?oc=5"
+    }
+   ],
+   "date": "2026-11-18T08:33:02.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 14.9
+  },
+  {
+   "id": "previsia-raises-3-8m-to-bring-ai-powered-risk-prevention-to-businesses-across-eu",
+   "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London’s Perry AI raises €2 million to bring AI-powered legal intelligence to private capital funds",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZXQ5SEhMamN5U2RoQ2dkOXhpSWRXTzRTMVNBOHhkVER1TUZnR3RpZUlDUDlOR0hpbGg5Yi0wdUxxWjNkaEFUck1EOHhGV1oxOTBSbE5nZ2VmVVY5aFFtZWd1SWNJRlA1TGZodEFQMjZCRndkZW9lQ3BOeFJBd3pKRDJpR0lkMXhBcDY1aFhBZHI1aW9LZ3hJWmlqZHBIQUs5YmFiZml0M3IybVIwczMwZENrNDJuQTk5aml4U3dRMWx6UXFQU2JzelozWEZxckVC?oc=5"
+    }
+   ],
+   "date": "2026-11-17T08:00:52.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 14.8
+  },
+  {
+   "id": "sequoia-and-greenoaks-lead-massive-5bn-series-c-funding-round-in-isomorphic-labs",
+   "title": "Sequoia and Greenoaks lead massive $5BN Series C funding round in Isomorphic Labs",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGxYbFA3d0dfRXlUWTFRNW12Sl9zb3FhZmM2dklQdFR6d1VRVTlfWE51alhXUHFycWJFcmNUUGtjN0h4V0I4cjd2aFExbUthV1BWemQ3YnBBRk03eW5GMllOUDEycWh4M2lMX1ZYMGs0SDhJdUxjZGxmRkRxUUtpOXdqYTRReXo1X0hnVmhDbUFpNDQ5d3hfcTBxcl85aWhGZjdnY2hrcWduNXdx?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
     {
      "source": "Tech.eu",
      "title": "Sequoia and Greenoaks lead massive $5BN Series C funding round in Isomorphic Labs",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGxYbFA3d0dfRXlUWTFRNW12Sl9zb3FhZmM2dklQdFR6d1VRVTlfWE51alhXUHFycWJFcmNUUGtjN0h4V0I4cjd2aFExbUthV1BWemQ3YnBBRk03eW5GMllOUDEycWh4M2lMX1ZYMGs0SDhJdUxjZGxmRkRxUUtpOXdqYTRReXo1X0hnVmhDbUFpNDQ5d3hfcTBxcl85aWhGZjdnY2hrcWduNXdx?oc=5"
-    },
-    {
-     "source": "City AM",
-     "title": "Isomorphic Labs raises $5bn in ‘one of UK tech’s biggest funding rounds’",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXRXS256RXdLaE96TXBnaFZoN1N0dkpmYng0eU9IUXJaeFNKdVExTXdhVmFGRkhBRWxqNjIzQUNNRVRZalRiTmR0OE5tWFFYYjVEb1NOZzdhQTJadVJlZjRzNlR2UU0zdjBQVjRwNjZLMUFIT2l1UW9vMjhlMW5LVVpsTWZwUTJwYTZlOUVHb0Ezdmg5Z3JR?oc=5"
     }
    ],
-   "date": "2026-11-17T12:55:56.000Z",
+   "date": "2026-11-17T13:11:29.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 22.1
+   "score": 14.3
+  },
+  {
+   "id": "science-corp-raises-400m-to-expand-its-prima-vision-implant-in-europe-and-prepar",
+   "title": "Science Corp raises $400M to expand its PRIMA vision implant in Europe and prepare for a US launch",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTUtxRGhQdWIzTlh5MXRNZ2tqczhPYm85RTN2THhjbmZhYURMb1kwTXVQV2tJU1hHVThoWERQTEtmXzVYdHk5ODBfcW95eWxJbUhWMFRfanJFZ2J3TTJyU3RkQVdVbnI4VDdZeGk1SmtWSlVFbC1FRVVFenFDRUpVYV9GalNSOGNYSHNPS2VhUm51YlliM0Y1czJlM3VlR01WMGEwWkxaOUJtMlZsaUxlU0RCcWd1NGh3ajlhbWEtemFwQXFE?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech Funding News"
+   ],
+   "articles": [
+    {
+     "source": "Tech Funding News",
+     "title": "Science Corp raises $400M to expand its PRIMA vision implant in Europe and prepare for a US launch",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTUtxRGhQdWIzTlh5MXRNZ2tqczhPYm85RTN2THhjbmZhYURMb1kwTXVQV2tJU1hHVThoWERQTEtmXzVYdHk5ODBfcW95eWxJbUhWMFRfanJFZ2J3TTJyU3RkQVdVbnI4VDdZeGk1SmtWSlVFbC1FRVVFenFDRUpVYV9GalNSOGNYSHNPS2VhUm51YlliM0Y1czJlM3VlR01WMGEwWkxaOUJtMlZsaUxlU0RCcWd1NGh3ajlhbWEtemFwQXFE?oc=5"
+    }
+   ],
+   "date": "2026-11-18T09:03:14.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 14
   },
   {
    "id": "finland-s-satellite-provider-iceye-bids-2-billion-for-italian-rocket-maker-avio",
@@ -199,7 +284,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 13.6
+   "score": 13.3
   },
   {
    "id": "anthropic-s-1-4tn-ipo-puts-europe-s-ai-boom-to-the-test",
@@ -221,7 +306,7 @@
     "M&A & IPOs",
     "AI"
    ],
-   "score": 12
+   "score": 11.6
   },
   {
    "id": "exclusive-munich-based-humanoid-startup-vesoma-seeks-50m",
@@ -242,7 +327,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 11.8
+   "score": 11.5
   },
   {
    "id": "uk-employee-benefits-unicorn-stream-targets-ipo-in-18-months",
@@ -264,7 +349,7 @@
     "M&A & IPOs",
     "Unicorns & scale-ups"
    ],
-   "score": 11.5
+   "score": 11.2
   },
   {
    "id": "tiberius-aerospace-with-strong-uk-links-raises-85m",
@@ -285,7 +370,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 11.2
+   "score": 11
   },
   {
    "id": "synthesia-and-datadog-ceos-back-ai-startup-remanence-in-30m-funding-round",
@@ -307,7 +392,7 @@
     "Funding",
     "AI"
    ],
-   "score": 10.5
+   "score": 10.1
   },
   {
    "id": "swiss-neurotech-indivi-acquires-cogitat-to-advance-ai-powered-brain-monitoring",
@@ -329,29 +414,7 @@
     "M&A & IPOs",
     "AI"
    ],
-   "score": 10.2
-  },
-  {
-   "id": "previsia-raises-3-8m-to-bring-ai-powered-risk-prevention-to-businesses-across-eu",
-   "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Previsia raises €3.8M to bring AI-powered risk prevention to businesses across Europe",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjNmRmhwTWhaYTlxakNvcFNnbEFQRlM4NTI4ODVCS1c5VGZydnJKTWlNeTNZWndlaHVVdXlIeFdfdG42TWNTeWRwVWIycXhra1cyMUlwcFkzUmlQYkZZRmgxXzlORk15cWVRUm5mV1ZYd21qTmFOTUkyWXlYQ1RtVjJGeG1Yd1FCcWtSdFM2UXExcF9XRHYxYVNzX01UV0VfWEJPLWpWa1hRWndXY3lSa2NjS1c?oc=5"
-    }
-   ],
-   "date": "2026-11-17T08:00:52.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 10.2
+   "score": 10
   },
   {
    "id": "exclusive-backed-by-google-s-first-investor-rhise-ai-raises-2-66-million-to-buil",
@@ -406,7 +469,7 @@
     "Funding",
     "AI"
    ],
-   "score": 9.1
+   "score": 9
   },
   {
    "id": "nabu-secures-1-1m-to-bring-ai-automation-to-financial-compliance",
@@ -428,7 +491,49 @@
     "Funding",
     "AI"
    ],
-   "score": 9.1
+   "score": 9
+  },
+  {
+   "id": "ellipses-pharma-explores-a-london-stock-exchange-listing-opportunity",
+   "title": "Ellipses Pharma explores a London Stock Exchange listing opportunity",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVW9pS1A4bEg1dENMTmxjM3Q2RFQ1UzZ2Zmh2aWQ5SUd2S1dOZnRwb2F0aV8yaVpPRlVCS1dlRkdfTm9DalJkTy1fMG9qcWtlR2hRRlNWb3c5OVJtWTVzQzlUSjN3d0tRd2JKcjRkM2VWNlc1NmFmWFVJVi1LWHJuRlNxNU1FNkMydDJqbkM2R1dGQjRZVGpr?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Ellipses Pharma explores a London Stock Exchange listing opportunity",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVW9pS1A4bEg1dENMTmxjM3Q2RFQ1UzZ2Zmh2aWQ5SUd2S1dOZnRwb2F0aV8yaVpPRlVCS1dlRkdfTm9DalJkTy1fMG9qcWtlR2hRRlNWb3c5OVJtWTVzQzlUSjN3d0tRd2JKcjRkM2VWNlc1NmFmWFVJVi1LWHJuRlNxNU1FNkMydDJqbkM2R1dGQjRZVGpr?oc=5"
+    }
+   ],
+   "date": "2026-11-18T08:30:00.000Z",
+   "categories": [
+    "M&A & IPOs"
+   ],
+   "score": 8.9
+  },
+  {
+   "id": "cloudbackend-raises-6-6m-in-round-led-by-carl-henric-svanberg-s-family-office",
+   "title": "CloudBackend raises €6.6M in round led by Carl-Henric Svanberg’s family office",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGRqSkNaTENyYWRrVkw0eGJSbmhHLVRuak45WHNOY1RiU2VCLXdQSnBzT2g2RzhYakpTeEtVOFlKVGtPWnhQRVFEeWdQbS1OM3otM3YtTjJkaGxPN3RTZG4zS3V5M3lxQURZSm9xU2lWYk1FUFcwTmwzRTRXWldrVjh5V3E2NHpKMkZielhCYVJJS3BydEdBRjQ0d0wtN0lFWWwyQVdJWjQ5UQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "CloudBackend raises €6.6M in round led by Carl-Henric Svanberg’s family office",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGRqSkNaTENyYWRrVkw0eGJSbmhHLVRuak45WHNOY1RiU2VCLXdQSnBzT2g2RzhYakpTeEtVOFlKVGtPWnhQRVFEeWdQbS1OM3otM3YtTjJkaGxPN3RTZG4zS3V5M3lxQURZSm9xU2lWYk1FUFcwTmwzRTRXWldrVjh5V3E2NHpKMkZielhCYVJJS3BydEdBRjQ0d0wtN0lFWWwyQVdJWjQ5UQ?oc=5"
+    }
+   ],
+   "date": "2026-11-18T06:45:02.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8.8
   },
   {
    "id": "adesso-ventures-secures-26m-in-first-close-of-its-second-fund-opening-to-externa",
@@ -449,7 +554,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 8.3
+   "score": 8
   },
   {
    "id": "q3-2026-european-vc-valuations-report",
@@ -471,28 +576,7 @@
     "Unicorns & scale-ups",
     "Policy & ecosystem"
    ],
-   "score": 8.3
-  },
-  {
-   "id": "nomadic-bags-6m-to-deploy-self-charging-drones-that-spot-weak-points-in-power-gr",
-   "title": "Nomadic bags $6M to deploy self-charging drones that spot weak points in power grids",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmk3bG9wMnoxbkVySy1QQlZYSDhtTlFsTU5NZElPU2trUDIwNWVCR280VFB6NlRIdjA2YU9pM3JVa1J2d0dJWkh4NkpDc0JTLV9VdTJ5V2g1NXRmMkVNcUlfdm9VZkpiVGM4R2VRM1VHTEc0SnJYbTNaaXJTUnBTQ0xFQXoxNS1wUXBDanhDQlJRT2x6aVZLTlR4aHdIQWlVaVVNNjdLY2o1Q005NHdRNQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Nomadic bags $6M to deploy self-charging drones that spot weak points in power grids",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmk3bG9wMnoxbkVySy1QQlZYSDhtTlFsTU5NZElPU2trUDIwNWVCR280VFB6NlRIdjA2YU9pM3JVa1J2d0dJWkh4NkpDc0JTLV9VdTJ5V2g1NXRmMkVNcUlfdm9VZkpiVGM4R2VRM1VHTEc0SnJYbTNaaXJTUnBTQ0xFQXoxNS1wUXBDanhDQlJRT2x6aVZLTlR4aHdIQWlVaVVNNjdLY2o1Q005NHdRNQ?oc=5"
-    }
-   ],
-   "date": "2026-11-17T09:06:01.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 7.3
+   "score": 8
   },
   {
    "id": "fermat-raises-8m-to-bridge-the-gap-between-fashion-designers-and-manufacturers",
@@ -513,7 +597,49 @@
    "categories": [
     "Funding"
    ],
-   "score": 7.2
+   "score": 7
+  },
+  {
+   "id": "finnish-healthtech-treat-raises-3m-to-tackle-inefficiencies-in-private-healthcar",
+   "title": "Finnish healthtech Treat raises €3M to tackle inefficiencies in private healthcare",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODNQb1dELWtnaF9SNmoyRUl5UVJ3V3p0S2RySHdSNUJUUklzY3E1OVNFdEFVN3BXMHczT21fQUV4cC0zazdKVmt0Z3phbksyelZqQmhrd0N5NDVWZzhhTWRHdzRPWHIxQTFGRFZZRU1aVHFIZVRrMk5raE9oclNGQllOU1ZvREtGTHZPeGhpcUdCOVVBSUlja1FhZW16bnBYa2habXlGclF0T1hmQ0I4dGNn?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Finnish healthtech Treat raises €3M to tackle inefficiencies in private healthcare",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODNQb1dELWtnaF9SNmoyRUl5UVJ3V3p0S2RySHdSNUJUUklzY3E1OVNFdEFVN3BXMHczT21fQUV4cC0zazdKVmt0Z3phbksyelZqQmhrd0N5NDVWZzhhTWRHdzRPWHIxQTFGRFZZRU1aVHFIZVRrMk5raE9oclNGQllOU1ZvREtGTHZPeGhpcUdCOVVBSUlja1FhZW16bnBYa2habXlGclF0T1hmQ0I4dGNn?oc=5"
+    }
+   ],
+   "date": "2026-11-17T06:00:05.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
+  },
+  {
+   "id": "nomadic-bags-6m-to-deploy-self-charging-drones-that-spot-weak-points-in-power-gr",
+   "title": "Nomadic bags $6M to deploy self-charging drones that spot weak points in power grids",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmk3bG9wMnoxbkVySy1QQlZYSDhtTlFsTU5NZElPU2trUDIwNWVCR280VFB6NlRIdjA2YU9pM3JVa1J2d0dJWkh4NkpDc0JTLV9VdTJ5V2g1NXRmMkVNcUlfdm9VZkpiVGM4R2VRM1VHTEc0SnJYbTNaaXJTUnBTQ0xFQXoxNS1wUXBDanhDQlJRT2x6aVZLTlR4aHdIQWlVaVVNNjdLY2o1Q005NHdRNQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Nomadic bags $6M to deploy self-charging drones that spot weak points in power grids",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmk3bG9wMnoxbkVySy1QQlZYSDhtTlFsTU5NZElPU2trUDIwNWVCR280VFB6NlRIdjA2YU9pM3JVa1J2d0dJWkh4NkpDc0JTLV9VdTJ5V2g1NXRmMkVNcUlfdm9VZkpiVGM4R2VRM1VHTEc0SnJYbTNaaXJTUnBTQ0xFQXoxNS1wUXBDanhDQlJRT2x6aVZLTlR4aHdIQWlVaVVNNjdLY2o1Q005NHdRNQ?oc=5"
+    }
+   ],
+   "date": "2026-11-17T09:06:01.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
   },
   {
    "id": "exclusive-openai-and-meta-insiders-back-startup-policing-rogue-ai-agents",
@@ -534,7 +660,7 @@
    "categories": [
     "AI"
    ],
-   "score": 7
+   "score": 6.6
   },
   {
    "id": "opinion-maintaining-the-open-web-is-central-to-europe-s-ai-sovereignty-ambitions",
@@ -556,7 +682,7 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 6.8
+   "score": 6.5
   },
   {
    "id": "8-key-findings-from-atomico-s-state-of-european-tech-report",
@@ -575,7 +701,7 @@
    ],
    "date": "2026-11-18T05:00:42.000Z",
    "categories": [],
-   "score": 6
+   "score": 5.6
   },
   {
    "id": "trouva-co-founder-mandeep-singh-joins-tapestry-vc-as-general-partner",
@@ -615,7 +741,7 @@
    ],
    "date": "2026-11-17T11:01:09.000Z",
    "categories": [],
-   "score": 4.5
+   "score": 4.1
   },
   {
    "id": "europe-s-world-models-startups-mapped",
@@ -637,6 +763,63 @@
    "score": 4
   },
   {
+   "id": "switzerland-leads-europe-in-spinout-value-per-capita",
+   "title": "Switzerland leads Europe in spinout value per capita",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGREd00ycFRiV2t0Q0JlbFRQT19ZWFZWLW1TeTN3Nlc5T2RqbEd5R3NyZDl5bk1DWTA4X1RMUXBONGhZT1YzTEE1V0o0a1VZRUt4RjdWUjBWeklOSFlISllJcmtId1ZZV2hvVktfdWQwa05OYTNEanlLTkg4dlp3WTNoWmlNTWhnTlN6Y0YwSjM3am8?oc=5",
+   "summary": "",
+   "sources": [
+    "Startupticker.ch"
+   ],
+   "articles": [
+    {
+     "source": "Startupticker.ch",
+     "title": "Switzerland leads Europe in spinout value per capita",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGREd00ycFRiV2t0Q0JlbFRQT19ZWFZWLW1TeTN3Nlc5T2RqbEd5R3NyZDl5bk1DWTA4X1RMUXBONGhZT1YzTEE1V0o0a1VZRUt4RjdWUjBWeklOSFlISllJcmtId1ZZV2hvVktfdWQwa05OYTNEanlLTkg4dlp3WTNoWmlNTWhnTlN6Y0YwSjM3am8?oc=5"
+    }
+   ],
+   "date": "2026-11-18T07:50:28.000Z",
+   "categories": [],
+   "score": 3.9
+  },
+  {
+   "id": "u-s-invested-5-times-more-in-a-i-in-9-months-than-europe-did-in-a-decade",
+   "title": "U.S. Invested 5 Times More in A.I. in 9 Months Than Europe Did in a Decade",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1c2UzLUNHVmR2ckNPOTlWTlNaSHhJV3NrRERiU0JMejlqQi1RQXl3Q1RfUXdPdkV2RXktVXNBcjZpc05OTjBsekUxdFhuNWdsMmhjNktLc0lfc09ZN25FSEtmR3NZdlJzWDdsQTctbGpWaDcxU1d5ZkxQbw?oc=5",
+   "summary": "",
+   "sources": [
+    "www.trendingtopics.eu"
+   ],
+   "articles": [
+    {
+     "source": "www.trendingtopics.eu",
+     "title": "U.S. Invested 5 Times More in A.I. in 9 Months Than Europe Did in a Decade",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1c2UzLUNHVmR2ckNPOTlWTlNaSHhJV3NrRERiU0JMejlqQi1RQXl3Q1RfUXdPdkV2RXktVXNBcjZpc05OTjBsekUxdFhuNWdsMmhjNktLc0lfc09ZN25FSEtmR3NZdlJzWDdsQTctbGpWaDcxU1d5ZkxQbw?oc=5"
+    }
+   ],
+   "date": "2026-11-18T07:27:43.000Z",
+   "categories": [],
+   "score": 3.8
+  },
+  {
+   "id": "tech-start-ups-europe-on-track-to-reach-a-record-40-000-new-founders",
+   "title": "Tech start-ups: Europe on track to reach a record 40,000 new founders",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzZJNkM2d0RpZzk4R29BTzVkb3ltenRWdU10eUZEbzFaejZITk1lVl80bkMwVUlxS3NOYzlRX0p2VU1XVzRzV2o2eDVWSG1ZLTZsRXAtVzRGX3o3Z1VIWE53WWotdW9hXzRwNnkyRmhaS28xek5VU25ubFE5R2hzMDR6MEw0c2dUdnNBR3hXdUNud2dBOGNv?oc=5",
+   "summary": "",
+   "sources": [
+    "Il Sole 24 ORE"
+   ],
+   "articles": [
+    {
+     "source": "Il Sole 24 ORE",
+     "title": "Tech start-ups: Europe on track to reach a record 40,000 new founders",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzZJNkM2d0RpZzk4R29BTzVkb3ltenRWdU10eUZEbzFaejZITk1lVl80bkMwVUlxS3NOYzlRX0p2VU1XVzRzV2o2eDVWSG1ZLTZsRXAtVzRGX3o3Z1VIWE53WWotdW9hXzRwNnkyRmhaS28xek5VU25ubFE5R2hzMDR6MEw0c2dUdnNBR3hXdUNud2dBOGNv?oc=5"
+    }
+   ],
+   "date": "2026-11-18T06:28:11.000Z",
+   "categories": [],
+   "score": 3.7
+  },
+  {
    "id": "the-family-cofounder-sentenced-to-16-months-in-prison",
    "title": "The Family cofounder sentenced to 16 months in prison",
    "url": "https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/",
@@ -653,7 +836,7 @@
    ],
    "date": "2026-11-17T15:40:45.000Z",
    "categories": [],
-   "score": 3.9
+   "score": 3.5
   },
   {
    "id": "post-training-tag",
@@ -672,7 +855,7 @@
    ],
    "date": "2026-11-17T11:32:38.000Z",
    "categories": [],
-   "score": 3.5
+   "score": 3.2
   },
   {
    "id": "legora-s-revenue-chief-on-hiring-at-speed-keeping-culture-intact-and-the-need-fo",
@@ -711,25 +894,6 @@
    "date": "2026-11-17T05:00:14.000Z",
    "categories": [],
    "score": 3
-  },
-  {
-   "id": "the-hidden-cost-holding-back-europe-s-energy-innovators",
-   "title": "The Hidden Cost Holding Back Europe's Energy Innovators",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVk3T0ZwMXFKODJjV2V6Q2h3TVVWMG1aclZIVC1naHZ3b2d5elBqTlJNVzl6b1hkak91Rk9HY0hEYklDSjZXcnd0WFBkbjF3UUhuVWVTalZzRUVyWlM0dXQtQ2h5dEpUdl85R3FXSy1RaWg2c3hhdTRMTW9IcUZocEotR3Bma3M4SG90X21JMTBqbEFMaUI0QjNrSmpvY29yX3ZIU3VVWkNGQdIBqgFBVV95cUxOVVk3T0ZwMXFKODJjV2V6Q2h3TVVWMG1aclZIVC1naHZ3b2d5elBqTlJNVzl6b1hkak91Rk9HY0hEYklDSjZXcnd0WFBkbjF3UUhuVWVTalZzRUVyWlM0dXQtQ2h5dEpUdl85R3FXSy1RaWg2c3hhdTRMTW9IcUZocEotR3Bma3M4SG90X21JMTBqbEFMaUI0QjNrSmpvY29yX3ZIU3VVWkNGQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Crude Oil Prices Today | OilPrice.com"
-   ],
-   "articles": [
-    {
-     "source": "Crude Oil Prices Today | OilPrice.com",
-     "title": "The Hidden Cost Holding Back Europe's Energy Innovators",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVk3T0ZwMXFKODJjV2V6Q2h3TVVWMG1aclZIVC1naHZ3b2d5elBqTlJNVzl6b1hkak91Rk9HY0hEYklDSjZXcnd0WFBkbjF3UUhuVWVTalZzRUVyWlM0dXQtQ2h5dEpUdl85R3FXSy1RaWg2c3hhdTRMTW9IcUZocEotR3Bma3M4SG90X21JMTBqbEFMaUI0QjNrSmpvY29yX3ZIU3VVWkNGQdIBqgFBVV95cUxOVVk3T0ZwMXFKODJjV2V6Q2h3TVVWMG1aclZIVC1naHZ3b2d5elBqTlJNVzl6b1hkak91Rk9HY0hEYklDSjZXcnd0WFBkbjF3UUhuVWVTalZzRUVyWlM0dXQtQ2h5dEpUdl85R3FXSy1RaWg2c3hhdTRMTW9IcUZocEotR3Bma3M4SG90X21JMTBqbEFMaUI0QjNrSmpvY29yX3ZIU3VVWkNGQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-16T18:00:00.000Z",
-   "categories": [],
-   "score": 2
   }
  ]
 }
