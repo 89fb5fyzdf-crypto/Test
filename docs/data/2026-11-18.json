@@ -1,0 +1,1201 @@
+{
+ "date": "2026-11-18",
+ "generatedAt": "2026-11-18T03:28:48.105Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 70,
+  "linkedin": 0
+ },
+ "linkedinSearch": false,
+ "watchlist": [
+  {
+   "name": "La French Tech",
+   "url": "https://www.linkedin.com/company/lafrenchtech/posts/"
+  },
+  {
+   "name": "Bpifrance",
+   "url": "https://www.linkedin.com/company/bpifrance/posts/"
+  },
+  {
+   "name": "Station F",
+   "url": "https://www.linkedin.com/company/stationf/posts/"
+  },
+  {
+   "name": "Maddyness",
+   "url": "https://www.linkedin.com/company/maddyness/posts/"
+  },
+  {
+   "name": "France Digitale",
+   "url": "https://www.linkedin.com/company/france-digitale/posts/"
+  },
+  {
+   "name": "Mistral AI",
+   "url": "https://www.linkedin.com/company/mistralai/posts/"
+  }
+ ],
+ "sources": [
+  {
+   "source": "Maddyness",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "EU-Startups (France)",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "BFM Tech",
+   "ok": true,
+   "items": 30
+  },
+  {
+   "source": "TechCrunch (France)",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "Journal du Net",
+   "ok": true,
+   "items": 60
+  },
+  {
+   "source": "Google News · startup française levée de fonds",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "Google News · Bpifrance startup",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "source": "Google News · licorne française",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "Google News · \"French Tech\"",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "source": "Google News · Station F",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "Les Echos Start",
+   "ok": false,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "Google News · Mistral AI",
+   "ok": true,
+   "items": 27
+  },
+  {
+   "source": "Siècle Digital",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "L'Usine Digitale",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "FrenchWeb",
+   "ok": true,
+   "items": 30
+  }
+ ],
+ "items": [
+  {
+   "id": "ovhcloud-devoile-son-premier-modele-d-ia",
+   "kind": "article",
+   "title": "OVHcloud dévoile son premier modèle d'IA",
+   "url": "https://www.maddyness.com/2026/11/17/ovhcloud-devoile-son-premier-modele-dia/",
+   "summary": "L’article OVHcloud dévoile son premier modèle d'IA est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness",
+    "Numerama",
+    "Melles750",
+    "lefilia.fr"
+   ],
+   "date": "2026-11-17T08:41:06.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 14.4
+  },
+  {
+   "id": "qluster-leve-4-7-millions-d-euros-pour-developper-un-accelerateur-quantique-phot",
+   "kind": "article",
+   "title": "QLUSTER lève 4,7 millions d’euros pour développer un accélérateur quantique photonique",
+   "url": "https://www.frenchweb.fr/qluster-leve-4-7-millions-d-euros-pour-developper-un-accelerateur-quantique-photonique/900000048?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "DECODE QUANTUM · La rédaction · 17/11/2026 Mené par QUANTONATION, ce premier tour doit financer le laboratoire et les recrutements de la spin-off du Laboratoire Kastler Brossel. QLUSTER vise d’abord le traitement de données temporelles pour des industriels, avant un ordinateur quantique universel à l’horizon 2036. Lire l’article sur FRENCHWEB.FR → Depuis 2008, FrenchWeb décrypte la tech et l’innov",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/e1452ebdc1c11e4e9688eba8e43a38dda555a44abec42a403cb740d38369797a.webp",
+   "sources": [
+    "FrenchWeb",
+    "J'aime les startups",
+    "Silicon.fr"
+   ],
+   "date": "2026-11-17T08:44:40.000Z",
+   "categories": [
+    "Levées de fonds",
+    "Talents & nominations"
+   ],
+   "score": 14.4
+  },
+  {
+   "id": "robotique-genesis-ai-boucle-une-serie-a-d-un-demi-milliard-de-dollars-aupres-de-",
+   "kind": "article",
+   "title": "Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom",
+   "url": "https://www.maddyness.com/2026/11/17/robotique-genesis-ai-boucle-une-serie-a-dun-demi-milliard-de-dollars-aupres-de-nvidia-samsung-et-zoom/",
+   "summary": "L’article Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness",
+    "lefilia.fr"
+   ],
+   "date": "2026-11-17T13:59:01.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 12.9
+  },
+  {
+   "id": "genesis-ai-leve-425-millions-d-euros-pour-deployer-ses-robots-en-usine",
+   "kind": "article",
+   "title": "GENESIS AI lève 425 millions d’euros pour déployer ses robots en usine",
+   "url": "https://www.frenchweb.fr/genesis-ai-leve-425-millions-d-euros-pour-deployer-ses-robots-en-usine/900000051?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "AI FIRST · Richard Menneveux · 17/11/2026 GENESIS AI annonce une série A de 500 millions de dollars qui valorise la société autour de 3 milliards d’euros. L’entreprise veut accélérer la production d’Eno, son robot à roues, et le déployer dans les usines, les entrepôts et les laboratoires. Lire l’article sur FRENCHWEB.FR → Depuis 2008, FrenchWeb décrypte la tech et l’innovation. Recevoir la sélecti",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/6e55224a07ca6dd92077eef0947f81cb33f8df212f41f799d4cad68c5695bf8f.webp",
+   "sources": [
+    "FrenchWeb",
+    "Zonebourse"
+   ],
+   "date": "2026-11-17T14:00:10.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 12.9
+  },
+  {
+   "id": "genesis-ai-leve-500-millions-de-dollars-en-serie-a-pour-ses-robots-de-pointe",
+   "kind": "article",
+   "title": "Genesis AI lève 500 millions de dollars en série A pour ses robots de pointe",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHAzbVVNWFpZUU1RTHp3STlrcmpSZFFfVjZla05PZ0hpam5nOE9XejNMOGhKYkxaTGp0QkROVlMxZlAwSkJ2d2dndDkzN2VPRFZtWmFNQzVnNk1wVWZTS0hJQnA0bnQtMUVuSU9kQVp6SjR1ejRCWE1yTGFmNjZHTE1oVXJLbTNDOVpKVWJZbUtvdkdWVF9aQnBWb25lb3BuenlIMlpjVi1PaUlvVkVCdXZNR0w5dw?oc=5",
+   "summary": "",
+   "sources": [
+    "WanSquare",
+    "Boursorama"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T17:15:00.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 11.1
+  },
+  {
+   "id": "trois-anciens-de-h-company-levent-25-5-millions-d-euros-pour-remanence",
+   "kind": "article",
+   "title": "Trois anciens de H COMPANY lèvent 25,5 millions d’euros pour REMANENCE",
+   "url": "https://www.frenchweb.fr/trois-anciens-de-h-company-levent-25-5-millions-d-euros-pour-remanence/900000050?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "AI FIRST · La rédaction · 17/11/2026 PIERRE-LOUIS CEDOZ, HAMZA BENCHEKROUN et AXEL MOYAL ont travaillé ensemble sur les modèles Holo chez H COMPANY. Avec REMANENCE, ils veulent aider les entreprises à entraîner leurs propres modèles à partir des tâches déjà exécutées par leurs agents d’IA. La startup parisienne annonce un tour d’amorçage de 30 millions de dollars, co-mené par EQT VENTURES et FIRST",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/c6f1c2a691066903b92bf506329c2ccff49fad3f2c19d16af7b49b324a257844.webp",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "date": "2026-11-17T13:23:14.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 10.8
+  },
+  {
+   "id": "ia-des-anciens-de-h-company-lancent-leur-startup-avec-une-levee-de-fonds-de-30-m",
+   "kind": "article",
+   "title": "IA : des anciens de H Company lancent leur startup avec une levée de fonds de 30 millions de dollars",
+   "url": "https://www.maddyness.com/2026/11/17/ia-des-anciens-de-h-company-lancent-leur-startup-avec-une-levee-de-fonds-de-30-millions-de-dollars/",
+   "summary": "L’article IA : des anciens de H Company lancent leur startup avec une levée de fonds de 30 millions de dollars est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness"
+   ],
+   "date": "2026-11-17T09:59:04.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 9.5
+  },
+  {
+   "id": "remanence-leve-30-millions-de-dollars-pour-entrainer-des-modeles-sur-les-traces-",
+   "kind": "article",
+   "title": "Remanence lève 30 millions de dollars pour entraîner des modèles sur les traces d'agents",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSkNna3ppOUc0Z3h2NzNxeDhNUlRDS3Nhb05oMEk2di1mWU1BRGdiZHNLc1JFQVdmT1lYTjE1MlFYQWZac0FkZDVCSzdHVWgxbkZscnMzZV9UN240Q0NoazFvUV9GdkE5cHRtb3YxVlRiTC14X0dCTHhOWkRCUlhxU0wtcmZuX2ktWVRkRktFV2d1UjJzcGRsVlM2UU5yQ05PRFI0bjB1U00tcDEzejRRWlBBOFFHLS0teWFLTl9B?oc=5",
+   "summary": "",
+   "sources": [
+    "ActuIA",
+    "lefilia.fr"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T11:14:57.000Z",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "score": 8.6
+  },
+  {
+   "id": "genesis-ai-boucle-une-levee-de-plus-de-450-m",
+   "kind": "article",
+   "title": "Genesis AI boucle une levée de plus de 450 M€",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJ3c3RJV2Z3Y0JsdWVfT3pLeU9tQWZlSFc2V3ZQR2hmYzZlZFVYYmo3bGlzYkFCQ0RILXhQSHFHeS1NQzA1S1FKMGJaMTBQZUZNVnoybmE2LWY4alU5TW1YQS1peVNEd2FjOEtYYk9nWUh2VFBlRGNJTHJ1MlBCY0pxNGxXZ1dZRmhoUUF6WjdQRkc0endOU2hyaGZIMzlXaEppRi1UOWpQWHNLYTM5VA?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T16:55:01.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 8.1
+  },
+  {
+   "id": "genesis-ai-licorne-francaise-des-robots-humanoides",
+   "kind": "article",
+   "title": "Genesis AI, licorne française des robots humanoïdes",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOVBIVUdSLVc4R0lCOVpOeUs0M2owT3RwcE9Ka1VFcXF3djFLUWwzYUdYTDRWNHc1M1JKZWpuRnk3d2JQZFVEaEJLdEgzQ1VuN3Q1eC10WUdzZnVlX2hIdUxOcUwtVWNrRHJ1OTg4bzV6OXBGclN6dHd6SlNJaU5vRldlRUl1OWxYXzNKRkNILVhNa3hSYXRYZFc1bVNkNmpvN0hjRk04S2U0SkkzSk15S3E0VWNTY3BsNTdLYW1pODgtbzBlaUlKakNadw?oc=5",
+   "summary": "",
+   "sources": [
+    "CFNEWS"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T14:00:00.000Z",
+   "categories": [
+    "Licornes & scale-ups",
+    "IA"
+   ],
+   "score": 7.9
+  },
+  {
+   "id": "ovhcloud-lance-olala-son-modele-d-ia-sans-levee-de-fonds",
+   "kind": "article",
+   "title": "OVHcloud lance Olala, son modèle d'IA sans levée de fonds",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1p2RWZuQXBsYVBBQU5MLTJ1d3Rsam5waHg2bG9JQzdRbGV0YjNNajhIMlVzOVlMNGNZMy13SWhmRG1rdXRjdTdNWUZ5Z2prZTU1eWU4U2RRY0JCWmZNWjVRWW9qcFZsVU51OWw2QmI0WDBNVWwxd0lQVUFiOUJaU2QwRzJDQ2FGenM3TEZXTGs?oc=5",
+   "summary": "",
+   "sources": [
+    "Brief IA"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T09:32:50.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 7.5
+  },
+  {
+   "id": "olala-ovhcloud-lance-son-intelligence-artificielle-francaise-et-veut-defier-les-",
+   "kind": "article",
+   "title": "Olala : OVHcloud lance son intelligence artificielle française et veut défier les géants américains",
+   "url": "https://siecledigital.fr/2026/11/17/ovhcloud-devoile-olala-sa-premiere-ia-francaise-pour-concurrencer-les-geants-americains/",
+   "summary": "Le marché de l’IA ne cesse de prendre de l’ampleur : même OVHcloud propose désormais son propre modèle. Baptisé Olala, il sera disponible cette semaine sur Hugging Face. L’objectif est également ambitieux, puisque l’entreprise espère atteindre 100 millions d’utilisateurs. Le défi sera de trouver sa place parmi les géants du secteur. OVH se tourne vers […]",
+   "sources": [
+    "FranceTransactions.com",
+    "Siècle Digital"
+   ],
+   "date": "2026-11-17T08:07:29.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 7.4
+  },
+  {
+   "id": "ia-et-droit-d-auteur-la-france-organise-volontairement-son-propre-sabotage-denon",
+   "kind": "article",
+   "title": "IA et droit d'auteur : « La France organise volontairement son propre sabotage », dénoncent une trentaine de patrons de la French Tech",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRVRmWmVLWVFoNmd5VFBjTGYwc2MzWDNrN2pqYm9rcm45MU5oc19pYjlqaFVQNlBFMkNTYTNfSUFTZU5OLUplLWNXaTdCT1ZHOEdyOFQ3WHNDQmdFVHM1TjJMR2NNcU5SaXJCNEFCRGNHSXk3QXJCQTQwY3pkNFVMUUdPekN0azFVSWJ1V3QwYThsX2tzdHZmckhiOHB6akE3bVRjdkljQzFIRi1MdHI5Ny1GV2xuRFZHdUt2c1JZcTJQOWVuRkJTN2xOOWZ4VXdnRnJua2hkcENwQ18tSkNnVHdYVk5sdXhYSTFhN2Nxd1Nra1BpT3VzVTZYTTByVmxsVzRsSzkxRFFZUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T07:30:08.000Z",
+   "categories": [
+    "IA",
+    "Politique & écosystème"
+   ],
+   "score": 7.3
+  },
+  {
+   "id": "l-opportunite-est-immense-comment-genesis-ai-est-devenue-la-nouvelle-licorne-de-",
+   "kind": "article",
+   "title": "« L'opportunité est immense » : comment Genesis AI est devenue la nouvelle licorne de la robotique humanoïde",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYjVIY2QwcjZ2ekFlZDZXNXl0MHBvMlYxU0JONnVCQVAyWjJ0dG1mUXB4NTk2ck02WjhkSlM2M19WVjdtWm0xSU5memRrQ29OOXJGUFNMcmlUV1AzUzFOclMwelExVHVNY2FNaFcyUk5mQTMxTGhQbVhYMDVQcy1TeGtwNzNNaFVOYTVGN3dyanNCSnRpZVg1QS0xRmZsNHA5cEFxMVBsSXdLM2FMR283UnA1NmpjWlQ2dnFHQVlVdGgzQWlXcGNkQmtHWXN3dE5FSko1UGQ2U0JHTnFGSWlr?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T14:51:57.000Z",
+   "categories": [
+    "Licornes & scale-ups",
+    "IA"
+   ],
+   "score": 6.9
+  },
+  {
+   "id": "du-web3-du-luxe-a-la-tracabilite-industrielle-arianee-change-de-mains",
+   "kind": "article",
+   "title": "du Web3 du luxe à la traçabilité industrielle, ARIANEE change de mains.",
+   "url": "https://www.frenchweb.fr/du-web3-du-luxe-a-la-tracabilite-industrielle-arianee-change-de-mains/900000052?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "IN THE LOOP · La rédaction · 17/11/2026 ARIANEE a d’abord développé ses passeports numériques pour des maisons de luxe comme BREITLING et VACHERON CONSTANTIN. Quatre ans après une levée de 20 millions d’euros menée par TIGER GLOBAL, la société parisienne rejoint EDGYN. Le spécialiste de l’authentification veut proposer le logiciel d’ARIANEE à ses clients industriels, à quelques mois de l’entrée en",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/32b54184d6eeefc9377277a612292bbfede92f8a638aefe02709d1318add7ae5.webp",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "date": "2026-11-17T16:23:14.000Z",
+   "categories": [
+    "Talents & nominations"
+   ],
+   "score": 6.1
+  },
+  {
+   "id": "premiere-levee-de-fonds-pour-qluster",
+   "kind": "article",
+   "title": "Première levée de fonds pour Qluster",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHJnR2NCQnBlX0pyczBxLURWd3F1QnRZVnlmdnpES3JhREd5dWNpR2VQZWdWeS16RG5Wc2VINFIyX2tfZk9TVXpXOVZMRDhMck1aaF81RTJSVVdBbFRoM3FYTnk2WmVMYU1qaUNacENBRnpGb21NSXo1clNiWkpkRDVtNklOTjRySmZmbFlSc1NrSHUyTTZUR0JzNTl4ejdzeE0xX1FWNG5qODdNUmNsalJHZ24?oc=5",
+   "summary": "",
+   "sources": [
+    "L'Informaticien"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T15:39:56.000Z",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "score": 6
+  },
+  {
+   "id": "speeral-leve-2-5-millions-d-euros-pour-automatiser-la-revente-des-stocks-dormant",
+   "kind": "article",
+   "title": "Speeral lève 2,5 millions d’euros pour automatiser la revente des stocks dormants",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcG1HTTQ2SGVCWTM0c2Z2VkM0WEV6a2RlbXdsY2NnaXJfRGxPTGJWN1A4dkRkSlMyU1UwRXlFYUI0cVFMeGVNYnRaREVXeWtXMGtFZkVWb1ctQnU2X3k2cDBqZTBlNjdJcUlSMzVtTlMySW5KSzFXNmpvdWtqY0REMy1lZFUwQjFOZkNCNA?oc=5",
+   "summary": "",
+   "sources": [
+    "J'aime les startups"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T10:15:06.000Z",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "score": 5.6
+  },
+  {
+   "id": "mad30-x-shopify-les-30-dirigeants-qui-reinventent-l-e-commerce-grace-a-l-ia",
+   "kind": "article",
+   "title": "MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA",
+   "url": "https://www.maddyness.com/2026/11/17/mad30-shopify-ia-e-commerce/",
+   "summary": "L’article MAD30 x Shopify : les 30 dirigeants qui réinventent l’e-commerce grâce à l’IA est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness"
+   ],
+   "date": "2026-11-17T09:00:26.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 5.5
+  },
+  {
+   "id": "si-l-ia-fait-le-travail-des-debutants-d-ou-viendront-les-experts-de-demain",
+   "kind": "article",
+   "title": "Si l'IA fait le travail des débutants, d'où viendront les experts de demain ?",
+   "url": "https://www.maddyness.com/2026/11/17/si-lia-fait-le-travail-des-debutants-dou-viendront-les-experts-de-demain/",
+   "summary": "L’article Si l'IA fait le travail des débutants, d'où viendront les experts de demain ? est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness"
+   ],
+   "date": "2026-11-17T08:00:26.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 5.4
+  },
+  {
+   "id": "l-ia-ne-se-deploie-pas-elle-se-manage",
+   "kind": "article",
+   "title": "L'IA ne se déploie pas, elle se manage",
+   "url": "https://www.maddyness.com/2026/11/17/management-ia-transformation-travail/",
+   "summary": "L’article L'IA ne se déploie pas, elle se manage est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness"
+   ],
+   "date": "2026-11-17T08:00:21.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 5.4
+  },
+  {
+   "id": "presomption-d-utilisation-une-loi-qui-manquerait-sa-cible",
+   "kind": "article",
+   "title": "Présomption d'utilisation : une loi qui manquerait sa cible",
+   "url": "https://www.journaldunet.com/intelligence-artificielle/1558063-presomption-d-utilisation-une-loi-qui-manquerait-sa-cible/",
+   "summary": "La loi sur la présomption d'utilisation des œuvres par l'IA imposerait une preuve négative impossible, au risque de multiplier les contentieux et de pénaliser l'IA française.",
+   "image": "https://img-0.journaldunet.com/LNj-Iz1NNfT2tyse3os7uoReZFY=/1280x/smart/79757b64af204cd88e5b16c7e9b56dc4/user-jdn/39546319-alexandre-rudoni.jpg",
+   "sources": [
+    "Journal du Net"
+   ],
+   "date": "2026-11-17T08:18:07.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 5.4
+  },
+  {
+   "id": "french-tech-night-2026-six-entreprises-de-cote-d-or-parmi-les-exposants",
+   "kind": "article",
+   "title": "French Tech Night 2026 : six entreprises de Côte-d’Or parmi les exposants",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzJ4T05Kd2xUU182Ri04NGF3TTNZd0VuZzRCdUJLdG5hT1ZLVWwtMGpadEJUX3F5dGp0TTVnd3dWVkhLMzNtM1hvS0hXZzd3a2M3N1laSDc3ZGdOeW9INFNsU2lhWW9MbUlra3VpUkhQdHl3OFVpWlBncUt6UXo5N2dESzZPZ3BjeGlqSkpKLUxZOWdRaFdtR0ZyYmFRX3pINWl1MVJPeHVxWXJvUXhr?oc=5",
+   "summary": "",
+   "sources": [
+    "La Gazette France"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T08:01:29.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5.4
+  },
+  {
+   "id": "french-tech-cailabs-specialiste-des-communications-laser-17-11",
+   "kind": "article",
+   "title": "French Tech : Cailabs, spécialiste des communications laser - 17/11",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSGJ6M0dUb3c4dVNWeVkyQXkxV1JvYUlKZWdmQnpGY0g0LXpMaldXdEZXcFNUSnUyLW16ZjRWbUUxOG1HZXd0U2tmUHE2VlhRVmpRVE9JcjhXZm42M2k0OVQxeUo0RGd2bW5XcGZHVC1IajhwOGVlUzNFcDNjRnJKS1dkZGk1RThpSzlwQWdRR1BtOVJhX2NaLXB2Uk9nTG9Kbk9aRlZxbzdKYzhEVko2Ymh0V01jZWxBSVc0bjZWSGw2OEd3RTliVFBZVDhGZGMzWW4weURSMVBwcUN4R0hvWTl1SQ?oc=5",
+   "summary": "",
+   "sources": [
+    "BFM"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T07:37:22.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5.3
+  },
+  {
+   "id": "french-tech-qluster-le-dernier-ne-de-la-famille-du-calcul-quantique",
+   "kind": "article",
+   "title": "French Tech : Qluster, le dernier-né de la famille du calcul quantique",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1BIUUZEenlpVS1Td3czeWU4TG1SOVFlX2pvTkFNczNSaTFnYTdWWl9YWnBtVVhOMEpRRXBzUUFJMGdXZmtiYm0wQzRQUEN1SkdoSVY0WEdSQllPN3BVb1liNFFaYmxKcXlIeVNZUGI0dm16ZlphWlVUYUVFdjExUXlsQzY2N1JnRUNsQlhzR0ktWXdJbHlYNG9QOEFSVWFRWHc4OWFjcDMxYXRic3Rsa2NramszRFNYaDdR?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T06:00:08.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5.2
+  },
+  {
+   "id": "la-troisieme-edition-du-tour-de-france-de-nos-industries-organisee-par-bpifrance",
+   "kind": "article",
+   "title": "La troisième édition du « Tour de France de nos industries », organisée par Bpifrance et avec OPCO 2i a fait étape à Limoges à l'occasion du lancement de la semaine de l'industrie, pour donner visibilité et fierté aux acteurs qui font l'industrie française au quot",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPYWpPOUVjLVVPTUpVdTgybUtITExSVmZ6TWdmU05FQ3JiNUlVTnhVdjg2U3lTZHBaSEIzTlZ0amdBQTJkdlo3OE5DUGVaS0VwNE5PTWpNQllBTVZSN3EzZFRPd2MtWlRNNTV6VmlndUw0QkoxTmx2NDBVWDY2RmJTLURadXpEYnpDUnowWGxKSG5rd3VhczI4SmpWbzhLQ283MFRDYkdnOC1odGc0M2hUa1d3cERsOU5tXzU0djdBemwxRTJTM2ZnOU0zaHpZTlo1UmV1ZWlVbEtRWHRPRW51RWpRVWVZYmdtY2ZUa3dkR0xfbXBqOUw0RExFZ3p2em5IN01FbUFuS255U1A0Z1JEem42N3ZreWp0Mk1NekFjM1FRLWdfaDkxNUIyUUhfQU5KQjFxcFFBWDlkZWZCajZLVmRCemMyQ3Z1dU40?oc=5",
+   "summary": "",
+   "sources": [
+    "Bpifrance | Presse"
+   ],
+   "via": "Google News",
+   "date": "2026-11-16T15:33:54.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5
+  },
+  {
+   "id": "chiffres-cles-de-la-licorne-pennylane-ce-qu-il-faut-savoir-avant-d-ouvrir-votre-",
+   "kind": "article",
+   "title": "Chiffres clés de la licorne Pennylane : ce qu’il faut savoir avant d’ouvrir votre compte pro",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1l2cERwS3RuSDhGd2dNV3lmcVdIZlI4V19yaFhHLU1kUUpCTzNRVGtQMy0wd3lwTEhaNUZDZUc3Yk5WYTg1WXBvR1BSMXZRUm9UZ1gyV2RuQXp4THBwNFAtZC1qa2w0Q2hEV2VwR3kwY0stT1hHWVVsMklhZEdld05mcHUtN2Q4a2NIczFyXy1OeEtGeGcwWUlUbF9uSnlic3psTUVqTU1COVBEeWZCT2FPMkpVNXhGdVRVTVNnWndvYzVaUHllZll5TU5BUmJ0eERhekk0ckM0VkpCdmRMM29R?oc=5",
+   "summary": "",
+   "sources": [
+    "Le Point"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T15:12:58.000Z",
+   "categories": [
+    "Licornes & scale-ups"
+   ],
+   "score": 5
+  },
+  {
+   "id": "jeremy-caussade-dans-lemission-french-tech-sur-bfm-business-aura-aero",
+   "kind": "article",
+   "title": "Jérémy Caussade dans lémission French Tech sur BFM Business. - Aura Aero",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2FQS1NaNXU3YS1qTGpwQjllSnVhSEIzcDBDSUNjMnVZQ0tmUmViLWJKNFFNZElKSmc3SjBBenM4SmpXMVBsdXVVWS15ZzBsQkVLRlNGaGo1alVmTXc2NFpvU2x4V2VjRG5DTmNHTDJHSmJCdFRrWEhfSk85elpCOXg3UEZqVUZfaHNhOUloQVp6Uk9raFB2azIyQzNDSE1uaElN?oc=5",
+   "summary": "",
+   "sources": [
+    "Aerocontact.com"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T01:08:40.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5
+  },
+  {
+   "id": "le-francais-ovhcloud-se-lance-dans-les-llm-avec-olala-un-petit-modele-ouvert",
+   "kind": "article",
+   "title": "Le Français OVHcloud se lance dans les LLM avec Olala, un petit modèle ouvert",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnRjNiQ21YdVhuQ0FmTno0V1oyQXFWX2JfMEVvTU9FYUNNNUtNQWNZdFhqRUFZUGZvZDk1RnBSaVc2NU1YaE16THJ0RmR2X2R6WS1sZThidkd4ZXFjNU9yQlhkd3E4NE1MRnBqRmZrZWVISzlKeDZmTnRYcmo?oc=5",
+   "summary": "",
+   "sources": [
+    "BDM"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T14:05:13.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.9
+  },
+  {
+   "id": "faux-conseiller-bancaire-du-premier-appel-au-virement-qui-pouvait-arreter-l-arna",
+   "kind": "article",
+   "title": "Faux conseiller bancaire : du premier appel au virement, qui pouvait arrêter l’arnaque ?",
+   "url": "https://www.frenchweb.fr/faux-conseiller-bancaire-du-premier-appel-au-virement-qui-pouvait-arreter-l-arnaque/900000049?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "EXPERIENCES · La rédaction · 17/11/2026 Le numéro affiché était celui inscrit au dos de sa carte bancaire. Après vingt et une minutes d’appel, deux virements frauduleux ont été exécutés. Le tribunal judiciaire de Paris a condamné BNP PARIBAS à rembourser 8 861,34 euros et BOUYGUES TELECOM à garantir la banque. De l’appel au compte destinataire, l’affaire montre comment une fraude traverse plusieur",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/8fad726cd09719140bc73c15e83554749c512a924d9cf4babb5f2e66dfa8f5f1.webp",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "date": "2026-11-17T11:03:17.000Z",
+   "categories": [],
+   "score": 4.6
+  },
+  {
+   "id": "moins-de-100-salaries-face-aux-geants-de-l-ia-le-pari-fou-du-francais-ovhcloud-q",
+   "kind": "article",
+   "title": "Moins de 100 salariés face aux géants de l'IA: le pari fou du français OVHcloud qui veut concurrencer Mistral et les Américains et vise 100 millions d'utilisateurs",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZmZJM3VRa1hKTWJyalRfNGt2b3NFU0JPRkZtVFpZVXBKczNOQU1SblpEYkVmaHhvcml0czNiMUhJX1I3OE5VLS1OVXF2Nm1SU050OGFwdzBqV2FkYXcwUEpValJKOC0ySHljTXhWUFZtUlpTS1RKXzNiODllVGluSWk5OUtuOFlqLWc5SUlWX1d0YjhESTFubzA4eEdOeG5wekdzNEIyUTV0TUJHSnpKcFI0aDFjNWlMQk91cDNSYk9iM3BxSUZEcWFqV25yQ1M1RzVhRDhuN2NVcDRmMGZ0djB0cDVleXBkLUR4c3QxcGNpb2tTbExCR1V2QjZFSFJ1YzlDTFg3Z0FaWldDY1pHX1FyWGw1ckVGdEFpZ3Q3MXFlR2ZpS0JpbF9MUGV6SU1hWHo2Y2JSdEJHNmNla1Y3a2hReGwyNlpqVXpSVk0wM3RfNDJuZGduaQ?oc=5",
+   "summary": "",
+   "sources": [
+    "BFM"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T10:12:09.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.6
+  },
+  {
+   "id": "cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-l-agence-de-cybe",
+   "kind": "article",
+   "title": "Cette startup française a trouvé des identifiants appartenant à l’agence de cybersécurité américaine…",
+   "url": "https://www.maddyness.com/2026/11/17/cette-startup-francaise-a-trouve-des-identifiants-appartenant-a-lagence-de-cybersecurite-americaine/",
+   "summary": "L’article Cette startup française a trouvé des identifiants appartenant à l’agence de cybersécurité américaine… est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness"
+   ],
+   "date": "2026-11-17T08:00:11.000Z",
+   "categories": [],
+   "score": 4.4
+  },
+  {
+   "id": "apple-sera-juge-pour-obsolescence-programmee-a-paris-en-2027",
+   "kind": "article",
+   "title": "Apple sera jugé pour obsolescence programmée à Paris en 2027",
+   "url": "https://www.journaldunet.com/business/1558143-apple-sera-juge-pour-obsolescence-programmee-a-nanterre-en-2027/",
+   "summary": "Le fabricant américain devra répondre devant la justice française d'entraves présumées à la réparation de ses iPhone, à la suite d'une plainte de l'association HOP.",
+   "image": "https://img-0.journaldunet.com/WCp9gy3uq3IBllat_UnHqlEgUhM=/1280x/smart/1662a5ba8f224a59a6fd764142b61a0d/ccmcms-jdn/39546394.jpg",
+   "sources": [
+    "Journal du Net"
+   ],
+   "date": "2026-11-17T19:23:42.000Z",
+   "categories": [],
+   "score": 4.3
+  },
+  {
+   "id": "la-commission-europeenne-demande-a-la-france-d-assainir-ses-finances-publiques",
+   "kind": "article",
+   "title": "La Commission européenne demande à la France d'assainir ses finances publiques",
+   "url": "https://www.journaldunet.com/business/1558141-la-commission-europeenne-demande-a-la-france-d-assainir-ses-finances-publiques/",
+   "summary": "Bruxelles presse Paris de corriger sa trajectoire budgétaire, sur fond de prévisions économiques dégradées et de tensions accrues sur les marchés.",
+   "image": "https://img-0.journaldunet.com/nzynT7eI-zQVjRCzMXTBvpbfy50=/1280x/smart/52d8243b1806488ca29c812777ae0a56/ccmcms-jdn/39546392.jpg",
+   "sources": [
+    "Journal du Net"
+   ],
+   "date": "2026-11-17T19:16:34.000Z",
+   "categories": [],
+   "score": 4.3
+  },
+  {
+   "id": "le-droit-de-comprendre-pour-un-acces-libre-securise-et-confidentiel-a-l-ia-face-",
+   "kind": "article",
+   "title": "Le droit de comprendre : pour un accès libre, sécurisé et confidentiel à l'IA face à la maladie grave.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJNd3FscGtSZjQtSlE2TFJwc0JLZEI0ZXUzZGNsZS1oRmtnU1VsN3dWYUFYbElGalRMdUZEWTRKMlhhRkhoaHlLaTZZQ2I5cjR4UlgxVXdyMmNoLVc3dVhnZmtwN0g2LUJvVExGWlJicVBTckVOdVE3OTV3SjBaR0lWNS04S000T1Y2bnJKX0FDeDYzVU41czdBdWh0dWVT?oc=5",
+   "summary": "",
+   "sources": [
+    "MyPetition.org"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T19:07:57.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.3
+  },
+  {
+   "id": "olala-mini-la-premiere-ia-francaise-d-ovhcloud-tient-sur-un-pc-sans-carte-graphi",
+   "kind": "article",
+   "title": "Olala mini : la première IA française d’OVHcloud tient sur un PC sans carte graphique dédiée",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3dUZHh0Y0dnRlZhdkNKaTRZRkRROHNvWTg2WmhVc3ZrdTByM1pVLXBuOU5lU3F0RmF5cklFaXo2eHlpOUVMeWtYSUdTc2dLZThFRkZEQjUzbzduMVZxM3FvSjNXS2RnNGNqcEVpNjRVek1OeDFnTzFYZkl2WnhocFplWlJMWS1ZYTlhbkFzUkx2MlAzYTV2NEY1NjY5TVAwVExLa01weDZrcXlqdkQ0enI5X3BmNWpvOEs4bjhDLXNlekFobmJXYw?oc=5",
+   "summary": "",
+   "sources": [
+    "lefilia.fr"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T07:08:02.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.3
+  },
+  {
+   "id": "qonto-obtient-sa-licence-bancaire-et-va-pouvoir-accorder-des-prets",
+   "kind": "article",
+   "title": "Qonto obtient sa licence bancaire et va pouvoir accorder des prêts",
+   "url": "https://www.maddyness.com/2026/11/17/qonto-obtient-sa-licence-bancaire-et-va-pouvoir-accorder-des-prets/",
+   "summary": "L’article Qonto obtient sa licence bancaire et va pouvoir accorder des prêts est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness"
+   ],
+   "date": "2026-11-17T18:26:18.000Z",
+   "categories": [],
+   "score": 4.2
+  },
+  {
+   "id": "qonto-obtient-son-agrement-bancaire-et-prepare-ses-propres-offres-de-credit",
+   "kind": "article",
+   "title": "QONTO obtient son agrément bancaire et prépare ses propres offres de crédit",
+   "url": "https://www.frenchweb.fr/breaking-news/qonto-obtient-son-agrement-bancaire-et-prepare-ses-propres-offres-de-credit/17e75933-d050-48c6-b633-d67d0d924e1a?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+   "summary": "QONTO obtient son agrément bancaire et prépare ses propres offres de crédit",
+   "image": "https://www.frenchweb.fr/breaking-news/images/r23/fintech.jpg",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "date": "2026-11-17T16:40:42.000Z",
+   "categories": [],
+   "score": 4.1
+  },
+  {
+   "id": "presage-veut-tester-les-changements-du-cloud-avant-leur-mise-en-production",
+   "kind": "article",
+   "title": "PRÉSAGE veut tester les changements du cloud avant leur mise en production",
+   "url": "https://www.frenchweb.fr/presage-veut-tester-les-changements-du-cloud-avant-leur-mise-en-production/900000047?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "TECH · La rédaction · 17/11/2026 Après près de dix ans chez META, TONY TUNG a rejoint PRÉSAGE comme cofondateur et directeur scientifique. Sur le plateau de FrenchWeb, il explique comment la startup veut simuler les effets d’un changement logiciel avant son déploiement et ce qu’il lui reste à démontrer auprès des opérateurs cloud. Lire l’article sur FRENCHWEB.FR → Depuis 2008, FrenchWeb décrypte l",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/e665f15c5b65b4c988a1b4649d9639fb172c49a25e718b6aa9297f7b3b915138.png",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "date": "2026-11-17T05:09:51.000Z",
+   "categories": [
+    "Talents & nominations"
+   ],
+   "score": 4.1
+  },
+  {
+   "id": "ia-insider-la-chute-de-jensen-huang-remet-en-cause-le-futur-de-nvidia",
+   "kind": "article",
+   "title": "[IA Insider] La chute de Jensen Huang remet en cause le futur de Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTHY2dmFaa3BYdXB6bG0wWi0yaHh2YTFzT2lFaldTcEtQVW92ME9xS1pha0h4RlNnVnJJS2JZbk1qeHYxUE9KRjVmYnpYai0ycW1kSEFraHUybTFXTFloY2I3bG1DdjJQVVJDX3hCd2dZVzBnMUZTc3Ftamc5ZDBvNUU4Y0tDOFBNa2kxWE1vUlZ5TUFIbWI0QUpPdGx4MGc3aTl0N1RkcC1tQnNxbnlKTWZJZHdWSS1jNWlHcTZaZzV1clR6TV9GNXBxdU9UeWRkRl8tQW1rUUFzdXliajBzOWRtSFdsQ2NHelVNdmkycGpjeGZpSndpTkUtUjdkQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "L'Usine Digitale"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T16:14:04.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.1
+  },
+  {
+   "id": "remanence-obtient-30-millions-de-dollars-pour-former-l-ia-en-entreprise",
+   "kind": "article",
+   "title": "Remanence obtient 30 millions de dollars pour former l’IA en entreprise",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamVDSnFDcXhObGdkWUNORFNubC1yeTZ3bkN5QWQ1UXFidXZFbXZkREt0UnZYSEdxdGxaUkdHYnB5MDBsTnJxc3NVd3k3aFhWOU5UREJhQnZUbFJPcmVaNm9zSUVOWGdNZHV5Yjk5Njg0eVUybVRqeXdfXzhINlZUQVNsZjFzQ1Z1TnB4cjJqSmhMLUpQR3BVU19GZUp5czJsdGpOXw?oc=5",
+   "summary": "",
+   "sources": [
+    "Brief IA"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T14:34:56.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.9
+  },
+  {
+   "id": "ia-et-droit-d-auteur-une-proposition-de-loi-pour-proteger-la-creation-toujours-e",
+   "kind": "article",
+   "title": "IA et droit d'auteur : une proposition de loi pour protéger la création toujours enlisée à l'Assemblée",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPN1g5RmR5OXI5eWN5Q3FHZkloNnJ1NExEamdhSDhQNEFKeWRCcXJxNzl5bHJwM3pNZ3F1Yzd4bmt0eF9XN0NKMXE3N2RRVU84Y2ljdkhuRVRnOVFqc3Y3M0Vn?oc=5",
+   "summary": "",
+   "sources": [
+    "TradingView"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T14:32:30.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.9
+  },
+  {
+   "id": "anyos-ouvre-son-capital-au-grand-public-pour-en-finir-avec-les-bornes-de-recharg",
+   "kind": "article",
+   "title": "Anyos ouvre son capital au grand public pour en finir avec les bornes de recharge jetables",
+   "url": "https://www.maddyness.com/2026/11/17/anyos-capital-sowefund-bornes-recharge/",
+   "summary": "L’article Anyos ouvre son capital au grand public pour en finir avec les bornes de recharge jetables est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness"
+   ],
+   "date": "2026-11-17T13:00:46.000Z",
+   "categories": [],
+   "score": 3.8
+  },
+  {
+   "id": "des-tonnes-de-francais-echangent-leur-livret-a-par-cette-epargne-a-5-5-brut-vu-l",
+   "kind": "article",
+   "title": "Des tonnes de Français échangent leur Livret A par cette épargne à 5,5 % brut, vu les avantages, on comprend pourquoi",
+   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/des-tonnes-de-francais-echangent-leur-livret-a-par-cette-epargne-a-5-5-brut-vu-les-avantages-on-comprend-pourquoi_AB-202611170048.html",
+   "summary": "Si, comme beaucoup de Français, vous trouvez que le taux du Livret A rapporte peu, Fortuneo propose le Livret+, un placement à 5,5 % brut pendant 3 mois, ouvert avec un compte courant en ligne. Des Français l’adoptent déjà pour obtenir un meilleur rendement sur leur épargne.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/A40WpT6x8yeteWVGMcE1uaNGggU=/0x68:2048x1220/800x0/images/250-euros-offerts-pour-l-ouverture-d-un-compte-chez-Fortuneo-voici-l-astuce-2026916.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "date": "2026-11-17T22:22:00.000Z",
+   "categories": [],
+   "score": 3.6
+  },
+  {
+   "id": "building-bridges-to-the-u-s-2026-une-opportunite-unique-pour-les-entreprises-fra",
+   "kind": "article",
+   "title": "Building Bridges to the U.S. 2026 : une opportunité unique pour les entreprises françaises qui souhaitent se développer aux États-Unis",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOEZzVkg1cmFybG5kQXNURE5lZ0IwaVdTejgzUDR0anBOdG0zc05zTF9KNzc2T0RyZlFPNmRmZVN1NFliaGdReDAtQVZadUswZHl2Z19tWnAxX3lKSVg1TUZZLTFpWFZzcHBQZ1hhZk4tSjRzVE5md2pYU28zX2dwSm55SThKZWVHRHRmY3ZxWkJHRkZqbzk4eG5mOUdWbWVSZHI2aVFXcTh0UzNwS0tlX3U3Y3pYM29aU2xGSVhxc1Y1YTJXcGVoNmVPVGcwTHlNN1hxSnFnRUxUdXV2MDdTcndCSEFfMkpPMkRnRXBtR1pHSmpnUTU3V3JYNDJtdFZBQWcwMnVPR2dsRnox?oc=5",
+   "summary": "",
+   "sources": [
+    "French Tech Bordeaux"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T23:02:05.000Z",
+   "categories": [],
+   "score": 3.6
+  },
+  {
+   "id": "avec-olala-ovhcloud-se-lance-egalement-dans-la-course-aux-modeles-d-ia",
+   "kind": "article",
+   "title": "Avec « Olala », OVHcloud se lance également dans la course aux modèles d’IA",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaHpRdWo0UmJ4TEQwVWtiV24wNXpFLUFoRnhObVM4eThQY3N5YXFaQy1TYWwyZG9rN0E3SFg1QU80bVlYUllTTnAyVDltVTBlUmlEbkIzTGNDQng2MDE4UzRlaTBvVU5YMWwydjFuX2VWMEZaNWNFM2xkWjFzWFVBbVhSYmlKcXJBaXMzRDhXdFN2cDhrQmVNNFJibHc1UXZEa08wWTR4M21ONFY2NDNsN2VnUDhZT2NYOFlnNHNhbHVNVVVzdVNpWmhIWTI0cGotbDN1Rjh3NTkyWFhBeTB1MVhvZ2hienlZTUdHWWRXYXQzcjFIczVMVC04dWh0V2c?oc=5",
+   "summary": "",
+   "sources": [
+    "Ouest-France"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T10:38:16.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.6
+  },
+  {
+   "id": "ovh-lance-olala-mini-un-llm-frugal-que-qwant-utilise-deja",
+   "kind": "article",
+   "title": "OVH lance Olala mini, un LLM frugal que Qwant utilise déjà",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3FMWVFFMkFnYTVJeUJiNlpaaEl3cHNKWVUyWXBRdWVVUlVvdlpJM3VmVzJUV1Q5RXN4S3dDdGY1OTJqNXhRTW5JdDZfdWRTblZwMXhyV2FZeUlrMHY0d3B0aUphT2RYVXN0cFQzcG5ZRDNQNEpKcUtaa2xMN2VjYmhVLTdXd0c3c094YjB3MWVzTHZjLTE4TExJWQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Servicesmobiles.fr"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T09:00:27.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.5
+  },
+  {
+   "id": "mistral-et-macron-exigent-des-milliards-pour-sauver-l-ia-europeenne",
+   "kind": "article",
+   "title": "Mistral et Macron exigent des milliards pour sauver l'IA européenne",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWFrR0dwNUh2Z0lIa2ZIY2RVbExGMzMycmJlbVVLNDN6UHVSVFZLWHVEWHZHaGRkRGEzNWF2dlNaZmo5VlY2ZldIdGc2RWZPdWpGTFU2Z2RuaU15Ql9MYnM3Z3JHbUJ6YnBOVkxNWFVHRDMtaDFQS2dHTHBUcTA5MEtvbGdhLVp4RV9VZG9lWWpiR1N6anQwWUdHUkoxWUxHY1BtY2FiWkpOcXRJYnJRWHNYRHdVWFdwRnhVcFVEdklvQlNO?oc=5",
+   "summary": "",
+   "sources": [
+    "ZDNET"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T08:30:42.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.4
+  },
+  {
+   "id": "cette-startup-veut-aider-les-commercants-a-revendre-leurs-invendus-sur-leboncoin",
+   "kind": "article",
+   "title": "Cette startup veut aider les commerçants à revendre leurs invendus sur Leboncoin ou Vinted",
+   "url": "https://www.maddyness.com/2026/11/17/cette-startup-veut-aider-les-commercants-a-revendre-leurs-invendus-sur-leboncoin-ou-vinted/",
+   "summary": "L’article Cette startup veut aider les commerçants à revendre leurs invendus sur Leboncoin ou Vinted est apparu en premier sur Maddyness - Le média pour comprendre l'économie de demain .",
+   "sources": [
+    "Maddyness"
+   ],
+   "date": "2026-11-17T07:00:29.000Z",
+   "categories": [],
+   "score": 3.3
+  },
+  {
+   "id": "pourquoi-personne-n-en-parle-ce-crosscall-stellar-m6-se-vend-discretement-par-pa",
+   "kind": "article",
+   "title": "Pourquoi personne n'en parle : ce Crosscall Stellar M6 se vend discrètement par palettes depuis ce mardi matin",
+   "url": "https://www.bfmtv.com/tech/bons-plans/pourquoi-personne-n-en-parle-ce-crosscall-stellar-m6-se-vend-discretement-par-palettes-depuis-ce-mardi-matin_AB-202611170800.html",
+   "summary": "100 euros de moins pour le smartphone STELLAR-M6 de la marque française Crosscall ? C’est l’une des offres à ne pas manquer à l’occasion du Black Friday ! Ce smartphone conçu pour les personnes en mouvement peut être commandé à moins de 400 euros.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/a0i89ZAuwwLW78hPUjSN3DBUntg=/0x0:1600x900/800x0/images/Des-milliers-de-francais-passent-le-cap-de-s-equiper-d-un-smartphone-resistant-Crosscall-avec-les-offres-Black-Friday-2383501.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "date": "2026-11-17T19:08:00.000Z",
+   "categories": [],
+   "score": 3.3
+  },
+  {
+   "id": "nous-pouvons-faire-tourner-des-ia-de-vision-sur-des-puces-a-moins-de-10-dollars-",
+   "kind": "article",
+   "title": "« Nous pouvons faire tourner des IA de vision sur des puces à moins de 10 dollars » : MountAIn mise sur l'infrastructure en local",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSlFhMUdaYnZGTFNuMmlOdVlpWFVkSmV0ZW9zNFIxR090QkpaaDEzUFd3VzY2WDFvRmtWTWJURGJ4ZmhrLXM0OWRlY1EtZWhQRlh2ZU9kVnloei1NTk51dVlOajFORWRwMU80ZUlMZ0t5NllDdTAyeWM2eEkzTkZmeWlZb0FWSHVOZWsxdTFLU1RCWUJuWFB5Y1RNT0xwVjl0MFJPek1xYWo5SnFQZG5iNGRnUEJPVjRDLWg5UjhYNThXNmJUbHlRZktfbU8tN3ZCVFNsRVhsT3llZGZHQzFKcVQwN3JmbTRuVEdRQkswWGtDTnlwQWdKRDdlckh4YkRkbnd3aw?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T07:00:30.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.3
+  },
+  {
+   "id": "orange-ventures-accentue-son-effort-pour-soutenir-les-start-up-de-l-ia-et-de-la-",
+   "kind": "article",
+   "title": "Orange Ventures accentue son effort pour soutenir les start-up de l'IA et de la cyber",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUThhbGd3ZmU4c3RWeXdZSHVqaXE2bHNRMnJOX0pHRDhCZ0tfWjdPeks1UmNzMXpGRklacE9saU5vU01xQXNxOUJpb3dYbE0tcXFFdHJEVG02Wnl4N0NQbmZVOTdTUkdfN19qZGFsTmZiYi1XTjl2Z2VUTDRPNFM2M1ZoMF80RkhaS2Zrdl9kd2NWT1hFa0FIalk3clNlNW50ZUVtQXhEVk5RbWk0R0lYeHFBUWNQQllpdDlidlRZbWhCMEVmUDNBb2JxMDlDaExaQXc?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T07:00:55.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.3
+  },
+  {
+   "id": "l-ia-va-encore-augmenter-d-un-cran-la-crise-cognitive-les-secrets-d-un-bureau-an",
+   "kind": "article",
+   "title": "« L'IA va encore augmenter d'un cran la crise cognitive » : les secrets d'un bureau antistress pour soulager le cerveau des salariés",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNakdlWkFvWElNZUw4SzMtX2RaLXVSTnN4V2F1eEI3aGR6clVmMHhkaG42Y3dmdHZYSFNMRDlmT2JkcS1Rb0tfUmlfSkpvTEd0WEFmcE1ONmRiVWh1cG9pbUI4Q19rY2F0UWNvNXE5Wl8zODNfdXpja3NrbExRYVZXQ2VOSUdTalZPMFZIcjlQRWJ6N0NmY19fV3pfR2hIQzh5X2VkcXZMZ2xJa2l6T2FjaGNvVHJ3dzRVazBaV3QxRGVwMGNFVHp3OUFKN2NxcTlJWmZJUllHdG0xbmpfZXFTaTdRUFdHU3FoVExIWHlPYktTX0lBWmo3TEV6R3NISTRHV1F5U0k1c0k3SUJGU1ZVQXFRaTBqQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T05:45:07.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.2
+  },
+  {
+   "id": "airbus-decline-son-accord-avec-mistral-ai-dans-la-cybersecurite",
+   "kind": "article",
+   "title": "Airbus décline son accord avec Mistral AI dans la cybersécurité",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNenlXelIwZ1JicjNiUWliT1QyUUdFeXkyRkRCVlF3a0JPclBua2YtTWtJeUhNUlRhYnJiRWgwcDNtT1lZSkJWRWNQMG1Qek5jcFprTjRPNjhFMHpHbG9DWmh5V3NXd1hyaEdOOHJra2VTbVJzc1RRTFZDRF9GZDRhaG1CUHdkb3hMdndQMWRTYWhJR3llSjV3eV95U09fVlZCczFVV2pmWUVVMHItbWhZX2dSXzhzbUpUWFRMbHM5VTNqU0NFMWN4b2N2enJiWEEwVW1vM2F6VEZrVm95Y3NfeW1jNmtTUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "La Lettre"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T05:20:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.2
+  },
+  {
+   "id": "free-distribue-par-palettes-son-abonnement-de-box-internet-des-milliers-de-franc",
+   "kind": "article",
+   "title": "Free distribue par palettes son abonnement de box internet, des milliers de Français souscrivent depuis le début de la semaine",
+   "url": "https://www.bfmtv.com/tech/bons-plans/free-distribue-par-palettes-son-abonnement-de-box-internet-des-milliers-de-francais-souscrivent-depuis-le-debut-de-la-semaine_AB-202611170014.html",
+   "summary": "Free a mis en place une offre Internet qui s'appuie sur la fibre, et qui connaît un succès retentissant. Elle a été spécialement conçue pour les internautes qui souhaitent de la vitesse sans avoir à supporter les coûts des chaînes de télévision.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/6tmbgg9AaTIpfAaWyKmvlNtb86U=/0x0:1600x900/800x0/images/Free-1975880.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "date": "2026-11-17T16:38:00.000Z",
+   "categories": [],
+   "score": 3.1
+  },
+  {
+   "id": "la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-",
+   "kind": "article",
+   "title": "La banque en ligne 100% française offre jusqu’à 260 euros à ses nouveaux clients ET un taux boosté pour épargner",
+   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/la-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-et-un-taux-booste-pour-epargner_AB-202611170704.html",
+   "summary": "Si en cette fin d’année, vous cherchez à ouvrir un compte dans une banque en ligne, Fortuneo a l’offre qu’il vous faut. En ce moment, les nouveaux clients peuvent profiter d’un compte rentable dès l’ouverture avec jusqu’à 260 euros offerts.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/0dAf4XJPr3tANddOWk8GFIByXL4=/0x0:1600x900/800x0/images/La-banque-en-ligne-100-francaise-offre-jusqu-a-260-euros-a-ses-nouveaux-clients-ET-un-taux-booste-pour-epargner-2385552.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "date": "2026-11-17T15:52:00.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "complement-livret-a-des-milliers-de-francais-choisissent-ce-compte-remunere-et-v",
+   "kind": "article",
+   "title": "Complément Livret A : des milliers de français choisissent ce compte rémunéré et vu les avantages on comprend bien pourquoi",
+   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/complement-livret-a-des-milliers-de-francais-choisissent-ce-compte-remunere-et-vu-les-avantages-on-comprend-bien-pourquoi_AB-202611170056.html",
+   "summary": "Pour compléter votre Livret A, vous pouvez opter pour la banque en ligne Trade Republic qui propose un compte courant rémunéré rempli d’avantages. Alors, qu’attendez-vous pour découvrir ses avantages tant appréciés par des milliers de français ?",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/SPkf-3xk1QdRWLVyxnpw1NrK0uk=/0x0:1600x900/800x0/images/Le-placement-prefere-des-Francais-est-enfin-accessible-en-quelques-clics-sur-Trade-Republic-2342598.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "date": "2026-11-17T15:48:00.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "gta-6-debloque-12-heures-plus-tot-grace-a-cette-astuce",
+   "kind": "article",
+   "title": "\"GTA 6\" débloqué 12 heures plus tôt grâce à cette astuce",
+   "url": "https://www.bfmtv.com/tech/actualites/video-gta-6-debloque-12-heures-plus-tot-grace-a-cette-astuce_VN-202611170667.html",
+   "summary": "Pourquoi attendre jeudi minuit ? Grâce au décalage horaire avec la Nouvelle-Zélande, certains joueurs pourront lancer \"GTA 6\" dès mercredi midi en France. À condition d'avoir une Xbox.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/bzcFRIQwIsNCZ-NgJV1ktUixAn0=/0x0:1280x720/800x0/images/GTA-6-debloque-12-heures-plus-tot-grace-a-cette-astuce-2385524.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "date": "2026-11-17T15:00:03.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "emmanuel-macron-revient-sur-sa-semaine-tres-chargee-sur-l-ia",
+   "kind": "article",
+   "title": "Emmanuel Macron revient sur sa « semaine très chargée » sur l’IA",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlBOTXBHM0UzM0sxclYwZnpzVUJYSVRkOFdCOHJKWlhMMExEcXNITFNaTzBXdkU4MUt1UzNhNlJfa1FXemRkS0FvVTBIZ2llQ2VPRTBNY2xKbktZSk9val9Kcmp4TTBfYjJSOWc4RE00V3FEQkF2bGpSYVB1cGhva3FjbFRMR1FlaWtrZA?oc=5",
+   "summary": "",
+   "sources": [
+    "Next.ink"
+   ],
+   "via": "Google News",
+   "date": "2026-11-16T15:35:48.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "mistral-l-union-europeenne-et-l-ia-comprendre-la-complementarite-derriere-nos-ch",
+   "kind": "article",
+   "title": "Mistral, l’Union européenne et l’IA : comprendre la complémentarité derrière nos choix technologiques",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPaWZCYjluM2hKeUtVT2xGQVVXRWNQQUJOOXhBOTZLb1NRVVFfTGRXRU9hcjE3VTcxNEpSQ2Q2VFlPN1VDUWFldjlrOHk5OXdhRDNoRzI4R0FXT1VnZzB4bkxycFdvY29hX0pFQWRIa0pxVld5Z2hnbTdMLWVPQXUwS2dOWUpZeUJKNXNaSjJMVkJQYUZ1N1BVN0gyZFA2NldYM3lqWUVIaV9JbDZDR2h2UFhvbDI2TnhucHIyUmViRU00OGxxakU3MzJFYzRvZVNCNG0xbXpKaklWZGhsNTBJX2oxc0NHM2Q3enBPMlFyV3pGUk5MNnpyVzVqeXpGRG1KOFY4N29RZzNMOWc5Y3ZGUWFfSHNzamJXSEU4ekRCalprTnVfNGhpb3BsdERJeUxBWjJDdS1jTFp2WmVhVWg5Vmtn?oc=5",
+   "summary": "",
+   "sources": [
+    "RTBF"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T02:34:46.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "six-jours-apres-orange-bouygues-telecom-riposte-avec-six-mois-de-google-ai-plus-",
+   "kind": "article",
+   "title": "Six jours après Orange, Bouygues Telecom riposte avec six mois de Google AI Plus gratuits",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFBweXU4ZXZDSTBPdVJsbGZURFM2UEV5QW5Ocm1ZcnNpb2wza3Fnb2hBOTNrT2xIRm1kd0xzd2FpNkY1eHhFV3I0SnktbGNaQVI3ank2RmhvUmtsSkFKTHpNUjkxS2VRMXU1bmhpZWdPbU9BRzBjYTcwa25pNzR3NXRERnJhelM5Z2JGZEF5cWJISnBUalpOTmpNR2lpcGZTMHpQVlBYdTFTUmJLaWlfWkdDRDBCQ3NhOUxGTGlFbzhPSktoVkxIa0R6WlJwUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Clubic"
+   ],
+   "via": "Google News",
+   "date": "2026-11-16T18:33:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "l-europe-accelere-ses-efforts-pour-briser-la-domination-des-etats-unis-et-de-la-",
+   "kind": "article",
+   "title": "L'Europe accélère ses efforts pour briser la domination des États-Unis et de la Chine dans le domaine de l'IA.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0xGTEJYcmRTaGpPZmJ5bEVZVUpuWG5aSUpUTlI2Wm0yTkN2SkRqTWRERWkyYVlTMVR2RzR2UE56S0xDUHQ1LVFDX3Q0bGt1UHk5ZDA2NENyZ2xjZXYzcnZHRmxvUVJzRnIzdmhVei0zWVRtRUtNYjI3SjRHWFI1TmlDOWwyOXZs?oc=5",
+   "summary": "",
+   "sources": [
+    "Vietnam.vn"
+   ],
+   "via": "Google News",
+   "date": "2026-11-16T19:43:21.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "pourquoi-intersport-brade-t-il-ce-velo-electrique-nakamura-sans-nous-le-dire-les",
+   "kind": "article",
+   "title": "Pourquoi Intersport brade-t-il ce vélo électrique Nakamura sans nous le dire ? Les cyclistes dévalisent les stocks depuis hier",
+   "url": "https://www.bfmtv.com/tech/bons-plans/pourquoi-intersport-brade-t-il-ce-velo-electrique-nakamura-sans-nous-le-dire-les-cyclistes-devalisent-les-stocks-depuis-hier_AB-202611170337.html",
+   "summary": "Développé en France et homologué, Decathlon propose un vélo électrique haut de gamme qui ne fait aucun compromis sur le confort et l'efficacité. Bonne nouvelle, il bénéficie actuellement d'une remise de 400 euros et est éligible aux aides de l'État ainsi qu’aux subventions locales.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/4zmRPlKtbF7FlTZ5DmbGN9GcOQU=/0x0:1600x900/800x0/images/Pourquoi-Intersport-brade-t-il-ce-velo-electrique-mais-n-en-parle-a-personne-quelques-centaines-de-Francais-en-profitent-discretement-2367970.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "date": "2026-11-17T14:09:00.000Z",
+   "categories": [],
+   "score": 2.9
+  },
+  {
+   "id": "openai-signe-un-accord-avec-17-medias-francais-dont-le-parisien-et-les-echos",
+   "kind": "article",
+   "title": "OpenAI signe un accord avec 17 médias français dont Le Parisien et Les Échos",
+   "url": "https://siecledigital.fr/2026/11/17/openai-signe-un-accord-avec-17-medias-francais-dont-le-parisien-et-les-echos/",
+   "summary": "OpenAI offre de la visibilité aux médias de LVMH, puisque plusieurs d’entre eux, dont Le Parisien et Les Échos, seront mis en avant. Cet accord stratégique comprend également l’utilisation de plusieurs outils, notamment ChatGPT Enterprise. L’annonce a été faite le 16 novembre et aucun montant n’a été communiqué. Un nouvel accord avec OpenAI Ce n’est […]",
+   "sources": [
+    "Siècle Digital"
+   ],
+   "date": "2026-11-17T14:25:48.000Z",
+   "categories": [],
+   "score": 2.9
+  },
+  {
+   "id": "l-us-navy-fait-combattre-ensemble-des-f-35-simules-et-des-f-a-18-reels",
+   "kind": "article",
+   "title": "L’US Navy fait combattre ensemble des F-35 simulés et des F/A-18 réels",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGZONkFkNkZZeGgybWxqR19BaElPT0xZdnl4emNGRDcxRnFGNnZrLTFPUUpRZVJfT25Tb3g3RTJ2Y0JEb0xNTnh4Vlo4OURacWFUSEw5Yk1mRDN0ZmxqVUI1ZzZFRjFfLTFPVE1ERHhhTUpEUTZzNzRScTlabDNTQlhreXJ1TTl2QXl4N0JMbGtSUl9HWXE3eENTbS13S1k?oc=5",
+   "summary": "",
+   "sources": [
+    "https://www.avion-chasse.fr/"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T18:14:33.000Z",
+   "categories": [],
+   "score": 2.2
+  },
+  {
+   "id": "ulike-les-innovations-beaute-presentees-a-paris",
+   "kind": "article",
+   "title": "Ulike : les innovations beauté présentées à Paris",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFZQUHBRaWtIcmYzUnFQSFJCd1hGS2JUNHJadzFGM3FSdGwtV1FvMkx6ZXoxby14cmFpa2FMZjltc0VETzQ5cjBKQ2pvdF9pR3ZKMWktNVdPckNxMkNZZS1ZbE5UYVo3Q2ZtQUVrSjBPeTc1bmZtbHcweFgzR3Nnd01HLS1IUV9zR0J1NFhMUU9fVDUyY1Z1ZngxVGo?oc=5",
+   "summary": "",
+   "sources": [
+    "Presse Agence"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T00:00:00.000Z",
+   "categories": [],
+   "score": 2
+  },
+  {
+   "id": "tech-iadates-entre-apocalypse-cognitive-et-quete-de-sens",
+   "kind": "article",
+   "title": "Tech - #IADates : entre apocalypse cognitive et quête de sens",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzhLTmQ3b0JmZEF2Y3NtTmpuNEllWFhJWkZ4TDRNekNxY3NCeFdnd0UxVldnNk5ycGllRk9pWFltQWdhdkNwS3FVNGE4emIwRU5zbS1uYkpTdlVBdE9EcjItZk5yMElrakNENm1XVHNSZGRUSWpJSDlIMktjbnNSWWZWM3pRVEVuczhCbjgzREcwYTlHcWppMzRSdmgyUEpWYWc?oc=5",
+   "summary": "",
+   "sources": [
+    "Petites Affiches"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T13:03:37.000Z",
+   "categories": [],
+   "score": 1.8
+  },
+  {
+   "id": "future-40-2026-40-startups-dont-cinq-autofinancees",
+   "kind": "article",
+   "title": "Future 40 2026 : 40 startups, dont cinq autofinancées",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlVXWkE1YzYycnQ4Nnd0UVlaeUdBY0xzZUtkdEhDT1EwTllwQWdVa0ZsQ19uQzBWcVZNV2ctRklIRFZSU0ZNNzZXVmVjRzhhWVl5Rkt4eDBUMzVHSF82UFJ1TDl5QUM4cHdJLXFYbXBSOVFjOHRmVFM5bFNlYjQyaFBFSHBkS2xocGNCcGZLWQ?oc=5",
+   "summary": "",
+   "sources": [
+    "quasa.io"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T12:24:00.000Z",
+   "categories": [],
+   "score": 1.7
+  },
+  {
+   "id": "hool-lance-un-nouveau-programme-pour-aider-les-associations-a-developper-leurs-r",
+   "kind": "article",
+   "title": "HOOL lance un nouveau programme pour aider les associations à développer leurs ressources",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2FieXQ1bnRPQmtGTjdaNG1ieEZSS3lLMFVjeDV3T2tDM0lodEw4Z2RVem9Rdm5zQU9wT1lDNjRrUEpCZnZJRnluTEQ3bnQtV1dzbFg2b09ZN3RHTjhfZGEtSGEzakd3QUQ1ODIzY3lpOXRoaUI5M29rU093ZkhlS0Rac3hEUmFmYVc2Ri1GOTdWX3U0RUlUT3dPS0tMTEpTeUVkdDZzVVJVcGI5a3B6UmdzeHh4bm1KeThzS0RCNUlzblRZVjlIN2l2M2ZiZFNMY3J5QlZB?oc=5",
+   "summary": "",
+   "sources": [
+    "French Tech Bordeaux"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T10:17:04.000Z",
+   "categories": [],
+   "score": 1.6
+  },
+  {
+   "id": "il-etait-essentiel-qu-on-trouve-un-partenaire-avec-une-vision-long-terme-arianee",
+   "kind": "article",
+   "title": "« Il était essentiel qu'on trouve un partenaire avec une vision long terme » : Arianee passe dans le giron d'Impala",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUURuNGNYdXdwNTRRNjVfeDhNMWtHano5SFZBVFJjSVE0aFBFOW5rZGt2N0UtbEczdnNoTGZKWGtXcnFTdWVpZVhNOTFfWVB1ZUtUeUxMemNxaUV2LXdsU05ZbklGOGhLa1RndWlUQkIxV2F1eWFSb195cHRsVVhJOFVHQy1SMkVCd00zZjVFQ1dKNnVLUVY5ZWJZd1VPOExZMzlvZXFZX3pvUFZoUnN0WnZ5SzMtWGVwME90ZXVBWnJNbDVfaV9qbEV4Rk1EUEdTTlYwbWFwQ2M1U0ZXTEduX0JzZmpHSVd6TXc?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T08:35:23.000Z",
+   "categories": [],
+   "score": 1.4
+  },
+  {
+   "id": "l-evenement-les-dessous-de-la-creation-des-clubs-de-john-niel",
+   "kind": "article",
+   "title": "L'Événement Les dessous de la création des clubs de John Niel",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRGZESDhjUWppdEJhWjM0bkVySEQ5T3QwU2J4SllUem9ZLVk3QXVRTzNxYWRlQWJzWnJMblVnYUJYZjMtLWhxTENBcGlnV3RxVi1iYkM3MWhXbWhfSDVxMVJDdWk3cVg4Rm8tNkFFVExCX2JKQ2VVM1JxUW8xVGwwejVrRHZ6bWprV1BadllXd3VTS3RlVlpHS2RMbE5ZYmh5UngzOW5ESVlqaGluOGNVSTFlWXg5cHRrc0llcUhKNWFKbHZrNXc?oc=5",
+   "summary": "",
+   "sources": [
+    "La Lettre"
+   ],
+   "via": "Google News",
+   "date": "2026-11-17T05:20:00.000Z",
+   "categories": [],
+   "score": 1.2
+  }
+ ]
+}
