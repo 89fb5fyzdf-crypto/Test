@@ -19,8 +19,7 @@ const isFunding = (c) => c === 'Levées de fonds' || c === 'Funding';
 const FACT_LABELS = { amount: 'Amount', round: 'Round', valuation: 'Valuation', investors: 'Investors',
   Montant: 'Amount', Tour: 'Round', Valorisation: 'Valuation', Investisseurs: 'Investors' };
 
-// Sur téléphone, la barre est étroite : date sans le jour de la semaine.
-const fmtDay = (d) => new Date(`${d}T12:00:00`).toLocaleDateString(LOCALE, window.innerWidth < 640 ? { day: 'numeric', month: 'short' } : { weekday: 'short', day: 'numeric', month: 'short' });
+const fmtDay = (d) => new Date(`${d}T12:00:00`).toLocaleDateString(LOCALE, { weekday: 'long', day: 'numeric', month: 'long' });
 const fmtLong = (d) => new Date(`${d}T12:00:00`).toLocaleDateString(LOCALE, { weekday: 'long', day: 'numeric', month: 'long' });
 const fmtTime = (iso) => {
   const d = new Date(iso);

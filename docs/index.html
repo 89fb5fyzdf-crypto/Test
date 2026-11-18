@@ -36,11 +36,6 @@
         <button type="button" role="tab" data-scope="fr" aria-selected="true"><span class="long">French Tech</span><span class="short">France</span></button>
         <button type="button" role="tab" data-scope="eu" aria-selected="false"><span class="long">European Tech</span><span class="short">Europe</span></button>
       </div>
-      <nav class="daynav" aria-label="Choose a day">
-        <button id="prev" class="nav-btn" aria-label="Previous day"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3 5 8l5 5"/></svg></button>
-        <select id="day" aria-label="Day"></select>
-        <button id="next" class="nav-btn" aria-label="Next day"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m6 3 5 5-5 5"/></svg></button>
-      </nav>
     </div>
   </header>
 
@@ -54,7 +49,14 @@
 
   <main class="wrap">
     <section class="hero">
-      <p id="eyebrow" class="eyebrow"></p>
+      <div class="dayline">
+        <button id="prev" class="day-btn" aria-label="Previous day"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3 5 8l5 5"/></svg></button>
+        <label class="daypick">
+          <span id="eyebrow" class="eyebrow"></span>
+          <select id="day" aria-label="Choose a day"></select>
+        </label>
+        <button id="next" class="day-btn" aria-label="Next day"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="m6 3 5 5-5 5"/></svg></button>
+      </div>
       <h1>The essentials of French Tech.</h1>
       <p id="summary" class="lede" aria-live="polite"></p>
     </section>
