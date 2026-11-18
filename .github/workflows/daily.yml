@@ -26,12 +26,10 @@ jobs:
         with:
           node-version: 22
       - name: Collecter et scorer
-        if: github.event_name != 'push'
         env:
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
         run: node scripts/screen.mjs
       - name: Enregistrer les données
-        if: github.event_name != 'push'
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
