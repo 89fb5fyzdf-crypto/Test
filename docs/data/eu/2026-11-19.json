@@ -1,0 +1,1118 @@
+{
+ "date": "2026-11-19",
+ "generatedAt": "2026-11-19T09:35:33.991Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 35,
+  "raw": 60,
+  "media": 17
+ },
+ "scope": "eu",
+ "lang": "en",
+ "sources": [
+  {
+   "source": "City AM",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "source": "EU-Startups",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Financial Times",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "source": "Google News · Europe scaleup mega round billion",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "source": "Google News · European startup raises Series",
+   "ok": true,
+   "items": 31
+  },
+  {
+   "source": "Google News · European unicorn valuation",
+   "ok": true,
+   "items": 15
+  },
+  {
+   "source": "Google News · UK startup raises funding round",
+   "ok": true,
+   "items": 30
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "Tech.eu",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "Tech.eu (via Google News)",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "TechCrunch Europe",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "UKTN",
+   "ok": false,
+   "error": "HTTP 403"
+  }
+ ],
+ "items": [
+  {
+   "id": "investment-in-european-startups-surges-to-81bn-but-europe-faces-challenges-says-",
+   "title": "Investment in European startups surges to $81BN, but Europe faces challenges, says Atomico",
+   "url": "https://tech.eu/2026/11/18/investment-in-european-startups-surges-to-81bn-but-capital-concentration-is-a-challenge-for-startups-says-atomico/",
+   "summary": "Europe was home to a record number of new startups in 2026, with investment in the region soaring, but Europe faces major challenges, the latest edition of Atomico’s State of European Tech report has ...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/europe-136.png",
+   "sources": [
+    "Tech.eu",
+    "Sifted",
+    "EU-Startups",
+    "UA.NEWS",
+    "The Economic Times"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Investment in European startups surges to $81BN, but Europe faces challenges, says Atomico",
+     "url": "https://tech.eu/2026/11/18/investment-in-european-startups-surges-to-81bn-but-capital-concentration-is-a-challenge-for-startups-says-atomico/"
+    },
+    {
+     "source": "Sifted",
+     "title": "8 key findings from Atomico’s State of European Tech report",
+     "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "5 key findings from Atomico’s State of European Tech 2026",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0w5QmwwWUgwQnF0bmpkbkIzbGR2UzRxX0ZVWGhWdXVaTGhTY1ZMN05iZkRFU29Yb2Rzd1N0dXJHYlkwZVlEUXlPZzluYTNYdk1iV083LU4tOTMwYmZvWEFZRXZsWU92ejZJNjlaS0ZiSnhxdklLazhhNVBnWW10Q2d5amltLXo3aVFwWlZUQ01ocXN6dC14Zg?oc=5"
+    },
+    {
+     "source": "UA.NEWS",
+     "title": "Venture firm Atomico forecasts $81 billion for European startups in 2026 — Channel NewsAsia",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWmdHUldRbFpnb1JDa2djNDFNdUFoQzE1eU1RejZIUVI3U3RUVlZVNVYzRGlsanFGSkp6czQ5OUR5WVlSNndpWlNoZzgwWnBoZU1VTi1YVGZLSUFwdmVfX3BSUF9ZYTNIWkJtbFdmd2xLbDVpUVQ5OW5oQmV1MXh4MWQtSHc3Z0IwRTV4VDQzeF9EVGJaVDFOZWhzUnVSSGIxOXhiRVdpZXVDdTB5SElJREg1NmhXRlBnNkNKcGpQd254dlNhRXFhaTMyTQ?oc=5"
+    },
+    {
+     "source": "The Economic Times",
+     "title": "European tech startups set to raise $81 billion in 2026, Atomico report shows",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQWJoQ09fQ3pvaWdWYXNNRmpfdjdzWGJGMi1Od2VhY0V4RVZUNlBrTUVDemJMM3hFc3hQZTNiYlNhN0k4LWI5eUJnck9kYnBSSzRpaXJ5Y2NQY3BaNjFFVV9lVUhRT21wR1lSLXNqM1NyS1BNbU5SS2pZSFdZNmEtUkZNYzZnMW9yUXVYMExTUVlHbUFCMUwtSHBJUEwtTUdvdUZhekdOblJNdFhONEFSem1iWEtieXlLb3h1TTRfZWdSNWh5bGJQVldhOWM2Umk0ZXVGeE9lMmQwZ3poblhuZUxYNjFEUTVMd3hyamJiOEZ4Y0dEWkxvQdIB_gFBVV95cUxPbGx3Ry15V0haYUV4N192dkhHWGQ0TUl6ekFsQlY4NFh1WlpVTm9ZZFhwczUxMHR2Z2cyNm5CenlJck1NMU1FUy1aX2UwZzZUV3BnQmR3N1o3ZHJqYlI1VUE0UUxRejZleGU4VUJlV1RMUEFTVzJ4WUdORGlmbXE3em9yU3pZODA0bmlvSDE0SjM0bENRVjFBTUs2c0pNZUgwU3lpQVhnSlh5MGR6OTFKaVM4ZmpPUE0talhoT3VmV1A3LVpVWXRwVzF6aHl3QjVuYzBWdExjc2Z1aVZVbmFLdVdDQ1VuSC1mampFOFVUeFZWblYwY21kLTYzWE03dw?oc=5"
+    }
+   ],
+   "brief": {
+    "essentiel": "Europe was home to a record number of new startups in 2026, with investment in the region soaring, but Europe faces major challenges, the latest edition of Atomico’s State of European Tech report has found.",
+    "points": [
+     "Record number of European founders It estimates that a record 40,000 founders founded a new tech company in Europe this year, up 36 per cent on the year, while investment in European startups is set to reach $81bn this year, its second-highest record of all time.",
+     "The report says that if just one per cent of this asset base shifted towards VC it would add the equivalent of around $500bn to the ecosystem.",
+     "The 12th annual State of European Tech report from European VC Atomico has much to please the European tech and venture ecosystem, including a surge in startup investments, rising valuations, and a general positive vibe across the ecosystem.",
+     "The ecosystem is led by world-renowned names in AI like Mistral and ElevenLabs."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$81BN"
+     },
+     {
+      "key": "round",
+      "value": "Series A"
+     },
+     {
+      "key": "investors",
+      "value": "world-renowned names in AI like Mistral and ElevenLabs"
+     }
+    ]
+   },
+   "date": "2026-11-17T23:21:15.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 27.1
+  },
+  {
+   "id": "goldman-sachs-leads-280m-funding-round-in-payhawk",
+   "title": "Goldman Sachs leads $280M funding round in Payhawk",
+   "url": "https://tech.eu/2026/11/18/goldman-sachs-leads-280m-funding-round-in-payhawk/",
+   "summary": "Payhawk, the Bulgaria-founded spend management platform, has raised a $280m Series C funding round, led by new investor Goldman Sachs, as it looks to build the finance operating system for the AI era....",
+   "image": "https://cdn.tech.eu/uploads/2022/02/payhawk-838.png",
+   "sources": [
+    "Tech.eu",
+    "Sifted",
+    "NewsBytes"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Goldman Sachs leads $280M funding round in Payhawk",
+     "url": "https://tech.eu/2026/11/18/goldman-sachs-leads-280m-funding-round-in-payhawk/"
+    },
+    {
+     "source": "Sifted",
+     "title": "How Payhawk raised $280m amid fintech downturn",
+     "url": "https://sifted.eu/articles/payhawk-series-c/"
+    },
+    {
+     "source": "NewsBytes",
+     "title": "UK fintech Payhawk raises $280 million Series C, valued at $2B",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQak9sbThrendjMTBRVUg1S3h6NE1yUU1ib3d3bEthMGdpNlA4UENfT2hmNjNKTUtKVjFUOXBYekxnb0d1QThmS0R2SXNUUDJ4Mm9VUS1tOXlfTFQtWlplREw2eXlYLVVFVUxINWlzUVdMQUkyYjdGdG1LQWxva0V5eUhYX3RLOGhtc2xnSXlXcjNWZm5tblhGOXlmaDRlcnE5WV8wc3ZOLUg0czQ?oc=5"
+    }
+   ],
+   "brief": {
+    "essentiel": "Payhawk , the Bulgaria-founded spend management platform, has raised a $280m Series C funding round, led by new investor Goldman Sachs, as it looks to build the finance operating system for the AI era.",
+    "points": [
+     "The funding round values London-headquartered Payhawk at $2bn, doubling its valuation from its last public funding round in 2022 when it raised $215m and became a unicorn .",
+     "It takes Payhawk’s total funding to more than $515m.",
+     "The funding round features existing investors including QED, Greenoaks, Lightspeed, Hedosophia and Bek Ventures, alongside new investors Galdana Ventures, Cogito Capital, Invus and Inveready, and angels including Nord Security co-founder Tomas Okmanas and Spanish entrepreneur Didac Lee.",
+     "Payhawk, which became Bulgaria's first-ever unicorn in 2022, offers enterprises spend management services, so employees can manage their spending lifecycle, from company card to bills and invoices in one."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$280M"
+     },
+     {
+      "key": "round",
+      "value": "Series C"
+     },
+     {
+      "key": "investors",
+      "value": "new investor Goldman Sachs"
+     }
+    ]
+   },
+   "date": "2026-11-18T08:32:00.000Z",
+   "categories": [
+    "Funding",
+    "Unicorns & scale-ups",
+    "AI"
+   ],
+   "score": 25.9
+  },
+  {
+   "id": "perry-ai-secures-2-2m-to-automate-legal-work-across-private-capital",
+   "title": "Perry AI secures $2.2M to automate legal work across private capital",
+   "url": "https://tech.eu/2026/11/18/perry-ai-secures-22m-to-automate-legal-work-across-private-capital/",
+   "summary": "London-basedlegaltech startup Perry AI has raised $2.2 million in an oversubscribed seedfunding round led by Haatch, with participation from Antler, Syncorp Ventures,Araya Ventures, US angel investors...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/perryai-featured-338.png",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups",
+    "UK Tech Investment News"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Perry AI secures $2.2M to automate legal work across private capital",
+     "url": "https://tech.eu/2026/11/18/perry-ai-secures-22m-to-automate-legal-work-across-private-capital/"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London’s Perry AI raises €2 million to bring AI-powered legal intelligence to private capital funds",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZXQ5SEhMamN5U2RoQ2dkOXhpSWRXTzRTMVNBOHhkVER1TUZnR3RpZUlDUDlOR0hpbGg5Yi0wdUxxWjNkaEFUck1EOHhGV1oxOTBSbE5nZ2VmVVY5aFFtZWd1SWNJRlA1TGZodEFQMjZCRndkZW9lQ3BOeFJBd3pKRDJpR0lkMXhBcDY1aFhBZHI1aW9LZ3hJWmlqZHBIQUs5YmFiZml0M3IybVIwczMwZENrNDJuQTk5aml4U3dRMWx6UXFQU2JzelozWEZxckVC?oc=5"
+    },
+    {
+     "source": "UK Tech Investment News",
+     "title": "Photosynth AI (t/a Perry AI) secures £1.67 million Seed funding led by Haatch alongside Antler, Araya Ventures and Syncorp Ventures – UK Tech Investment News by Deal Lite",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNc2hQUkI1eTB0WlMwbVAteUdDRUNIdU5qdFZaQ2JKTHdrako4NFNFaGN4aG1aYnhtYVhuUGxxNGlkTTZuUFRQNVl6aW5leElXQTNQbnlfb3VFdUFzWXVwaEFmdkhNQ3UzYngtbTZ1QlprVko2ZzdrSTduaGgwcFRMaV9QRDNETjJnTzV3Tk04amFyZVFSZnN1YkRmY0FsdUdteFBhMzJWdHhwZm0yR0tLakZpZDRVZjZERUJncEY4Zl90YVY3MUNoRXU1SHJPZVVGTmpCWjhfMFNQUk1wMDNjdWlhV3Q4dnJac3NWVGJyRGQwM1pSMk90Uk5Hdw?oc=5"
+    }
+   ],
+   "brief": {
+    "essentiel": "Co-founded by Shashwat Patel (CEO) and Vaneesa Agrawal (CPO), Perry AI is developing an AI-powered legal operating system designed to help private equity, venture capital and other private capital funds, alongside their law firms, manage complex legal workflows, transaction data and compliance requirements.",
+    "points": [
+     "The funding comes amid growing investment in legal technology, with global legaltech funding exceeding $2.3 billion in the first quarter of 2026.",
+     "Legal teams working with private capital funds operate in a highly regulated environment, where transactions involve extensive documentation, contractual obligations and strict deadlines.",
+     "Perry AI aims to address these challenges by bringing a fund's legal rights, obligations and commitments into a single platform.",
+     "Traditional processes often require teams to review previous agreements and track commitments across multiple deals, increasing administrative workloads and the risk of overlooking important obligations."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$2.2M"
+     },
+     {
+      "key": "round",
+      "value": "Seed"
+     },
+     {
+      "key": "investors",
+      "value": "Haatch"
+     }
+    ]
+   },
+   "date": "2026-11-18T06:42:52.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 16.2
+  },
+  {
+   "id": "european-tech-startups-on-track-to-raise-81-billion-this-year-second-highest-sin",
+   "title": "European Tech Startups on Track to Raise $81 Billion This Year, Second-Highest Since 2015",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpbVMzWkdQWkhIZWl0UEhSR3FHci1oRXNMNUkyWm9aYWhmczdNb0wyNWZ0UHY4R3E5VV9JUVEyQXVnT25LWENSTTR2ei1ubUlaV01Sb1BNOUl3ejVDcDVNRTFqYktxMVRvYTl2ZndMQ1hLU0p2WGc?oc=5",
+   "summary": "",
+   "sources": [
+    "finance.biggo.com"
+   ],
+   "articles": [
+    {
+     "source": "finance.biggo.com",
+     "title": "European Tech Startups on Track to Raise $81 Billion This Year, Second-Highest Since 2015",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpbVMzWkdQWkhIZWl0UEhSR3FHci1oRXNMNUkyWm9aYWhmczdNb0wyNWZ0UHY4R3E5VV9JUVEyQXVnT25LWENSTTR2ei1ubUlaV01Sb1BNOUl3ejVDcDVNRTFqYktxMVRvYTl2ZndMQ1hLU0p2WGc?oc=5"
+    }
+   ],
+   "date": "2026-11-18T18:15:00.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 13.7
+  },
+  {
+   "id": "lato-secures-4-7m-to-automate-customer-and-expert-interviews-with-ai",
+   "title": "LATO secures $4.7M to automate customer and expert interviews with AI",
+   "url": "https://tech.eu/2026/11/19/lato-secures-47m-to-automate-customer-and-expert-interviews-with-ai/",
+   "summary": "AI-poweredmarket research platform LATO has raised $4.7 million in a seed funding roundco-led by Air Street Capital and Axiom Partners. Its backers also include YCombinator, Montis VC and Inception Fu...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/lato-featured-74.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "LATO secures $4.7M to automate customer and expert interviews with AI",
+     "url": "https://tech.eu/2026/11/19/lato-secures-47m-to-automate-customer-and-expert-interviews-with-ai/"
+    }
+   ],
+   "brief": {
+    "essentiel": "AI-powered market research platform LATO has raised $4.7 million in a seed funding round co-led by Air Street Capital and Axiom Partners .",
+    "points": [
+     "Its backers also include Y Combinator, Montis VC and Inception Fund, alongside angel investors including Paul Graham and co-founders of ElevenLabs, Vercel, Snowflake and Rogo.",
+     "Founded by Tymek Staniszewski and Tien Chu , LATO develops AI agents that conduct customer and industry expert interviews to help investment firms assess businesses, markets and growth opportunities.",
+     "The new funding will support the expansion of LATO's engineering, research and sales teams, alongside further product development to enable its AI agents to conduct a broader range of studies independently.",
+     "Before investing in a company, private equity firms conduct commercial due diligence to assess its market position, customer relationships and growth potential."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$4.7M"
+     },
+     {
+      "key": "round",
+      "value": "Seed"
+     },
+     {
+      "key": "investors",
+      "value": "Air Street Capital and Axiom Partners"
+     }
+    ]
+   },
+   "date": "2026-11-19T08:15:57.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 12.9
+  },
+  {
+   "id": "visage-technologies-launches-3-1m-eu-backed-project-to-develop-adaptive-training",
+   "title": "Visage Technologies launches €3.1M EU-backed project to develop adaptive training technology",
+   "url": "https://tech.eu/2026/11/18/visage-technologies-launches-eur31m-eu-backed-project-to-develop-adaptive-training-technology/",
+   "summary": "Computer vision and AI company Visage Technologies has launched a €3.1million research and development project to create an affective-cognitiveplatform for adaptive learning and simulation-based train...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/visage-featured-626.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Visage Technologies launches €3.1M EU-backed project to develop adaptive training technology",
+     "url": "https://tech.eu/2026/11/18/visage-technologies-launches-eur31m-eu-backed-project-to-develop-adaptive-training-technology/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Computer vision and AI company Visage Technologies has launched a €3.1 million research and development project to create an affective-cognitive platform for adaptive learning and simulation-based training.",
+    "points": [
+     "The European Union is co-financing €1.9 million of the project, which runs from April 2026 to April 2029.",
+     "The project is led by the company's Visage AI Labs team at Visage Technologies d.o.o., in collaboration with the University of Zagreb's Faculty of Humanities and Social Sciences and the University of Rijeka's Faculty of Maritime Studies.",
+     "Founded in 2002 and headquartered in Sweden, with R&D operations in Croatia, Visage Technologies develops face-tracking and analysis technology used across automotive, defence, industrial and healthcare applications.",
+     "The platform is being developed with privacy, data protection and cybersecurity requirements incorporated into its design, taking into account the GDPR, the EU AI Act and the NIS2 directive, including regulatory limitations on technologies used to monitor cognitive and emotional states."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€3.1M"
+     },
+     {
+      "key": "investors",
+      "value": "the company's Visage AI Labs team at Visage Technologies d"
+     }
+    ]
+   },
+   "date": "2026-11-18T11:32:05.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 11.2
+  },
+  {
+   "id": "cloudbackend-raises-6-6m-in-round-led-by-carl-henric-svanberg-s-family-office",
+   "title": "CloudBackend raises €6.6M in round led by Carl-Henric Svanberg’s family office",
+   "url": "https://tech.eu/2026/11/18/cloudbackend-raises-eur66m-in-round-led-by-carl-henric-svanbergs-family-office/",
+   "summary": "Swedish AI cloud infrastructurecompany CloudBackend AB has raised €6.6 million in a funding round led by thefamily office of Carl-Henric Svanberg, former chair of the Swedish Government'sAI Commission...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/cloudbackend-featured-903.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "CloudBackend raises €6.6M in round led by Carl-Henric Svanberg’s family office",
+     "url": "https://tech.eu/2026/11/18/cloudbackend-raises-eur66m-in-round-led-by-carl-henric-svanbergs-family-office/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Swedish AI cloud infrastructure company CloudBackend AB has raised €6.6 million in a funding round led by the family office of Carl-Henric Svanberg, former chair of the Swedish Government's AI Commission.",
+    "points": [
+     "Existing investor M2 Asset Management also increased its stake in the company.",
+     "Founded by Daniel Arthursson , CloudBackend is developing a platform that helps creators turn AI-generated application prototypes into production-ready business solutions without requiring extensive technical expertise.",
+     "While AI tools have made it easier to develop initial versions of applications, bringing these products to market requires additional capabilities, including security, scalability, reliable operations and customer support.",
+     "The new funding will support CloudBackend's efforts to broaden access to its platform for creators developing applications with AI and build integrations with generative AI development platforms and large language models."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€6.6M"
+     },
+     {
+      "key": "investors",
+      "value": "Carl-Henric Svanberg’s family office"
+     }
+    ]
+   },
+   "date": "2026-11-18T06:45:00.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 11
+  },
+  {
+   "id": "wilgot-raises-3m-in-seed-funding-to-help-brands-get-recommended-by-ai",
+   "title": "Wilgot raises $3M in seed funding to help brands get recommended by AI",
+   "url": "https://tech.eu/2026/11/19/wilgot-raises-3m-in-seed-funding-to-help-brands-get-recommended-by-ai/",
+   "summary": "Stockholm-based startup Wilgot, which develops technology to help brandsimprove their product visibility in AI assistants, has raised $3 million in aseed funding round led by Industrifonden. The round...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/wilgot-featured-482.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Wilgot raises $3M in seed funding to help brands get recommended by AI",
+     "url": "https://tech.eu/2026/11/19/wilgot-raises-3m-in-seed-funding-to-help-brands-get-recommended-by-ai/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Stockholm-based startup Wilgot , which develops technology to help brands improve their product visibility in AI assistants, has raised $3 million in a seed funding round led by Industrifonden .",
+    "points": [
+     "Founded in 2024 by Erik Wikander (CEO), Dr Mhairi Dunion (AI Scientist) and Oleg Danylenko (CTO), Wilgot helps brands adapt their product information to changing consumer shopping behaviour.",
+     "The round also included participation from Luminar Ventures, Foundry Ventures, Ventures Together and Inovexus, alongside angel investors Johan Bäckarlin and Johan Hjelte, founders of Voyado, and Niclas Mollin, founder of inriver and Occtoo.",
+     "Consumers are increasingly using AI assistants such as ChatGPT, Google Gemini and Perplexity to discover products and receive shopping recommendations.",
+     "This shift is changing how brands reach potential customers, as traditional product descriptions and marketing content may not provide AI assistants with the information needed to recommend relevant products."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$3M"
+     },
+     {
+      "key": "round",
+      "value": "Seed"
+     },
+     {
+      "key": "investors",
+      "value": "Industrifonden"
+     }
+    ]
+   },
+   "date": "2026-11-19T09:00:00.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 11
+  },
+  {
+   "id": "noah-raises-800k-to-help-companies-unlock-their-ai-potential",
+   "title": "Noah raises €800K to help companies unlock their AI potential",
+   "url": "https://tech.eu/2026/11/19/noah-raises-eur800k-to-help-companies-unlock-their-ai-potential/",
+   "summary": "Antwerp-based startup Noah, which develops an AI-powered platform tohelp companies identify and prioritise opportunities for artificialintelligence adoption, has raised €800,000 from a group of busine...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/noah-featured-208.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Noah raises €800K to help companies unlock their AI potential",
+     "url": "https://tech.eu/2026/11/19/noah-raises-eur800k-to-help-companies-unlock-their-ai-potential/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Antwerp-based startup Noah , which develops an AI-powered platform to help companies identify and prioritise opportunities for artificial intelligence adoption, has raised €800,000 from a group of business angels.",
+    "points": [
+     "Investors include Rudi Deruytter, former CEO of B-Bank, entrepreneur Ben Schrauwen and Nicolas Debray of Belgium Startup Ecosystem.",
+     "Founded by Denis Leysen (CEO), César Van Leuffelen (CPO) and Tom De Smedt (CTO), Noah helps businesses assess where AI can deliver value by analysing internal processes, identifying potential use cases and estimating their financial impact.",
+     "The financing is supplemented by subsidies and a bank loan.",
+     "While companies increasingly recognise the potential of AI, many struggle to identify where to begin or how to measure its benefits."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-19T07:45:00.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 10.8
+  },
+  {
+   "id": "anthropic-s-1-4tn-ipo-puts-europe-s-ai-boom-to-the-test",
+   "title": "Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test",
+   "url": "https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test",
+     "url": "https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/"
+    }
+   ],
+   "date": "2026-11-18T05:00:46.000Z",
+   "categories": [
+    "M&A & IPOs",
+    "AI"
+   ],
+   "score": 10
+  },
+  {
+   "id": "london-based-ai-legal-startup-alecto-raises-20m",
+   "title": "London-Based AI Legal Startup Alecto Raises $20M",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGR6RG1qeF93S3JSTTR1YTJ3Z3RLcEtteHM2LVdKM0hKT1VUMEd5TFBONU90Q2Y5M2toUjNZeFg0UWlVekRUcl9sckRtNmxNT3doSlZjZm5ReDRrQzQ5T3dCQlpKUFVxNFpHOGktXzFZLURGSzdHNHZrbXdpV05rX2FxNDAzVjRmWmtoZTJ4UVPSAVZBVV95cUxOVk80SGp5WFdEMnZHSi0wd3lQYnVxU3FTRm1tamVIaE5LMmFSSTk2MGpUOFlTbk9wVDM1Q0hLQVp4eVlYNzZJcE9fQkt6cVFFQmJHVFhHdw?oc=5",
+   "summary": "",
+   "sources": [
+    "Law360"
+   ],
+   "articles": [
+    {
+     "source": "Law360",
+     "title": "London-Based AI Legal Startup Alecto Raises $20M",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGR6RG1qeF93S3JSTTR1YTJ3Z3RLcEtteHM2LVdKM0hKT1VUMEd5TFBONU90Q2Y5M2toUjNZeFg0UWlVekRUcl9sckRtNmxNT3doSlZjZm5ReDRrQzQ5T3dCQlpKUFVxNFpHOGktXzFZLURGSzdHNHZrbXdpV05rX2FxNDAzVjRmWmtoZTJ4UVPSAVZBVV95cUxOVk80SGp5WFdEMnZHSi0wd3lQYnVxU3FTRm1tamVIaE5LMmFSSTk2MGpUOFlTbk9wVDM1Q0hLQVp4eVlYNzZJcE9fQkt6cVFFQmJHVFhHdw?oc=5"
+    }
+   ],
+   "date": "2026-11-18T20:47:57.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 9.9
+  },
+  {
+   "id": "each-labs-bags-7m-to-make-generative-media-production-faster-and-cheaper",
+   "title": "each::labs bags $7M to make generative media production faster and cheaper",
+   "url": "https://tech.eu/2026/11/18/eachlabs-bags-7m-to-make-generative-media-production-faster-and-cheaper/",
+   "summary": "each::labs,a generative media platform that enables businesses to create images, videosand audio using AI models and automated workflows, has raised $7 million in aseed funding round co-led by Revo Ca...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/each-labs-967-571.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "each::labs bags $7M to make generative media production faster and cheaper",
+     "url": "https://tech.eu/2026/11/18/eachlabs-bags-7m-to-make-generative-media-production-faster-and-cheaper/"
+    }
+   ],
+   "brief": {
+    "essentiel": "each::labs , a generative media platform that enables businesses to create images, videos and audio using AI models and automated workflows, has raised $7 million in a seed funding round co-led by Revo Capital and the European Bank for Reconstruction and Development ( EBRD ).",
+    "points": [
+     "Founded in June 2024 by Turkish engineers, each::labs provides a platform that combines more than 600 third-party AI models with its own technology, allowing production studios, e-commerce brands, consumer AI applications and advertising platforms to generate and manage media content.",
+     "While generative media tools have made content creation more accessible, achieving consistent results often requires multiple attempts, increasing costs and slowing down production.",
+     "According to each::labs, conversations with more than 100 app developers, directors and studios highlighted the difficulties of obtaining the desired output from generative AI models.",
+     "The company is headquartered in San Francisco, with engineering operations in Istanbul."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$7M"
+     },
+     {
+      "key": "round",
+      "value": "Seed"
+     },
+     {
+      "key": "investors",
+      "value": "Revo Capital and the European Bank for Reconstruction and Development"
+     }
+    ]
+   },
+   "date": "2026-11-18T13:00:00.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 9.3
+  },
+  {
+   "id": "intelliprove-raises-2-7m-to-bring-health-monitoring-from-smartphones-to-humanoid",
+   "title": "IntelliProve raises €2.7M to bring health monitoring from smartphones to humanoid robots",
+   "url": "https://tech.eu/2026/11/19/intelliprove-raises-eur27m-to-bring-health-monitoring-from-smartphones-to-humanoid-robots/",
+   "summary": "Belgian healthtech company IntelliProve hasraised €2.7 million in a seed funding round led by Miles Ahead, withparticipation from Wit-Gele Kruis, imec.istart and several business angels. IntelliProve ...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/intelliprove-featured-303.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "IntelliProve raises €2.7M to bring health monitoring from smartphones to humanoid robots",
+     "url": "https://tech.eu/2026/11/19/intelliprove-raises-eur27m-to-bring-health-monitoring-from-smartphones-to-humanoid-robots/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Belgian healthtech company IntelliProve has raised €2.7 million in a seed funding round led by Miles Ahead , with participation from Wit-Gele Kruis , imec.istart and several business angels.",
+    "points": [
+     "IntelliProve develops software that enables standard cameras in smartphones, laptops and other devices to measure health indicators without requiring additional equipment or physical contact.",
+     "Through a 30-second facial scan, the technology provides six biomarkers: heart rate, heart rate variability (HRV), respiratory rate, systolic and diastolic blood pressure, and resonant breathing.",
+     "Healthcare systems face growing pressure from ageing populations, staff shortages and rising demand for care.",
+     "Traditional health monitoring often requires dedicated equipment and professional assistance, making these services harder to scale."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€2.7M"
+     },
+     {
+      "key": "round",
+      "value": "Seed"
+     },
+     {
+      "key": "investors",
+      "value": "Miles Ahead"
+     }
+    ]
+   },
+   "date": "2026-11-19T06:55:49.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8.8
+  },
+  {
+   "id": "the-other-staniszewski-brother-just-raised-4-7m-and-paul-graham-is-a-backer",
+   "title": "The other Staniszewski brother just raised $4.7m – and Paul Graham is a backer",
+   "url": "https://sifted.eu/articles/lato-seed-round/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "The other Staniszewski brother just raised $4.7m – and Paul Graham is a backer",
+     "url": "https://sifted.eu/articles/lato-seed-round/"
+    }
+   ],
+   "date": "2026-11-19T05:00:14.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8.6
+  },
+  {
+   "id": "ireland-s-disseqt-ai-raises-7-3-million-to-safely-deploy-ai-agents",
+   "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNak1LVkNWUlZGb01RVlNhaHhxd2FuN19rdU5hUGtBTDZIT0dHbTdjTkduTGNfUFhFWjJxbkxMU29WaEJ0TW5ISzZleWJGdmtqeW8tVmI0TFZQcGh3SVVWbks4QzlocGEyT0NNTmM4VGRSOHR1clIwLTdNVFdXUjRPUF9hZ2FEYlc3LUt2WnNMNDZVVXpLSm9Ld1ZyM0Q3YkNCcHgzSzBB?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNak1LVkNWUlZGb01RVlNhaHhxd2FuN19rdU5hUGtBTDZIT0dHbTdjTkduTGNfUFhFWjJxbkxMU29WaEJ0TW5ISzZleWJGdmtqeW8tVmI0TFZQcGh3SVVWbks4QzlocGEyT0NNTmM4VGRSOHR1clIwLTdNVFdXUjRPUF9hZ2FEYlc3LUt2WnNMNDZVVXpLSm9Ld1ZyM0Q3YkNCcHgzSzBB?oc=5"
+    }
+   ],
+   "date": "2026-11-18T15:09:19.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 8.5
+  },
+  {
+   "id": "dcubed-raises-27-2m-series-a-to-scale-space-deployment-and-power-systems",
+   "title": "Dcubed raises €27.2M Series A+ to scale space deployment and power systems",
+   "url": "https://tech.eu/2026/11/18/dcubed-raises-eur272m-series-a-to-scale-space-deployment-and-power-systems/",
+   "summary": "German spacetechcompany Dcubed has raised €27.2 million in a Series A+ funding round led byWarsaw Equity Group (WEG), with participation from the European InnovationCouncil (EIC) Fund, the HTGF Opport...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/dcubed-featured-210.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Dcubed raises €27.2M Series A+ to scale space deployment and power systems",
+     "url": "https://tech.eu/2026/11/18/dcubed-raises-eur272m-series-a-to-scale-space-deployment-and-power-systems/"
+    }
+   ],
+   "brief": {
+    "essentiel": "German spacetech company Dcubed has raised €27.2 million in a Series A+ funding round led by Warsaw Equity Group (WEG), with participation from the European Innovation Council ( EIC ) Fund, the HTGF Opportunity Fund and existing investors, including BayBG and Expansion .",
+    "points": [
+     "The space industry continues to face challenges related to long production lead times, customised components and complex supply chains.",
+     "Dcubed aims to address these issues by offering ready-to-order space hardware, reducing the need for individually developed components and making deployment systems more accessible to customers.",
+     "Alongside its existing hardware business, Dcubed is developing ARAQYS, a new family of solar arrays and power solutions designed to increase the availability of affordable power in space.",
+     "The company sees access to scalable energy infrastructure as an important factor in supporting new applications and commercial opportunities in orbit and on the Moon."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€27.2M"
+     },
+     {
+      "key": "round",
+      "value": "Series A"
+     },
+     {
+      "key": "investors",
+      "value": "Warsaw Equity Group"
+     }
+    ]
+   },
+   "date": "2026-11-18T12:05:30.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8.2
+  },
+  {
+   "id": "exclusive-schneider-electric-s-vc-fund-brings-accelerator-scheme-to-europe",
+   "title": "Exclusive: Schneider Electric's VC fund brings accelerator scheme to Europe",
+   "url": "https://sifted.eu/articles/schneider-electric-ventures-accelerator-scheme-europe/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Exclusive: Schneider Electric's VC fund brings accelerator scheme to Europe",
+     "url": "https://sifted.eu/articles/schneider-electric-ventures-accelerator-scheme-europe/"
+    }
+   ],
+   "date": "2026-11-19T05:00:42.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 7.6
+  },
+  {
+   "id": "elevenlabs-lovable-and-deepl-ceos-urge-eu-to-back-homegrown-ai",
+   "title": "ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI",
+   "url": "https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI",
+     "url": "https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/"
+    }
+   ],
+   "date": "2026-11-18T12:30:18.000Z",
+   "categories": [
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 7.2
+  },
+  {
+   "id": "ellipses-pharma-explores-a-london-stock-exchange-listing-opportunity",
+   "title": "Ellipses Pharma explores a London Stock Exchange listing opportunity",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVW9pS1A4bEg1dENMTmxjM3Q2RFQ1UzZ2Zmh2aWQ5SUd2S1dOZnRwb2F0aV8yaVpPRlVCS1dlRkdfTm9DalJkTy1fMG9qcWtlR2hRRlNWb3c5OVJtWTVzQzlUSjN3d0tRd2JKcjRkM2VWNlc1NmFmWFVJVi1LWHJuRlNxNU1FNkMydDJqbkM2R1dGQjRZVGpr?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Ellipses Pharma explores a London Stock Exchange listing opportunity",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVW9pS1A4bEg1dENMTmxjM3Q2RFQ1UzZ2Zmh2aWQ5SUd2S1dOZnRwb2F0aV8yaVpPRlVCS1dlRkdfTm9DalJkTy1fMG9qcWtlR2hRRlNWb3c5OVJtWTVzQzlUSjN3d0tRd2JKcjRkM2VWNlc1NmFmWFVJVi1LWHJuRlNxNU1FNkMydDJqbkM2R1dGQjRZVGpr?oc=5"
+    }
+   ],
+   "date": "2026-11-18T08:30:00.000Z",
+   "categories": [
+    "M&A & IPOs"
+   ],
+   "score": 7
+  },
+  {
+   "id": "the-next-big-bets-in-ai-compute",
+   "title": "The next big bets in AI compute",
+   "url": "https://sifted.eu/articles/inside-the-next-big-bets-in-ai-compute/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "The next big bets in AI compute",
+     "url": "https://sifted.eu/articles/inside-the-next-big-bets-in-ai-compute/"
+    }
+   ],
+   "date": "2026-11-19T05:00:20.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 6.6
+  },
+  {
+   "id": "ai-is-making-teams-smaller-and-the-fight-for-real-talent-harder",
+   "title": "AI is making teams smaller — and the fight for real talent harder",
+   "url": "https://sifted.eu/articles/eqt-ai-talent-polly-barnes-opinion/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "AI is making teams smaller — and the fight for real talent harder",
+     "url": "https://sifted.eu/articles/eqt-ai-talent-polly-barnes-opinion/"
+    }
+   ],
+   "date": "2026-11-19T05:00:16.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 6.6
+  },
+  {
+   "id": "estonia-s-plural-raises-1b-to-back-european-deep-tech",
+   "title": "Estonia’s Plural Raises €1B to Back European Deep Tech",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0psWk9XYkN5dUE5T01yeERia012Szg2c0tDRHhKcUZMM0xHVzNyWlBNUE5QQnpqUnlUODNQbW95UTRCSXVFenVnaTBTXzBSZjRhU0x2Vm1NSDBPY3ctLUxEdEpiS2xKMXptOVpNU2VCTzRQQjBNSkVXc2xYSVY2bEduZzVHQUYtbnhqV1pOejlteHNWSFQ4UVJlTmJYdXVRVExmeTB2WDNFUkJFTTdTLThZVS1PWmRkbGY2UjRQOA?oc=5",
+   "summary": "",
+   "sources": [
+    "The Recursive"
+   ],
+   "articles": [
+    {
+     "source": "The Recursive",
+     "title": "Estonia’s Plural Raises €1B to Back European Deep Tech",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0psWk9XYkN5dUE5T01yeERia012Szg2c0tDRHhKcUZMM0xHVzNyWlBNUE5QQnpqUnlUODNQbW95UTRCSXVFenVnaTBTXzBSZjRhU0x2Vm1NSDBPY3ctLUxEdEpiS2xKMXptOVpNU2VCTzRQQjBNSkVXc2xYSVY2bEduZzVHQUYtbnhqV1pOejlteHNWSFQ4UVJlTmJYdXVRVExmeTB2WDNFUkJFTTdTLThZVS1PWmRkbGY2UjRQOA?oc=5"
+    }
+   ],
+   "date": "2026-11-18T12:01:48.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6.2
+  },
+  {
+   "id": "peace-is-a-system-europe-stopped-maintaining-it",
+   "title": "Peace is a system. Europe stopped maintaining it.",
+   "url": "https://sifted.eu/articles/peace-is-a-system-europe-stopped-maintaining-it-brnd/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Peace is a system. Europe stopped maintaining it.",
+     "url": "https://sifted.eu/articles/peace-is-a-system-europe-stopped-maintaining-it-brnd/"
+    }
+   ],
+   "date": "2026-11-19T09:00:54.000Z",
+   "categories": [],
+   "score": 6
+  },
+  {
+   "id": "israeli-startup-secures-10-million-in-european-backing-to-stop-hackers-from-harv",
+   "title": "Israeli startup secures €10 million in European backing to stop hackers from harvesting data for future quantum attacks",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lakJuUXp4UGk1d3RtRTZNdkdkQ3hIZHRSamxvM01zR1MyWHpDLWctSXEwam5Pa1BhSGJDc1VxdUp6cUxxV003ZDJTM0c0NEptQlRsMU92cE9iMzhRZ3c5dlZDV2F0WE9L?oc=5",
+   "summary": "",
+   "sources": [
+    "CTech"
+   ],
+   "articles": [
+    {
+     "source": "CTech",
+     "title": "Israeli startup secures €10 million in European backing to stop hackers from harvesting data for future quantum attacks",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lakJuUXp4UGk1d3RtRTZNdkdkQ3hIZHRSamxvM01zR1MyWHpDLWctSXEwam5Pa1BhSGJDc1VxdUp6cUxxV003ZDJTM0c0NEptQlRsMU92cE9iMzhRZ3c5dlZDV2F0WE9L?oc=5"
+    }
+   ],
+   "date": "2026-11-18T08:06:00.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "jacobs-selected-by-sanofi-to-deliver-new-insulin-manufacturing-facility-in-germa",
+   "title": "Jacobs selected by Sanofi to deliver new insulin manufacturing facility in Germany – Company Announcement",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1FiOVRlWTJLS2ZjN2VrbFNtNVRqQnNmMnRzSERLbGNtSHlGdHJ5bEZ6MndTV0pDUlhGZlJxM3ZzaTVQZ3g3eXpibWpCWkFuVXRFdzZlbXp4T1Nnb2tDbkdDT29zaFRNb2c4MVpCZHBxeUp4SllUUVFHOG1LMlhuMkdGWlNiODhDUy01Z29WX3NuUkk5QmQ3cmk5UXNIOEp1cHRLdlJ3?oc=5",
+   "summary": "",
+   "sources": [
+    "Financial Times"
+   ],
+   "articles": [
+    {
+     "source": "Financial Times",
+     "title": "Jacobs selected by Sanofi to deliver new insulin manufacturing facility in Germany – Company Announcement",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1FiOVRlWTJLS2ZjN2VrbFNtNVRqQnNmMnRzSERLbGNtSHlGdHJ5bEZ6MndTV0pDUlhGZlJxM3ZzaTVQZ3g3eXpibWpCWkFuVXRFdzZlbXp4T1Nnb2tDbkdDT29zaFRNb2c4MVpCZHBxeUp4SllUUVFHOG1LMlhuMkdGWlNiODhDUy01Z29WX3NuUkk5QmQ3cmk5UXNIOEp1cHRLdlJ3?oc=5"
+    }
+   ],
+   "date": "2026-11-19T08:30:00.000Z",
+   "categories": [],
+   "score": 5.9
+  },
+  {
+   "id": "exclusive-openai-and-meta-insiders-back-startup-policing-rogue-ai-agents",
+   "title": "Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents",
+   "url": "https://sifted.eu/articles/disseqt-ai-agents-rogue/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents",
+     "url": "https://sifted.eu/articles/disseqt-ai-agents-rogue/"
+    }
+   ],
+   "date": "2026-11-18T05:00:24.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 5
+  },
+  {
+   "id": "ineffable-s-david-silver-on-the-race-to-superintelligence-and-how-to-keep-it-saf",
+   "title": "Ineffable’s David Silver on the race to superintelligence — and how to keep it safe",
+   "url": "https://sifted.eu/articles/ineffable-david-silver-ai-super-intelligence-safety/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Ineffable’s David Silver on the race to superintelligence — and how to keep it safe",
+     "url": "https://sifted.eu/articles/ineffable-david-silver-ai-super-intelligence-safety/"
+    }
+   ],
+   "date": "2026-11-19T05:00:10.000Z",
+   "categories": [],
+   "score": 4.6
+  },
+  {
+   "id": "be-ready-to-rebuild-from-scratch-after-cyberattacks-uk-watchdogs-tell-banks",
+   "title": "Be ready to rebuild from scratch after cyberattacks, UK watchdogs tell banks",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lR0I5X0pwbmJuZEN2TFJDVnV3MjJxbXh6ZkJqRmZaVkRPVnJQUXpwR3JBT2poZ1Vmd1E3Z1NmckJTdjYyVWRMaURvOUV1RHZhMnNJMkFfc2JiUEpkcnk2cjczT25oNWZIS2NPN0J2bw?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Be ready to rebuild from scratch after cyberattacks, UK watchdogs tell banks",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lR0I5X0pwbmJuZEN2TFJDVnV3MjJxbXh6ZkJqRmZaVkRPVnJQUXpwR3JBT2poZ1Vmd1E3Z1NmckJTdjYyVWRMaURvOUV1RHZhMnNJMkFfc2JiUEpkcnk2cjczT25oNWZIS2NPN0J2bw?oc=5"
+    }
+   ],
+   "date": "2026-11-19T01:00:00.000Z",
+   "categories": [],
+   "score": 4.3
+  },
+  {
+   "id": "how-to-bounce-back-from-losing-your-dream-job",
+   "title": "How to bounce back from losing your dream job",
+   "url": "https://sifted.eu/articles/what-to-do-after-losing-your-dream-job/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "How to bounce back from losing your dream job",
+     "url": "https://sifted.eu/articles/what-to-do-after-losing-your-dream-job/"
+    }
+   ],
+   "date": "2026-11-18T10:40:37.000Z",
+   "categories": [],
+   "score": 3.1
+  },
+  {
+   "id": "beyond-the-15-minute-delivery-race-glovo-s-next-chapter-in-quick-commerce",
+   "title": "Beyond the 15-minute delivery race: Glovo's next chapter in quick commerce",
+   "url": "https://tech.eu/2026/11/18/beyond-the-15-minute-delivery-race-glovos-next-chapter-in-quick-commerce/",
+   "summary": "The days of racing to deliver groceries in 15 minutes — I once clocked a 7-minute delivery from the non-defunct Gorillas here in Berlin — may be over, but quick commerce is constantly evolving. What b...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-76-576.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Beyond the 15-minute delivery race: Glovo's next chapter in quick commerce",
+     "url": "https://tech.eu/2026/11/18/beyond-the-15-minute-delivery-race-glovos-next-chapter-in-quick-commerce/"
+    }
+   ],
+   "brief": {
+    "essentiel": "The days of racing to deliver groceries in 15 minutes — I once clocked a 7-minute delivery from the non-defunct Gorillas here in Berlin — may be over, but quick commerce is constantly evolving.",
+    "points": [
+     "What began as a race to get food to customers faster is developing into a broader retail model, spanning everything from pet food and pharmacy products to fashion and electronics.",
+     "During a recent visit to Glovo 's Yellow Park headquarters in Barcelona for its Startup Campus, I spoke with Connie Kwok, VP of Q-Commerce at Glovo, about how the sector is changing, where the next opportunities lie and the practical challenges of making almost anything available on demand.",
+     "Having spent eight years at Amazon before joining Glovo, Kwok believes quick commerce will fundamentally change how people shop.",
+     "But as delivery platforms expand beyond their original focus on restaurants and groceries, they face new challenges, from managing fashion returns and fragmented retail inventory to determining where autonomous delivery robots make commercial sense."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-18T11:00:00.000Z",
+   "categories": [],
+   "score": 3.1
+  },
+  {
+   "id": "from-wi-fi-challenger-to-nato-defence-technology-oledcomm-s-li-fi-revival",
+   "title": "From Wi-Fi challenger to NATO defence technology: Oledcomm's Li-Fi revival",
+   "url": "https://tech.eu/2026/11/18/from-wi-fi-challenger-to-nato-defence-technology-oledcomms-li-fi-revival/",
+   "summary": "Li-Fi is hardly new. I first started writing about the technology more than a decade ago, when the idea of transmitting data through light rather than radio waves promised to transform wireless connec...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-74-233.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "From Wi-Fi challenger to NATO defence technology: Oledcomm's Li-Fi revival",
+     "url": "https://tech.eu/2026/11/18/from-wi-fi-challenger-to-nato-defence-technology-oledcomms-li-fi-revival/"
+    }
+   ],
+   "brief": {
+    "essentiel": "I first started writing about the technology more than a decade ago, when the idea of transmitting data through light rather than radio waves promised to transform wireless connectivity.",
+    "points": [
+     "But despite the early excitement, Li-Fi never achieved mainstream adoption.",
+     "But now, the technology is finding renewed relevance in an unexpected place.",
+     "French optical wireless communications company Oledcomm is developing light-based communications systems designed to address the vulnerabilities of conventional radio-frequency communications, particularly in military environments where electronic warfare and jamming are increasingly prevalent.",
+     "Oledcomm has been selected for the Mission Track of NATO's Defence Innovation Accelerator for the North Atlantic (DIANA) after participating in the programme's initial Challenge phase."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-18T11:00:00.000Z",
+   "categories": [],
+   "score": 3.1
+  },
+  {
+   "id": "u-s-invested-5-times-more-in-a-i-in-9-months-than-europe-did-in-a-decade",
+   "title": "U.S. Invested 5 Times More in A.I. in 9 Months Than Europe Did in a Decade",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1c2UzLUNHVmR2ckNPOTlWTlNaSHhJV3NrRERiU0JMejlqQi1RQXl3Q1RfUXdPdkV2RXktVXNBcjZpc05OTjBsekUxdFhuNWdsMmhjNktLc0lfc09ZN25FSEtmR3NZdlJzWDdsQTctbGpWaDcxU1d5ZkxQbw?oc=5",
+   "summary": "",
+   "sources": [
+    "www.trendingtopics.eu"
+   ],
+   "articles": [
+    {
+     "source": "www.trendingtopics.eu",
+     "title": "U.S. Invested 5 Times More in A.I. in 9 Months Than Europe Did in a Decade",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1c2UzLUNHVmR2ckNPOTlWTlNaSHhJV3NrRERiU0JMejlqQi1RQXl3Q1RfUXdPdkV2RXktVXNBcjZpc05OTjBsekUxdFhuNWdsMmhjNktLc0lfc09ZN25FSEtmR3NZdlJzWDdsQTctbGpWaDcxU1d5ZkxQbw?oc=5"
+    }
+   ],
+   "date": "2026-11-18T07:27:43.000Z",
+   "categories": [],
+   "score": 2
+  },
+  {
+   "id": "switzerland-leads-europe-in-spinout-value-per-capita",
+   "title": "Switzerland leads Europe in spinout value per capita",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGREd00ycFRiV2t0Q0JlbFRQT19ZWFZWLW1TeTN3Nlc5T2RqbEd5R3NyZDl5bk1DWTA4X1RMUXBONGhZT1YzTEE1V0o0a1VZRUt4RjdWUjBWeklOSFlISllJcmtId1ZZV2hvVktfdWQwa05OYTNEanlLTkg4dlp3WTNoWmlNTWhnTlN6Y0YwSjM3am8?oc=5",
+   "summary": "",
+   "sources": [
+    "Startupticker.ch"
+   ],
+   "articles": [
+    {
+     "source": "Startupticker.ch",
+     "title": "Switzerland leads Europe in spinout value per capita",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGREd00ycFRiV2t0Q0JlbFRQT19ZWFZWLW1TeTN3Nlc5T2RqbEd5R3NyZDl5bk1DWTA4X1RMUXBONGhZT1YzTEE1V0o0a1VZRUt4RjdWUjBWeklOSFlISllJcmtId1ZZV2hvVktfdWQwa05OYTNEanlLTkg4dlp3WTNoWmlNTWhnTlN6Y0YwSjM3am8?oc=5"
+    }
+   ],
+   "date": "2026-11-18T07:49:59.000Z",
+   "categories": [],
+   "score": 2
+  },
+  {
+   "id": "tech-start-ups-europe-on-track-to-reach-a-record-40-000-new-founders",
+   "title": "Tech start-ups: Europe on track to reach a record 40,000 new founders",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzZJNkM2d0RpZzk4R29BTzVkb3ltenRWdU10eUZEbzFaejZITk1lVl80bkMwVUlxS3NOYzlRX0p2VU1XVzRzV2o2eDVWSG1ZLTZsRXAtVzRGX3o3Z1VIWE53WWotdW9hXzRwNnkyRmhaS28xek5VU25ubFE5R2hzMDR6MEw0c2dUdnNBR3hXdUNud2dBOGNv?oc=5",
+   "summary": "",
+   "sources": [
+    "Il Sole 24 ORE"
+   ],
+   "articles": [
+    {
+     "source": "Il Sole 24 ORE",
+     "title": "Tech start-ups: Europe on track to reach a record 40,000 new founders",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzZJNkM2d0RpZzk4R29BTzVkb3ltenRWdU10eUZEbzFaejZITk1lVl80bkMwVUlxS3NOYzlRX0p2VU1XVzRzV2o2eDVWSG1ZLTZsRXAtVzRGX3o3Z1VIWE53WWotdW9hXzRwNnkyRmhaS28xek5VU25ubFE5R2hzMDR6MEw0c2dUdnNBR3hXdUNud2dBOGNv?oc=5"
+    }
+   ],
+   "date": "2026-11-18T06:28:11.000Z",
+   "categories": [],
+   "score": 2
+  },
+  {
+   "id": "european-startup-funding-to-hit-81b-in-2026-but-compute-lags-us",
+   "title": "European startup funding to hit $81B in 2026, but compute lags US",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnplWjdMSm5tQi1FTDV0UUZqTmtOZmd4ZGZtRjhIVkNfTk03WWJkWTNPTnRLZXlYT1M4Q3N3R0NaaWRRWG45OGMzWnBjbUpqU1duajZEUXJIUXhhZi1fNjNkMzFVT3VwbUZhY3Yyd09xclFtVE9BU3JoS05nSjVrdGM3QnlMVWtVUnI5UE9BMzBZX1hTMUxiNm9DMXl5Zw?oc=5",
+   "summary": "",
+   "sources": [
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Dealroom",
+     "title": "European startup funding to hit $81B in 2026, but compute lags US",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnplWjdMSm5tQi1FTDV0UUZqTmtOZmd4ZGZtRjhIVkNfTk03WWJkWTNPTnRLZXlYT1M4Q3N3R0NaaWRRWG45OGMzWnBjbUpqU1duajZEUXJIUXhhZi1fNjNkMzFVT3VwbUZhY3Yyd09xclFtVE9BU3JoS05nSjVrdGM3QnlMVWtVUnI5UE9BMzBZX1hTMUxiNm9DMXl5Zw?oc=5"
+    }
+   ],
+   "date": "2026-11-18T08:45:07.000Z",
+   "categories": [],
+   "score": 2
+  }
+ ]
+}
