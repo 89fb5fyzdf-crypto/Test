@@ -1,0 +1,1521 @@
+{
+ "date": "2026-11-20",
+ "generatedAt": "2026-11-20T09:30:04.445Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 64,
+  "raw": 86,
+  "media": 38
+ },
+ "scope": "fr",
+ "lang": "fr",
+ "sources": [
+  {
+   "source": "BFM Tech",
+   "ok": true,
+   "items": 30
+  },
+  {
+   "source": "EU-Startups (France)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "source": "FrenchWeb",
+   "ok": true,
+   "items": 30
+  },
+  {
+   "source": "Google News · \"French Tech\"",
+   "ok": true,
+   "items": 21
+  },
+  {
+   "source": "Google News · Bpifrance startup",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "Google News · licorne française",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "source": "Google News · Mistral AI",
+   "ok": true,
+   "items": 26
+  },
+  {
+   "source": "Google News · startup française levée de fonds",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "Google News · Station F",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "source": "Journal du Net",
+   "ok": true,
+   "items": 60
+  },
+  {
+   "source": "L'Usine Digitale",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "Les Echos (start-up)",
+   "ok": true,
+   "items": 100
+  },
+  {
+   "source": "Maddyness",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "Siècle Digital",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "TechCrunch (France)",
+   "ok": true,
+   "items": 20
+  }
+ ],
+ "items": [
+  {
+   "id": "anti-drones-comment-stryx-ai-compte-rattraper-les-premiers-fournisseurs-des-arme",
+   "title": "Anti-drones : comment STRYX AI compte rattraper les premiers fournisseurs des armées",
+   "url": "https://www.frenchweb.fr/anti-drones-comment-stryx-ai-compte-rattraper-les-premiers-fournisseurs-des-armees/900000058?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "La startup d’Armand THIBERGE lève 7,7 M€ pour mettre en production son système anti-drones en France et le commercialiser début 2027. Les armées françaises ont déjà sélectionné l’intercepteur du letton ORIGIN ROBOTICS. Pour décrocher ses premières commandes, STRYX AI mise sur un coût d’interception qu’elle veut rapprocher de celui du drone visé.",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/7ffbdfa3cc5418ea3ac11abd70651c1e5cb5826f4bcb2baec19c9d85e2e2ab62.webp",
+   "sources": [
+    "FrenchWeb",
+    "Les Echos",
+    "Frenchweb.fr",
+    "Brief IA"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Anti-drones : comment STRYX AI compte rattraper les premiers fournisseurs des armées",
+     "url": "https://www.frenchweb.fr/anti-drones-comment-stryx-ai-compte-rattraper-les-premiers-fournisseurs-des-armees/900000058?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    },
+    {
+     "source": "Les Echos",
+     "title": "French Tech : Stryx AI, la nouvelle start-up qui intercepte des drones",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTnE4VU4yVHMtOTJGbWs3NDBVYUh2MFNPYk1tSEZERlFHYkdIekU3NHBYcGl3RHZZbmU4Y21wdkRVUlBOMkpkLTVzTnhja01YZHlwSTFOS2NlTThGVjJyYkxza05HOXcxUTBQUzU2ak42eFZtZ04zaFY3eWFYUlJWOXhuZUNaSk5aaUR3ei1GOFlESm1STXJNbE5rVTVCTTRnbm9ueHp4UDk3eTY4cGJHTFhQR3M?oc=5"
+    },
+    {
+     "source": "Frenchweb.fr",
+     "title": "Anti-drones : comment STRYX AI compte rattraper les premiers fournisseurs des armées",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0lxaVNRc1pwQktBNG1LRzFFN3BTWDE2OTlJMGxDRU1WWXhHZklVazhRN0tqWk50THNzM0FaSl93ekp0Y0RWc2FVLWY4TUd6QU16bWZxQU5wWmppQ2h3WkVOWXA2bzZOWjFRaDJtR2pOUW1LWlJrQUZNTXZBTGUtS2M0U1d5cXl4d2Z0NFhPLUhwNmNLTU5kSkFrY1o5ZG90eG94aVRoNFRUdGxrek8wOGFyX0JIeFg2?oc=5"
+    },
+    {
+     "source": "Brief IA",
+     "title": "STRYX AI lève 7,7 M€ pour produire son système anti-drones",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGhkdWRPWkRYYmRScFNwNlRBdHNfeEI3eS1WYW1yMFFYSU5sM3pVTlhwem9mNVRHVnFNTk5ERG1QNnNFR3FtSnBUQkFoZlJCMEV3Y0FpM0ZaYVlZcVhJTEFqSUd1anJPOXY0WmpGYXFWQUNpMlJ6bnFCdGg3TXJxaGRlVFZYbUJLWUwwWnNVVWxKQQ?oc=5"
+    }
+   ],
+   "brief": {
+    "essentiel": "La startup d’Armand THIBERGE lève 7,7 M€ pour mettre en production son système anti-drones en France et le commercialiser début 2027.",
+    "points": [
+     "Pour décrocher ses premières commandes, STRYX AI mise sur un coût d’interception qu’elle veut rapprocher de celui du drone visé.",
+     "Les armées françaises ont déjà sélectionné l’intercepteur du letton ORIGIN ROBOTICS."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "7,7 M€"
+     }
+    ]
+   },
+   "date": "2026-11-19T07:54:38.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA",
+    "Politique & écosystème"
+   ],
+   "score": 23.9
+  },
+  {
+   "id": "deutsche-telekom-investit-environ-110-millions-de-dollars-dans-la-startup-franca",
+   "title": "Deutsche Telekom investit environ 110 millions de dollars dans la startup française d'intelligence artificielle Mistral AI.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oLVlpTXVnQi1PTXI4OTdkeC1XbzFSd3E5Z0x0NVoyZkFIOUpoMFdBN3c4bjlJb2hiY2stUTc2SDNWa3lRaTFZZWFnamstVXFtNmZueW9mTXdxQzMzbHEyZFBYUmN2Njg5czFuS1Z0aTdIZDR5WEJFVjFKM25lTFE?oc=5",
+   "summary": "",
+   "sources": [
+    "Quartz en Français",
+    "Boursorama",
+    "ChannelNews",
+    "TradingView",
+    "Business AM",
+    "Zonebourse Suisse"
+   ],
+   "articles": [
+    {
+     "source": "Quartz en Français",
+     "title": "Deutsche Telekom investit environ 110 millions de dollars dans la startup française d'intelligence artificielle Mistral AI.",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oLVlpTXVnQi1PTXI4OTdkeC1XbzFSd3E5Z0x0NVoyZkFIOUpoMFdBN3c4bjlJb2hiY2stUTc2SDNWa3lRaTFZZWFnamstVXFtNmZueW9mTXdxQzMzbHEyZFBYUmN2Njg5czFuS1Z0aTdIZDR5WEJFVjFKM25lTFE?oc=5"
+    },
+    {
+     "source": "Boursorama",
+     "title": "Deutsche Telekom investit 100 millions d'euros dans la société française Mistral AI",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbTRZRDVpTXRLakJpelJndHJtNFk2am9za01nckFiM2ljcjFWY2J0RFVNVHpSWFduSmlWRm9QM0hWd3J6dlZ1djFac0RkVm11VmhKc1IySzRfOEEtSXQxVWJwZVdYNjduUUNfMkpsaDZ1QnppckZiZ2dzV2RBdEhHRmNra2cxaXpGS1lVeHcyb2c0S08xYnpoT25BbDVzdE1CWWZGOHNkeG1EZWdkTDhrR0FubTUwU0E4SnRSbU9FTEZXdkczUTJpY1hqUUZ1clJOb05zX2U4YzY3dVBYV01zY0ZJMklMQnQ3ZVM2UFhfZHktYlBtaEw2TdIB-AFBVV95cUxNbTRZRDVpTXRLakJpelJndHJtNFk2am9za01nckFiM2ljcjFWY2J0RFVNVHpSWFduSmlWRm9QM0hWd3J6dlZ1djFac0RkVm11VmhKc1IySzRfOEEtSXQxVWJwZVdYNjduUUNfMkpsaDZ1QnppckZiZ2dzV2RBdEhHRmNra2cxaXpGS1lVeHcyb2c0S08xYnpoT25BbDVzdE1CWWZGOHNkeG1EZWdkTDhrR0FubTUwU0E4SnRSbU9FTEZXdkczUTJpY1hqUUZ1clJOb05zX2U4YzY3dVBYV01zY0ZJMklMQnQ3ZVM2UFhfZHktYlBtaEw2TQ?oc=5"
+    },
+    {
+     "source": "ChannelNews",
+     "title": "Deutsche Telekom investit 100 M€ dans Mistral",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdVVFTkxySmhaYnNuaGEza2NkLVBMaFRTMDZQN3dEZ1VyZGFQNXlya0V4MzVVYkFTNU9rYkFUclFyMk5ZTkVvZndIeUd3ZmYzOFdJSDRjTFNua2JnbEVOS29VelNQTVl4SEVielRab2VOajd0c2htMUZNeVpWR0JxY2dONFM2QQ?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "Deutsche Telekom invests €100 million in France's Mistral AI",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNlJMa2FkVXowclNNSXZIYTh6ZEJsekRGSHkzeEJrUzhYbzZTdjBEVHY5Y1RCeFNubUN3VDd2cmlqWHNWdmh1Qkw2SV91cjFnUDJ4dkhTdU1YV1AxU1RHRWZqdVFmNElyOHJvOW15SnR0S0pGc1Z5Q1QyTU42Z3ZnWFBGZ0xIbEJkREExNTgybGFIcXBuTjA1UmF6SlJ2RW9MY2tCQ2ctNElFMUpmNVlSOGhiWXNDTGE1ME9vQ19jQXdSajk5eUc4?oc=5"
+    },
+    {
+     "source": "Business AM",
+     "title": "Deutsche Telekom investit 100 millions d'euros dans la start-up française spécialisée dans l'IA, Mistral",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0RCT0NHMF9EQThZdmtVNDZ5YUpGREJBNXI1Tm1OaWNBbC1iNEg4djhIMlh5dGZZUm9OSUI4Vy1pTlZ1bms1T3RuaTREeEo3RTZUZEhNNlN2RlJiOW5ST0hhaVJVQjg1SUpjLVJ1dE9vc3BMVm9oZGpTNGJESHlZSDBxOUFwdTRvS0xuNjlZT1pSQ0pvbFc1ZEc2Q1Y5YU9pLVhsc0VWc2RUbGxFenNTNGFDV0ZmV3hGX2ZBY0hOTXc0ZmRlS2c?oc=5"
+    },
+    {
+     "source": "Zonebourse Suisse",
+     "title": "Deutsche Telekom investit 100 millions d’euros dans la start-up française Mistral AI",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSGhBeGJicWhGWDA4SVBkalh2UDgzcjNzXzZ4T0prR2wxZ2MydE5YZDBOcFRRRFFzY1lwM1dBN3F2MEY2SWJvWFROcEEwbGUyNktYd2dzTHNQT3VDc19ITXRFTFZGcV9jbXhaWE5MSFZ0NVRnZzI2QnM4RjRzUGV0eGFhR3RYY2laZTg4ZHQyQlFlSXpSOExQRWoxREJ0VV9pdExUem1CWFYwZVhXZzVfemhCdGFuVkRqQnVMWFk1aE5ndWhTUEY4aEFPTkV3SzhZZlV1N1kyUkd3Nk4zLXc?oc=5"
+    }
+   ],
+   "date": "2026-11-19T07:19:31.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 23.8
+  },
+  {
+   "id": "les-startups-sont-elles-accros-a-l-acquisition-payante",
+   "title": "Les startups sont-elles accros à l’acquisition payante ?",
+   "url": "https://www.maddyness.com/2026/11/20/les-startups-sont-elles-accros-a-lacquisition-payante/",
+   "summary": "",
+   "image": "https://www.maddyness.com/app/uploads/2026/02/Illus-V5-82.jpg",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Les startups sont-elles accros à l’acquisition payante ?",
+     "url": "https://www.maddyness.com/2026/11/20/les-startups-sont-elles-accros-a-lacquisition-payante/"
+    }
+   ],
+   "date": "2026-11-20T08:00:19.000Z",
+   "categories": [
+    "Rachats & IPO"
+   ],
+   "score": 8.9
+  },
+  {
+   "id": "la-french-tech-grand-paris-lance-une-campagne-gen50tech-pour-promouvoir-l-emploi",
+   "title": "La French Tech Grand Paris lance une campagne Gen50Tech pour promouvoir l’emploi des plus de 50 ans dans la tech",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblkxSlRQRDkzREptZUhqNEhZWEcwbFZiLUVoamROM21LclZtaWstT2xzN3d4VUxVWHdZc0YwNTdnSzRDd3lrUndnZ2FPbndNQndtR3Yway1Zb3p4dUxUcVp6TXowRy1Vb3prbjZ1M3A2Z24wSjZLRGVHUUZQOXpCaDMxYjZuXzhad19kRkVrVGw0bk9ldnc?oc=5",
+   "summary": "",
+   "sources": [
+    "J'aime les startups",
+    "CB News"
+   ],
+   "articles": [
+    {
+     "source": "J'aime les startups",
+     "title": "La French Tech Grand Paris lance une campagne Gen50Tech pour promouvoir l’emploi des plus de 50 ans dans la tech",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblkxSlRQRDkzREptZUhqNEhZWEcwbFZiLUVoamROM21LclZtaWstT2xzN3d4VUxVWHdZc0YwNTdnSzRDd3lrUndnZ2FPbndNQndtR3Yway1Zb3p4dUxUcVp6TXowRy1Vb3prbjZ1M3A2Z24wSjZLRGVHUUZQOXpCaDMxYjZuXzhad19kRkVrVGw0bk9ldnc?oc=5"
+    },
+    {
+     "source": "CB News",
+     "title": "La French Tech Grand Paris mobilise pour l’emploi des 50 ans et plus",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0I0U1VIR2NvcDZWODFPVEdXYzRoT2VmZHh3dU9tSldzRTY3Vm02UFR0MzJwUGhHZ29PTDhXX0ZxU1dSQmx0Z3NsMWZ0Y182SXQzZjljX2FzTzVGMmFyNXBEOG0zdGhxMEJPZTZ6YWhKVGhMQmltSDFNMzlQV2ZTOWZCOU0xemVI?oc=5"
+    }
+   ],
+   "date": "2026-11-19T11:33:13.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 8.7
+  },
+  {
+   "id": "french-tech-bazarchic-une-nouvelle-patronne-pour-relancer-le-site-19-11",
+   "title": "French Tech : BazarChic, une nouvelle patronne pour relancer le site - 19/11",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1Q4d1JJTGVVRWJLeDJXQ3NmNHBrZzVwUV92YU04Ymd0VWtsaFZ4UHp1dDU4dHJxWXVvZXlFRk5RdVpDaXA2LWVNeEhydUU4SkFjamwwV0dMT3dsa3VnUnFUWGN3a0dYRHZrczlnSUoyTHktMUNsUkY2Z0NSb3Bkak9NV0YtYkFZOFdRTGU3VVFEQjNWTVRDRDFXM0htaG9sOFVkQklkQmNXZkRCZ0gyR3lsZmVDZlczUjhmekw5WDc1RHRfbzBQdW5R?oc=5",
+   "summary": "",
+   "sources": [
+    "Orange Actualités",
+    "BFM"
+   ],
+   "articles": [
+    {
+     "source": "Orange Actualités",
+     "title": "French Tech : BazarChic, une nouvelle patronne pour relancer le site - 19/11",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1Q4d1JJTGVVRWJLeDJXQ3NmNHBrZzVwUV92YU04Ymd0VWtsaFZ4UHp1dDU4dHJxWXVvZXlFRk5RdVpDaXA2LWVNeEhydUU4SkFjamwwV0dMT3dsa3VnUnFUWGN3a0dYRHZrczlnSUoyTHktMUNsUkY2Z0NSb3Bkak9NV0YtYkFZOFdRTGU3VVFEQjNWTVRDRDFXM0htaG9sOFVkQklkQmNXZkRCZ0gyR3lsZmVDZlczUjhmekw5WDc1RHRfbzBQdW5R?oc=5"
+    },
+    {
+     "source": "BFM",
+     "title": "French Tech : BazarChic, une nouvelle patronne pour relancer le site - 19/11",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWHNzbHB4WWZsby04Z08wVUIyQmRsX3VHZllBNll5OHg5SkZOeGhVTzd2Ri1pVHc0S2prRXZ3NjNSbWpHaFc2QVlKQUp0VklzQXU5eXkyVmtVU296aFp1aUQ1N1dpaGttV3FpbEpXX2lIZ0VJTzlDV0wzNWxQMlBCa0RoN3NLWW1tQ2J3V29kSWdMNUUxYVg0eHFlcFJjWmM1S0RTZkZtRjQwZUF0d1pVaVI5RmhoZjUzdnhHRUxqb1BzZG8xcnFFNEdFRnhNYTRYS2tRTlpnblRZdGZSS09hWXNWd1FTX213azU2Qk1mMzA?oc=5"
+    }
+   ],
+   "date": "2026-11-19T07:35:13.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 8
+  },
+  {
+   "id": "defense-le-fondateur-de-brevo-leve-7-7-millions-d-euros-avec-la-holding-de-jacqu",
+   "title": "Défense : le fondateur de Brevo lève 7,7 millions d'euros avec la holding de Jacques Veyrat pour sa startup anti-drones",
+   "url": "https://www.maddyness.com/2026/11/19/stryx-ai/",
+   "summary": "",
+   "image": "https://www.maddyness.com/app/uploads/2026/11/Management_StryxAI_HD-scaled-e1795016805222.jpg",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Défense : le fondateur de Brevo lève 7,7 millions d'euros avec la holding de Jacques Veyrat pour sa startup anti-drones",
+     "url": "https://www.maddyness.com/2026/11/19/stryx-ai/"
+    }
+   ],
+   "date": "2026-11-19T05:00:24.000Z",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "score": 7.5
+  },
+  {
+   "id": "genesis-ai-leve-500-millions-de-dollars-pour-ses-robots-a-gants-connectes",
+   "title": "Genesis AI lève 500 millions de dollars pour ses robots à gants connectés",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWluOWQtcDNIWG5LQ0gtcTE3ODk1XzZjN1BQUjJLVjZhZGhTNXRQY2ljZWdkU3lHeE94dWNlcVhELUdhajhHVVNPZ0M3T0xWT3Awd3hNenJKY0FDOVZ5YUZFZVFKNUlBQXEwYUlGTXM0RTJ0aTdSYkZBNzBjQUFhTFlwWXZWTzVWVVHSAY8BQVVfeXFMTk1IMHUyQWtzems3ZTZGN21lVzFSTU1GWHhwelhSUDJ6R2VvZldsc243WXIyck4weHhBcnpJUmdfYWpodE00Z2xCaHNyYVljTVVqYTdNcEtHM1I5N0p5cVhVNEo4WWFLWmt3NG1YWi1pNEE5TUZjdlZYOXJReV9LMk1VUE1iemRQQmJJZmRtYjg?oc=5",
+   "summary": "",
+   "sources": [
+    "Génération NT"
+   ],
+   "articles": [
+    {
+     "source": "Génération NT",
+     "title": "Genesis AI lève 500 millions de dollars pour ses robots à gants connectés",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWluOWQtcDNIWG5LQ0gtcTE3ODk1XzZjN1BQUjJLVjZhZGhTNXRQY2ljZWdkU3lHeE94dWNlcVhELUdhajhHVVNPZ0M3T0xWT3Awd3hNenJKY0FDOVZ5YUZFZVFKNUlBQXEwYUlGTXM0RTJ0aTdSYkZBNzBjQUFhTFlwWXZWTzVWVVHSAY8BQVVfeXFMTk1IMHUyQWtzems3ZTZGN21lVzFSTU1GWHhwelhSUDJ6R2VvZldsc243WXIyck4weHhBcnpJUmdfYWpodE00Z2xCaHNyYVljTVVqYTdNcEtHM1I5N0p5cVhVNEo4WWFLWmt3NG1YWi1pNEE5TUZjdlZYOXJReV9LMk1VUE1iemRQQmJJZmRtYjg?oc=5"
+    }
+   ],
+   "date": "2026-11-19T12:45:01.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 7.3
+  },
+  {
+   "id": "french-tech-une-start-up-francaise-de-la-sante-sous-pavillon-americain-le-french",
+   "title": "French Tech : une start-up française de la santé sous pavillon américain, le French Tech Nova… les confidentiels de la semaine",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUTB5Nkh5YXdUaFhlZHU1VEplUGUySUlybHRCUG9YbExrdFNxdjJfYkVua3dkbDVDOEczVGhwYW9FbVItdC1WM2RoZERFUkpCLUlSRjBIUXdaSVJQVXFhWmZxc084ZzFIQzVhUUw0MWUxeldHLW8ydHJlZzFiV1owRHR4TW5EcFZSU3RFVE95Wk1IMFl5WXI0QTBfN0VDNnFWa2JGWFNRQ0xlUmtSaDBBRmF5WjZucGZYeW9GVUFWa3ZGbjdsUG1NazZ3WDNzV2JWWkNHU3pCNVNqcEZyNGpGcjBLZlVGZXR5ZDZBNWlWbkRPYnVnbmlxQXd6Ym5fUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "French Tech : une start-up française de la santé sous pavillon américain, le French Tech Nova… les confidentiels de la semaine",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUTB5Nkh5YXdUaFhlZHU1VEplUGUySUlybHRCUG9YbExrdFNxdjJfYkVua3dkbDVDOEczVGhwYW9FbVItdC1WM2RoZERFUkpCLUlSRjBIUXdaSVJQVXFhWmZxc084ZzFIQzVhUUw0MWUxeldHLW8ydHJlZzFiV1owRHR4TW5EcFZSU3RFVE95Wk1IMFl5WXI0QTBfN0VDNnFWa2JGWFNRQ0xlUmtSaDBBRmF5WjZucGZYeW9GVUFWa3ZGbjdsUG1NazZ3WDNzV2JWWkNHU3pCNVNqcEZyNGpGcjBLZlVGZXR5ZDZBNWlWbkRPYnVnbmlxQXd6Ym5fUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-19T09:51:27.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 7
+  },
+  {
+   "id": "anthropic-signe-la-plus-grosse-ipo-de-l-histoire-combien-lui-coute-la-croissance",
+   "title": "ANTHROPIC signe la plus grosse IPO de l’histoire. Combien lui coûte la croissance de CLAUDE ?",
+   "url": "https://www.frenchweb.fr/anthropic-signe-la-plus-grosse-ipo-de-l-histoire-combien-lui-coute-la-croissance-de-claude/900000057?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "À 83 dollars par action, l’offre publique d’ANTHROPIC atteint 81,34 milliards de dollars et dépasse le record de SPACEX. CLAUDE rapproche le laboratoire de l’équilibre d’exploitation, alors qu’une partie des capacités de calcul réservées sera payée quel que soit l’usage.",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/803a345236137f4c7d5c3d87b0415bdc92cc6e9ed731d083a147c434a45dd6c0.png",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "ANTHROPIC signe la plus grosse IPO de l’histoire. Combien lui coûte la croissance de CLAUDE ?",
+     "url": "https://www.frenchweb.fr/anthropic-signe-la-plus-grosse-ipo-de-l-histoire-combien-lui-coute-la-croissance-de-claude/900000057?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    }
+   ],
+   "brief": {
+    "essentiel": "À 83 dollars par action, l’offre publique d’ANTHROPIC atteint 81,34 milliards de dollars et dépasse le record de SPACEX.",
+    "points": [
+     "CLAUDE rapproche le laboratoire de l’équilibre d’exploitation, alors qu’une partie des capacités de calcul réservées sera payée quel que soit l’usage."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-19T06:24:15.000Z",
+   "categories": [
+    "Rachats & IPO"
+   ],
+   "score": 7
+  },
+  {
+   "id": "french-tech-theraclion-traite-les-varices-via-des-ultrasons-20-11",
+   "title": "French Tech : Theraclion traite les varices via des ultrasons - 20/11",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORVJOZGVfcF9yZ0xCaVBWUzFKN1pmd0MtNlhtLXJwM2ZpbVpXVGgtTTFsQXA1ZmN1YjBRbUQxZWV6Q2diVnVBTDRnRUdaQk9kcVdhdWJDSXFxYk5ydUpFR1NneUhocnJHa3BvNzJOVHlPRU9oYnZrcVZQWHRGMWtWSUFWdFFWcHh3WVdYU0x4MkFDMDg2UlZlWlZ0R1pub1ZPRmQ0S3BfN2oyS1dPajYyd2VkM1lXZHNndzRmRFRyVW1mYnNNMElmbTlNT2lJSEE3SW05Wkl0RERXZ19LZi14bUJ5LVl6RVE?oc=5",
+   "summary": "",
+   "sources": [
+    "BFM"
+   ],
+   "articles": [
+    {
+     "source": "BFM",
+     "title": "French Tech : Theraclion traite les varices via des ultrasons - 20/11",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORVJOZGVfcF9yZ0xCaVBWUzFKN1pmd0MtNlhtLXJwM2ZpbVpXVGgtTTFsQXA1ZmN1YjBRbUQxZWV6Q2diVnVBTDRnRUdaQk9kcVdhdWJDSXFxYk5ydUpFR1NneUhocnJHa3BvNzJOVHlPRU9oYnZrcVZQWHRGMWtWSUFWdFFWcHh3WVdYU0x4MkFDMDg2UlZlWlZ0R1pub1ZPRmQ0S3BfN2oyS1dPajYyd2VkM1lXZHNndzRmRFRyVW1mYnNNMElmbTlNT2lJSEE3SW05Wkl0RERXZ19LZi14bUJ5LVl6RVE?oc=5"
+    }
+   ],
+   "date": "2026-11-20T07:36:12.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 6.8
+  },
+  {
+   "id": "alain-aspect-l-ordinateur-quantique-est-crucial-pour-la-souverainete-de-la-franc",
+   "title": "Alain Aspect : « L'ordinateur quantique est crucial pour la souveraineté de la France »",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM3EzS2tiNGhsT2xlZFBVRzZkY1BlSDhSQmpWOFUyQ1M5T3NDYW8zb3VYdGZKZzFUWEpxajBFdXRkcW1tNHR3WEREbHcwYXljR3pPcll4NlBnclpSbVF2eE54cjF4VjgxNVZ1VTVtU2xXN3ZZWHliM0VUUGZoYzRydFhBNTdneU9YYkhoSFBJUl9lT21KVmpnQ1dESFlWSXBQbXMwQWJRai1iUk0wOS1HMU5Va2plTnVYR0JOeER4bTh6cWlQSXpUUUJYS1E4c3dYeVN6MVZBRVp0NlpRUks4?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Alain Aspect : « L'ordinateur quantique est crucial pour la souveraineté de la France »",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM3EzS2tiNGhsT2xlZFBVRzZkY1BlSDhSQmpWOFUyQ1M5T3NDYW8zb3VYdGZKZzFUWEpxajBFdXRkcW1tNHR3WEREbHcwYXljR3pPcll4NlBnclpSbVF2eE54cjF4VjgxNVZ1VTVtU2xXN3ZZWHliM0VUUGZoYzRydFhBNTdneU9YYkhoSFBJUl9lT21KVmpnQ1dESFlWSXBQbXMwQWJRai1iUk0wOS1HMU5Va2plTnVYR0JOeER4bTh6cWlQSXpUUUJYS1E4c3dYeVN6MVZBRVp0NlpRUks4?oc=5"
+    }
+   ],
+   "date": "2026-11-20T07:25:09.000Z",
+   "categories": [],
+   "score": 5.8
+  },
+  {
+   "id": "transfert-xxl-a-paris-l-equipe-de-weil-gotshal-manges-rejoint-le-cabinet-d-avoca",
+   "title": "Transfert XXL à Paris : l'équipe de Weil, Gotshal & Manges rejoint le cabinet d'avocats Milbank",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSFpIRGo4MDFPM3FKRms3aWNvNDBNcXMzUHQ5TGw0MUVYZmZTNGlrV3VRNFhSakR5N0NIaUdvSFNsQjhJekN3MVdCbnQxdDE0eU5mXzR4amZqLTRiTHpTandqLXFkN0x1aDhsa2h2cDFpd24xOEE3b2puZmJtWkhIbTBaZ0o5dUhNbjlwNjdBYTZfeTQyTUo1cE9tcm9tWUtia3ZqNHpmVkVaV0lLeWh5Tzh4Sk05TTNkZC12NWo2eEJlRlZUdFJ0bWNPWXN0bjk4UmtHVUw0NkNlSWN0N0xaZHBTOHo?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Transfert XXL à Paris : l'équipe de Weil, Gotshal & Manges rejoint le cabinet d'avocats Milbank",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSFpIRGo4MDFPM3FKRms3aWNvNDBNcXMzUHQ5TGw0MUVYZmZTNGlrV3VRNFhSakR5N0NIaUdvSFNsQjhJekN3MVdCbnQxdDE0eU5mXzR4amZqLTRiTHpTandqLXFkN0x1aDhsa2h2cDFpd24xOEE3b2puZmJtWkhIbTBaZ0o5dUhNbjlwNjdBYTZfeTQyTUo1cE9tcm9tWUtia3ZqNHpmVkVaV0lLeWh5Tzh4Sk05TTNkZC12NWo2eEJlRlZUdFJ0bWNPWXN0bjk4UmtHVUw0NkNlSWN0N0xaZHBTOHo?oc=5"
+    }
+   ],
+   "date": "2026-11-19T18:44:28.000Z",
+   "categories": [
+    "Talents & nominations"
+   ],
+   "score": 5.8
+  },
+  {
+   "id": "presidentielle-2027-comment-les-marches-financiers-veulent-faire-entrer-les-fran",
+   "title": "Présidentielle 2027 : comment les marchés financiers veulent faire entrer les Français en Bourse",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTnU5MC1tdVBBU05QeVYxb3pIRUVDZE1JcDVxTUx1VVVnOTJ3SUhKcEJPbWxHRVdrUFU3TGpiNjNuQmdsZjQxaUJvbldJdE5QdTBBclNva3NSWGxpQm1uc3Y5d0tPMGNRUmFwTDVZUG41UkdGTE1LNW9CVW4xeF9KMHF3UmFfdHJFQ2IxMjh0X3hGMlFmYzctdFFNVTR0aUZacGoxVjdMWk8yZ0N4MXRFVG1pVVpGeEN0WUhnT0ZNZDdKb19kQ3Rta2UwMGRvYWhsc2dLc1dtcGdmNEtIMmcySA?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Présidentielle 2027 : comment les marchés financiers veulent faire entrer les Français en Bourse",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTnU5MC1tdVBBU05QeVYxb3pIRUVDZE1JcDVxTUx1VVVnOTJ3SUhKcEJPbWxHRVdrUFU3TGpiNjNuQmdsZjQxaUJvbldJdE5QdTBBclNva3NSWGxpQm1uc3Y5d0tPMGNRUmFwTDVZUG41UkdGTE1LNW9CVW4xeF9KMHF3UmFfdHJFQ2IxMjh0X3hGMlFmYzctdFFNVTR0aUZacGoxVjdMWk8yZ0N4MXRFVG1pVVpGeEN0WUhnT0ZNZDdKb19kQ3Rta2UwMGRvYWhsc2dLc1dtcGdmNEtIMmcySA?oc=5"
+    }
+   ],
+   "date": "2026-11-20T06:15:07.000Z",
+   "categories": [],
+   "score": 5.7
+  },
+  {
+   "id": "que-propose-cet-ancien-de-la-french-tech-installe-sur-cette-commune-de-dordogne",
+   "title": "Que propose cet ancien de la French Tech installé sur cette commune de Dordogne ?",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPamN6cXBlTUMySnJFUzJfVTBFQnd0SnB2MjNCUWllQVhxNUZWNjAzMGxoOUdlZlk4bXFORjBlOElqN08yS3dJUUlXdFBacGF1ZDlSMEw4YlZPRUF5WFdDQVNEcDF1N2thazJ2NDRBcS1jUjZCdE01R0xRNGYwNllaRklKU0lKMTJ4bXBBeTJmbE96OHJ3WEVOZDl1alZBMGh4OHNLSlh3LUV3dW9CcWVoazUteEdZNmsydUVKbDVmLWU0bEMtOUJia1ZYdkhaWDZmRnV2VlNNLWxMMlk0TVZlaVlfeFJyQS12R1lvWEd2NFBDaXZ2Y0NocUx1dGhUMDZ5R1N5ZlN3QlJfdWxnMnZzeHl5VXpGdDlvaElqcFdMNFF3UWpDTVA4UHUzVFotMFNS?oc=5",
+   "summary": "",
+   "sources": [
+    "Dordogne Libre"
+   ],
+   "articles": [
+    {
+     "source": "Dordogne Libre",
+     "title": "Que propose cet ancien de la French Tech installé sur cette commune de Dordogne ?",
+     "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPamN6cXBlTUMySnJFUzJfVTBFQnd0SnB2MjNCUWllQVhxNUZWNjAzMGxoOUdlZlk4bXFORjBlOElqN08yS3dJUUlXdFBacGF1ZDlSMEw4YlZPRUF5WFdDQVNEcDF1N2thazJ2NDRBcS1jUjZCdE01R0xRNGYwNllaRklKU0lKMTJ4bXBBeTJmbE96OHJ3WEVOZDl1alZBMGh4OHNLSlh3LUV3dW9CcWVoazUteEdZNmsydUVKbDVmLWU0bEMtOUJia1ZYdkhaWDZmRnV2VlNNLWxMMlk0TVZlaVlfeFJyQS12R1lvWEd2NFBDaXZ2Y0NocUx1dGhUMDZ5R1N5ZlN3QlJfdWxnMnZzeHl5VXpGdDlvaElqcFdMNFF3UWpDTVA4UHUzVFotMFNS?oc=5"
+    }
+   ],
+   "date": "2026-11-19T16:41:14.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5.6
+  },
+  {
+   "id": "marketplaces-comment-l-ia-redefinit-les-avantages-concurrentiels",
+   "title": "Marketplaces : comment l’IA redéfinit les avantages concurrentiels",
+   "url": "https://www.maddyness.com/2026/11/19/marketplaces-comment-lia-redefinit-les-avantages-concurrentiels/",
+   "summary": "",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Marketplaces : comment l’IA redéfinit les avantages concurrentiels",
+     "url": "https://www.maddyness.com/2026/11/19/marketplaces-comment-lia-redefinit-les-avantages-concurrentiels/"
+    }
+   ],
+   "date": "2026-11-19T15:00:28.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 5.5
+  },
+  {
+   "id": "french-tech-guyane-le-c-ur-de-l-innovation-amazonienne",
+   "title": "French Tech Guyane : le cœur de l’innovation amazonienne",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94NlljOVZtZVZ3WUlWLUQ3UEV6ZFRLV3BzcTVqM004MjFDVmVJbzM5WW1ZM0NwY0Itb2ZJSWZyTF9BNEROWXlRanBaeTlMLVBpM1FFc0lyYUNEZkdwemFEN3pUTEZhMnRlS01XS3NzZEpXVkk?oc=5",
+   "summary": "",
+   "sources": [
+    "EWAG"
+   ],
+   "articles": [
+    {
+     "source": "EWAG",
+     "title": "French Tech Guyane : le cœur de l’innovation amazonienne",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94NlljOVZtZVZ3WUlWLUQ3UEV6ZFRLV3BzcTVqM004MjFDVmVJbzM5WW1ZM0NwY0Itb2ZJSWZyTF9BNEROWXlRanBaeTlMLVBpM1FFc0lyYUNEZkdwemFEN3pUTEZhMnRlS01XS3NzZEpXVkk?oc=5"
+    }
+   ],
+   "date": "2026-11-19T12:35:00.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5.3
+  },
+  {
+   "id": "plus-ils-maitrisent-l-ia-plus-ils-remettent-leur-metier-en-question",
+   "title": "Plus ils maîtrisent l'IA, plus ils remettent leur métier en question",
+   "url": "https://www.maddyness.com/2026/11/19/formation-a-l-ia-peur-emploi-place-professionnelle/",
+   "summary": "",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Plus ils maîtrisent l'IA, plus ils remettent leur métier en question",
+     "url": "https://www.maddyness.com/2026/11/19/formation-a-l-ia-peur-emploi-place-professionnelle/"
+    }
+   ],
+   "date": "2026-11-19T08:00:43.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 5
+  },
+  {
+   "id": "expert-seo-comment-une-marque-peut-elle-etre-citee-par-les-ia",
+   "title": "Expert SEO : comment une marque peut-elle être citée par les IA ?",
+   "url": "https://www.maddyness.com/2026/11/19/visibilite-ia-marque-citations-geo/",
+   "summary": "",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Expert SEO : comment une marque peut-elle être citée par les IA ?",
+     "url": "https://www.maddyness.com/2026/11/19/visibilite-ia-marque-citations-geo/"
+    }
+   ],
+   "date": "2026-11-19T08:00:07.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 5
+  },
+  {
+   "id": "le-french-tech-day-est-de-retour-a-bordeaux",
+   "title": "Le French Tech Day est de retour à Bordeaux",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWoxUUFManplRzRiXzZic0wyeVBHTFhsdVRkWXBxR3ZHdko1eWMxbEpOWUxlUnhfZkxodjVYVVh6bTg3NFMtbkplNU5yMmJnQnpNSHNTcFJ6Vm1Qb05qWjdIMjN6UTByTzNYSTBpRF9FQ2t4UHpfTm1VQ1BQS3E0U1ZvbnBsV25wZ01ERXZwRmNwQm5kQzE2Y1Frc1AtZUVqWU5HRkZ6MXA?oc=5",
+   "summary": "",
+   "sources": [
+    "l'Essentiel media"
+   ],
+   "articles": [
+    {
+     "source": "l'Essentiel media",
+     "title": "Le French Tech Day est de retour à Bordeaux",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWoxUUFManplRzRiXzZic0wyeVBHTFhsdVRkWXBxR3ZHdko1eWMxbEpOWUxlUnhfZkxodjVYVVh6bTg3NFMtbkplNU5yMmJnQnpNSHNTcFJ6Vm1Qb05qWjdIMjN6UTByTzNYSTBpRF9FQ2t4UHpfTm1VQ1BQS3E0U1ZvbnBsV25wZ01ERXZwRmNwQm5kQzE2Y1Frc1AtZUVqWU5HRkZ6MXA?oc=5"
+    }
+   ],
+   "date": "2026-11-19T07:08:35.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5
+  },
+  {
+   "id": "ia-et-reindustrialisation-faire-de-la-souverainete-numerique-l-horizon-d-une-rig",
+   "title": "IA et réindustrialisation, faire de la souveraineté numérique l'horizon d'une rigueur utile",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDV2Q1hWRTltdHNob1hsdi1GYWJBQmxfQmM5S2JWSGMtanhScDd5X0N4VHVmdXRMX3ZINzY1V1ZlT0gzTFppLXo0NkdTWjJzT1lmdi1QcmdTemlUbC1rcG1lelNKRGRmczF4Yi1YRkVSVllpSTNabEgyLXBncTlDUTJIeGItS3RqY1ctLWs0bkRvSmtULXhyd3lwelhpVDJpVUJtMDJLa0VZNE5D?oc=5",
+   "summary": "",
+   "sources": [
+    "Atlantico"
+   ],
+   "articles": [
+    {
+     "source": "Atlantico",
+     "title": "IA et réindustrialisation, faire de la souveraineté numérique l'horizon d'une rigueur utile",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDV2Q1hWRTltdHNob1hsdi1GYWJBQmxfQmM5S2JWSGMtanhScDd5X0N4VHVmdXRMX3ZINzY1V1ZlT0gzTFppLXo0NkdTWjJzT1lmdi1QcmdTemlUbC1rcG1lelNKRGRmczF4Yi1YRkVSVllpSTNabEgyLXBncTlDUTJIeGItS3RqY1ctLWs0bkRvSmtULXhyd3lwelhpVDJpVUJtMDJLa0VZNE5D?oc=5"
+    }
+   ],
+   "date": "2026-11-20T09:01:12.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 5
+  },
+  {
+   "id": "mistral-large-4-poids-ouverts-et-41-a-terminal-bench",
+   "title": "Mistral Large 4 : poids ouverts et 41 % à Terminal-Bench",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0JBel9qdWNMWk50elFsQkI2RnljbVRBV25ZaUpvUWRnd1RrdkRtdjRtMmJOMF9UMUF5cE1vUHotWXd3WFZWUzlkc0tpTVR2U2tPS21EMmJVZlU3cDY3SGhNd2xQX0R5RlN3WUxfQVNXRVN2ZVFSTUlKVlFwUWoxUzFfQnF2aXRRWVE?oc=5",
+   "summary": "",
+   "sources": [
+    "shattered.io"
+   ],
+   "articles": [
+    {
+     "source": "shattered.io",
+     "title": "Mistral Large 4 : poids ouverts et 41 % à Terminal-Bench",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0JBel9qdWNMWk50elFsQkI2RnljbVRBV25ZaUpvUWRnd1RrdkRtdjRtMmJOMF9UMUF5cE1vUHotWXd3WFZWUzlkc0tpTVR2U2tPS21EMmJVZlU3cDY3SGhNd2xQX0R5RlN3WUxfQVNXRVN2ZVFSTUlKVlFwUWoxUzFfQnF2aXRRWVE?oc=5"
+    }
+   ],
+   "date": "2026-11-20T08:00:18.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.9
+  },
+  {
+   "id": "ligue-3-c-est-une-equipe-d-amiens-sc-en-confiance-qui-attend-le-sm-caen-a-la-lic",
+   "title": "Ligue 3 - \"C'est une équipe d'Amiens SC en confiance qui attend le SM Caen à la Licorne\"",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMVkyNGpGOWdZQ09CRWJoTzJqdHF0OXFyRG50UVNNUnRjZHM3aHg0d2VNbU14OS1VbkgzdUZJN3hxdXhCYzBSSjdPMUZTN2syRkMtSzAzdTlocWRHSzlIWnMwWnNhVEoxeVpicG9qLUlPWlg1RWN5b0dOb1hLM2gxMGd3cFptN1VEQ3JPU2hOMWJwQjJ4WXFNSk4wRnJZbmgzTG9Ua1pCQ1REb0JuNEVDR1JWbURpZVlKQTlXWmFocU5TX1VPRFMtTFR3Y0dLWXFMakZsYVoxbXRvdWprZUpqNFpPZDJGZw?oc=5",
+   "summary": "",
+   "sources": [
+    "ici.fr"
+   ],
+   "articles": [
+    {
+     "source": "ici.fr",
+     "title": "Ligue 3 - \"C'est une équipe d'Amiens SC en confiance qui attend le SM Caen à la Licorne\"",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMVkyNGpGOWdZQ09CRWJoTzJqdHF0OXFyRG50UVNNUnRjZHM3aHg0d2VNbU14OS1VbkgzdUZJN3hxdXhCYzBSSjdPMUZTN2syRkMtSzAzdTlocWRHSzlIWnMwWnNhVEoxeVpicG9qLUlPWlg1RWN5b0dOb1hLM2gxMGd3cFptN1VEQ3JPU2hOMWJwQjJ4WXFNSk4wRnJZbmgzTG9Ua1pCQ1REb0JuNEVDR1JWbURpZVlKQTlXWmFocU5TX1VPRFMtTFR3Y0dLWXFMakZsYVoxbXRvdWprZUpqNFpPZDJGZw?oc=5"
+    }
+   ],
+   "date": "2026-11-19T05:40:00.000Z",
+   "categories": [
+    "Licornes & scale-ups"
+   ],
+   "score": 4.7
+  },
+  {
+   "id": "quel-que-soit-le-probleme-l-ia-fait-probablement-partie-de-la-solution",
+   "title": "« Quel que soit le problème, l'IA fait probablement partie de la solution »",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXRoSXo3eGxET1M5NkNBYmd0eDRvbFFFTWh2UDhoYjNYWTMwSlc2TllrWmVydWhLd3U3SU1vVjMxaGRUN0gtd3UteHd1czhOVWZkNExEM0ZITUsxaFZQOG1DZEhNbjFsdjZOTGNCczVzX0o4WjhZbHhyVkpaUlhRdURKODF3aFd2ckdwZmtERmZreDhxZFBfNjRmUkVMcVJyOWk0WlhpRHZtVWVCODk2MnhDZGFyV1VsOXN5RkE3enpOQ1B2eVIta1B5b2hPSVhDeFc5S0tn?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "« Quel que soit le problème, l'IA fait probablement partie de la solution »",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXRoSXo3eGxET1M5NkNBYmd0eDRvbFFFTWh2UDhoYjNYWTMwSlc2TllrWmVydWhLd3U3SU1vVjMxaGRUN0gtd3UteHd1czhOVWZkNExEM0ZITUsxaFZQOG1DZEhNbjFsdjZOTGNCczVzX0o4WjhZbHhyVkpaUlhRdURKODF3aFd2ckdwZmtERmZreDhxZFBfNjRmUkVMcVJyOWk0WlhpRHZtVWVCODk2MnhDZGFyV1VsOXN5RkE3enpOQ1B2eVIta1B5b2hPSVhDeFc5S0tn?oc=5"
+    }
+   ],
+   "date": "2026-11-20T06:00:30.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.7
+  },
+  {
+   "id": "estee-lauder-la-france-touchee-par-le-plan-de-restructuration-global",
+   "title": "Estée Lauder : la France touchée par le plan de restructuration global",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGV5c2psb1V5UlpqMERmWmdneUh2UGREaDF3bUQ3T2hiTUtzLUR1a2c2TVNHNmhnZXZWZXJKMFFuTjlHNW0ySWJGNDRhUjdVVDVBOVBvZ1pYNjB4TWx3LWlPVkhaUGxveDVvVHdEZFE0aXNKV3JnOTNLalBTLTdkWnpyRFhiQ2dSVVZGMGo2NzE2cW5kNVcwVmZMX0NDVjFwcmNObUQxV2VPdFNCcUNjNmotY1dJQWR2MlAyYzkwc2FBTXZnVHBwQ25n?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Estée Lauder : la France touchée par le plan de restructuration global",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGV5c2psb1V5UlpqMERmWmdneUh2UGREaDF3bUQ3T2hiTUtzLUR1a2c2TVNHNmhnZXZWZXJKMFFuTjlHNW0ySWJGNDRhUjdVVDVBOVBvZ1pYNjB4TWx3LWlPVkhaUGxveDVvVHdEZFE0aXNKV3JnOTNLalBTLTdkWnpyRFhiQ2dSVVZGMGo2NzE2cW5kNVcwVmZMX0NDVjFwcmNObUQxV2VPdFNCcUNjNmotY1dJQWR2MlAyYzkwc2FBTXZnVHBwQ25n?oc=5"
+    }
+   ],
+   "date": "2026-11-19T17:56:39.000Z",
+   "categories": [],
+   "score": 4.7
+  },
+  {
+   "id": "clap-de-fin-pour-decitre-les-librairies-emblematiques-de-lyon",
+   "title": "Clap de fin pour Decitre, les librairies emblématiques de Lyon",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmowbU1YRG52T1lHdXF6NGhBbWc3eHY0NTFJT1lwdGlfY1REQTBKZXZVOXNWY0poVGtnWnY2Um9DRkNHZGszSDVueG81cHdfdGpqNlUyWGFCdlJ5aENyMVZPQmtqRVQ3RVZFc0wtenJzRXpYUlRHUlBuODkzNlBrWkh3QXFYY2JpRHB5YlZyWTM2MEJ4TnN3engxSG5CbjdBZDY3VElOc2s5dmxGcDM5N3k4MzdhVklDTmZSRHJyRUp2LWR4YmRtOGVYY29pT0gwQTJmN01R?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Clap de fin pour Decitre, les librairies emblématiques de Lyon",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmowbU1YRG52T1lHdXF6NGhBbWc3eHY0NTFJT1lwdGlfY1REQTBKZXZVOXNWY0poVGtnWnY2Um9DRkNHZGszSDVueG81cHdfdGpqNlUyWGFCdlJ5aENyMVZPQmtqRVQ3RVZFc0wtenJzRXpYUlRHUlBuODkzNlBrWkh3QXFYY2JpRHB5YlZyWTM2MEJ4TnN3engxSG5CbjdBZDY3VElOc2s5dmxGcDM5N3k4MzdhVklDTmZSRHJyRUp2LWR4YmRtOGVYY29pT0gwQTJmN01R?oc=5"
+    }
+   ],
+   "date": "2026-11-19T17:32:12.000Z",
+   "categories": [],
+   "score": 4.7
+  },
+  {
+   "id": "ubisoft-supprime-166-postes-a-montreal-et-a-quebec",
+   "title": "UBISOFT supprime 166 postes à Montréal et à Québec",
+   "url": "https://www.frenchweb.fr/breaking-news/ubisoft-supprime-166-postes-a-montreal-et-a-quebec/05e1303a-09bc-44f1-a604-8b2714b60327?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+   "summary": "UBISOFT supprime 166 postes à Montréal et à Québec",
+   "image": "https://www.frenchweb.fr/breaking-news/images/r23/general.jpg",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "UBISOFT supprime 166 postes à Montréal et à Québec",
+     "url": "https://www.frenchweb.fr/breaking-news/ubisoft-supprime-166-postes-a-montreal-et-a-quebec/05e1303a-09bc-44f1-a604-8b2714b60327?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news"
+    }
+   ],
+   "date": "2026-11-20T06:05:04.000Z",
+   "categories": [],
+   "score": 4.7
+  },
+  {
+   "id": "contre-toute-attente-mailchimp-passe-sous-pavillon-europeen",
+   "title": "Contre toute attente, MAILCHIMP passe sous pavillon européen",
+   "url": "https://www.frenchweb.fr/contre-toute-attente-mailchimp-passe-sous-pavillon-europeen/900000061?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "INTUIT a accepté de céder le spécialiste américain de l’email marketing à l’italien BENDING SPOONS pour 3,13 milliards d’euros. C’est 69 % de moins que le prix annoncé en 2021, lorsque le groupe californien misait sur MAILCHIMP pour étendre QUICKBOOKS au marketing des PME. Le repreneur milanais hérite d’une plateforme dont la marge s’est redressée alors que le nombre de clients payants a diminué.",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/4c0019225dc94dba78194c4e8191692460d356962f6d0df8b84b543dcf710856.jpg",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Contre toute attente, MAILCHIMP passe sous pavillon européen",
+     "url": "https://www.frenchweb.fr/contre-toute-attente-mailchimp-passe-sous-pavillon-europeen/900000061?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    }
+   ],
+   "brief": {
+    "essentiel": "INTUIT a accepté de céder le spécialiste américain de l’email marketing à l’italien BENDING SPOONS pour 3,13 milliards d’euros.",
+    "points": [
+     "C’est 69 % de moins que le prix annoncé en 2021, lorsque le groupe californien misait sur MAILCHIMP pour étendre QUICKBOOKS au marketing des PME.",
+     "Le repreneur milanais hérite d’une plateforme dont la marge s’est redressée alors que le nombre de clients payants a diminué."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-20T05:49:35.000Z",
+   "categories": [],
+   "score": 4.7
+  },
+  {
+   "id": "video-pourquoi-la-demande-d-acompte-sur-salaire-explose-en-france",
+   "title": "VIDEO - Pourquoi la demande d'acompte sur salaire explose en France",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2Y5dmFlSWRkSzNqb3k0aF91SzNZakF3Q1hwUl9IMEw5Wk1KTllRZGpYRGR3cllBSHBUM0RPeGhRUDZYVG56WWlNc1JONnlZUDVaeFNvYUJqckRHODI0N3NQX0xPQmFHMGRvSFVYU0JEajNNVXY1VzUtZVRBcjl2UnYyeUtiY2xFM2lrai1aSXFmVkJrN1g1UkVvdHE4Sjk0NzA2bUFPM1U5RFhWSDJDTEljSUFfUlJJV3M3WGc4bw?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "VIDEO - Pourquoi la demande d'acompte sur salaire explose en France",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2Y5dmFlSWRkSzNqb3k0aF91SzNZakF3Q1hwUl9IMEw5Wk1KTllRZGpYRGR3cllBSHBUM0RPeGhRUDZYVG56WWlNc1JONnlZUDVaeFNvYUJqckRHODI0N3NQX0xPQmFHMGRvSFVYU0JEajNNVXY1VzUtZVRBcjl2UnYyeUtiY2xFM2lrai1aSXFmVkJrN1g1UkVvdHE4Sjk0NzA2bUFPM1U5RFhWSDJDTEljSUFfUlJJV3M3WGc4bw?oc=5"
+    }
+   ],
+   "date": "2026-11-19T16:37:15.000Z",
+   "categories": [],
+   "score": 4.6
+  },
+  {
+   "id": "sur-le-port-de-lyon-l-activite-conteneur-a-double-en-l-espace-d-un-an",
+   "title": "Sur le port de Lyon, l'activité conteneur a doublé en l'espace d'un an",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOVlVbGlKdGYwSkxYRkRZSGk3eDZ2eDFGUE1pNmNYR2t4UjlTalR5UWhpTTI1UUNOZzd0M2pmbEp6TXR1cTZ0bmVXSF9vUXFyWm5nYTNNajBGUElxeVdwLWxOXzBTaE9XVVFTRDZ2Skc1VmJSTkFMdE9NNXZpb0tIbmZIVmU3QnlRR3lqUy02LTZqTTljemxTX2JSM2pOVnFhTjB6dnRMVFhOSEJVRTFKQnFqZUYxM05zN2Vyc2hvYmZ1Y2pXaUtTTTkyaw?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Sur le port de Lyon, l'activité conteneur a doublé en l'espace d'un an",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOVlVbGlKdGYwSkxYRkRZSGk3eDZ2eDFGUE1pNmNYR2t4UjlTalR5UWhpTTI1UUNOZzd0M2pmbEp6TXR1cTZ0bmVXSF9vUXFyWm5nYTNNajBGUElxeVdwLWxOXzBTaE9XVVFTRDZ2Skc1VmJSTkFMdE9NNXZpb0tIbmZIVmU3QnlRR3lqUy02LTZqTTljemxTX2JSM2pOVnFhTjB6dnRMVFhOSEJVRTFKQnFqZUYxM05zN2Vyc2hvYmZ1Y2pXaUtTTTkyaw?oc=5"
+    }
+   ],
+   "date": "2026-11-19T16:30:08.000Z",
+   "categories": [],
+   "score": 4.6
+  },
+  {
+   "id": "en-ile-de-france-la-population-etrangere-augmente-sauf-a-paris",
+   "title": "En Ile-de-France, la population étrangère augmente, sauf à Paris",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1ZOMUcxNmNGemRRTVF5NmVlNmZjbllFdzhkX1RWei1hSXNyREFYNjA5dTF1elpWUERXZlhoOVdjZ0RrdHF5MnAyeFVrNlEzRlpQUGZoZ0JiampocEozcTd4UXJveDAyeWhpMS1FQWRJTk5tTTZlSXBNbHFCdGRXbEdEMUs5MkdPT1ZkVU12dkxvZXdZSm1vX2M2Zzh5VEtTSEtWczdaaDVzRXhrODJodFFHS294dURTMjVTaQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "En Ile-de-France, la population étrangère augmente, sauf à Paris",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1ZOMUcxNmNGemRRTVF5NmVlNmZjbllFdzhkX1RWei1hSXNyREFYNjA5dTF1elpWUERXZlhoOVdjZ0RrdHF5MnAyeFVrNlEzRlpQUGZoZ0JiampocEozcTd4UXJveDAyeWhpMS1FQWRJTk5tTTZlSXBNbHFCdGRXbEdEMUs5MkdPT1ZkVU12dkxvZXdZSm1vX2M2Zzh5VEtTSEtWczdaaDVzRXhrODJodFFHS294dURTMjVTaQ?oc=5"
+    }
+   ],
+   "date": "2026-11-19T16:28:56.000Z",
+   "categories": [],
+   "score": 4.6
+  },
+  {
+   "id": "intex-s-offre-la-caravane-du-tour-de-france",
+   "title": "Intex s'offre la caravane du Tour de France",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmo2UXJaaGlXUHEyWWl3MTdNSm9xbEVJRDJ0dnFnWG9hamgwcW5nNzJqZzB0NHVCTHRjS2o3VVlRN2ZTTWI0SktrN20yREh0eEpIcWlYVlJlU1Q3U09wQkRGZVRkZlhPdHk3TUhTTjhlaUJoYXRKSDlVaWE2bGgxa3NMd3YtaG5RMjJRUFppZ09TYTV2blQzc0ZYTVh5Q1hnckRhUGh3ODl3UlFGcGNr?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Intex s'offre la caravane du Tour de France",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmo2UXJaaGlXUHEyWWl3MTdNSm9xbEVJRDJ0dnFnWG9hamgwcW5nNzJqZzB0NHVCTHRjS2o3VVlRN2ZTTWI0SktrN20yREh0eEpIcWlYVlJlU1Q3U09wQkRGZVRkZlhPdHk3TUhTTjhlaUJoYXRKSDlVaWE2bGgxa3NMd3YtaG5RMjJRUFppZ09TYTV2blQzc0ZYTVh5Q1hnckRhUGh3ODl3UlFGcGNr?oc=5"
+    }
+   ],
+   "date": "2026-11-19T13:24:38.000Z",
+   "categories": [],
+   "score": 4.3
+  },
+  {
+   "id": "voiture-de-police-robot-ballons-licorne-faux-chocolat-ces-3-produits-pour-enfant",
+   "title": "Voiture de police robot, ballons licorne, faux chocolat : ces 3 produits pour enfants retirés en Europe avant Noël",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTzktRGNfcWV1aVRKZXUwT1ZUTVNuRFFsamFEZGc0QXFQZ0dLNHRyOTVyTjU4QTBnTFhqN3RVeG9TY3g2N0cydnd6a0xobXZaaS0yT3RmNmFERVJvWnZfeml5T1IyR2VVcHI5TXE1Ujk1eW9kVl90bmxYbmdpeW9kMVN5TEpwTU43Wk5LUE5NejV3S0Y0cXFnQ3NTOFlmTEEzd0psTlJiS1NnbmFCXzdnR25fQU5wX2x6SUw2cC1zc042bWJYOGNKMzNxVW9NRGJLdERDZzZqYU5CeHAyaFl0bEYzQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Magicmaman"
+   ],
+   "articles": [
+    {
+     "source": "Magicmaman",
+     "title": "Voiture de police robot, ballons licorne, faux chocolat : ces 3 produits pour enfants retirés en Europe avant Noël",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTzktRGNfcWV1aVRKZXUwT1ZUTVNuRFFsamFEZGc0QXFQZ0dLNHRyOTVyTjU4QTBnTFhqN3RVeG9TY3g2N0cydnd6a0xobXZaaS0yT3RmNmFERVJvWnZfeml5T1IyR2VVcHI5TXE1Ujk1eW9kVl90bmxYbmdpeW9kMVN5TEpwTU43Wk5LUE5NejV3S0Y0cXFnQ3NTOFlmTEEzd0psTlJiS1NnbmFCXzdnR25fQU5wX2x6SUw2cC1zc042bWJYOGNKMzNxVW9NRGJLdERDZzZqYU5CeHAyaFl0bEYzQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-19T10:19:00.000Z",
+   "categories": [
+    "Licornes & scale-ups"
+   ],
+   "score": 4.1
+  },
+  {
+   "id": "agriloops-sollicite-les-particuliers-pour-faire-pousser-la-premiere-filiere-fran",
+   "title": "Agriloops sollicite les particuliers pour faire pousser la première filière française de gambas",
+   "url": "https://www.maddyness.com/2026/11/19/agriloops-gambas-levee-fonds-sowefund/",
+   "summary": "",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Agriloops sollicite les particuliers pour faire pousser la première filière française de gambas",
+     "url": "https://www.maddyness.com/2026/11/19/agriloops-gambas-levee-fonds-sowefund/"
+    }
+   ],
+   "date": "2026-11-19T10:00:42.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "une-nouvelle-ia-francaise-qui-n-est-pas-de-mistral-arrive-voici-ce-qu-il-faut-sa",
+   "title": "Une nouvelle IA française (qui n’est pas de Mistral) arrive : voici ce qu’il faut savoir sur Olala mini 7A1B d’OVHcloud",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZGo2WEN1SUxEcFlJWDNQbHpvVFd6dmxLWTBsZ01oZUlZeXpEUWJZb003OVNQcWVLZ3VxOHJDS3BPbmNyYllZSFVCZy0wN1NrQVJQY0haNVFFSkxBVjgtYU0xaDdCN192RXNVY3FoV1VVVDJnRTYwdUxqWmFyeFFZTm4ycGVWNERiTHZqaGptTzhvQjI4TVRwWjRmbTk1NTFnRGZNSGRlWjY2M3JvdURGcTgwcnpWdWlabnBCeXFfd2x1S3BldURSU3dUTXRnUG1YWURlaWpCOHc4am1idkhrWV9Yakl5YkNvR0E?oc=5",
+   "summary": "",
+   "sources": [
+    "Journal du Geek"
+   ],
+   "articles": [
+    {
+     "source": "Journal du Geek",
+     "title": "Une nouvelle IA française (qui n’est pas de Mistral) arrive : voici ce qu’il faut savoir sur Olala mini 7A1B d’OVHcloud",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZGo2WEN1SUxEcFlJWDNQbHpvVFd6dmxLWTBsZ01oZUlZeXpEUWJZb003OVNQcWVLZ3VxOHJDS3BPbmNyYllZSFVCZy0wN1NrQVJQY0haNVFFSkxBVjgtYU0xaDdCN192RXNVY3FoV1VVVDJnRTYwdUxqWmFyeFFZTm4ycGVWNERiTHZqaGptTzhvQjI4TVRwWjRmbTk1NTFnRGZNSGRlWjY2M3JvdURGcTgwcnpWdWlabnBCeXFfd2x1S3BldURSU3dUTXRnUG1YWURlaWpCOHc4am1idkhrWV9Yakl5YkNvR0E?oc=5"
+    }
+   ],
+   "date": "2026-11-19T08:58:33.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4
+  },
+  {
+   "id": "effacer-un-tatouage-l-activite-se-developpe-mais-reste-tres-encadree-en-france",
+   "title": "Effacer un tatouage : l'activité se développe mais reste très encadrée en France",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQmpOQ3BGZFJ1c2JlMHBJd3YxbmYwLXZDRGdJVlNnS2NVdnFFU3VDb1pxRnNPZnFWRl8zbXV1dHpZMUxxUDc0TkVtaEFDNG4yUENHSjJfTlh6aFA2TERKRldRcEoxaUxSYzc0X1RqVWJCdm9EV1FGemNLUmVzV0Vya3N1NTc4ZGllbjZiRkdHTFdobkRQanNmUUd5akZnNll6Y044WlZaQURvSmNKN2VZeG9LbE84MmlwYzN0QjRWV21DQ09tY3RyYndpX3g1RHRULW1iT1VLTlpMaEtVdjNVSkNYcUprVHVCc0hSc3VkeVRSTkk?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Effacer un tatouage : l'activité se développe mais reste très encadrée en France",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQmpOQ3BGZFJ1c2JlMHBJd3YxbmYwLXZDRGdJVlNnS2NVdnFFU3VDb1pxRnNPZnFWRl8zbXV1dHpZMUxxUDc0TkVtaEFDNG4yUENHSjJfTlh6aFA2TERKRldRcEoxaUxSYzc0X1RqVWJCdm9EV1FGemNLUmVzV0Vya3N1NTc4ZGllbjZiRkdHTFdobkRQanNmUUd5akZnNll6Y044WlZaQURvSmNKN2VZeG9LbE84MmlwYzN0QjRWV21DQ09tY3RyYndpX3g1RHRULW1iT1VLTlpMaEtVdjNVSkNYcUprVHVCc0hSc3VkeVRSTkk?oc=5"
+    }
+   ],
+   "date": "2026-11-19T07:21:14.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "en-2027-aidez-nous-a-choisir-la-france-les-filiales-etrangeres-plaident-pour-une",
+   "title": "« En 2027, aidez-nous à choisir la France » : les filiales étrangères plaident pour une attractivité durable",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ3I2ejBfZXdKb0JYbk52ejF0NGNWdVZMbWZfVkRxQUxBclh4YUQxc2VDODdkYnhiQjQ2a1JWR1N4Q1g3YUxreTd5TXpFdWNscXd0ZFdURlNJejBrMl81eV84VEowWVpMaFAtLTFfdmJFc0RCaUdpbl9WVVZDOWpSaWdrZWVrQTFEZVpSQVZuM1F3X0pkckVPb2tJYUhEc2Y4NlRJcGE3TldoR01wa18xUUc1NUU2ZGNUS1d2Q29xUlNJRXFNLU9XcUtaVWo4VzVKV2tDVDA5X0lNZ0UtX2pyYTUyUEpiSk5I?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "« En 2027, aidez-nous à choisir la France » : les filiales étrangères plaident pour une attractivité durable",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ3I2ejBfZXdKb0JYbk52ejF0NGNWdVZMbWZfVkRxQUxBclh4YUQxc2VDODdkYnhiQjQ2a1JWR1N4Q1g3YUxreTd5TXpFdWNscXd0ZFdURlNJejBrMl81eV84VEowWVpMaFAtLTFfdmJFc0RCaUdpbl9WVVZDOWpSaWdrZWVrQTFEZVpSQVZuM1F3X0pkckVPb2tJYUhEc2Y4NlRJcGE3TldoR01wa18xUUc1NUU2ZGNUS1d2Q29xUlNJRXFNLU9XcUtaVWo4VzVKV2tDVDA5X0lNZ0UtX2pyYTUyUEpiSk5I?oc=5"
+    }
+   ],
+   "date": "2026-11-19T08:10:08.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "l-intelligence-artificielle-traque-des-catalyseurs-plus-propres-un-pari-ou-la-ch",
+   "title": "L'intelligence artificielle traque des catalyseurs plus propres, un pari où la chimie pèse 2 % de l'énergie mondiale",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yNmF6UlVGZTFacHRmZnN2WW12N0c1QXJjLWhoWFNBY1EtNDY0MDdBVGQ5eVZ5NnN4X2xqTG1WMHZoUld5ekZPdy1YMzg?oc=5",
+   "summary": "",
+   "sources": [
+    "Daily Geek Show"
+   ],
+   "articles": [
+    {
+     "source": "Daily Geek Show",
+     "title": "L'intelligence artificielle traque des catalyseurs plus propres, un pari où la chimie pèse 2 % de l'énergie mondiale",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yNmF6UlVGZTFacHRmZnN2WW12N0c1QXJjLWhoWFNBY1EtNDY0MDdBVGQ5eVZ5NnN4X2xqTG1WMHZoUld5ekZPdy1YMzg?oc=5"
+    }
+   ],
+   "date": "2026-11-19T20:01:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.9
+  },
+  {
+   "id": "5-entreprises-francaises-qui-reinventent-les-loisirs-sans-ecran",
+   "title": "5 entreprises françaises qui réinventent les loisirs sans écran",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnVfYlBzcVpfX0Z0ZlFWRzg4QXVYeGdtLWo0V0d3Vnl3dkhiT2lWZk1OU2hPQ1NtLWJhWkMxSWxNN1FGN3hjaURKdkc4VWh1aTdyQWNiYkszSXJXLUdKVzVoRjhKbklFYXNSbUplS0tKc3VYT3JtV0RrNzZ3NWd2LW9uYmRKbXJ3VzNXOHN3VDdqYzFOOTI3c1JvczlVS1RLZWJPbzU3R3VDUndr?oc=5",
+   "summary": "",
+   "sources": [
+    "Bpifrance"
+   ],
+   "articles": [
+    {
+     "source": "Bpifrance",
+     "title": "5 entreprises françaises qui réinventent les loisirs sans écran",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnVfYlBzcVpfX0Z0ZlFWRzg4QXVYeGdtLWo0V0d3Vnl3dkhiT2lWZk1OU2hPQ1NtLWJhWkMxSWxNN1FGN3hjaURKdkc4VWh1aTdyQWNiYkszSXJXLUdKVzVoRjhKbklFYXNSbUplS0tKc3VYT3JtV0RrNzZ3NWd2LW9uYmRKbXJ3VzNXOHN3VDdqYzFOOTI3c1JvczlVS1RLZWJPbzU3R3VDUndr?oc=5"
+    }
+   ],
+   "date": "2026-11-20T06:55:55.000Z",
+   "categories": [],
+   "score": 3.8
+  },
+  {
+   "id": "on-peut-telecharger-l-ia-d-ovh-taillee-pour-8-go-de-ram-ce-que-valent-ses-scores",
+   "title": "On peut télécharger l'IA d'OVH taillée pour 8 Go de RAM : ce que valent ses scores face à Mistral",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNERLcWs1dERpd3ZDZENWZm1nLXBWcXJuUzRmRllJRU1Vdml2UEMxSElYUkd0TEVTckVhWU03c3ktRGViSHliXzVTRnZ6aTc1Z3lyakRCVGowU3VhRVdWZmx0VUNXbHVHLXlfelFsd1UyXzgtOVBQRU9FV0RKV1FRQUxtbVd2bXZ5aTRuV1B3dllvUTdxVUd0dFA3QWQ5bEh6aFJNTGhNbFNFRUJmZjNEdWtmUXdSNE8zcE5WZmlsUEdvX3FuWlJqVElOSVBpZXcyQTF5czFOT0VxYXBFcVVzd2wwdjNPZGI0d2h5SDJpal9mQWhRaTRWOVNR?oc=5",
+   "summary": "",
+   "sources": [
+    "Frandroid"
+   ],
+   "articles": [
+    {
+     "source": "Frandroid",
+     "title": "On peut télécharger l'IA d'OVH taillée pour 8 Go de RAM : ce que valent ses scores face à Mistral",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNERLcWs1dERpd3ZDZENWZm1nLXBWcXJuUzRmRllJRU1Vdml2UEMxSElYUkd0TEVTckVhWU03c3ktRGViSHliXzVTRnZ6aTc1Z3lyakRCVGowU3VhRVdWZmx0VUNXbHVHLXlfelFsd1UyXzgtOVBQRU9FV0RKV1FRQUxtbVd2bXZ5aTRuV1B3dllvUTdxVUd0dFA3QWQ5bEh6aFJNTGhNbFNFRUJmZjNEdWtmUXdSNE8zcE5WZmlsUEdvX3FuWlJqVElOSVBpZXcyQTF5czFOT0VxYXBFcVVzd2wwdjNPZGI0d2h5SDJpal9mQWhRaTRWOVNR?oc=5"
+    }
+   ],
+   "date": "2026-11-19T18:29:57.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.7
+  },
+  {
+   "id": "presidentielle-2027-les-createurs-de-contenus-devront-respecter-le-pluralisme-po",
+   "title": "Présidentielle 2027 : les créateurs de contenus devront respecter le pluralisme politique",
+   "url": "https://www.maddyness.com/2026/11/19/presidentielle-2027-les-createurs-de-contenus-devront-respecter-le-pluralisme-politique/",
+   "summary": "",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Présidentielle 2027 : les créateurs de contenus devront respecter le pluralisme politique",
+     "url": "https://www.maddyness.com/2026/11/19/presidentielle-2027-les-createurs-de-contenus-devront-respecter-le-pluralisme-politique/"
+    }
+   ],
+   "date": "2026-11-19T16:00:32.000Z",
+   "categories": [],
+   "score": 3.5
+  },
+  {
+   "id": "modeles-maison-os-ia-agents-ovhcloud-ne-veut-plus-seulement-heberger-l-ia-des-au",
+   "title": "Modèles maison, OS IA, agents… OVHcloud ne veut plus seulement héberger l'IA des autres",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWFpdnNMeDR5dGVZZmlKR0t4NWY1bmxMcXdGSm5Ydmd5UHdOaVFzazZuUllzY3BiemJFUWQ2aEJfcHJEVUtuakIxeHFuTURQcVdyclFuZGVZTV8yRzV1WlpGbEJxQXJyVUQya1pLeGR1Zy1MVUNGbUJUVVNheDNXbUc2SlM5TFA1OUJUREpEbnBqWlRtYXFWRERpSThOR043UWFabFByZWpVeTdFczFSSUJFLVFocGVzMXFPVlhBRFhmWmJqT3Zz?oc=5",
+   "summary": "",
+   "sources": [
+    "JDN"
+   ],
+   "articles": [
+    {
+     "source": "JDN",
+     "title": "Modèles maison, OS IA, agents… OVHcloud ne veut plus seulement héberger l'IA des autres",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWFpdnNMeDR5dGVZZmlKR0t4NWY1bmxMcXdGSm5Ydmd5UHdOaVFzazZuUllzY3BiemJFUWQ2aEJfcHJEVUtuakIxeHFuTURQcVdyclFuZGVZTV8yRzV1WlpGbEJxQXJyVUQya1pLeGR1Zy1MVUNGbUJUVVNheDNXbUc2SlM5TFA1OUJUREpEbnBqWlRtYXFWRERpSThOR043UWFabFByZWpVeTdFczFSSUJFLVFocGVzMXFPVlhBRFhmWmJqT3Zz?oc=5"
+    }
+   ],
+   "date": "2026-11-19T15:38:03.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.5
+  },
+  {
+   "id": "frontaliers-expatries-entrepreneurs-comment-fonctionne-la-retraite-anticipee-sui",
+   "title": "Frontaliers, expatriés, entrepreneurs : comment fonctionne la retraite anticipée suisse ?",
+   "url": "https://www.frenchweb.fr/frontaliers-expatries-entrepreneurs-comment-fonctionne-la-retraite-anticipee-suisse/900000060?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "Pour les frontaliers et expatriés en Suisse, la retraite anticipée répond à des règles spécifiques. Quelles sont les conditions et démarches à prévoir ?",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/9b36eca9ea21f43ecca25f253985d98ea2f5d51bbbd5356972e9ce2229b7c30d.png",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Frontaliers, expatriés, entrepreneurs : comment fonctionne la retraite anticipée suisse ?",
+     "url": "https://www.frenchweb.fr/frontaliers-expatries-entrepreneurs-comment-fonctionne-la-retraite-anticipee-suisse/900000060?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    }
+   ],
+   "brief": {
+    "essentiel": "Pour les frontaliers et expatriés en Suisse, la retraite anticipée répond à des règles spécifiques.",
+    "points": [
+     "Quelles sont les conditions et démarches à prévoir ?"
+    ],
+    "facts": []
+   },
+   "date": "2026-11-19T15:09:56.000Z",
+   "categories": [],
+   "score": 3.5
+  },
+  {
+   "id": "une-ia-qui-apprend-de-ses-erreurs-30-millions-de-dollars-pour-la-startup-cofonde",
+   "title": "Une IA qui apprend de ses erreurs : 30 millions de dollars pour la startup cofondée par un Marocain",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdDVNN1JtcVhHSllGQjlIaWtsRXhTbG5NU0lvQi1RRThPV1pnLTJoRnBHRU82WC1lenl4X2hPMGtGVGY4cW5SbGgxM1pRMzNaLV95d1RMcmxBNU9KMXZheGFsUXJlOWV1RDJGN0VCZU9WOFZlSDZ2X1NMclBzLWNzNDlHWGo3Q2JoSldUZVRoanVzQk5yNFpBbGhDYw?oc=5",
+   "summary": "",
+   "sources": [
+    "Bladi.net"
+   ],
+   "articles": [
+    {
+     "source": "Bladi.net",
+     "title": "Une IA qui apprend de ses erreurs : 30 millions de dollars pour la startup cofondée par un Marocain",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdDVNN1JtcVhHSllGQjlIaWtsRXhTbG5NU0lvQi1RRThPV1pnLTJoRnBHRU82WC1lenl4X2hPMGtGVGY4cW5SbGgxM1pRMzNaLV95d1RMcmxBNU9KMXZheGFsUXJlOWV1RDJGN0VCZU9WOFZlSDZ2X1NMclBzLWNzNDlHWGo3Q2JoSldUZVRoanVzQk5yNFpBbGhDYw?oc=5"
+    }
+   ],
+   "date": "2026-11-19T12:00:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.2
+  },
+  {
+   "id": "mistral-les-4-verites-hebdo-la-publication-anti-bourrage-de-crane",
+   "title": "Mistral - Les 4 Vérités Hebdo - La publication anti bourrage de crâne",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XZXpvNmxYRE0xRkR1dFdZYkdNcUdYSUx1Tm81VTFGODc1MThmbmpkQTRFWEdxY1EzeVhlMFo4MnhEcXc2RjBr?oc=5",
+   "summary": "",
+   "sources": [
+    "Les 4 Vérités Hebdo"
+   ],
+   "articles": [
+    {
+     "source": "Les 4 Vérités Hebdo",
+     "title": "Mistral - Les 4 Vérités Hebdo - La publication anti bourrage de crâne",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XZXpvNmxYRE0xRkR1dFdZYkdNcUdYSUx1Tm81VTFGODc1MThmbmpkQTRFWEdxY1EzeVhlMFo4MnhEcXc2RjBr?oc=5"
+    }
+   ],
+   "date": "2026-11-19T11:13:02.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.1
+  },
+  {
+   "id": "dans-les-coulisses-des-supermarches-kheops-simplifie-les-achats-directs",
+   "title": "Dans les coulisses des supermarchés, KHEOPS simplifie les achats directs",
+   "url": "https://www.frenchweb.fr/dans-les-coulisses-des-supermarches-kheops-simplifie-les-achats-directs/900000059?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "Pour faire entrer une marque régionale ou un produit local en rayon, un supermarché peut acheter directement auprès du fournisseur. À mesure que ces relations se multiplient, les commandes, les livraisons et les factures s’accumulent. Caroline POINSIGNON explique à FRENCHWEB.FR comment KHEOPS organise ces échanges, qui paie pour le service et comment l’entreprise compte se déployer en France après",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/16d32c1145f51461e2aac618ec446d82bee7b828b5f6851962544cd91092964d.png",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Dans les coulisses des supermarchés, KHEOPS simplifie les achats directs",
+     "url": "https://www.frenchweb.fr/dans-les-coulisses-des-supermarches-kheops-simplifie-les-achats-directs/900000059?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    }
+   ],
+   "brief": {
+    "essentiel": "Pour faire entrer une marque régionale ou un produit local en rayon, un supermarché peut acheter directement auprès du fournisseur.",
+    "points": [
+     "À mesure que ces relations se multiplient, les commandes, les livraisons et les factures s’accumulent.",
+     "Caroline POINSIGNON explique à FRENCHWEB.FR comment KHEOPS organise ces échanges, qui paie pour le service et comment l’entreprise compte se déployer en France après"
+    ],
+    "facts": []
+   },
+   "date": "2026-11-19T10:12:02.000Z",
+   "categories": [],
+   "score": 3.1
+  },
+  {
+   "id": "oussama-ammar-condamne-a-16-mois-de-prison-ferme-par-la-justice-britannique",
+   "title": "Oussama Ammar condamné à 16 mois de prison ferme par la justice britannique",
+   "url": "https://www.maddyness.com/2026/11/19/oussama-ammar-condamne-a-16-mois-de-prison-ferme-par-la-justice-britannique/",
+   "summary": "",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Oussama Ammar condamné à 16 mois de prison ferme par la justice britannique",
+     "url": "https://www.maddyness.com/2026/11/19/oussama-ammar-condamne-a-16-mois-de-prison-ferme-par-la-justice-britannique/"
+    }
+   ],
+   "date": "2026-11-19T06:00:55.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "synapcell-devoile-neuroprofiler-une-ia-pour-predire-le-potentiel-d-un-medicament",
+   "title": "SynapCell dévoile NEUROPROFILER®, une IA pour prédire le potentiel d’un médicament",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmxNNUduS25sTmFnbHNDenRtUjEwQmR5VmhQakpreThlWHZTaVdCZGw3Smw2OU1NRG05RnkzTGVabkRZZUdkSzJmVlB0aUJKRWNYNC00a1BoSkEyX25oZWFWTGplRjI1MjNZZzVxcDUzeVpSY0E2Vkc2TFVBYXhSeWJJWkxfdWFaampCMEowR2hIZHlRejNVMjhXSlVxeERobGRNSEJmTFJvMnZsNHpBVEpnV0tNSFhyTmFFd1BEYnJpa1U?oc=5",
+   "summary": "",
+   "sources": [
+    "Bpifrance"
+   ],
+   "articles": [
+    {
+     "source": "Bpifrance",
+     "title": "SynapCell dévoile NEUROPROFILER®, une IA pour prédire le potentiel d’un médicament",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmxNNUduS25sTmFnbHNDenRtUjEwQmR5VmhQakpreThlWHZTaVdCZGw3Smw2OU1NRG05RnkzTGVabkRZZUdkSzJmVlB0aUJKRWNYNC00a1BoSkEyX25oZWFWTGplRjI1MjNZZzVxcDUzeVpSY0E2Vkc2TFVBYXhSeWJJWkxfdWFaampCMEowR2hIZHlRejNVMjhXSlVxeERobGRNSEJmTFJvMnZsNHpBVEpnV0tNSFhyTmFFd1BEYnJpa1U?oc=5"
+    }
+   ],
+   "date": "2026-11-19T09:12:25.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "recherche-production-logistique-sanofi-deploie-l-ia-a-tous-les-etages",
+   "title": "Recherche, production, logistique… Sanofi déploie l'IA à tous les étages",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakZ5eEw5bFhyQTBJYmxac2FibGh2OFhNSDVsLUV0SWJZWWVsRlN2dmdGUUhXdnZZN2Jpamd3MXpFVlh1QmtHc3k5dElHbUcybUlTNlhJUW1IdVZ1aTV6Rkc4OGdfR3BSSG9qazBqZzducGJzQlNWYkkxLVhjaHhzMWxCaHIzcUxxMnU3dG1CSmhBMThGckZ0MDJCU0ZXMGtZQk5GMks2S2NqZE1VbHhpaVZhOWxwUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Recherche, production, logistique… Sanofi déploie l'IA à tous les étages",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakZ5eEw5bFhyQTBJYmxac2FibGh2OFhNSDVsLUV0SWJZWWVsRlN2dmdGUUhXdnZZN2Jpamd3MXpFVlh1QmtHc3k5dElHbUcybUlTNlhJUW1IdVZ1aTV6Rkc4OGdfR3BSSG9qazBqZzducGJzQlNWYkkxLVhjaHhzMWxCaHIzcUxxMnU3dG1CSmhBMThGckZ0MDJCU0ZXMGtZQk5GMks2S2NqZE1VbHhpaVZhOWxwUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-19T05:55:30.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "le-courrier-adresse-a-l-ere-de-la-data-comment-rendre-les-campagnes-papier-plus-",
+   "title": "Le courrier adressé à l’ère de la data : comment rendre les campagnes papier plus mesurables et efficaces",
+   "url": "https://www.frenchweb.fr/le-courrier-adresse-a-l-ere-de-la-data-comment-rendre-les-campagnes-papier-plus-mesurables-et-efficaces/900000056?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "Le courrier adressé n’est plus un média difficile à mesurer. Les données clients, les identifiants de campagne et les tests comparatifs permettent désormais de suivre les effets d’un envoi bien au-delà de sa distribution. Une entreprise peut savoir qui contacter, observer les réactions générées et comparer les résultats entre plusieurs segments. La mesure reste moins immédiate que pour un e-mail, ",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/f1c57e48a69d54913ab9878fc27b5f2327ab61af8a50d55388b08861e9191a6a.png",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Le courrier adressé à l’ère de la data : comment rendre les campagnes papier plus mesurables et efficaces",
+     "url": "https://www.frenchweb.fr/le-courrier-adresse-a-l-ere-de-la-data-comment-rendre-les-campagnes-papier-plus-mesurables-et-efficaces/900000056?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    }
+   ],
+   "brief": {
+    "essentiel": "Le courrier adressé n’est plus un média difficile à mesurer.",
+    "points": [
+     "Les données clients, les identifiants de campagne et les tests comparatifs permettent désormais de suivre les effets d’un envoi bien au-delà de sa distribution.",
+     "Une entreprise peut savoir qui contacter, observer les réactions générées et comparer les résultats entre plusieurs segments.",
+     "La mesure reste moins immédiate que pour un e-mail,"
+    ],
+    "facts": []
+   },
+   "date": "2026-11-19T06:22:52.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "open-banking-et-scoring-instantane-comment-la-tech-simplifie-l-acces-au-credit-r",
+   "title": "Open banking et scoring instantané : comment la tech simplifie l'accès au crédit responsable",
+   "url": "https://www.frenchweb.fr/open-banking-et-scoring-instantane-comment-la-tech-simplifie-l-acces-au-credit-responsable/900000055?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "L’open banking et le scoring instantané transforment l’accès au crédit grâce à une analyse fine et en temps réel du reste à vivre, alliant rapidité, prévention du surendettement et transparence.",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/660313f1b9afd5e731c3fe1920b2a4a2793856838ef646e869585e2e265f2e56.png",
+   "sources": [
+    "FrenchWeb"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Open banking et scoring instantané : comment la tech simplifie l'accès au crédit responsable",
+     "url": "https://www.frenchweb.fr/open-banking-et-scoring-instantane-comment-la-tech-simplifie-l-acces-au-credit-responsable/900000055?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    }
+   ],
+   "brief": {
+    "essentiel": "L’open banking et le scoring instantané transforment l’accès au crédit grâce à une analyse fine et en temps réel du reste à vivre, alliant rapidité, prévention du surendettement et transparence.",
+    "points": [],
+    "facts": []
+   },
+   "date": "2026-11-19T06:00:54.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "asus-ne-perd-pas-le-nord-pour-le-black-friday-il-met-en-avant-un-pc-portable-sou",
+   "title": "Asus ne perd pas le nord : pour le Black Friday, il met en avant un PC portable sous les 300 euros et les Français l'adorent",
+   "url": "https://www.bfmtv.com/tech/bons-plans/asus-ne-perd-pas-le-nord-pour-le-black-friday-il-met-en-avant-un-pc-portable-sous-les-300-euros-et-les-francais-l-adorent_AB-202611190067.html",
+   "summary": "Parce qu’on ne présente plus le Black Friday, Asus prend de l’avance avec ce PC portable Chromebook vendu moins de 300 euros sur son site de vente en ligne. Il est temps de découvrir cet ordinateur portable de 14 pouces.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ubQmbX_6XbobQrxz-c92TJBfZyc=/0x0:1600x900/800x0/images/Offre-Asus-2176580.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "Asus ne perd pas le nord : pour le Black Friday, il met en avant un PC portable sous les 300 euros et les Français l'adorent",
+     "url": "https://www.bfmtv.com/tech/bons-plans/asus-ne-perd-pas-le-nord-pour-le-black-friday-il-met-en-avant-un-pc-portable-sous-les-300-euros-et-les-francais-l-adorent_AB-202611190067.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Parce qu’on ne présente plus le Black Friday, Asus prend de l’avance avec ce PC portable Chromebook vendu moins de 300 euros sur son site de vente en ligne.",
+    "points": [
+     "Il est temps de découvrir cet ordinateur portable de 14 pouces."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-19T19:36:00.000Z",
+   "categories": [],
+   "score": 2.8
+  },
+  {
+   "id": "ces-dependances-numeriques-entrainent-des-risques-le-haut-commissariat-au-plan-m",
+   "title": "\"Ces dépendances numériques entraînent des risques\": le Haut-commissariat au plan met en garde la France et l'Union européenne contre leur manque de souveraineté numérique",
+   "url": "https://www.bfmtv.com/tech/vie-numerique/ces-dependances-numeriques-entrainent-des-risques-le-haut-commissariat-au-plan-met-en-garde-la-france-et-l-union-europeenne-contre-leur-manque-de-souverainete-numerique_AD-202611190909.html",
+   "summary": "Après de nombreuses pannes de services américains ces dernières semaines, et leurs conséquences sur des infrastructures françaises et européennes, la question de la souveraineté numérique est de nouveau posée. Cette fois, c'est un rapport qui tire la sonnette d'alarme.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/qRu2I8pgkjOUxNLDnXsWSoTCeCE=/4x49:1428x850/800x0/images/Les-modeles-avances-d-IA-compares-a-des-armes-nucleaires-numeriques-2313483.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "\"Ces dépendances numériques entraînent des risques\": le Haut-commissariat au plan met en garde la France et l'Union européenne contre leur manque de souveraineté numérique",
+     "url": "https://www.bfmtv.com/tech/vie-numerique/ces-dependances-numeriques-entrainent-des-risques-le-haut-commissariat-au-plan-met-en-garde-la-france-et-l-union-europeenne-contre-leur-manque-de-souverainete-numerique_AD-202611190909.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Après de nombreuses pannes de services américains ces dernières semaines, et leurs conséquences sur des infrastructures françaises et européennes, la question de la souveraineté numérique est de nouveau posée.",
+    "points": [
+     "Cette fois, c'est un rapport qui tire la sonnette d'alarme."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-19T18:35:44.000Z",
+   "categories": [],
+   "score": 2.8
+  },
+  {
+   "id": "bataille-d-echecs-au-bar-ibis-styles-amiens-centre-date-horaires-tarifs",
+   "title": "Bataille d'échecs au bar ibis Styles Amiens Centre : date, horaires, tarifs",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWlqMXlJOHhrNXFUSjZfZGpVc3QtNW1BN3E4TjA2VTJIenZzb1dWbXJMM0lZVUJ1bk9IZUdzUFRlZE9mdkMxVnM1MkItWlhsMWJaMmtfREVGSGRoOFZDS0UyclFNVE9yRjZRN3I0aXlzMk9CUG4xQTdOX0U0M1JmM2YweVZrSWVGSldSdkJXcWpUNHFxSXRFTGlUWWxscW02ekE?oc=5",
+   "summary": "",
+   "sources": [
+    "jds.fr"
+   ],
+   "articles": [
+    {
+     "source": "jds.fr",
+     "title": "Bataille d'échecs au bar ibis Styles Amiens Centre : date, horaires, tarifs",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWlqMXlJOHhrNXFUSjZfZGpVc3QtNW1BN3E4TjA2VTJIenZzb1dWbXJMM0lZVUJ1bk9IZUdzUFRlZE9mdkMxVnM1MkItWlhsMWJaMmtfREVGSGRoOFZDS0UyclFNVE9yRjZRN3I0aXlzMk9CUG4xQTdOX0U0M1JmM2YweVZrSWVGSldSdkJXcWpUNHFxSXRFTGlUWWxscW02ekE?oc=5"
+    }
+   ],
+   "date": "2026-11-20T06:37:29.000Z",
+   "categories": [],
+   "score": 2.8
+  },
+  {
+   "id": "nous-voulons-recruter-mieux-mais-pas-plus-kedge-centre-sa-strategie-sur-la-quali",
+   "title": "« Nous voulons recruter mieux, mais pas plus » : KEDGE centre sa stratégie sur la qualité des programmes",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3BxdFRrLXZnX2xfTzlnejdWWm9JdHNaaHhIaHdJS1dEY3ZSRndpNGxiODYwV3BZYmtTRUJBMlZzeTVpbWNjQUJLSmNrZnZ3dVFNUl9Kckt2Y295MmktMlZIRlBBd1dCbzdUUEtjOV9TUGpVUGxfMTlZSkR0STFaNjQ2YmRsejhyQWlpMDVvZW5tX2s?oc=5",
+   "summary": "",
+   "sources": [
+    "Business-Cool"
+   ],
+   "articles": [
+    {
+     "source": "Business-Cool",
+     "title": "« Nous voulons recruter mieux, mais pas plus » : KEDGE centre sa stratégie sur la qualité des programmes",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3BxdFRrLXZnX2xfTzlnejdWWm9JdHNaaHhIaHdJS1dEY3ZSRndpNGxiODYwV3BZYmtTRUJBMlZzeTVpbWNjQUJLSmNrZnZ3dVFNUl9Kckt2Y295MmktMlZIRlBBd1dCbzdUUEtjOV9TUGpVUGxfMTlZSkR0STFaNjQ2YmRsejhyQWlpMDVvZW5tX2s?oc=5"
+    }
+   ],
+   "date": "2026-11-19T15:46:42.000Z",
+   "categories": [
+    "Talents & nominations"
+   ],
+   "score": 2.5
+  },
+  {
+   "id": "gta-vi-les-artistes-francais-derriere-la-bande-son-du-jeu-video",
+   "title": "GTA VI : les artistes français derrière la bande-son du jeu vidéo",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXpnVXQ3OEt4dXFlX2xxMk5BRUg5QTNhWG9iVlp6N1RJbk5ZZHhzWDhiaHMtUTJuNDhYbm54MVVTckFKV3pvNGhrbXZpY2VCNXFqTjZSeUxGTnJzUm91Qk1uQ3l3V1YwR2RGRjNZQlNvem1EcGViVHBtdUhJQVhiQmlFN25kenJpMEZ5MXlqcnc0LUlVUzctVmtmcm1hbGRTNHQyclFtZTk0dmh3?oc=5",
+   "summary": "",
+   "sources": [
+    "Bpifrance"
+   ],
+   "articles": [
+    {
+     "source": "Bpifrance",
+     "title": "GTA VI : les artistes français derrière la bande-son du jeu vidéo",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXpnVXQ3OEt4dXFlX2xxMk5BRUg5QTNhWG9iVlp6N1RJbk5ZZHhzWDhiaHMtUTJuNDhYbm54MVVTckFKV3pvNGhrbXZpY2VCNXFqTjZSeUxGTnJzUm91Qk1uQ3l3V1YwR2RGRjNZQlNvem1EcGViVHBtdUhJQVhiQmlFN25kenJpMEZ5MXlqcnc0LUlVUzctVmtmcm1hbGRTNHQyclFtZTk0dmh3?oc=5"
+    }
+   ],
+   "date": "2026-11-19T13:21:51.000Z",
+   "categories": [],
+   "score": 2.3
+  },
+  {
+   "id": "les-plus-beaux-endroits-pour-observer-le-coucher-de-soleil-a-paris-et-en-ile-de-",
+   "title": "Les plus beaux endroits pour observer le coucher de soleil à Paris et en Île-de-France",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qUmpEc0Z5UnNGcVl5SkhidW9sb29TajZKazRpMWdCSklMcVdLT1NLNUk4ZmR2VTBxQW1fOUEtMDRtNVY4YXJGbm9vNG9PR0pLcWpTTm9OZy01LW9IMUQyT1RVamlLLVRBY2lYZk85Slk?oc=5",
+   "summary": "",
+   "sources": [
+    "https://horticulture-abadie-pyrenees.com/"
+   ],
+   "articles": [
+    {
+     "source": "https://horticulture-abadie-pyrenees.com/",
+     "title": "Les plus beaux endroits pour observer le coucher de soleil à Paris et en Île-de-France",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qUmpEc0Z5UnNGcVl5SkhidW9sb29TajZKazRpMWdCSklMcVdLT1NLNUk4ZmR2VTBxQW1fOUEtMDRtNVY4YXJGbm9vNG9PR0pLcWpTTm9OZy01LW9IMUQyT1RVamlLLVRBY2lYZk85Slk?oc=5"
+    }
+   ],
+   "date": "2026-11-19T01:45:57.000Z",
+   "categories": [],
+   "score": 2
+  },
+  {
+   "id": "investir-dans-la-transmission-agricole-avec-eloi",
+   "title": "Investir dans la transmission agricole avec Eloi",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRU44TTlfWTR2bzlWX0s2akZFb0Z1aWd3eFZPTlRROHZjQ0Q3NlBTRjBNWVZ2ZS1aYVNobWZkQnRHT3oxT1ZBUFh1dXBrdWJKczVmeGJjemE0WUVnYmgtM2RPRmFVcm5aZlc4d19LRlcyUENXV1hlRnZkTmpXUEx5MXNkRGk0Rk9BbXVQVkhMUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "J'aime les startups"
+   ],
+   "articles": [
+    {
+     "source": "J'aime les startups",
+     "title": "Investir dans la transmission agricole avec Eloi",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRU44TTlfWTR2bzlWX0s2akZFb0Z1aWd3eFZPTlRROHZjQ0Q3NlBTRjBNWVZ2ZS1aYVNobWZkQnRHT3oxT1ZBUFh1dXBrdWJKczVmeGJjemE0WUVnYmgtM2RPRmFVcm5aZlc4d19LRlcyUENXV1hlRnZkTmpXUEx5MXNkRGk0Rk9BbXVQVkhMUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-19T14:02:10.000Z",
+   "categories": [],
+   "score": 1.4
+  },
+  {
+   "id": "des-remontees-mecaniques-a-la-mobilite-urbaine-poma-celebre-90-ans-d-innovation",
+   "title": "Des remontées mécaniques à la mobilité urbaine : POMA célèbre 90 ans d’innovation",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkItd080QWwyeU9VN3dlSWpSUG15X1NEZGhodnJ2emVhd3poemlzRXVvQmJyQ3BmNGlpaXZ6WE1JVW1CMnFSempxVlc3MkpPeG9pelZBeTY0WHl3QWpuVEd0SjJuVndYaWZiU3F5WEhkZW9VVXo0TmgtT0ZhdDZMVWxJRXM2RGdZWE1SRXM1cnA4Q1dMcVBBamVjMW5JUTNNeFZVak5iQldQLUxOY2s2aFktWFo1MlloRlhrYVR6MTg?oc=5",
+   "summary": "",
+   "sources": [
+    "Bpifrance"
+   ],
+   "articles": [
+    {
+     "source": "Bpifrance",
+     "title": "Des remontées mécaniques à la mobilité urbaine : POMA célèbre 90 ans d’innovation",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkItd080QWwyeU9VN3dlSWpSUG15X1NEZGhodnJ2emVhd3poemlzRXVvQmJyQ3BmNGlpaXZ6WE1JVW1CMnFSempxVlc3MkpPeG9pelZBeTY0WHl3QWpuVEd0SjJuVndYaWZiU3F5WEhkZW9VVXo0TmgtT0ZhdDZMVWxJRXM2RGdZWE1SRXM1cnA4Q1dMcVBBamVjMW5JUTNNeFZVak5iQldQLUxOY2s2aFktWFo1MlloRlhrYVR6MTg?oc=5"
+    }
+   ],
+   "date": "2026-11-19T09:31:55.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "la-souverainete-est-un-facteur-de-confiance-mais-c-est-notre-tech-qui-nous-fait-",
+   "title": "« La souveraineté est un facteur de confiance, mais c’est notre tech qui nous fait gagner » – Nicolas Rieul, Actionable",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hODVRcVlTcV9oRG0xX2l3MkVVaEJfWERtZHJNNmF5UzBkVV9yWVNCQjVYTnQ4bnBpTDB3YUFXZjJoWTRBa0lJMF91d1dJV0J6aTVqaGItd2NpYW9WWFU2TEJIMUNPZloxbDVVWTZjaFZqdXpiNHc?oc=5",
+   "summary": "",
+   "sources": [
+    "La Réclame"
+   ],
+   "articles": [
+    {
+     "source": "La Réclame",
+     "title": "« La souveraineté est un facteur de confiance, mais c’est notre tech qui nous fait gagner » – Nicolas Rieul, Actionable",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hODVRcVlTcV9oRG0xX2l3MkVVaEJfWERtZHJNNmF5UzBkVV9yWVNCQjVYTnQ4bnBpTDB3YUFXZjJoWTRBa0lJMF91d1dJV0J6aTVqaGItd2NpYW9WWFU2TEJIMUNPZloxbDVVWTZjaFZqdXpiNHc?oc=5"
+    }
+   ],
+   "date": "2026-11-18T22:20:40.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "10-lancement-de-l-outil-mon-budget-pour-suivre-ses-courses",
+   "title": "10% : Lancement de l’outil Mon Budget pour suivre ses courses",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXF0WkVwekhoSEZDc0ZnYTcyTHZMQlF0b25yV3dBcnRCY3V5WUFaSUozS2RlMmdmRGRFSlNxNzQtdVpGbUx3ZWgtR09CNmx1TkhTVGpCbV9KR2huVVp6M21DRlp2RTdwQ0ZkTmZMZFI5YVUwTHdmVGRwNG5ubHdLa1BaekFDeWNfQ19kbWZ1QVoxN0JPR3JkY0xZWQ?oc=5",
+   "summary": "",
+   "sources": [
+    "J'aime les startups"
+   ],
+   "articles": [
+    {
+     "source": "J'aime les startups",
+     "title": "10% : Lancement de l’outil Mon Budget pour suivre ses courses",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXF0WkVwekhoSEZDc0ZnYTcyTHZMQlF0b25yV3dBcnRCY3V5WUFaSUozS2RlMmdmRGRFSlNxNzQtdVpGbUx3ZWgtR09CNmx1TkhTVGpCbV9KR2huVVp6M21DRlp2RTdwQ0ZkTmZMZFI5YVUwTHdmVGRwNG5ubHdLa1BaekFDeWNfQ19kbWZ1QVoxN0JPR3JkY0xZWQ?oc=5"
+    }
+   ],
+   "date": "2026-11-19T09:50:19.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "l-appel-de-la-tech",
+   "title": "L'Appel de la Tech",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGlHVGFQVHpaNl9LcC0wdzRYYzh3VkdnZHpyNTZJWUpFT0l6bVd5VkpHYV9iOWFUZ3ljbkpUNDFPMjF1bzN5ZUJEbWVwOE9MSVFjYUNjZDY2dDlrZUpUWEVINy1aVXczdU5MS0FtNzlNZ3l3cFBEQnB3V1dHem9hYTdCTTduRkUzc1RQRVRvM3BZVzRSMnBoWUVLMm1MTnY0eVpTalpmUWxXcjh1djhZWElXNA?oc=5",
+   "summary": "",
+   "sources": [
+    "French Tech Bordeaux"
+   ],
+   "articles": [
+    {
+     "source": "French Tech Bordeaux",
+     "title": "L'Appel de la Tech",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGlHVGFQVHpaNl9LcC0wdzRYYzh3VkdnZHpyNTZJWUpFT0l6bVd5VkpHYV9iOWFUZ3ljbkpUNDFPMjF1bzN5ZUJEbWVwOE9MSVFjYUNjZDY2dDlrZUpUWEVINy1aVXczdU5MS0FtNzlNZ3l3cFBEQnB3V1dHem9hYTdCTTduRkUzc1RQRVRvM3BZVzRSMnBoWUVLMm1MTnY0eVpTalpmUWxXcjh1djhZWElXNA?oc=5"
+    }
+   ],
+   "date": "2026-11-19T08:27:07.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "david-mccandless-une-culture-de-la-donnee-accessible-a-tous",
+   "title": "David McCandless, une culture de la donnée accessible à tous",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2Y1YzBvOE04cnFwWUQxbUp2eFV4WTZhSk51Q2pzWVo4d2FJQ3I5WTlwYjB3VUJHaG5mSEwyTHg0T3ZSNUE0ZlVBVVVvd1cyd1NLYXFubzdvdTBxUU5ibVRPUS1zS29wRUg3MmtkWW1wWGZfQ1NTcm5UdmFXem12N2I5bnl4ZVRkeldOYmJlMjFlQzZZUFZEQWdBY1JzZFN6SV81VlJOY2dWV1BhZXc?oc=5",
+   "summary": "",
+   "sources": [
+    "French Tech Bordeaux"
+   ],
+   "articles": [
+    {
+     "source": "French Tech Bordeaux",
+     "title": "David McCandless, une culture de la donnée accessible à tous",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2Y1YzBvOE04cnFwWUQxbUp2eFV4WTZhSk51Q2pzWVo4d2FJQ3I5WTlwYjB3VUJHaG5mSEwyTHg0T3ZSNUE0ZlVBVVVvd1cyd1NLYXFubzdvdTBxUU5ibVRPUS1zS29wRUg3MmtkWW1wWGZfQ1NTcm5UdmFXem12N2I5bnl4ZVRkeldOYmJlMjFlQzZZUFZEQWdBY1JzZFN6SV81VlJOY2dWV1BhZXc?oc=5"
+    }
+   ],
+   "date": "2026-11-19T04:37:30.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "le-president-emmanuel-macron-salue-l-engagement-de-canadia-group-a-francotech-ph",
+   "title": "Le Président Emmanuel Macron salue l’engagement de Canadia Group à FrancoTech PHNOM PENH",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFhlam9ObGJ6bldNMkFGNVJCSkxmdHFkZDRRVzcwUUdweWhXTG9veUJiSXJXVHFTdWd5SXVNcnU1TGM4WE03QjdnY1FTLVRINElhUTZWeXRSbEs2dl91bm9qUjZFLTRZRmQwdHRDanVUWUtGYm5uY25OcXZvYXotWmp0V1I1ZXc2Mk1CaG55eXFUNE93ek8xT3dhYVFxczl2ekNXckM0STFGMVpQVS1hbmsxRTIxZ3hUV3gza0M1d1YwUWlJbDExT1FXaw?oc=5",
+   "summary": "",
+   "sources": [
+    "Cambodgemag"
+   ],
+   "articles": [
+    {
+     "source": "Cambodgemag",
+     "title": "Le Président Emmanuel Macron salue l’engagement de Canadia Group à FrancoTech PHNOM PENH",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFhlam9ObGJ6bldNMkFGNVJCSkxmdHFkZDRRVzcwUUdweWhXTG9veUJiSXJXVHFTdWd5SXVNcnU1TGM4WE03QjdnY1FTLVRINElhUTZWeXRSbEs2dl91bm9qUjZFLTRZRmQwdHRDanVUWUtGYm5uY25OcXZvYXotWmp0V1I1ZXc2Mk1CaG55eXFUNE93ek8xT3dhYVFxczl2ekNXckM0STFGMVpQVS1hbmsxRTIxZ3hUV3gza0M1d1YwUWlJbDExT1FXaw?oc=5"
+    }
+   ],
+   "date": "2026-11-19T06:55:08.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "les-candidats-aux-municipales-vont-ils-adopter-le-logiciel-libre",
+   "title": "Les candidats aux Municipales vont-ils adopter le Logiciel Libre ?",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMHVuWUtRU1MzU2dCZXhIM2NsT1hqcjBNQ1ZJeTM0UGdDU0h1bk1DU3BhRkpBMlYwdW1jNXd5Sm5mdUExbVczVzVVY3k1dU1CTzRXd3l6UHUzV2RucEk3emRtbGlfd0tCb2lNZ1JxSVVsREc0bnl2VkVmXzBDa0c4TnpQN0pvTXNEdWhtb084SXE5SEJIVkNFdFM4THA4UHdGX2Y5dlVrN3RCcWs4X0R6ZmUxajFMNEoxaDFLcGtuOE9pUVMtYlZxbTMwTXk1UVRFM3FXN0hEZUZCeGtp?oc=5",
+   "summary": "",
+   "sources": [
+    "www.republikgroup.com"
+   ],
+   "articles": [
+    {
+     "source": "www.republikgroup.com",
+     "title": "Les candidats aux Municipales vont-ils adopter le Logiciel Libre ?",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMHVuWUtRU1MzU2dCZXhIM2NsT1hqcjBNQ1ZJeTM0UGdDU0h1bk1DU3BhRkpBMlYwdW1jNXd5Sm5mdUExbVczVzVVY3k1dU1CTzRXd3l6UHUzV2RucEk3emRtbGlfd0tCb2lNZ1JxSVVsREc0bnl2VkVmXzBDa0c4TnpQN0pvTXNEdWhtb084SXE5SEJIVkNFdFM4THA4UHdGX2Y5dlVrN3RCcWs4X0R6ZmUxajFMNEoxaDFLcGtuOE9pUVMtYlZxbTMwTXk1UVRFM3FXN0hEZUZCeGtp?oc=5"
+    }
+   ],
+   "date": "2026-11-18T21:38:47.000Z",
+   "categories": [],
+   "score": 1
+  }
+ ]
+}
