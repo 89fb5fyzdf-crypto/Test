@@ -1,11 +1,11 @@
 {
  "date": "2026-11-21",
- "generatedAt": "2026-11-21T21:11:44.438Z",
+ "generatedAt": "2026-11-21T22:34:25.101Z",
  "windowHours": 36,
  "counts": {
-  "articles": 59,
-  "raw": 84,
-  "media": 39
+  "articles": 45,
+  "raw": 68,
+  "media": 37
  },
  "scope": "fr",
  "lang": "fr",
@@ -38,12 +38,12 @@
   {
    "source": "Google News · licorne française",
    "ok": true,
-   "items": 1
+   "items": 2
   },
   {
    "source": "Google News · Mistral AI",
    "ok": true,
-   "items": 33
+   "items": 32
   },
   {
    "source": "Google News · startup française levée de fonds",
@@ -63,7 +63,7 @@
   {
    "source": "L'Usine Digitale",
    "ok": true,
-   "items": 3
+   "items": 4
   },
   {
    "source": "Les Echos (start-up)",
@@ -92,6 +92,63 @@
   }
  ],
  "items": [
+  {
+   "id": "deutsche-telekom-investit-100-millions-d-euros-dans-mistral-et-vise-l-industrie-",
+   "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
+   "url": "https://www.frenchweb.fr/breaking-news/deutsche-telekom-investit-100-millions-d-euros-dans-mistral-et-vise-l-industrie-allemande/71be0e22-73c5-4208-b9ec-90033141d1cb?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+   "summary": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
+   "image": "https://www.frenchweb.fr/breaking-news/images/r23/ai.jpg",
+   "sources": [
+    "FrenchWeb",
+    "Frenchweb.fr",
+    "Brief IA",
+    "Traders Union",
+    "Foro3D"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
+     "url": "https://www.frenchweb.fr/breaking-news/deutsche-telekom-investit-100-millions-d-euros-dans-mistral-et-vise-l-industrie-allemande/71be0e22-73c5-4208-b9ec-90033141d1cb?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news"
+    },
+    {
+     "source": "Frenchweb.fr",
+     "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUHV5Z3VobUl5bU11T3NkdGR0dlBkbUFmMVNSVE5KS0dvRExoMGVrRVlUZ3JNeXAwa29vN0E5N2hqcEJjZWJSZlJYVUdzX0ZfMDBtOUtiMlIteV80UklIck9IcWRTR2VnYnJKY01MYVNSN01XOXlpSlRhT0h4UjJ3YzFZY0FscU0wak5oYnJTLWRKVDE4Vm1WVVc4bUktSzhXb0ZNc2IxSlMtZnpGeTlTLUlXNTBmXzQ1bS13ZFhjcWJtSWpUYUdNa1hucmNhZGRRcDcyUktGYldFZ3ZaUFk5eVV5bkxEQ0JrVDFDbnpmSGlHWGd4RXNKdw?oc=5"
+    },
+    {
+     "source": "Brief IA",
+     "title": "Mistral reçoit 100 millions d’euros de Deutsche Telekom",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gb2hUYzlyelBCeXNhRU9pYzk1SlRjT0d0V1RzY0dmZjQ3LVN2alVMUHpPYjhta01qSk9YeFhsdHduTXI5aW5ncm10M2MzekM4b2dnQ1M1NFFSSVpMYm5JYmR5c0poWkZSTHVnR3RfcUw?oc=5"
+    },
+    {
+     "source": "Traders Union",
+     "title": "Laurent Segnis : Deutsche Telekom investit 100 millions d’euros dans Mistral et amorce un partenariat stratégique européen",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmVLcjFvQmg2UExVRmRQNFRSbkJoQ3NpS29NRHU5M2d1WFNvVGZrbUlQalh0MW5hUUVpYkpfM2tHN2NhZkU1RXgyUlp4LWEzaS1jN1dJYzRQem9qRHc4Mk9JdFh2TFc0VUxMWFIyWVhGbHZ3UmsyNFV4MTZzNkc5ZEJOM3VUTUFJVGVIaER5bFdkc3VHN3dUbnRQZ0R3Z3M3UGc?oc=5"
+    },
+    {
+     "source": "Foro3D",
+     "title": "Deutsche Telekom investit 100 millions dans Mistral AI pour une IA souveraine",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1hpWS0zdDF3OFAwU0hoN0NXZ1k3cGZ6Q2NiZk9keXkyb2w1Y1pYSUF4ZWJhRjRQejNYNVAtbFRCZURHQk1xMnNzVW05aU1oOUZvZ1NjYURhakdmYnB2MGloWGkyMjFrbW9GeUs2aXRPc05FUjNxaXpsTUpzRGprTWFOR1JCaERRWEFSLXVQSG10NE1wajYtYzdYLUozSm5JR2FDNG43WVZNb0xlNmVaWQ?oc=5"
+    }
+   ],
+   "brief": {
+    "essentiel": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
+    "points": [],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "100 millions d'euros"
+     }
+    ]
+   },
+   "date": "2026-11-20T20:50:22.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 22.7
+  },
   {
    "id": "je-veux-le-redire-avec-des-mots-humains-quand-jensen-huang-humiliait-le-patron-f",
    "title": "«Je veux le redire avec des mots humains» : quand Jensen Huang humiliait le patron français de Mistral AI",
@@ -141,58 +198,7 @@
    "categories": [
     "IA"
    ],
-   "score": 20.7
-  },
-  {
-   "id": "deutsche-telekom-investit-100-millions-d-euros-dans-mistral-et-vise-l-industrie-",
-   "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
-   "url": "https://www.frenchweb.fr/breaking-news/deutsche-telekom-investit-100-millions-d-euros-dans-mistral-et-vise-l-industrie-allemande/71be0e22-73c5-4208-b9ec-90033141d1cb?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
-   "summary": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
-   "image": "https://www.frenchweb.fr/breaking-news/images/r23/ai.jpg",
-   "sources": [
-    "FrenchWeb",
-    "Frenchweb.fr",
-    "Brief IA",
-    "Traders Union"
-   ],
-   "articles": [
-    {
-     "source": "FrenchWeb",
-     "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
-     "url": "https://www.frenchweb.fr/breaking-news/deutsche-telekom-investit-100-millions-d-euros-dans-mistral-et-vise-l-industrie-allemande/71be0e22-73c5-4208-b9ec-90033141d1cb?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news"
-    },
-    {
-     "source": "Frenchweb.fr",
-     "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUHV5Z3VobUl5bU11T3NkdGR0dlBkbUFmMVNSVE5KS0dvRExoMGVrRVlUZ3JNeXAwa29vN0E5N2hqcEJjZWJSZlJYVUdzX0ZfMDBtOUtiMlIteV80UklIck9IcWRTR2VnYnJKY01MYVNSN01XOXlpSlRhT0h4UjJ3YzFZY0FscU0wak5oYnJTLWRKVDE4Vm1WVVc4bUktSzhXb0ZNc2IxSlMtZnpGeTlTLUlXNTBmXzQ1bS13ZFhjcWJtSWpUYUdNa1hucmNhZGRRcDcyUktGYldFZ3ZaUFk5eVV5bkxEQ0JrVDFDbnpmSGlHWGd4RXNKdw?oc=5"
-    },
-    {
-     "source": "Brief IA",
-     "title": "Mistral reçoit 100 millions d’euros de Deutsche Telekom",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gb2hUYzlyelBCeXNhRU9pYzk1SlRjT0d0V1RzY0dmZjQ3LVN2alVMUHpPYjhta01qSk9YeFhsdHduTXI5aW5ncm10M2MzekM4b2dnQ1M1NFFSSVpMYm5JYmR5c0poWkZSTHVnR3RfcUw?oc=5"
-    },
-    {
-     "source": "Traders Union",
-     "title": "Laurent Segnis : Deutsche Telekom investit 100 millions d’euros dans Mistral et amorce un partenariat stratégique européen",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmVLcjFvQmg2UExVRmRQNFRSbkJoQ3NpS29NRHU5M2d1WFNvVGZrbUlQalh0MW5hUUVpYkpfM2tHN2NhZkU1RXgyUlp4LWEzaS1jN1dJYzRQem9qRHc4Mk9JdFh2TFc0VUxMWFIyWVhGbHZ3UmsyNFV4MTZzNkc5ZEJOM3VUTUFJVGVIaER5bFdkc3VHN3dUbnRQZ0R3Z3M3UGc?oc=5"
-    }
-   ],
-   "brief": {
-    "essentiel": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
-    "points": [],
-    "facts": [
-     {
-      "key": "amount",
-      "value": "100 millions d'euros"
-     }
-    ]
-   },
-   "date": "2026-11-20T20:50:22.000Z",
-   "categories": [
-    "Levées de fonds",
-    "IA"
-   ],
-   "score": 19.3
+   "score": 20.6
   },
   {
    "id": "mistral-ai-installe-a-singapour-son-siege-asie-pacifique-tourne-vers-l-ia-souver",
@@ -273,7 +279,7 @@
     "IA",
     "Politique & écosystème"
    ],
-   "score": 17.7
+   "score": 17.6
   },
   {
    "id": "ovh-scaleway-mistral-comparatif-des-inferenceurs-souverains-d-ia",
@@ -336,6 +342,38 @@
    "score": 8
   },
   {
+   "id": "des-milliers-d-internautes-ont-saute-le-pas-voici-le-placement-que-les-francais-",
+   "title": "Des milliers d'internautes ont sauté le pas : voici le placement que les Français adorent et ce n'est pas le Livret A",
+   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/des-dizaines-de-milliers-de-francais-echangent-leur-livret-a-pour-cette-epargne-a-5-5-brut-vu-les-avantages-on-comprend-pourquoi_AB-202611210011.html",
+   "summary": "Depuis que la banque en ligne Fortuneo propose son Livret +, le Livret A n'arrive plus à suivre, et de plus en plus de Français se précipitent sur ce nouveau placement. Avec un taux d'intérêt qui dépasse les 5 % et un plafond quasiment illimité, le Livret + Fortuneo s'impose sans pitié.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kr-4FAkQjKNQLWjNI_x09ogf9Sc=/0x106:2048x1258/800x0/images/Fortuneo-250-euros-offerts-si-vous-ouvrez-un-compte-avant-le-temps-imparti-2062556.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "Des milliers d'internautes ont sauté le pas : voici le placement que les Français adorent et ce n'est pas le Livret A",
+     "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/des-dizaines-de-milliers-de-francais-echangent-leur-livret-a-pour-cette-epargne-a-5-5-brut-vu-les-avantages-on-comprend-pourquoi_AB-202611210011.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Depuis que la banque en ligne Fortuneo propose son Livret +, le Livret A n'arrive plus à suivre, et de plus en plus de Français se précipitent sur ce nouveau placement.",
+    "points": [
+     "Les annonces du Gouvernement concernant les améliorations apportées au Livret A dès février prochain, n'auront pas suffi à stopper le raz-de-marée qui a actuellement lieu vers ce plan d'épargne au super-taux qui a été pensé et mis en place par Fortuneo.",
+     "Avec un taux d'intérêt qui dépasse les 5 % et un plafond quasiment illimité, le Livret + Fortuneo s'impose sans pitié.",
+     "Entre le Livret A et un placement mieux payé, des épargnants ont déjà choisi.",
+     "Fortuneo propose le Livret+, avec un taux de 5,5 % brut pendant 3 mois pour une première ouverture."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-21T09:04:00.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 7
+  },
+  {
    "id": "le-fondateur-de-brevo-se-lance-dans-la-defense-sa-startup-anti-drones-stryx-ai-l",
    "title": "Le fondateur de Brevo se lance dans la défense : sa startup anti-drones Stryx AI lève 7,7 millions d’euros",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDNBOFkxcWJrbkh0YjhCeGJ1cW95amFRRUlTV0FvcGtfeWk3X2wwTEY3U1RGZk9DUlk3eHVHa3JHLWZqU1JFZ2EtU3Vza25Zb1NUR3h4Vlg4NVplcFA5UnNxZXZKSDYtOV9mSTJ4YkNRZTRYcFAybkU2UHRyNmwybTBQa2I1V2JxSnBhYUlvNUJab1F5YXluczFjMFowcmszbG1ZRVd1RVNBMHZKa3dYLVROMjI2Z1N3d0d2YU9Xb0w2MGlGR3Uycg?oc=5",
@@ -351,28 +389,6 @@
     }
    ],
    "date": "2026-11-20T17:25:30.000Z",
-   "categories": [
-    "Levées de fonds",
-    "IA"
-   ],
-   "score": 7
-  },
-  {
-   "id": "isomorphic-labs-leve-5-milliards-de-dollars-en-serie-c",
-   "title": "Isomorphic Labs lève 5 milliards de dollars en série C",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzFSczU1M1BoOEdxOXZzOVY2UzQ5QkVVd2ozV0RyYlljVVdsSnBxbjhYUnpCVnI3ZnNQcmZObGRnaE9wbmlzTE5BV1FzWEswMU13eWtWYVUtNjJFRzVrTHNCNTN4YTM5YmVxZ2tUeG1mcXRFLXhHcnhvbE1sUEQ5UFpsQkIwa1g0NDFsLU5R?oc=5",
-   "summary": "",
-   "sources": [
-    "Brief IA"
-   ],
-   "articles": [
-    {
-     "source": "Brief IA",
-     "title": "Isomorphic Labs lève 5 milliards de dollars en série C",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzFSczU1M1BoOEdxOXZzOVY2UzQ5QkVVd2ozV0RyYlljVVdsSnBxbjhYUnpCVnI3ZnNQcmZObGRnaE9wbmlzTE5BV1FzWEswMU13eWtWYVUtNjJFRzVrTHNCNTN4YTM5YmVxZ2tUeG1mcXRFLXhHcnhvbE1sUEQ5UFpsQkIwa1g0NDFsLU5R?oc=5"
-    }
-   ],
-   "date": "2026-11-20T10:14:55.000Z",
    "categories": [
     "Levées de fonds",
     "IA"
@@ -401,98 +417,6 @@
    "score": 7
   },
   {
-   "id": "des-milliers-d-internautes-ont-saute-le-pas-voici-le-placement-que-les-francais-",
-   "title": "Des milliers d'internautes ont sauté le pas : voici le placement que les Français adorent et ce n'est pas le Livret A",
-   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/des-dizaines-de-milliers-de-francais-echangent-leur-livret-a-pour-cette-epargne-a-5-5-brut-vu-les-avantages-on-comprend-pourquoi_AB-202611210011.html",
-   "summary": "Depuis que la banque en ligne Fortuneo propose son Livret +, le Livret A n'arrive plus à suivre, et de plus en plus de Français se précipitent sur ce nouveau placement. Avec un taux d'intérêt qui dépasse les 5 % et un plafond quasiment illimité, le Livret + Fortuneo s'impose sans pitié.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kr-4FAkQjKNQLWjNI_x09ogf9Sc=/0x106:2048x1258/800x0/images/Fortuneo-250-euros-offerts-si-vous-ouvrez-un-compte-avant-le-temps-imparti-2062556.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "Des milliers d'internautes ont sauté le pas : voici le placement que les Français adorent et ce n'est pas le Livret A",
-     "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/des-dizaines-de-milliers-de-francais-echangent-leur-livret-a-pour-cette-epargne-a-5-5-brut-vu-les-avantages-on-comprend-pourquoi_AB-202611210011.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Depuis que la banque en ligne Fortuneo propose son Livret +, le Livret A n'arrive plus à suivre, et de plus en plus de Français se précipitent sur ce nouveau placement.",
-    "points": [
-     "Les annonces du Gouvernement concernant les améliorations apportées au Livret A dès février prochain, n'auront pas suffi à stopper le raz-de-marée qui a actuellement lieu vers ce plan d'épargne au super-taux qui a été pensé et mis en place par Fortuneo.",
-     "Votre Livret A plafonne à 22 950 euros et le surplus dort sur votre compte courant ?",
-     "Avec un taux d'intérêt qui dépasse les 5 % et un plafond quasiment illimité, le Livret + Fortuneo s'impose sans pitié.",
-     "BforBank lance une promotion sur son Livret d’épargne Bfor+, un compte épargne rémunéré à 3,5 % brut pendant un an pour toute première ouverture."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-21T06:55:00.000Z",
-   "categories": [
-    "Politique & écosystème"
-   ],
-   "score": 6.5
-  },
-  {
-   "id": "de-pennylane-a-vinted-qui-financera-le-passage-a-l-echelle-de-la-tech-europeenne",
-   "title": "De PENNYLANE à VINTED, qui financera le passage à l’échelle de la tech européenne ?",
-   "url": "https://www.frenchweb.fr/de-pennylane-a-vinted-qui-financera-le-passage-a-l-echelle-de-la-tech-europeenne/900000062?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-   "summary": "Crédit : Illustration FRENCHWEB.FR À Slush, les dirigeants de PENNYLANE et de VINTED ont signé avec 36 autres fondateurs et dirigeants un appel à mieux financer la croissance des entreprises technologiques en Europe. Leurs deux opérations de 2026 montrent ce qui manque encore au continent pour y parvenir.",
-   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/ce5c882c91eab026c30ee8d755f553b5ebfe6610532ab22c1b212fe3a12455ba.jpg",
-   "sources": [
-    "FrenchWeb",
-    "Frenchweb.fr"
-   ],
-   "articles": [
-    {
-     "source": "FrenchWeb",
-     "title": "De PENNYLANE à VINTED, qui financera le passage à l’échelle de la tech européenne ?",
-     "url": "https://www.frenchweb.fr/de-pennylane-a-vinted-qui-financera-le-passage-a-l-echelle-de-la-tech-europeenne/900000062?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
-    },
-    {
-     "source": "Frenchweb.fr",
-     "title": "De PENNYLANE à VINTED, qui financera le passage à l’échelle de la tech européenne ?",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnhYbEhKd3hKQlJjdXk2SDhRZzVWN3RyTVJIakppa3hBTUVzQmMtVGYybGFBYlM3M3RDdWtZV2RwbHRadjNHWVVrMzVMeGg1TWhWRlVOcHpSMHNyQlBYZGR6QXUzcldyWU5OSUtHT3REekRsblg3YnZCTFNhNUExOUFkT0RZRy1zMzF5WFdUcXR4Q0lIaE1DWHhtbmFNV2hmVndjMzJOSlhZSHNOSFlGR2d1UG94UQ?oc=5"
-    }
-   ],
-   "brief": {
-    "essentiel": "Crédit : Illustration FRENCHWEB.FR À Slush, les dirigeants de PENNYLANE et de VINTED ont signé avec 36 autres fondateurs et dirigeants un appel à mieux financer la croissance des entreprises technologiques en Europe.",
-    "points": [
-     "Leurs deux opérations de 2026 montrent ce qui manque encore au continent pour y parvenir."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-20T09:40:12.000Z",
-   "categories": [],
-   "score": 6
-  },
-  {
-   "id": "zscaler-inc-collabore-avec-anthropic-et-mistral-pour-accelerer-l-innovation-dans",
-   "title": "Zscaler, Inc. collabore avec Anthropic et Mistral pour accélérer l’innovation dans la sécurisation de l’entreprise agentique",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ0FDVVBWYU5QLVZTTlE5dXVTc1RNbEM1aHNGLTZTTlZYS0hWUExHZmpHNUZId0NUUmJCWDJveHBrNnhpbUE4ZTBNQ01HT0FQNHlCbEVUOEp2ZVpoeGtQWndLN1FKZ05YNjdDN1RRRzR5ZTNPTVNHYTlwYUw2QURTT3BwZ3dSVmtqNk5MeFhrb01BZjdtTDNoRGN3WE9nUEp0Q0dIZmNHVWVNQTVJOXM4MFkwZ3VudmxFZ1NtZW15aWE0VWo3XzhlcURGLUd3YUI3bUdTRWs4a21mVjNsWGYwdmlwVmUyUjY3OWVwa0hR?oc=5",
-   "summary": "",
-   "sources": [
-    "Zonebourse Suisse",
-    "Investing.com France"
-   ],
-   "articles": [
-    {
-     "source": "Zonebourse Suisse",
-     "title": "Zscaler, Inc. collabore avec Anthropic et Mistral pour accélérer l’innovation dans la sécurisation de l’entreprise agentique",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ0FDVVBWYU5QLVZTTlE5dXVTc1RNbEM1aHNGLTZTTlZYS0hWUExHZmpHNUZId0NUUmJCWDJveHBrNnhpbUE4ZTBNQ01HT0FQNHlCbEVUOEp2ZVpoeGtQWndLN1FKZ05YNjdDN1RRRzR5ZTNPTVNHYTlwYUw2QURTT3BwZ3dSVmtqNk5MeFhrb01BZjdtTDNoRGN3WE9nUEp0Q0dIZmNHVWVNQTVJOXM4MFkwZ3VudmxFZ1NtZW15aWE0VWo3XzhlcURGLUd3YUI3bUdTRWs4a21mVjNsWGYwdmlwVmUyUjY3OWVwa0hR?oc=5"
-    },
-    {
-     "source": "Investing.com France",
-     "title": "Zscaler s’associe à Anthropic et Mistral pour la sécurité IA",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUptcHpCY2pzZC0xQ3I2eUVRb1JCWTk4WEZKaHRvdmpCRUNKYTFpb3podk16eklHRlJGR19IRmplVnpiZVZ0dGsxbG5ISU5xNWljX29oVVZBTTFFTk12X3l2Rzh4WTB4TmlKY0dKZ3U3eXY3Mjl6NzFucDZKR0RFU016QVgyc2tEd2YtcnZEcS1EdW5PbC1SY0s2dktJUURzSVJxeWZ5R2FkdkZHWk5VTnBBeVZ0QQ?oc=5"
-    }
-   ],
-   "date": "2026-11-20T21:05:00.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 6
-  },
-  {
    "id": "cy-cergy-paris-universite-regule-l-ia-dans-ses-enseignements",
    "title": "CY Cergy Paris Université régule l'IA dans ses enseignements",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEY3VHBYT2oyNlhqanhENlQ2N2UwTVlGQU5IZzNId01oZ1JWYmJmQkdYT3lwOWVHMFM1a0pXX2lQLW5SUkY5M1ZtTDZ0cDk4dGt4Mjd2aV9JWDhKajdBNkJibEJKbXFVdWZjZmNITE8wMGxwS0pfVFdMYXh6SldnaDNxQ05aaERBY0stRTNtUElqSzh1V0NoSG5pUnR0TE9NRjhpUDRscm9MeG1IVkVuZWJZa0hia3BB?oc=5",
@@ -514,6 +438,27 @@
    "score": 6
   },
   {
+   "id": "death-of-a-unicorn-sur-netflix-comment-jenna-ortega-et-paul-rudd-font-basculer-l",
+   "title": "Death of a Unicorn sur Netflix : comment Jenna Ortega et Paul Rudd font basculer le conte dans l’horreur",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc04yd3NkRDRYaFJsNlo2NV8xeG5RVS1ZSlV0S0M0V0FwVFlLN0V1OGVqNlVyWkJwa040bV93RVFyb015VV9Rd0RzdDQxSzE4M1JtTmdsN1g2amlPcGUzcURRczhTaUFtWlJlSVdpa2FGYmZ2OGNkVGQ4Q1JuMG1kUU9VcDQwU3JOWTVybUNzaGFwV1U0MzU2WU92U3lQSkV5c1NtS0huVDRVNDQ3azI0cmdxYjMxaHRMUVVkb2R3czBtRU1uQnFCWVVLaHYwcjBlMFJwalkwT0VnYnhMZUN5X0V6aXBSX3dLR29ZYmJtRHJsRWlDd1QydGFNWnJGZjFLZVhUWkREOA?oc=5",
+   "summary": "",
+   "sources": [
+    "Netflix News"
+   ],
+   "articles": [
+    {
+     "source": "Netflix News",
+     "title": "Death of a Unicorn sur Netflix : comment Jenna Ortega et Paul Rudd font basculer le conte dans l’horreur",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc04yd3NkRDRYaFJsNlo2NV8xeG5RVS1ZSlV0S0M0V0FwVFlLN0V1OGVqNlVyWkJwa040bV93RVFyb015VV9Rd0RzdDQxSzE4M1JtTmdsN1g2amlPcGUzcURRczhTaUFtWlJlSVdpa2FGYmZ2OGNkVGQ4Q1JuMG1kUU9VcDQwU3JOWTVybUNzaGFwV1U0MzU2WU92U3lQSkV5c1NtS0huVDRVNDQ3azI0cmdxYjMxaHRMUVVkb2R3czBtRU1uQnFCWVVLaHYwcjBlMFJwalkwT0VnYnhMZUN5X0V6aXBSX3dLR29ZYmJtRHJsRWlDd1QydGFNWnJGZjFLZVhUWkREOA?oc=5"
+    }
+   ],
+   "date": "2026-11-21T21:58:20.000Z",
+   "categories": [
+    "Licornes & scale-ups"
+   ],
+   "score": 5.9
+  },
+  {
    "id": "la-french-tech-phnom-penh-noue-des-accords-avec-trois-institutions-cambodgiennes",
    "title": "La French Tech Phnom Penh noue des accords avec trois institutions cambodgiennes",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUJRVk91NVh6UWZ3eVhvT0taSlJWNzk4ZlFrcmVCNzdWZXJudHYxc2RTb21WOGthX0V0T0lQR0JRLW9HNDVpTHpWQVhNRjU2dWRubFlJLXhTbVE1RkQtZUdXOHZWYUl2VERqTXBmR3dncmZuUXJaY1E4RXNMTVlEVXplLVA1TTUwc0JhVmZXRF9KQXVWWUxlNHpIZS05MnFadFctSnZPajB4NUdFRUMyNkRCYWF0ektiMzM0M2l3ejI?oc=5",
@@ -532,7 +477,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 5.8
+   "score": 5.7
   },
   {
    "id": "restaurant-que-vaut-chez-monix-le-chalet-d-hiver-des-bistrots-pas-parisiens-a-as",
@@ -551,7 +496,7 @@
    ],
    "date": "2026-11-21T14:55:11.000Z",
    "categories": [],
-   "score": 5.5
+   "score": 5.4
   },
   {
    "id": "video-banques-hedge-funds-et-fonds-etrangers-qui-detient-la-dette-francaise",
@@ -570,7 +515,28 @@
    ],
    "date": "2026-11-21T12:00:09.000Z",
    "categories": [],
-   "score": 5.2
+   "score": 5.1
+  },
+  {
+   "id": "isomorphic-labs-leve-5-milliards-de-dollars-en-serie-c",
+   "title": "Isomorphic Labs lève 5 milliards de dollars en série C",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzFSczU1M1BoOEdxOXZzOVY2UzQ5QkVVd2ozV0RyYlljVVdsSnBxbjhYUnpCVnI3ZnNQcmZObGRnaE9wbmlzTE5BV1FzWEswMU13eWtWYVUtNjJFRzVrTHNCNTN4YTM5YmVxZ2tUeG1mcXRFLXhHcnhvbE1sUEQ5UFpsQkIwa1g0NDFsLU5R?oc=5",
+   "summary": "",
+   "sources": [
+    "Brief IA"
+   ],
+   "articles": [
+    {
+     "source": "Brief IA",
+     "title": "Isomorphic Labs lève 5 milliards de dollars en série C",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzFSczU1M1BoOEdxOXZzOVY2UzQ5QkVVd2ozV0RyYlljVVdsSnBxbjhYUnpCVnI3ZnNQcmZObGRnaE9wbmlzTE5BV1FzWEswMU13eWtWYVUtNjJFRzVrTHNCNTN4YTM5YmVxZ2tUeG1mcXRFLXhHcnhvbE1sUEQ5UFpsQkIwa1g0NDFsLU5R?oc=5"
+    }
+   ],
+   "date": "2026-11-20T21:08:58.000Z",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "score": 5
   },
   {
    "id": "contribution-a-l-ue-la-france-ne-pourra-pas-obtenir-de-rabais-sans-lacher-quelqu",
@@ -589,7 +555,7 @@
    ],
    "date": "2026-11-21T09:10:09.000Z",
    "categories": [],
-   "score": 5
+   "score": 4.9
   },
   {
    "id": "le-droit-de-comprendre-pour-un-acces-libre-securise-et-confidentiel-a-l-ia-face-",
@@ -610,7 +576,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.8
+   "score": 4.6
   },
   {
    "id": "une-ia-pour-permettre-aux-pilotes-malentendants-de-lire-la-radio",
@@ -631,7 +597,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.4
+   "score": 4.3
   },
   {
    "id": "google-ecarte-des-ai-overviews-plusieurs-medias-leaders",
@@ -699,25 +665,6 @@
    "score": 4
   },
   {
-   "id": "anatomie-de-la-crise-francaise",
-   "title": "Anatomie de la crise française",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPalRaUmxWc2RqeW9rNkRzWnBSQWdfLWNpT182ck1ONlZGMFZpTjJGZVpVMW0xTFhzS1FoVUMzMlRGR051RWYwN2ozUHNXZHVlcVZBc2xuVFVtbnlhRUs2azFkRDBLMk81cEw0dVFaQlR1Y0h0eG5zcDd4MmxmT3JYRGp6bWNESUxrdlE?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "Anatomie de la crise française",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPalRaUmxWc2RqeW9rNkRzWnBSQWdfLWNpT182ck1ONlZGMFZpTjJGZVpVMW0xTFhzS1FoVUMzMlRGR051RWYwN2ozUHNXZHVlcVZBc2xuVFVtbnlhRUs2azFkRDBLMk81cEw0dVFaQlR1Y0h0eG5zcDd4MmxmT3JYRGp6bWNESUxrdlE?oc=5"
-    }
-   ],
-   "date": "2026-11-20T10:15:08.000Z",
-   "categories": [],
-   "score": 4
-  },
-  {
    "id": "5-gadgets-techs-decouverts-au-salon-made-in-france-2026",
    "title": "5 gadgets techs découverts au salon « Made In France » 2026",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0N2TmpzWWFxRk44ekdJblJlU2k4MExUbXFhOFIwbkFkaEFzS2FpVWFsakdhdHFYSWhaMUhicGwxNTlKTGRtUm9FLWtOTWtaSUlDQU1wVDZ2Y3VFZUktZ3hiWURMRlYzWlVoRjd1aVExZUNoZlFRNFdMOEZ0c01FOFdKZUlPVm1pekJtYnlUTFJqdlh4LWhTTUxBRGIzQXBPYUlITk56cEhVSF9wUnhB?oc=5",
@@ -733,44 +680,6 @@
     }
    ],
    "date": "2026-11-20T16:05:00.000Z",
-   "categories": [],
-   "score": 4
-  },
-  {
-   "id": "presidentielle-2027-le-grand-ecart-des-candidats-sur-l-attractivite-francaise",
-   "title": "Présidentielle 2027 : le grand écart des candidats sur l'attractivité française",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjczNzJQNmg4em8ycXlkY3NWS2RxanJSMkVOdFRvOWF4R3lBdXg4aXpqMDNTanFMZnJ1ZFYwcElZakZkNWRENFNZMTNENGVfYzdueVZCMHpPX1Jqb0VzSGR5R3d2ZnZ4M2prWDI3ZWdHamhGUndXVDJnWTRmcHBQcnhPSFFHbDZJc3p3czhISkNpRXY0WnNBS0tpUkdYTTZ5Ui1tN3MxanZHV0lhVUlvMllBZGx4UXZXcW96R1Zua2hUa0xyYThEdmVpV2VGUQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "Présidentielle 2027 : le grand écart des candidats sur l'attractivité française",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjczNzJQNmg4em8ycXlkY3NWS2RxanJSMkVOdFRvOWF4R3lBdXg4aXpqMDNTanFMZnJ1ZFYwcElZakZkNWRENFNZMTNENGVfYzdueVZCMHpPX1Jqb0VzSGR5R3d2ZnZ4M2prWDI3ZWdHamhGUndXVDJnWTRmcHBQcnhPSFFHbDZJc3p3czhISkNpRXY0WnNBS0tpUkdYTTZ5Ui1tN3MxanZHV0lhVUlvMllBZGx4UXZXcW96R1Zua2hUa0xyYThEdmVpV2VGUQ?oc=5"
-    }
-   ],
-   "date": "2026-11-20T10:13:18.000Z",
-   "categories": [],
-   "score": 4
-  },
-  {
-   "id": "huit-ans-apres-avoir-revendu-editis-a-vivendi-le-geant-espagnol-planeta-amorce-s",
-   "title": "Huit ans après avoir revendu Editis à Vivendi, le géant espagnol Planeta amorce son retour sur le marché français du livre",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQS3RzRWJIaEVPMjdpb29lSmV3MVYtQjZ1bFFOQTJUc1JEd3VfcVU2Nmtpd1ZlTWZrTEcxNnB1c2FpcHlab3FjTFJHb19IS0N0dnRzSkg5RThkQldRT0ZYVkNCZFdnYnUyMmJBUWZFaFZwT2xtLU1TcFFlcjBWdDhnaU0xYU4ycGJTM0hnYm44NTJ3UGwzaTFQd2ZjU2dQRi1NdzhsZHNTNWt1ckVwekR4RWhsZ29WNHZIX2xVbkJpbXZkVDNrVldrMkFhckhHXzhwOFYyYnBSUkxlb1JvMTdtY01vbXFDam5NRWFldXZCU2VtcnBPUE11QXBlX3BDYzVsd3c?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "Huit ans après avoir revendu Editis à Vivendi, le géant espagnol Planeta amorce son retour sur le marché français du livre",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQS3RzRWJIaEVPMjdpb29lSmV3MVYtQjZ1bFFOQTJUc1JEd3VfcVU2Nmtpd1ZlTWZrTEcxNnB1c2FpcHlab3FjTFJHb19IS0N0dnRzSkg5RThkQldRT0ZYVkNCZFdnYnUyMmJBUWZFaFZwT2xtLU1TcFFlcjBWdDhnaU0xYU4ycGJTM0hnYm44NTJ3UGwzaTFQd2ZjU2dQRi1NdzhsZHNTNWt1ckVwekR4RWhsZ29WNHZIX2xVbkJpbXZkVDNrVldrMkFhckhHXzhwOFYyYnBSUkxlb1JvMTdtY01vbXFDam5NRWFldXZCU2VtcnBPUE11QXBlX3BDYzVsd3c?oc=5"
-    }
-   ],
-   "date": "2026-11-20T11:25:35.000Z",
    "categories": [],
    "score": 4
   },
@@ -804,6 +713,31 @@
    "score": 4
   },
   {
+   "id": "pourquoi-personne-ne-parle-de-cette-box-internet-free-alors-que-des-milliers-de-",
+   "title": "Pourquoi personne ne parle de cette box internet Free alors que des milliers de français y souscrivent chaque mois ?",
+   "url": "https://www.bfmtv.com/tech/bons-plans/pourquoi-personne-ne-parle-de-cette-box-internet-free-alors-que-des-milliers-de-francais-y-souscrivent-chaque-mois_AB-202611210073.html",
+   "summary": "Vous voulez économiser sur votre box internet ? Comme de nombreux Français, vous pouvez opter pour la Freebox Pop S, une offre dont on parle peu, entièrement tournée vers internet. Elle offre la fibre et le Wi-Fi 7 des abonnements haut de gamme, pour moins de 25 euros par mois.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/6tmbgg9AaTIpfAaWyKmvlNtb86U=/0x0:1600x900/800x0/images/Free-1975880.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "Pourquoi personne ne parle de cette box internet Free alors que des milliers de français y souscrivent chaque mois ?",
+     "url": "https://www.bfmtv.com/tech/bons-plans/pourquoi-personne-ne-parle-de-cette-box-internet-free-alors-que-des-milliers-de-francais-y-souscrivent-chaque-mois_AB-202611210073.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Comme de nombreux Français, vous pouvez opter pour la Freebox Pop S, une offre dont on parle peu, entièrement tournée vers internet.",
+    "points": [],
+    "facts": []
+   },
+   "date": "2026-11-21T20:35:00.000Z",
+   "categories": [],
+   "score": 3.8
+  },
+  {
    "id": "intelligence-artificielle-c-est-quoi-un-prompt",
    "title": "Intelligence artificielle : c’est quoi un « prompt » ?",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVm8zMlVfaTJyY1pQcEVMenp1UllCcldiaE5JdXowWVNLZ1Y5ZjA1ZVpUbzFOWUVzOUluNnQ2dmNHcXNzQW05R3haenZ1Y0UyeXdKQmpxR3pKLTBTRVlyX0VWTkh6MFV2QTNobDBGQi0wQU16U0Q2VUxIU0czYnRXelNlYWR0OTQtbERNZmFnZzZOVU91SFAxVlpBeVIyQTJjUmlOeGtITThOZGt5MzNEN2xQX1lrN25NZlV0My01MEl3dEZ6VmUwNGp6RE5GZ2JJNlpWV3A0bnpBNXJDazRv?oc=5",
@@ -822,7 +756,7 @@
    "categories": [
     "IA"
    ],
-   "score": 3.7
+   "score": 3.6
   },
   {
    "id": "adieu-les-ordinateurs-lents-des-milliers-de-francais-adoptent-ce-pc-gamer-a-moin",
@@ -849,43 +783,24 @@
    },
    "date": "2026-11-21T12:05:00.000Z",
    "categories": [],
-   "score": 3.2
+   "score": 3.1
   },
   {
-   "id": "niklas-zennstrom-fondateur-de-skype-et-d-atomico-nous-avons-tous-les-ingredients",
-   "title": "Niklas Zennström, fondateur de Skype et d’Atomico : «Nous avons tous les ingrédients pour bâtir des champions mondiaux en Europe»",
-   "url": "https://www.maddyness.com/2026/11/20/niklas-zennstrom-fondateur-de-skype-et-datomico-nous-avons-tous-les-ingredients-pour-batir-des-champions-mondiaux-en-europe/",
+   "id": "sillage-l-outil-ia-qui-revolutionne-la-prospection-b2b-en-analysant-les-reseaux-",
+   "title": "Sillage, l’outil IA qui révolutionne la prospection B2B en analysant les réseaux sociaux",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzVjRhdVpsM2hlTGhFNUJ3LWcxQmxxQlVZamRnWHpWMXl1QmktOXU3RmdJcTdfWTlLbEdYT1IwWkRpdFB6VWJsaDhSeUFONGZEM0tiM3Q0WTlhNUhTR3hOWXdlbDBJdjMtekJTTnV4MFA?oc=5",
    "summary": "",
    "sources": [
-    "Maddyness"
+    "https://horticulture-abadie-pyrenees.com/"
    ],
    "articles": [
     {
-     "source": "Maddyness",
-     "title": "Niklas Zennström, fondateur de Skype et d’Atomico : «Nous avons tous les ingrédients pour bâtir des champions mondiaux en Europe»",
-     "url": "https://www.maddyness.com/2026/11/20/niklas-zennstrom-fondateur-de-skype-et-datomico-nous-avons-tous-les-ingredients-pour-batir-des-champions-mondiaux-en-europe/"
+     "source": "https://horticulture-abadie-pyrenees.com/",
+     "title": "Sillage, l’outil IA qui révolutionne la prospection B2B en analysant les réseaux sociaux",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzVjRhdVpsM2hlTGhFNUJ3LWcxQmxxQlVZamRnWHpWMXl1QmktOXU3RmdJcTdfWTlLbEdYT1IwWkRpdFB6VWJsaDhSeUFONGZEM0tiM3Q0WTlhNUhTR3hOWXdlbDBJdjMtekJTTnV4MFA?oc=5"
     }
    ],
-   "date": "2026-11-20T09:35:29.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "demo-day-goin-digital-21-startups-senegalaises-de-l-ia-de-la-deeptech-et-du-geos",
-   "title": "Demo Day Goin’ Digital : 21 startups sénégalaises de l’IA, de la deeptech et du géospatial face à leur marché",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblVpU2NtcDJ2M2NOdjlqLTJRT2lTbldvNWM4YUM1cDJDbzRjQ2RRYzQ5VW1mODllc3QxTmVYUjk1T3U2NUYzeUZkcnY5Q3hFREdjdDFQWnhwZm5VRklBcUVZTHlKRE02c2FGOFVsaHhuLXltRlhxdnZLR3BuNWFRbWVwUmNOTS0yczl1VDZJU19yZw?oc=5",
-   "summary": "",
-   "sources": [
-    "Social Net Link"
-   ],
-   "articles": [
-    {
-     "source": "Social Net Link",
-     "title": "Demo Day Goin’ Digital : 21 startups sénégalaises de l’IA, de la deeptech et du géospatial face à leur marché",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblVpU2NtcDJ2M2NOdjlqLTJRT2lTbldvNWM4YUM1cDJDbzRjQ2RRYzQ5VW1mODllc3QxTmVYUjk1T3U2NUYzeUZkcnY5Q3hFREdjdDFQWnhwZm5VRklBcUVZTHlKRE02c2FGOFVsaHhuLXltRlhxdnZLR3BuNWFRbWVwUmNOTS0yczl1VDZJU19yZw?oc=5"
-    }
-   ],
-   "date": "2026-11-20T09:19:06.000Z",
+   "date": "2026-11-20T18:14:01.000Z",
    "categories": [
     "IA"
    ],
@@ -907,6 +822,48 @@
     }
    ],
    "date": "2026-11-20T14:26:53.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "zscaler-inc-collabore-avec-anthropic-et-mistral-pour-accelerer-l-innovation-dans",
+   "title": "Zscaler, Inc. collabore avec Anthropic et Mistral pour accélérer l’innovation dans la sécurisation de l’entreprise agentique",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ0FDVVBWYU5QLVZTTlE5dXVTc1RNbEM1aHNGLTZTTlZYS0hWUExHZmpHNUZId0NUUmJCWDJveHBrNnhpbUE4ZTBNQ01HT0FQNHlCbEVUOEp2ZVpoeGtQWndLN1FKZ05YNjdDN1RRRzR5ZTNPTVNHYTlwYUw2QURTT3BwZ3dSVmtqNk5MeFhrb01BZjdtTDNoRGN3WE9nUEp0Q0dIZmNHVWVNQTVJOXM4MFkwZ3VudmxFZ1NtZW15aWE0VWo3XzhlcURGLUd3YUI3bUdTRWs4a21mVjNsWGYwdmlwVmUyUjY3OWVwa0hR?oc=5",
+   "summary": "",
+   "sources": [
+    "Zonebourse Suisse"
+   ],
+   "articles": [
+    {
+     "source": "Zonebourse Suisse",
+     "title": "Zscaler, Inc. collabore avec Anthropic et Mistral pour accélérer l’innovation dans la sécurisation de l’entreprise agentique",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ0FDVVBWYU5QLVZTTlE5dXVTc1RNbEM1aHNGLTZTTlZYS0hWUExHZmpHNUZId0NUUmJCWDJveHBrNnhpbUE4ZTBNQ01HT0FQNHlCbEVUOEp2ZVpoeGtQWndLN1FKZ05YNjdDN1RRRzR5ZTNPTVNHYTlwYUw2QURTT3BwZ3dSVmtqNk5MeFhrb01BZjdtTDNoRGN3WE9nUEp0Q0dIZmNHVWVNQTVJOXM4MFkwZ3VudmxFZ1NtZW15aWE0VWo3XzhlcURGLUd3YUI3bUdTRWs4a21mVjNsWGYwdmlwVmUyUjY3OWVwa0hR?oc=5"
+    }
+   ],
+   "date": "2026-11-20T21:05:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "strategie-numerique-ia-le-pari-pragmatique-d-ahmed-rahhou",
+   "title": "Stratégie numérique : IA, le pari pragmatique d’Ahmed Rahhou",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXNVanVvSGVKVWZDSmw4RVNKbVlHbm5jSm1CRkc3RzlsQTF1UUlXelpUcTJPY0hualFGNzNHNVB4V1h0ZEhZVXZIS2pQdE9OX1AtSmdkd2NqTUpsOVlsRk1VcW50VFNEbDd1RnI0U3dnczRldlhfX29oU3RuQlBZQV9YRTM5bFdHREtMRy1QRUtSQUJCanNJQXR3?oc=5",
+   "summary": "",
+   "sources": [
+    "Telquel.ma"
+   ],
+   "articles": [
+    {
+     "source": "Telquel.ma",
+     "title": "Stratégie numérique : IA, le pari pragmatique d’Ahmed Rahhou",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXNVanVvSGVKVWZDSmw4RVNKbVlHbm5jSm1CRkc3RzlsQTF1UUlXelpUcTJPY0hualFGNzNHNVB4V1h0ZEhZVXZIS2pQdE9OX1AtSmdkd2NqTUpsOVlsRk1VcW50VFNEbDd1RnI0U3dnczRldlhfX29oU3RuQlBZQV9YRTM5bFdHREtMRy1QRUtSQUJCanNJQXR3?oc=5"
+    }
+   ],
+   "date": "2026-11-20T16:40:33.000Z",
    "categories": [
     "IA"
    ],
@@ -958,149 +915,6 @@
    "score": 3
   },
   {
-   "id": "sillage-l-outil-ia-qui-revolutionne-la-prospection-b2b-en-analysant-les-reseaux-",
-   "title": "Sillage, l’outil IA qui révolutionne la prospection B2B en analysant les réseaux sociaux",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzVjRhdVpsM2hlTGhFNUJ3LWcxQmxxQlVZamRnWHpWMXl1QmktOXU3RmdJcTdfWTlLbEdYT1IwWkRpdFB6VWJsaDhSeUFONGZEM0tiM3Q0WTlhNUhTR3hOWXdlbDBJdjMtekJTTnV4MFA?oc=5",
-   "summary": "",
-   "sources": [
-    "https://horticulture-abadie-pyrenees.com/"
-   ],
-   "articles": [
-    {
-     "source": "https://horticulture-abadie-pyrenees.com/",
-     "title": "Sillage, l’outil IA qui révolutionne la prospection B2B en analysant les réseaux sociaux",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzVjRhdVpsM2hlTGhFNUJ3LWcxQmxxQlVZamRnWHpWMXl1QmktOXU3RmdJcTdfWTlLbEdYT1IwWkRpdFB6VWJsaDhSeUFONGZEM0tiM3Q0WTlhNUhTR3hOWXdlbDBJdjMtekJTTnV4MFA?oc=5"
-    }
-   ],
-   "date": "2026-11-20T18:14:01.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3
-  },
-  {
-   "id": "strategie-numerique-ia-le-pari-pragmatique-d-ahmed-rahhou",
-   "title": "Stratégie numérique : IA, le pari pragmatique d’Ahmed Rahhou",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXNVanVvSGVKVWZDSmw4RVNKbVlHbm5jSm1CRkc3RzlsQTF1UUlXelpUcTJPY0hualFGNzNHNVB4V1h0ZEhZVXZIS2pQdE9OX1AtSmdkd2NqTUpsOVlsRk1VcW50VFNEbDd1RnI0U3dnczRldlhfX29oU3RuQlBZQV9YRTM5bFdHREtMRy1QRUtSQUJCanNJQXR3?oc=5",
-   "summary": "",
-   "sources": [
-    "Telquel.ma"
-   ],
-   "articles": [
-    {
-     "source": "Telquel.ma",
-     "title": "Stratégie numérique : IA, le pari pragmatique d’Ahmed Rahhou",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXNVanVvSGVKVWZDSmw4RVNKbVlHbm5jSm1CRkc3RzlsQTF1UUlXelpUcTJPY0hualFGNzNHNVB4V1h0ZEhZVXZIS2pQdE9OX1AtSmdkd2NqTUpsOVlsRk1VcW50VFNEbDd1RnI0U3dnczRldlhfX29oU3RuQlBZQV9YRTM5bFdHREtMRy1QRUtSQUJCanNJQXR3?oc=5"
-    }
-   ],
-   "date": "2026-11-20T16:40:33.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3
-  },
-  {
-   "id": "ia-et-droit-d-auteur-la-proposition-de-loi-visant-a-proteger-la-creation-reste-e",
-   "title": "IA et droit d’auteur : la proposition de loi visant à protéger la création reste enlisée à l’Assemblée",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb2taSDlPaTB6eUszbHZhRF9MREhHQURwekZTRHpvdU5hM1o3T1JKUG1VOFF2R0oySG5zX0FyVTRFcUJtUFA4aXd0b25Rdzh0WUIxYVoyTHIwQXJISzFzd2ZzYjhXZnBfWUdnRWdxd0hCWmQyVGNET09IeVNNbTgzekRPRFlPNFpEMGVfWEozNmxHSE01WDlLbWkxUU43d3VqMTN4Rks0S1VNenRwdEZEQzRWd0FhbmJiZldnX0VoTGZmUWtQV2FlS1JxZldlV3lWZ0tGS05B?oc=5",
-   "summary": "",
-   "sources": [
-    "lefilia.fr"
-   ],
-   "articles": [
-    {
-     "source": "lefilia.fr",
-     "title": "IA et droit d’auteur : la proposition de loi visant à protéger la création reste enlisée à l’Assemblée",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb2taSDlPaTB6eUszbHZhRF9MREhHQURwekZTRHpvdU5hM1o3T1JKUG1VOFF2R0oySG5zX0FyVTRFcUJtUFA4aXd0b25Rdzh0WUIxYVoyTHIwQXJISzFzd2ZzYjhXZnBfWUdnRWdxd0hCWmQyVGNET09IeVNNbTgzekRPRFlPNFpEMGVfWEozNmxHSE01WDlLbWkxUU43d3VqMTN4Rks0S1VNenRwdEZEQzRWd0FhbmJiZldnX0VoTGZmUWtQV2FlS1JxZldlV3lWZ0tGS05B?oc=5"
-    }
-   ],
-   "date": "2026-11-20T09:30:03.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3
-  },
-  {
-   "id": "cyberattaques-cinq-ans-d-alertes-l-etat-toujours-en-rattrapage",
-   "title": "Cyberattaques : cinq ans d’alertes, l’État toujours en rattrapage",
-   "url": "https://www.frenchweb.fr/cyberattaques-cinq-ans-d-alertes-l-etat-toujours-en-rattrapage/900000063?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-   "summary": "Crédit : FRENCHWEB / PIXELMOOD De La Courneuve à la DGFiP, cinq ans de cyberattaques documentent le coût des failles du service public numérique. Les enquêtes révèlent des protections connues mais incomplètement appliquées. Alors que Matignon donne la priorité aux systèmes existants, la mise en œuvre des mesures et la durée des reconstructions deviennent décisives.",
-   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/cbbe8a9aa3d23b679ddfdcbce3b2601c3c4071f5f5414ed5a218318cf2039a0d.webp",
-   "sources": [
-    "FrenchWeb"
-   ],
-   "articles": [
-    {
-     "source": "FrenchWeb",
-     "title": "Cyberattaques : cinq ans d’alertes, l’État toujours en rattrapage",
-     "url": "https://www.frenchweb.fr/cyberattaques-cinq-ans-d-alertes-l-etat-toujours-en-rattrapage/900000063?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
-    }
-   ],
-   "brief": {
-    "essentiel": "Crédit : FRENCHWEB / PIXELMOOD De La Courneuve à la DGFiP, cinq ans de cyberattaques documentent le coût des failles du service public numérique.",
-    "points": [
-     "Les enquêtes révèlent des protections connues mais incomplètement appliquées.",
-     "Alors que Matignon donne la priorité aux systèmes existants, la mise en œuvre des mesures et la durée des reconstructions deviennent décisives."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-20T09:56:57.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "free-envoute-des-milliers-d-internautes-depuis-hier-voici-la-box-internet-que-de",
-   "title": "Free envoute des milliers d'internautes depuis hier : voici la box internet que des tonnes de Français adorent et à laquelle ils souscrivent en masse",
-   "url": "https://www.bfmtv.com/tech/bons-plans/free-envoute-des-milliers-d-internautes-depuis-hier-voici-la-box-internet-que-des-tonnes-de-francais-adorent-et-a-laquelle-ils-souscrivent-en-masse_AB-202611210062.html",
-   "summary": "Parce que de nombreux internautes sont à la recherche d'une offre Internet sans programmes de télévision, Free a créé une série spéciale qui s'appuie sur la vitesse pure. C'est ainsi que la box Freebox Pop S fait un carton et se permet d'être proposée à un prix inférieur à 25 euros par mois.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/mLBnUXJduJzOSW0u7ITMC_6jEog=/0x0:1600x900/800x0/images/Free-casse-le-prix-de-la-Freebox-Revolution-pendant-un-temps-ultra-limite-craquez-des-maintenant-1706485.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "Free envoute des milliers d'internautes depuis hier : voici la box internet que des tonnes de Français adorent et à laquelle ils souscrivent en masse",
-     "url": "https://www.bfmtv.com/tech/bons-plans/free-envoute-des-milliers-d-internautes-depuis-hier-voici-la-box-internet-que-des-tonnes-de-francais-adorent-et-a-laquelle-ils-souscrivent-en-masse_AB-202611210062.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Parce que de nombreux internautes sont à la recherche d'une offre Internet sans programmes de télévision, Free a créé une série spéciale qui s'appuie sur la vitesse pure.",
-    "points": [
-     "C'est ainsi que la box Freebox Pop S fait un carton et se permet d'être proposée à un prix inférieur à 25 euros par mois."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-21T07:37:00.000Z",
-   "categories": [],
-   "score": 2.9
-  },
-  {
-   "id": "lidl-vend-par-palettes-de-500-ce-velo-electrique-depuis-que-les-francais-le-save",
-   "title": "Lidl vend par palettes de 500 ce vélo électrique : depuis que les Français le savent, il est pratiquement en rupture de stock",
-   "url": "https://www.bfmtv.com/tech/bons-plans/lidl-vend-par-palettes-de-500-ce-velo-electrique-depuis-que-les-francais-le-savent-il-est-pratiquement-en-rupture-de-stock_AB-202611210025.html",
-   "summary": "Ce n’est pas parce que l’hiver arrive qu’il faut arrêter de faire du sport, d’autant plus lorsque Lidl vous propose un vélo électrique vendu avec une remise de 300 euros sur son site de vente en ligne à l’occasion de la Black Week.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h3JUEi1-5e70A5D1MfLn_vPfgbE=/0x0:1600x900/800x0/images/Offre-Lidl-1985540.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "Lidl vend par palettes de 500 ce vélo électrique : depuis que les Français le savent, il est pratiquement en rupture de stock",
-     "url": "https://www.bfmtv.com/tech/bons-plans/lidl-vend-par-palettes-de-500-ce-velo-electrique-depuis-que-les-francais-le-savent-il-est-pratiquement-en-rupture-de-stock_AB-202611210025.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Ce n’est pas parce que l’hiver arrive qu’il faut arrêter de faire du sport, d’autant plus lorsque Lidl vous propose un vélo électrique vendu avec une remise de 300 euros sur son site de vente en ligne à l’occasion de la Black Week.",
-    "points": [],
-    "facts": []
-   },
-   "date": "2026-11-21T06:37:00.000Z",
-   "categories": [],
-   "score": 2.8
-  },
-  {
    "id": "un-client-escroque-doit-desormais-etre-immediatement-rembourse-par-sa-banque-dec",
    "title": "Un client escroqué doit désormais être immédiatement remboursé par sa banque, décide la Cour de justice de l'Union européenne",
    "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1558189-hf1-cjue-fraude-banque/",
@@ -1125,26 +939,7 @@
    },
    "date": "2026-11-21T05:55:02.000Z",
    "categories": [],
-   "score": 2.7
-  },
-  {
-   "id": "kate-middleton-devoile-heal-son-documentaire-sur-l-apres-cancer-le-29-novembre",
-   "title": "Kate Middleton dévoile « Heal », son documentaire sur l’après-cancer, le 29 novembre",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWRScVVqSWNVZDdfaEt5MlNfWmtiWnlKc1hXemQtSl9MN3UxRDJKdWJvQk1GNWhoQlkzd19FbnBtcW9jUTZOQkI3dHB1MlJfbS0tUGxHclUtWUxqcko2NnJvR0pXVlpvUTFZOHRqSzgwb3E4WXQ5OV9pREc3WHpDU2ZXNlpYMTYw?oc=5",
-   "summary": "",
-   "sources": [
-    "MCE TV"
-   ],
-   "articles": [
-    {
-     "source": "MCE TV",
-     "title": "Kate Middleton dévoile « Heal », son documentaire sur l’après-cancer, le 29 novembre",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWRScVVqSWNVZDdfaEt5MlNfWmtiWnlKc1hXemQtSl9MN3UxRDJKdWJvQk1GNWhoQlkzd19FbnBtcW9jUTZOQkI3dHB1MlJfbS0tUGxHclUtWUxqcko2NnJvR0pXVlpvUTFZOHRqSzgwb3E4WXQ5OV9pREc3WHpDU2ZXNlpYMTYw?oc=5"
-    }
-   ],
-   "date": "2026-11-21T18:01:54.000Z",
-   "categories": [],
-   "score": 2.7
+   "score": 2.6
   },
   {
    "id": "intersport-devient-la-star-des-enseignes-depuis-que-ce-velo-electrique-a-atteint",
@@ -1171,7 +966,7 @@
    },
    "date": "2026-11-21T13:28:00.000Z",
    "categories": [],
-   "score": 2.4
+   "score": 2.2
   },
   {
    "id": "samuel-ubido-estime-que-les-startups-africaines-negligent-les-capitaux-du-golfe",
@@ -1190,53 +985,7 @@
    ],
    "date": "2026-11-21T11:55:41.000Z",
    "categories": [],
-   "score": 2.2
-  },
-  {
-   "id": "5-ans-de-garantie-de-performance-et-de-securite-ce-smartphone-crosscall-ultra-re",
-   "title": "5 ans de garantie, de performance et de sécurité, ce smartphone Crosscall ultra-résistant profite d'une offre Black Friday",
-   "url": "https://www.bfmtv.com/tech/bons-plans/5-ans-de-garantie-de-performance-et-de-securite-ce-smartphone-crosscall-ultra-resistant-profite-d-une-offre-black-friday_AB-202611210099.html",
-   "summary": "Un téléphone qui ne craint ni l’eau, ni les chutes, et qui vous offre tous les services nécessaires ? C’est le Crosscall Stellar-X5S. Pour le Black Friday, ce téléphone français est en promotion, et vous attend à un prix exclusif.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5oFIJVj2paizOUH2jq7TZ16y79M=/0x0:1600x900/800x0/images/Black-Friday-Crosscall-le-STELLAR-X5s-Chamonix-Mont-Blanc-a-599-90-euros-pour-la-premiere-fois-2387707.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "5 ans de garantie, de performance et de sécurité, ce smartphone Crosscall ultra-résistant profite d'une offre Black Friday",
-     "url": "https://www.bfmtv.com/tech/bons-plans/5-ans-de-garantie-de-performance-et-de-securite-ce-smartphone-crosscall-ultra-resistant-profite-d-une-offre-black-friday_AB-202611210099.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Un téléphone qui ne craint ni l’eau, ni les chutes, et qui vous offre tous les services nécessaires ?",
-    "points": [
-     "Pour le Black Friday, ce téléphone français est en promotion, et vous attend à un prix exclusif."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-21T09:57:00.000Z",
-   "categories": [],
    "score": 2.1
-  },
-  {
-   "id": "coluxia-dans-les-coulisses-d-un-pansement-un-savoir-faire-industriel-bien-franca",
-   "title": "Coluxia : dans les coulisses d’un pansement, un savoir-faire industriel bien français",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmZZRXNiN1h0MHdnVGpPdkRYS09mY2F3bEpYZFJjSUEtVGZ4M0JpUmZhdVJIV1BBeVJsU29oclFaa1RUNndEZHR2Mm5fOWhMMlVrcXQ1OEE4WUlPbGt6VUdNTEt0M0pldFp1ajQtZFo2RGYzeXhFNi1VVVhrXy1pM1MyTWI5SXVUMHVRdktPT3h1bmNLRHdqYkJILUJ6V05wZERrSWlUWl9iYnR4YlBCTjZ4dUpXZE9oZ0ZHeGVoRGp2aTlo?oc=5",
-   "summary": "",
-   "sources": [
-    "Bpifrance"
-   ],
-   "articles": [
-    {
-     "source": "Bpifrance",
-     "title": "Coluxia : dans les coulisses d’un pansement, un savoir-faire industriel bien français",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmZZRXNiN1h0MHdnVGpPdkRYS09mY2F3bEpYZFJjSUEtVGZ4M0JpUmZhdVJIV1BBeVJsU29oclFaa1RUNndEZHR2Mm5fOWhMMlVrcXQ1OEE4WUlPbGt6VUdNTEt0M0pldFp1ajQtZFo2RGYzeXhFNi1VVVhrXy1pM1MyTWI5SXVUMHVRdktPT3h1bmNLRHdqYkJILUJ6V05wZERrSWlUWl9iYnR4YlBCTjZ4dUpXZE9oZ0ZHeGVoRGp2aTlo?oc=5"
-    }
-   ],
-   "date": "2026-11-20T09:28:00.000Z",
-   "categories": [],
-   "score": 2
   },
   {
    "id": "start-up-en-tunisie-pourquoi-creer-des-entreprises-ne-suffit-plus-les-lecons-de-",
@@ -1335,23 +1084,31 @@
    "score": 2
   },
   {
-   "id": "star-academy-ce-finaliste-pousse-un-coup-de-gueule-contre-les-moqueries",
-   "title": "Star Academy : ce finaliste pousse un coup de gueule contre les moqueries",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajhIMk4tamw3SVJlZUVTSUhuaTRVQWlRSk0yTWhBbkV1bjg2MjEtMUNybWN6bjRaclZpc3ZGcHM3S0xhaVZXM2hpNDR6aV9Ka080XzFlUDY0dVJqX1FpY0dwaDVEcWo0d0ZfSmExVkRfdUdWUnl1YlplTzRyZHJuNFRJb25ETW52VlJWUWtB?oc=5",
-   "summary": "",
+   "id": "5-ans-de-garantie-de-performance-et-de-securite-ce-smartphone-crosscall-ultra-re",
+   "title": "5 ans de garantie, de performance et de sécurité, ce smartphone Crosscall ultra-résistant profite d'une offre Black Friday",
+   "url": "https://www.bfmtv.com/tech/bons-plans/5-ans-de-garantie-de-performance-et-de-securite-ce-smartphone-crosscall-ultra-resistant-profite-d-une-offre-black-friday_AB-202611210099.html",
+   "summary": "Un téléphone qui ne craint ni l’eau, ni les chutes, et qui vous offre tous les services nécessaires ? C’est le Crosscall Stellar-X5S. Pour le Black Friday, ce téléphone français est en promotion, et vous attend à un prix exclusif.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5oFIJVj2paizOUH2jq7TZ16y79M=/0x0:1600x900/800x0/images/Black-Friday-Crosscall-le-STELLAR-X5s-Chamonix-Mont-Blanc-a-599-90-euros-pour-la-premiere-fois-2387707.jpg",
    "sources": [
-    "MCE TV"
+    "BFM Tech"
    ],
    "articles": [
     {
-     "source": "MCE TV",
-     "title": "Star Academy : ce finaliste pousse un coup de gueule contre les moqueries",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajhIMk4tamw3SVJlZUVTSUhuaTRVQWlRSk0yTWhBbkV1bjg2MjEtMUNybWN6bjRaclZpc3ZGcHM3S0xhaVZXM2hpNDR6aV9Ka080XzFlUDY0dVJqX1FpY0dwaDVEcWo0d0ZfSmExVkRfdUdWUnl1YlplTzRyZHJuNFRJb25ETW52VlJWUWtB?oc=5"
+     "source": "BFM Tech",
+     "title": "5 ans de garantie, de performance et de sécurité, ce smartphone Crosscall ultra-résistant profite d'une offre Black Friday",
+     "url": "https://www.bfmtv.com/tech/bons-plans/5-ans-de-garantie-de-performance-et-de-securite-ce-smartphone-crosscall-ultra-resistant-profite-d-une-offre-black-friday_AB-202611210099.html"
     }
    ],
-   "date": "2026-11-21T06:03:37.000Z",
+   "brief": {
+    "essentiel": "Un téléphone qui ne craint ni l’eau, ni les chutes, et qui vous offre tous les services nécessaires ?",
+    "points": [
+     "Pour le Black Friday, ce téléphone français est en promotion, et vous attend à un prix exclusif."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-21T09:57:00.000Z",
    "categories": [],
-   "score": 1.7
+   "score": 1.9
   },
   {
    "id": "cafe-gourmand-trouvez-la-formation-qui-vous-correspond",
@@ -1370,26 +1127,7 @@
    ],
    "date": "2026-11-21T04:52:08.000Z",
    "categories": [],
-   "score": 1.6
-  },
-  {
-   "id": "emploi-des-personnes-handicapees-les-pme-entre-bonnes-intentions-et-realites",
-   "title": "Emploi des personnes handicapées : les PME entre bonnes intentions et réalités",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTFhM2ZHeldYMzZIakNfazFzelptWW1MLXZyV2FzUkhGbG9xR0hWNGF5NzZiS19DVEhzZHFEblhaYk1pRTM1cHdMcXk3U005ODFRUnFXNEdYZ3duVGd1ZXRIV3k4Z081VkVfWHFqLUhkV01qX1MwSEJYUWdUVFhSYVFSNFpzSjZVeDc0Nkx0WHVkMEVRSkR3S0JjWlIxYUE5U2Y3ZkZxOHMtVnhHeG1OZU9qQUxLak5nZzl1c05n?oc=5",
-   "summary": "",
-   "sources": [
-    "Bpifrance"
-   ],
-   "articles": [
-    {
-     "source": "Bpifrance",
-     "title": "Emploi des personnes handicapées : les PME entre bonnes intentions et réalités",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTFhM2ZHeldYMzZIakNfazFzelptWW1MLXZyV2FzUkhGbG9xR0hWNGF5NzZiS19DVEhzZHFEblhaYk1pRTM1cHdMcXk3U005ODFRUnFXNEdYZ3duVGd1ZXRIV3k4Z081VkVfWHFqLUhkV01qX1MwSEJYUWdUVFhSYVFSNFpzSjZVeDc0Nkx0WHVkMEVRSkR3S0JjWlIxYUE5U2Y3ZkZxOHMtVnhHeG1OZU9qQUxLak5nZzl1c05n?oc=5"
-    }
-   ],
-   "date": "2026-11-20T10:04:46.000Z",
-   "categories": [],
-   "score": 1
+   "score": 1.5
   },
   {
    "id": "trophees-bourgogne-franche-comte-2026-du-moci-look-cycle-reine-de-dijon-geficca-",
@@ -1407,25 +1145,6 @@
     }
    ],
    "date": "2026-11-20T11:43:23.000Z",
-   "categories": [],
-   "score": 1
-  },
-  {
-   "id": "l-us-army-a-teste-des-robots-antidrones-autonomes-a-tan-tan",
-   "title": "L’US Army a testé des robots antidrones autonomes à Tan-Tan",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlhqV3lfOGItODAta2lPWGdrUXF5WHFqY0JNa1NuYkN0eEtQcFN1LWFvMHVuME5pX09NSFRlaW5RWW5wMXZRNDBBbmtPOWtSOVBkV1VQenlHSl9VLUI1SU9OcHdFWU5BXy01VkJEVmdHMk9ncHJJZmtabXo4YlgzVzdhTWRmY0JUXzBKWXcxa20xQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Le Desk"
-   ],
-   "articles": [
-    {
-     "source": "Le Desk",
-     "title": "L’US Army a testé des robots antidrones autonomes à Tan-Tan",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlhqV3lfOGItODAta2lPWGdrUXF5WHFqY0JNa1NuYkN0eEtQcFN1LWFvMHVuME5pX09NSFRlaW5RWW5wMXZRNDBBbmtPOWtSOVBkV1VQenlHSl9VLUI1SU9OcHdFWU5BXy01VkJEVmdHMk9ncHJJZmtabXo4YlgzVzdhTWRmY0JUXzBKWXcxa20xQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-20T13:20:00.000Z",
    "categories": [],
    "score": 1
   },
@@ -1468,40 +1187,21 @@
    "score": 1
   },
   {
-   "id": "chalets-neufs-par-centaines-immenses-residences-multi-etoilees-cette-station-de-",
-   "title": "Chalets neufs par centaines, immenses résidences multi-étoilées : cette station de ski mise tout sur les skieurs étrangers",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2djOTRxTzIwVDhGMDRNOHZPemF2UVBVNlFRZFpSQTdCUnpyRmM2NFJmNUdnV0JOX1hKbXdLd00taF9iZ2dFVmlCLWdLT3JXNnFyamk3VVJ2TTNzRGFPcnhEM3RCTjI3Q19RN3loWFNPUC0zVDBkMjZBQmF4RGl0VXdESTBSTEdZX0libGtVd2o5UURrd2U1cEloVTVKVnFBYWZfdm5WYUY5blRZRkdpNDV0SVc0TW9uZkxKZ2pUeWVVc0w0Mk9YTTZKaWZGQjRCdGFnRWs4QjNZZw?oc=5",
+   "id": "l-us-army-a-teste-des-robots-antidrones-autonomes-a-tan-tan",
+   "title": "L’US Army a testé des robots antidrones autonomes à Tan-Tan",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlhqV3lfOGItODAta2lPWGdrUXF5WHFqY0JNa1NuYkN0eEtQcFN1LWFvMHVuME5pX09NSFRlaW5RWW5wMXZRNDBBbmtPOWtSOVBkV1VQenlHSl9VLUI1SU9OcHdFWU5BXy01VkJEVmdHMk9ncHJJZmtabXo4YlgzVzdhTWRmY0JUXzBKWXcxa20xQQ?oc=5",
    "summary": "",
    "sources": [
-    "Le Figaro"
+    "Le Desk"
    ],
    "articles": [
     {
-     "source": "Le Figaro",
-     "title": "Chalets neufs par centaines, immenses résidences multi-étoilées : cette station de ski mise tout sur les skieurs étrangers",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2djOTRxTzIwVDhGMDRNOHZPemF2UVBVNlFRZFpSQTdCUnpyRmM2NFJmNUdnV0JOX1hKbXdLd00taF9iZ2dFVmlCLWdLT3JXNnFyamk3VVJ2TTNzRGFPcnhEM3RCTjI3Q19RN3loWFNPUC0zVDBkMjZBQmF4RGl0VXdESTBSTEdZX0libGtVd2o5UURrd2U1cEloVTVKVnFBYWZfdm5WYUY5blRZRkdpNDV0SVc0TW9uZkxKZ2pUeWVVc0w0Mk9YTTZKaWZGQjRCdGFnRWs4QjNZZw?oc=5"
+     "source": "Le Desk",
+     "title": "L’US Army a testé des robots antidrones autonomes à Tan-Tan",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlhqV3lfOGItODAta2lPWGdrUXF5WHFqY0JNa1NuYkN0eEtQcFN1LWFvMHVuME5pX09NSFRlaW5RWW5wMXZRNDBBbmtPOWtSOVBkV1VQenlHSl9VLUI1SU9OcHdFWU5BXy01VkJEVmdHMk9ncHJJZmtabXo4YlgzVzdhTWRmY0JUXzBKWXcxa20xQQ?oc=5"
     }
    ],
-   "date": "2026-11-20T09:41:34.000Z",
-   "categories": [],
-   "score": 1
-  },
-  {
-   "id": "soissons-un-homme-tente-de-faire-exploser-une-station-service-au-cri-d-allah-akb",
-   "title": "Soissons : un homme tente de faire exploser une station-service au cri d’«Allah Akbar», le parquet antiterroriste avisé",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTE1DQzQtYlFXMmd6Z2xDcVhhRXc2ckVJcmtoOGdzcXo4RHJGSlJxTy1nOS0yUVh5WDdDb0VWRFNld1BPMEZTOU5CZ2c4MnVUOWR2SU1TZVhsOEhQcTdtaVprOHlsTGc4NEdnTEZ4SEpoMGpjTHlNOHlGSFBlbFJteU1TYjd3OVlNUmhvT0JhU2tvdXhWclQtbVpYWHl6RU5FTGZpM2l4SWx6Vy1iaERvT19naVE1eDQ1Rm5wcGYtclZNdzAyUWFJ?oc=5",
-   "summary": "",
-   "sources": [
-    "Le Figaro"
-   ],
-   "articles": [
-    {
-     "source": "Le Figaro",
-     "title": "Soissons : un homme tente de faire exploser une station-service au cri d’«Allah Akbar», le parquet antiterroriste avisé",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTE1DQzQtYlFXMmd6Z2xDcVhhRXc2ckVJcmtoOGdzcXo4RHJGSlJxTy1nOS0yUVh5WDdDb0VWRFNld1BPMEZTOU5CZ2c4MnVUOWR2SU1TZVhsOEhQcTdtaVprOHlsTGc4NEdnTEZ4SEpoMGpjTHlNOHlGSFBlbFJteU1TYjd3OVlNUmhvT0JhU2tvdXhWclQtbVpYWHl6RU5FTGZpM2l4SWx6Vy1iaERvT19naVE1eDQ1Rm5wcGYtclZNdzAyUWFJ?oc=5"
-    }
-   ],
-   "date": "2026-11-20T09:36:35.000Z",
+   "date": "2026-11-20T13:20:00.000Z",
    "categories": [],
    "score": 1
   }

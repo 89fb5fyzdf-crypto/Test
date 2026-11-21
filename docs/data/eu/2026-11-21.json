@@ -1,11 +1,11 @@
 {
  "date": "2026-11-21",
- "generatedAt": "2026-11-21T21:11:48.807Z",
+ "generatedAt": "2026-11-21T22:34:28.025Z",
  "windowHours": 36,
  "counts": {
-  "articles": 15,
+  "articles": 11,
   "raw": 21,
-  "media": 8
+  "media": 6
  },
  "scope": "eu",
  "lang": "en",
@@ -17,8 +17,8 @@
   },
   {
    "source": "EU-Startups",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 10
   },
   {
    "source": "Financial Times",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 37
+   "items": 28
   },
   {
    "source": "Sifted",
@@ -52,13 +52,13 @@
   },
   {
    "source": "Tech.eu",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 20
   },
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "source": "TechCrunch Europe",
@@ -67,11 +67,55 @@
   },
   {
    "source": "UKTN",
-   "ok": true,
-   "items": 10
+   "ok": false,
+   "error": "HTTP 403"
   }
  ],
  "items": [
+  {
+   "id": "ai-startup-founded-by-two-irish-yc-alumni-gets-backing-from-stripe-s-collison-br",
+   "title": "AI startup founded by two Irish YC alumni gets backing from Stripe's Collison brothers",
+   "url": "https://tech.eu/2026/11/20/ai-startup-founded-by-two-irish-yc-alumni-gets-backing-from-the-collison-brothers/",
+   "summary": "Paul Graham, the Y Combinator co-founder, said the two young Irish entrepreneurs reminded him of Patrick and John Collison, the Irish brothers who founded and run the $160bn payment giant Stripe.Ryan ...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/hoplite-570.png",
+   "sources": [
+    "Tech.eu",
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "AI startup founded by two Irish YC alumni gets backing from Stripe's Collison brothers",
+     "url": "https://tech.eu/2026/11/20/ai-startup-founded-by-two-irish-yc-alumni-gets-backing-from-the-collison-brothers/"
+    },
+    {
+     "source": "Sifted",
+     "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
+     "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Paul Graham, the Y Combinator co-founder, said the two young Irish entrepreneurs reminded him of Patrick and John Collison, the Irish brothers who founded and run the $160bn payment giant Stripe.",
+    "points": [
+     "Ryan Morrissey and Bence Redmond, the co-founders of AI startup Hoplite , might not be brothers but, like the Collison brothers, are Irish, have ties to Limerick, and attended Y Combinator.",
+     "During their time at Y Combinator, Morrissey says they biked all over San Francisco to set users up for their startup, over 240 rides, a tactic Graham called the “Collison installation”.",
+     "Morrissey met Redmond at the University of Limerick and dropped out at 19, before the pair joined YC’s summer 2026 batch.",
+     "Hoplite, founded in 2026 and based in San Francisco and Dublin, is a startup that is trying to make it easier for software teams to run several AI coding agents at once."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$160bn"
+     }
+    ]
+   },
+   "date": "2026-11-20T13:00:51.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 19
+  },
   {
    "id": "exclusive-storonsky-backed-aikido-seeks-4bn-valuation",
    "title": "Exclusive: Storonsky-backed Aikido seeks €4bn valuation",
@@ -95,61 +139,88 @@
    "score": 17
   },
   {
-   "id": "archer-raises-10m-to-connect-recruiters-and-job-seekers-with-ai",
-   "title": "Archer raises $10M to connect recruiters and job seekers with AI",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLU1DSHE2c3JJbDQ3SUFHQmVwZ3FDdHdiR2hQTldYTnd1aWFRVWEtR2MyaEF1ZTZuUW1uUzRTZzJEZF96TS1UNHRZRkIwam9ESC1JN0pmQ19fRmFwMWtFMk8zTVdyakJRWjVmSXFKdWhTN3RRRGJkYnZDSlFuZHdZQng0b0RTTTJtdFB4S1dvUklvRWhuS3c?oc=5",
-   "summary": "",
+   "id": "startup-ecosystem-calls-to-withdraw-and-re-table-eu-inc-proposal-isomorphic-labs",
+   "title": "Startup ecosystem calls to withdraw and re-table EU Inc proposal, Isomorphic Labs bags $5B, and inside Plural's €1B fund",
+   "url": "https://tech.eu/2026/11/20/startup-ecosystem-calls-to-withdraw-and-re-table-eu-inc-proposal/",
+   "summary": "This week, we tracked more than 65 tech funding deals worth over €6 billion and over 4 exits, M&A transactions, rumours, and related news stories across Europe.This week, I've gone straight from t...",
+   "image": "https://cdn.tech.eu/uploads/2024/01/this-week-607.png",
    "sources": [
-    "Tech.eu",
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Archer raises $10M to connect recruiters and job seekers with AI",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLU1DSHE2c3JJbDQ3SUFHQmVwZ3FDdHdiR2hQTldYTnd1aWFRVWEtR2MyaEF1ZTZuUW1uUzRTZzJEZF96TS1UNHRZRkIwam9ESC1JN0pmQ19fRmFwMWtFMk8zTVdyakJRWjVmSXFKdWhTN3RRRGJkYnZDSlFuZHdZQng0b0RTTTJtdFB4S1dvUklvRWhuS3c?oc=5"
-    },
-    {
-     "source": "EU-Startups",
-     "title": "London-based Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb2NBSV9oWVB1cUgtNWdNLUEtS0RxdTRRTDBQSFQyOEcxZXZfUW1UTU0wUE8wVHdHeG9pNFhuNjRORU1aU2JrUjlodVZhRU9jdlFsTTZCYmFjR0xnd1kzcmFfQzYyQ3pWOFJGZ2hQUlhrczBSeGxfTk9vY1ZZN19lWjhWc3pFNFdvc0RMWU5LN2hFdm92TGswSGJONmlkQnBxTkpNeVpFaWxoTXRJWUFNeEQ1NXRwZGh3RFRLMjhBVGFlN1FGQXJQRzJVMkJsa1F5R3Rn?oc=5"
-    }
-   ],
-   "date": "2026-11-20T09:16:09.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 13
-  },
-  {
-   "id": "exclusive-stripe-founders-and-paul-graham-back-ai-agent-swarm-startup-hoplite-wi",
-   "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
-   "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
-   "summary": "",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=656,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/20123002/Screenshot-2026-11-20-at-13.29.41.png",
-   "sources": [
-    "Sifted",
     "Tech.eu"
    ],
    "articles": [
     {
-     "source": "Sifted",
-     "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
-     "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/"
-    },
-    {
      "source": "Tech.eu",
-     "title": "AI startup founded by two Irish YC alumni gets backing from Stripe's Collison brothers",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXpNUVdWeEVnNUhIYms1NmtPNy1JSnRXaW9JX0NtOVZsWkpNNlZhR0lWc3BpVkg4SGUtbll3b3FrLTFIb1FlMkdad1BldS1XT2gta2pGV0ZKT0lOeWVBWHRaUEFYSEY1UGx1NnlkMVJ3VzZIQlQ0dURncnNjRFZKREVxc2dScExtU0pWZVdEeVVPS3RpV0pUTDlFUUtjV1hleXViNGV6QUdMeV9tRnc?oc=5"
+     "title": "Startup ecosystem calls to withdraw and re-table EU Inc proposal, Isomorphic Labs bags $5B, and inside Plural's €1B fund",
+     "url": "https://tech.eu/2026/11/20/startup-ecosystem-calls-to-withdraw-and-re-table-eu-inc-proposal/"
     }
    ],
-   "date": "2026-11-20T13:00:51.000Z",
+   "brief": {
+    "essentiel": "This week, we tracked more than 65 tech funding deals worth over €6 billion and over 4 exits, M&A transactions, rumours , and related news stories across Europe.",
+    "points": [
+     "This week, I've gone straight from the scale and intensity of Slush in Helsinki to Yerevan, Armenia, where a much different startup ecosystem is taking shape.",
+     "While conversations at Slush centred on scaling European tech companies, unlocking institutional capital and removing regulatory barriers, Armenia is focused on building the foundations of a globally competitive startup ecosystem where previously diaspora has been its main competitive advantage.",
+     "AI is a common thread, but the conversations are markedly different — from infrastructure, commercialisation and technological sovereignty in Helsinki to the opportunities AI presents for smaller ecosystems to compete on the global stage.",
+     "The free, open-access Tech.eu Funding Explorer offers deeper insights into funding rounds, investor activity, company profiles and market trends."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€6 billion"
+     },
+     {
+      "key": "round",
+      "value": "Series C"
+     }
+    ]
+   },
+   "date": "2026-11-20T15:09:29.000Z",
    "categories": [
     "Funding",
-    "AI"
+    "Policy & ecosystem"
    ],
-   "score": 12
+   "score": 16
+  },
+  {
+   "id": "following-1-billion-funding-round-quantum-systems-commits-over-10-million-to-exp",
+   "title": "Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine",
+   "url": "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/",
+   "summary": "Quantum Systems and Frontline Robotics will commit more than €10 million to Ukraine to strengthen long-term support capacity for unmanned systems – arriving amid over €1.8 billion in European DefenceTech financing reported by EU-Startups in 2026. The joint venture is expanding its industrial cooperation through a programme for long-term support capacity in Ukraine aimed at […]",
+   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-pie-300x169.png",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine",
+     "url": "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Quantum Systems and Frontline Robotics will commit more than €10 million to Ukraine to strengthen long-term support capacity for unmanned systems – arriving amid over €1.8 billion in European DefenceTech financing reported by EU-Startups in 2026.",
+    "points": [
+     "This expansion comes amid wider European DefenceTech investment: EU-Startups identified more than €1.8 billion in financing across 22 startups during 2026 as of October , including Finland’s ICEYE (€450 million), Estonia’s Frankenburg Technologies (€30 million) and Germany’s INLEAP Photonics (€20 million).",
+     "The commitment follows several years of expansion by Quantum Systems, which raised €63.6 million in a 2023 Series B before securing €160 million and a further €180 million in 2025.",
+     "In 2026, the company added a €150 million financing package in February and a €1 billion Series D in July , while extending its activities beyond aerial systems through acquisitions and industrial partnerships.",
+     "The joint venture is expanding its industrial cooperation through a programme for long-term support capacity in Ukraine aimed at systems developed by Frontline Robotics and produced in Germany by Quantum Frontline Industries (QFI)."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€1 billion"
+     },
+     {
+      "key": "round",
+      "value": "Series B"
+     }
+    ]
+   },
+   "date": "2026-11-20T12:02:50.000Z",
+   "categories": [
+    "Funding",
+    "Policy & ecosystem"
+   ],
+   "score": 15
   },
   {
    "id": "czech-ai-startup-ranketta-raises-1m-acquires-phemly",
@@ -175,75 +246,57 @@
    "score": 12
   },
   {
-   "id": "startup-ecosystem-calls-to-withdraw-and-re-table-eu-inc-proposal-isomorphic-labs",
-   "title": "Startup ecosystem calls to withdraw and re-table EU Inc proposal, Isomorphic Labs bags $5B, and inside Plural's €1B fund",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNck5YNVJvWU5taWVQUURiSWxjSk5mS192a0pBVlAxMXNZSVA5bjYyQXo5MkRjNEsxQi11SXBYVFBEX2NJNFkxVko2NWU5Zk1yc2RsNDFDYVozYm1nUzBobGNDcWtBdk1HOU9rSTNsNHRxUTR5WVhFdFVmb3dZUWdQa3VHaThHamZmeFNkN0lZN1pMVlhuR2s4?oc=5",
-   "summary": "",
+   "id": "archer-raises-9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-s",
+   "title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+   "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
+   "summary": "Archer (formerly hackajob), a London- and New York-based AI recruiting agent that works for both recruiters and job seekers, has raised €9.1 million ($10 million) in a new funding round. The round was led by Volition Capital, with participation from existing investor AVP. The company has now raised more than €41.06 million ($45 million) in […]",
    "sources": [
-    "Tech.eu"
+    "EU-Startups"
    ],
    "articles": [
     {
-     "source": "Tech.eu",
-     "title": "Startup ecosystem calls to withdraw and re-table EU Inc proposal, Isomorphic Labs bags $5B, and inside Plural's €1B fund",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNck5YNVJvWU5taWVQUURiSWxjSk5mS192a0pBVlAxMXNZSVA5bjYyQXo5MkRjNEsxQi11SXBYVFBEX2NJNFkxVko2NWU5Zk1yc2RsNDFDYVozYm1nUzBobGNDcWtBdk1HOU9rSTNsNHRxUTR5WVhFdFVmb3dZUWdQa3VHaThHamZmeFNkN0lZN1pMVlhuR2s4?oc=5"
+     "source": "EU-Startups",
+     "title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+     "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/"
     }
    ],
-   "date": "2026-11-20T15:12:19.000Z",
+   "brief": {
+    "essentiel": "Archer (formerly hackajob) , a London- and New York-based AI recruiting agent that works for both recruiters and job seekers, has raised €9.1 million ($10 million) in a new funding round.",
+    "points": [
+     "The company has now raised more than €41.06 million ($45 million) in total since it was founded in 2014, with backers including Foresight Ventures and Techstars.",
+     "However, it faces growing competition in the AI recruitment space; London-based Jack & Jill, which also puts AI agents on both sides of the hiring table, raised €34.68 million Series A to scale its AI agents for jobseekers and employers.",
+     "The round was led by Volition Capital, with participation from existing investor AVP.",
+     "“ As recruiting spend shifts from services to software, Archer is positioned to lead."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€9.1 million"
+     },
+     {
+      "key": "round",
+      "value": "Series A"
+     },
+     {
+      "key": "investors",
+      "value": "Volition Capital"
+     }
+    ]
+   },
+   "date": "2026-11-20T12:41:53.000Z",
    "categories": [
     "Funding",
+    "AI",
     "Policy & ecosystem"
    ],
-   "score": 9
-  },
-  {
-   "id": "madrid-based-wilco-secures-2-5-million-to-scale-its-ai-patient-follow-up-platfor",
-   "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5",
-   "summary": "",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5"
-    }
-   ],
-   "date": "2026-11-20T09:56:25.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 8
-  },
-  {
-   "id": "weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-th",
-   "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xUZTNHU3VNbzFOb05OT3ppYTYxcVc5ZklEc1QwWi1vLWlubFhGUXhtaFdJc05zbXQzUTR6dzZIaE4zWUJHcXhuRzU1WlY2U2ZHOXpNUy1Zc21YUEJlSmlrdEtGaS1URkJCUWN1eURZUnVUZjJzM3k2NEszQVVFN0lfdG9HSktwdGFMVmNGQUZGVVRVV1JaSUhYOHFmbldlc2hfSVJVUGhDem5jRkRtYmN2a3l5bnlmLXVfTUdtbENMcDNOem9FbFRJUmJQR1owX2FFTQ?oc=5",
-   "summary": "",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xUZTNHU3VNbzFOb05OT3ppYTYxcVc5ZklEc1QwWi1vLWlubFhGUXhtaFdJc05zbXQzUTR6dzZIaE4zWUJHcXhuRzU1WlY2U2ZHOXpNUy1Zc21YUEJlSmlrdEtGaS1URkJCUWN1eURZUnVUZjJzM3k2NEszQVVFN0lfdG9HSktwdGFMVmNGQUZGVVRVV1JaSUhYOHFmbldlc2hfSVJVUGhDem5jRkRtYmN2a3l5bnlmLXVfTUdtbENMcDNOem9FbFRJUmJQR1owX2FFTQ?oc=5"
-    }
-   ],
-   "date": "2026-11-20T16:45:27.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 6
+   "score": 11
   },
   {
    "id": "uk-startup-clarity-sensors-receives-2-2-million-nihr-award-to-make-advanced-medi",
    "title": "UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmxmdmJ6WEhvbHMtSkFidUxOdG9LNXowX0FYdTFNcXdpcUtES1NSbm1MUlNsVzVKTXBybmFpLU9pbDlKd2MzYUJjRnVFa2pwUVZBUV93VjlBN19qdkRNanBIQzlCUWliRXB3ZTAyeVBpcmRHMmJJY2x5dXViNmE4YTNxaGlpNndpdVVVc21odW9qR2xfUzR5QlZiUDVMeWpsempIcUl2Rl9CYUVVNXR1dXVWSXdzdlJjTXdBcERJeU5qN1I3SjBNVlhzMHdUdEdGOG1LSFBYMmRfaVRRQmc?oc=5",
-   "summary": "",
+   "url": "https://www.eu-startups.com/2026/11/uk-startup-clarity-sensors-receives-e2-2-million-nihr-award-to-make-advanced-medical-imaging-more-accessible/",
+   "summary": "Cambridge-based semiconductor startup Clarity Sensors has secured a €2.2 million to support the development of a new generation of photon-counting CT detectors designed to make advanced medical imaging more affordable and accessible to hospitals. The funding came in the form of a Product Development Award from the National Institute for Health and Care Research (NIHR) […]",
+   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-bar-21-300x169.png",
    "sources": [
     "EU-Startups"
    ],
@@ -251,14 +304,56 @@
     {
      "source": "EU-Startups",
      "title": "UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmxmdmJ6WEhvbHMtSkFidUxOdG9LNXowX0FYdTFNcXdpcUtES1NSbm1MUlNsVzVKTXBybmFpLU9pbDlKd2MzYUJjRnVFa2pwUVZBUV93VjlBN19qdkRNanBIQzlCUWliRXB3ZTAyeVBpcmRHMmJJY2x5dXViNmE4YTNxaGlpNndpdVVVc21odW9qR2xfUzR5QlZiUDVMeWpsempIcUl2Rl9CYUVVNXR1dXVWSXdzdlJjTXdBcERJeU5qN1I3SjBNVlhzMHdUdEdGOG1LSFBYMmRfaVRRQmc?oc=5"
+     "url": "https://www.eu-startups.com/2026/11/uk-startup-clarity-sensors-receives-e2-2-million-nihr-award-to-make-advanced-medical-imaging-more-accessible/"
     }
    ],
+   "brief": {
+    "essentiel": "Cambridge-based semiconductor startup Clarity Sensors has secured a €2.2 million to support the development of a new generation of photon-counting CT detectors designed to make advanced medical imaging more affordable and accessible to hospitals.",
+    "points": [
+     "In the UK, Bristol-based Siloton secured a €9.98 million Innovate UK contract to develop portable retinal imaging systems, while Nottingham-based Cerca Magnetics raised €4.3 million to scale its quantum-based brain imaging technology.",
+     "London-based MintNeuro also secured €4.4 million for specialised neural-device semiconductors, while Belgium’s SamanTree Medical received €20 million in EIB financing for real-time surgical imaging.",
+     "Together, these announcements represent approximately €38.7 million in disclosed financing, rising to €40.9 million including the full Clarity Sensors project award, across a mixture of private investment, public contracts, research awards and debt financing.",
+     "The startup will lead the three-year project, known as PICASO, receiving €1.5 million (£1.3 million) of the total award, with the remaining funding allocated to the Science and Technology Facilities Council (STFC) Technology Department."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€2.2 million"
+     }
+    ]
+   },
    "date": "2026-11-20T14:24:23.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 6
+   "score": 7
+  },
+  {
+   "id": "weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-th",
+   "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
+   "url": "https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-16-nov-20/",
+   "summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to the site and benefit from many additional perks, you […]",
+   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/nov16-nov20-2026-.png",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
+     "url": "https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-16-nov-20/"
+    }
+   ],
+   "brief": {
+    "essentiel": "If you are already a member but don’t see the content of this article, please login here .",
+    "points": [],
+    "facts": []
+   },
+   "date": "2026-11-20T16:45:27.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
   },
   {
    "id": "uk-banks-struggle-to-find-top-boss-to-spearhead-visa-and-mastercard-alternative",
@@ -320,82 +415,6 @@
     "AI"
    ],
    "score": 4
-  },
-  {
-   "id": "oaknorth-wins-us-banking-licence",
-   "title": "OakNorth wins US banking licence",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVXFlUlhxaTF1NWdhYUVhM0xRdHBJWF9BSlZWVGdpdzdaT2hfRmdJX3lHcnlQRUYtNUFpRE14aVducGlLVHBUT0RLNnEyTXgxUC1BVy1TSm1BWkpkUWkxODhXeEk0cUNoamRsbQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "OakNorth wins US banking licence",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVXFlUlhxaTF1NWdhYUVhM0xRdHBJWF9BSlZWVGdpdzdaT2hfRmdJX3lHcnlQRUYtNUFpRE14aVducGlLVHBUT0RLNnEyTXgxUC1BVy1TSm1BWkpkUWkxODhXeEk0cUNoamRsbQ?oc=5"
-    }
-   ],
-   "date": "2026-11-20T09:31:03.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "building-in-the-uk-key-changes-and-deadlines-founders-need-to-know",
-   "title": "Building in the UK? Key changes and deadlines founders need to know",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ25ocDc3WVh5elVsX0NMTEU0cWhval9PRVUtUUMwdFQ0X0ZtckxZYVJjaE1SY0ZSdGlaMmM0Q1pOcmQ0WHNZdUJGZDZudlEtUGxzWnhGVW9CQWpId1JxOEJpVS1CZnhPTmlHak4zNzV0M1dkd0dWOU84M1A1cjRYNmt2MXhMdDBXS1h3UTNvQ0M0UW1VTlhsVUtIeVNjLVdpUFlWWWVn?oc=5",
-   "summary": "",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Building in the UK? Key changes and deadlines founders need to know",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ25ocDc3WVh5elVsX0NMTEU0cWhval9PRVUtUUMwdFQ0X0ZtckxZYVJjaE1SY0ZSdGlaMmM0Q1pOcmQ0WHNZdUJGZDZudlEtUGxzWnhGVW9CQWpId1JxOEJpVS1CZnhPTmlHak4zNzV0M1dkd0dWOU84M1A1cjRYNmt2MXhMdDBXS1h3UTNvQ0M0UW1VTlhsVUtIeVNjLVdpUFlWWWVn?oc=5"
-    }
-   ],
-   "date": "2026-11-20T10:23:38.000Z",
-   "categories": [],
-   "score": 2
-  },
-  {
-   "id": "state-of-european-tech-report-shows-plenty-of-room-for-improvement-despite-stron",
-   "title": "State of European Tech report shows plenty of room for improvement despite strong figures",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDVlQjdfZDNsdVRUMXk3eGJhRngxRkd1QWJjSUdTZVNNNExWNWxDVlJyNnpRYmQ3cDZXUXhwcFFEU1AweDJFbG9nMmhtcG43MjhLb1EzdWhNV19sNzFzS2Qtd3h5UzR3bmhRWVVobUFoN3Z3UHgyTlRsNm1RQk9xem0zMmVXRW5uM01mcUtrUjg1TnhuMUZDZVowTF9vQUtLd1RtNHFEVUZlbnU2MWlvOEdUWjlpTWdpLXdoVXZWSjFSQkpu?oc=5",
-   "summary": "",
-   "sources": [
-    "Startupticker.ch"
-   ],
-   "articles": [
-    {
-     "source": "Startupticker.ch",
-     "title": "State of European Tech report shows plenty of room for improvement despite strong figures",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDVlQjdfZDNsdVRUMXk3eGJhRngxRkd1QWJjSUdTZVNNNExWNWxDVlJyNnpRYmQ3cDZXUXhwcFFEU1AweDJFbG9nMmhtcG43MjhLb1EzdWhNV19sNzFzS2Qtd3h5UzR3bmhRWVVobUFoN3Z3UHgyTlRsNm1RQk9xem0zMmVXRW5uM01mcUtrUjg1TnhuMUZDZVowTF9vQUtLd1RtNHFEVUZlbnU2MWlvOEdUWjlpTWdpLXdoVXZWSjFSQkpu?oc=5"
-    }
-   ],
-   "date": "2026-11-20T13:13:38.000Z",
-   "categories": [],
-   "score": 2
-  },
-  {
-   "id": "inside-the-helsinki-summit-where-europe-s-tech-elite-plot-a-us-fightback",
-   "title": "Inside the Helsinki summit where Europe’s tech elite plot a US fightback",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlV0eUhUVWVwSExLaUpzNUp5WXBVcGc3QURES1VVNlBkTmgtbndnUHJxbFJmZXpabUhNa2d6UEZqTi1pZnJpU3hoaG02aTU5MUVtUWVtM3RBWGRjMkVacE1sU3dqQng4WnE2VnRtdF83bGZScTBxcjMtM1ZZdFZORVpzRTVFdDI4ajJDci04OGxhdWFRUXd1NkxQZndwZDRLaWxNSkJOQ1lST2gw?oc=5",
-   "summary": "",
-   "sources": [
-    "The Times"
-   ],
-   "articles": [
-    {
-     "source": "The Times",
-     "title": "Inside the Helsinki summit where Europe’s tech elite plot a US fightback",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlV0eUhUVWVwSExLaUpzNUp5WXBVcGc3QURES1VVNlBkTmgtbndnUHJxbFJmZXpabUhNa2d6UEZqTi1pZnJpU3hoaG02aTU5MUVtUWVtM3RBWGRjMkVacE1sU3dqQng4WnE2VnRtdF83bGZScTBxcjMtM1ZZdFZORVpzRTVFdDI4ajJDci04OGxhdWFRUXd1NkxQZndwZDRLaWxNSkJOQ1lST2gw?oc=5"
-    }
-   ],
-   "date": "2026-11-20T10:22:20.000Z",
-   "categories": [],
-   "score": 2
   }
  ]
 }
