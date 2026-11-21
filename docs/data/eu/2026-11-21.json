@@ -1,11 +1,11 @@
 {
  "date": "2026-11-21",
- "generatedAt": "2026-11-21T18:08:14.239Z",
+ "generatedAt": "2026-11-21T21:11:48.807Z",
  "windowHours": 36,
  "counts": {
-  "articles": 20,
-  "raw": 28,
-  "media": 10
+  "articles": 15,
+  "raw": 21,
+  "media": 8
  },
  "scope": "eu",
  "lang": "en",
@@ -23,7 +23,7 @@
   {
    "source": "Financial Times",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "source": "Google News · Europe scaleup mega round billion",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 40
+   "items": 37
   },
   {
    "source": "Sifted",
@@ -58,7 +58,7 @@
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 6
+   "items": 8
   },
   {
    "source": "TechCrunch Europe",
@@ -152,27 +152,6 @@
    "score": 12
   },
   {
-   "id": "orange-commits-additional-250-million-to-support-tech-startups-in-europe-africa-",
-   "title": "Orange Commits Additional €250 Million to Support Tech Startups in Europe, Africa and Middle East",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHdmRDE1NEMyUUs1bW1HVXhRRmZ6ZExNY3BUS2VZS1FjSkRXWDZHODlrb1hkSGZyWHVlQVd3RnBjakpDNFV6emxQR3R5WG15MnZpd0twSnAwM3VBc01DY1J4ZkNXeWVGbWxLUC1BV2J3YkppSXRLcUlHc054RGthRElOX0hVMC1xOFplb1V2NVpiV3dONzBLYVk2OGhWbFdzbmtVcXpQd0lIT0o2QWN6NXRMbHNxVVpoMXNCd01sWE5VRHB4?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech In Africa"
-   ],
-   "articles": [
-    {
-     "source": "Tech In Africa",
-     "title": "Orange Commits Additional €250 Million to Support Tech Startups in Europe, Africa and Middle East",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHdmRDE1NEMyUUs1bW1HVXhRRmZ6ZExNY3BUS2VZS1FjSkRXWDZHODlrb1hkSGZyWHVlQVd3RnBjakpDNFV6emxQR3R5WG15MnZpd0twSnAwM3VBc01DY1J4ZkNXeWVGbWxLUC1BV2J3YkppSXRLcUlHc054RGthRElOX0hVMC1xOFplb1V2NVpiV3dONzBLYVk2OGhWbFdzbmtVcXpQd0lIT0o2QWN6NXRMbHNxVVpoMXNCd01sWE5VRHB4?oc=5"
-    }
-   ],
-   "date": "2026-11-20T08:51:25.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 12
-  },
-  {
    "id": "czech-ai-startup-ranketta-raises-1m-acquires-phemly",
    "title": "Czech AI Startup Ranketta Raises €1M, Acquires Phemly",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3lWWVFyekJUQTBaS0YtSjJpa29UTFFOX0pQWkRUakltQlFOUmt1RWs1elRKNkZmQ09KNEplLV9adC1FTGFkdjUzREZrWFFEcml6aE00U3lubUtUNDFNTnB4c1hDckJRRG9qc25ycE5HQ3d0MXVtRExqWUUyRG1QWTY4Z0RTUDNPT1BSY0xIOVA0Y2d3TlYtTGVDV05faVdJREV3?oc=5",
@@ -240,34 +219,9 @@
    "score": 8
   },
   {
-   "id": "oaknorth-wins-us-banking-licence",
-   "title": "OakNorth wins US banking licence",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVXFlUlhxaTF1NWdhYUVhM0xRdHBJWF9BSlZWVGdpdzdaT2hfRmdJX3lHcnlQRUYtNUFpRE14aVducGlLVHBUT0RLNnEyTXgxUC1BVy1TSm1BWkpkUWkxODhXeEk0cUNoamRsbQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu",
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "OakNorth wins US banking licence",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVXFlUlhxaTF1NWdhYUVhM0xRdHBJWF9BSlZWVGdpdzdaT2hfRmdJX3lHcnlQRUYtNUFpRE14aVducGlLVHBUT0RLNnEyTXgxUC1BVy1TSm1BWkpkUWkxODhXeEk0cUNoamRsbQ?oc=5"
-    },
-    {
-     "source": "City AM",
-     "title": "British fintech Oaknorth lands US banking licence",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqa1kzTkdGcHlBV3VzYW5JOFhfaFhLbFgwMVZSZ3FMbjRiSm8zTHh1amhPNFFiTzNKSUxRRlBLSExYYy0wRTFQeHJrY0NibDQwTFl4VFI3TldienA4S1BDUHlIc25UX1ZDdFlTZkd2WnQ4dU54NDExRkJrUFF2Zw?oc=5"
-    }
-   ],
-   "date": "2026-11-20T07:39:10.000Z",
-   "categories": [],
-   "score": 7
-  },
-  {
-   "id": "dutch-startup-gradyent-lands-20-million-eib-loan-to-expand-digital-twin-technolo",
-   "title": "Dutch startup Gradyent lands €20 million EIB loan to expand digital twin technology across Europe's heating networks",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUNpSUdNejdDSXdJODJVXy1zMW42MXZMQ21BUFVoazVpSi1rN1UxQ05rMkdlOGJmY19MTy1xX0p3a2VzTVp3RkVYMlJ1cUVveWs1cWxmbDNxQm9SVmZMbUpKaHZLUllMMGk4OXZ5cDBSYTA2T3ZiQTluRUR6RFNKMXJsODB0MG1CWERZV0Y5N25XMWk3X2dwR0toSjYzdUlKQ0FvYVhoY0lxU2FHQkdfeEppZF92RzRLVEgtcFNFX3B3eGVYWmliOXBJZjJYb3U4T2FkS0hreGxIejlYMVk0QlVpQ1RpTU0?oc=5",
+   "id": "weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-th",
+   "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xUZTNHU3VNbzFOb05OT3ppYTYxcVc5ZklEc1QwWi1vLWlubFhGUXhtaFdJc05zbXQzUTR6dzZIaE4zWUJHcXhuRzU1WlY2U2ZHOXpNUy1Zc21YUEJlSmlrdEtGaS1URkJCUWN1eURZUnVUZjJzM3k2NEszQVVFN0lfdG9HSktwdGFMVmNGQUZGVVRVV1JaSUhYOHFmbldlc2hfSVJVUGhDem5jRkRtYmN2a3l5bnlmLXVfTUdtbENMcDNOem9FbFRJUmJQR1owX2FFTQ?oc=5",
    "summary": "",
    "sources": [
     "EU-Startups"
@@ -275,15 +229,15 @@
    "articles": [
     {
      "source": "EU-Startups",
-     "title": "Dutch startup Gradyent lands €20 million EIB loan to expand digital twin technology across Europe's heating networks",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUNpSUdNejdDSXdJODJVXy1zMW42MXZMQ21BUFVoazVpSi1rN1UxQ05rMkdlOGJmY19MTy1xX0p3a2VzTVp3RkVYMlJ1cUVveWs1cWxmbDNxQm9SVmZMbUpKaHZLUllMMGk4OXZ5cDBSYTA2T3ZiQTluRUR6RFNKMXJsODB0MG1CWERZV0Y5N25XMWk3X2dwR0toSjYzdUlKQ0FvYVhoY0lxU2FHQkdfeEppZF92RzRLVEgtcFNFX3B3eGVYWmliOXBJZjJYb3U4T2FkS0hreGxIejlYMVk0QlVpQ1RpTU0?oc=5"
+     "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xUZTNHU3VNbzFOb05OT3ppYTYxcVc5ZklEc1QwWi1vLWlubFhGUXhtaFdJc05zbXQzUTR6dzZIaE4zWUJHcXhuRzU1WlY2U2ZHOXpNUy1Zc21YUEJlSmlrdEtGaS1URkJCUWN1eURZUnVUZjJzM3k2NEszQVVFN0lfdG9HSktwdGFMVmNGQUZGVVRVV1JaSUhYOHFmbldlc2hfSVJVUGhDem5jRkRtYmN2a3l5bnlmLXVfTUdtbENMcDNOem9FbFRJUmJQR1owX2FFTQ?oc=5"
     }
    ],
-   "date": "2026-11-20T07:41:14.000Z",
+   "date": "2026-11-20T16:45:27.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 7
+   "score": 6
   },
   {
    "id": "uk-startup-clarity-sensors-receives-2-2-million-nihr-award-to-make-advanced-medi",
@@ -301,27 +255,6 @@
     }
    ],
    "date": "2026-11-20T14:24:23.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 6
-  },
-  {
-   "id": "weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-th",
-   "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xUZTNHU3VNbzFOb05OT3ppYTYxcVc5ZklEc1QwWi1vLWlubFhGUXhtaFdJc05zbXQzUTR6dzZIaE4zWUJHcXhuRzU1WlY2U2ZHOXpNUy1Zc21YUEJlSmlrdEtGaS1URkJCUWN1eURZUnVUZjJzM3k2NEszQVVFN0lfdG9HSktwdGFMVmNGQUZGVVRVV1JaSUhYOHFmbldlc2hfSVJVUGhDem5jRkRtYmN2a3l5bnlmLXVfTUdtbENMcDNOem9FbFRJUmJQR1owX2FFTQ?oc=5",
-   "summary": "",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xUZTNHU3VNbzFOb05OT3ppYTYxcVc5ZklEc1QwWi1vLWlubFhGUXhtaFdJc05zbXQzUTR6dzZIaE4zWUJHcXhuRzU1WlY2U2ZHOXpNUy1Zc21YUEJlSmlrdEtGaS1URkJCUWN1eURZUnVUZjJzM3k2NEszQVVFN0lfdG9HSktwdGFMVmNGQUZGVVRVV1JaSUhYOHFmbldlc2hfSVJVUGhDem5jRkRtYmN2a3l5bnlmLXVfTUdtbENMcDNOem9FbFRJUmJQR1owX2FFTQ?oc=5"
-    }
-   ],
-   "date": "2026-11-20T16:45:27.000Z",
    "categories": [
     "Funding"
    ],
@@ -368,44 +301,6 @@
    "score": 4
   },
   {
-   "id": "inside-malmo-the-swedish-city-building-the-future-of-food",
-   "title": "Inside Malmö: The Swedish city building the future of food",
-   "url": "https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "Inside Malmö: The Swedish city building the future of food",
-     "url": "https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/"
-    }
-   ],
-   "date": "2026-11-20T09:00:01.000Z",
-   "categories": [],
-   "score": 4
-  },
-  {
-   "id": "ukrainian-drone-engineering-meets-german-manufacturing-as-qfi-ramps-up-productio",
-   "title": "Ukrainian drone engineering meets German manufacturing as QFI ramps up production",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0VFTFNvMkpmaDlyRVo2Q3FqdXRpOVZrUVRuaTJOeV93MmJSLTZhUExYRlNmM1E4NnB0YWFCWUE4MkJBWG9kSG1TMWdLa3RZUzhpcXc3bF9nYnVGdWpKYVA4YkdJY2J6bWp3Rkh3R2xVal9mcy10NEVvdzBJdW1QdmdEOU1tcTNKdHZhZ3BwWEI5cnRWeGNLanF0alJUNjJZOUxFaEVpMVE0UWJjWVE?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Ukrainian drone engineering meets German manufacturing as QFI ramps up production",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0VFTFNvMkpmaDlyRVo2Q3FqdXRpOVZrUVRuaTJOeV93MmJSLTZhUExYRlNmM1E4NnB0YWFCWUE4MkJBWG9kSG1TMWdLa3RZUzhpcXc3bF9nYnVGdWpKYVA4YkdJY2J6bWp3Rkh3R2xVal9mcy10NEVvdzBJdW1QdmdEOU1tcTNKdHZhZ3BwWEI5cnRWeGNLanF0alJUNjJZOUxFaEVpMVE0UWJjWVE?oc=5"
-    }
-   ],
-   "date": "2026-11-20T06:51:24.000Z",
-   "categories": [],
-   "score": 4
-  },
-  {
    "id": "europe-has-an-ai-money-problem-and-anthropic-just-made-it-impossible-to-ignore",
    "title": "Europe Has an AI Money Problem, and Anthropic Just Made It Impossible to Ignore",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnUzSFlYRGQ5VGpqX1R1NlYzMkd0bDViNkxMVFFQQ3NsY2EwTlg3SXFlX0lrYlAyem1RUkEzNTlYVVlsc0t3b0s5NnVrUkxiWFhxUUFNU01yY1BBbUhuOXlJYmFXb19sa3pQSUJUYnEzTks0UkxfNWVUczZJUHVQQWlNcTN0X05LdVl2QkNSQ1VfclhHM0JVQXBCVEM3dw?oc=5",
@@ -425,6 +320,44 @@
     "AI"
    ],
    "score": 4
+  },
+  {
+   "id": "oaknorth-wins-us-banking-licence",
+   "title": "OakNorth wins US banking licence",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVXFlUlhxaTF1NWdhYUVhM0xRdHBJWF9BSlZWVGdpdzdaT2hfRmdJX3lHcnlQRUYtNUFpRE14aVducGlLVHBUT0RLNnEyTXgxUC1BVy1TSm1BWkpkUWkxODhXeEk0cUNoamRsbQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "OakNorth wins US banking licence",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVXFlUlhxaTF1NWdhYUVhM0xRdHBJWF9BSlZWVGdpdzdaT2hfRmdJX3lHcnlQRUYtNUFpRE14aVducGlLVHBUT0RLNnEyTXgxUC1BVy1TSm1BWkpkUWkxODhXeEk0cUNoamRsbQ?oc=5"
+    }
+   ],
+   "date": "2026-11-20T09:31:03.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "building-in-the-uk-key-changes-and-deadlines-founders-need-to-know",
+   "title": "Building in the UK? Key changes and deadlines founders need to know",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ25ocDc3WVh5elVsX0NMTEU0cWhval9PRVUtUUMwdFQ0X0ZtckxZYVJjaE1SY0ZSdGlaMmM0Q1pOcmQ0WHNZdUJGZDZudlEtUGxzWnhGVW9CQWpId1JxOEJpVS1CZnhPTmlHak4zNzV0M1dkd0dWOU84M1A1cjRYNmt2MXhMdDBXS1h3UTNvQ0M0UW1VTlhsVUtIeVNjLVdpUFlWWWVn?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Building in the UK? Key changes and deadlines founders need to know",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ25ocDc3WVh5elVsX0NMTEU0cWhval9PRVUtUUMwdFQ0X0ZtckxZYVJjaE1SY0ZSdGlaMmM0Q1pOcmQ0WHNZdUJGZDZudlEtUGxzWnhGVW9CQWpId1JxOEJpVS1CZnhPTmlHak4zNzV0M1dkd0dWOU84M1A1cjRYNmt2MXhMdDBXS1h3UTNvQ0M0UW1VTlhsVUtIeVNjLVdpUFlWWWVn?oc=5"
+    }
+   ],
+   "date": "2026-11-20T10:23:38.000Z",
+   "categories": [],
+   "score": 2
   },
   {
    "id": "state-of-european-tech-report-shows-plenty-of-room-for-improvement-despite-stron",
@@ -461,44 +394,6 @@
     }
    ],
    "date": "2026-11-20T10:22:20.000Z",
-   "categories": [],
-   "score": 2
-  },
-  {
-   "id": "european-hardware-takes-center-stage-at-space-tech-expo",
-   "title": "European Hardware Takes Center Stage at Space Tech Expo",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenFLZ014NE1rdmZpcTlqN3VnTE9zTUMzSmlJWnNYbUNTdUlJV2trOXhzVjU3azZ5TWlJVUppN0cyazFhelJBTUNPT2J2UjhwMjBvaGJpbEJ0YW1IMzdZRXZkVGhuUG5LTWdsX1JBLXFrZVJxaERhczVyUngtY0IwUU5EQmxCREFQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Payload Space"
-   ],
-   "articles": [
-    {
-     "source": "Payload Space",
-     "title": "European Hardware Takes Center Stage at Space Tech Expo",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenFLZ014NE1rdmZpcTlqN3VnTE9zTUMzSmlJWnNYbUNTdUlJV2trOXhzVjU3azZ5TWlJVUppN0cyazFhelJBTUNPT2J2UjhwMjBvaGJpbEJ0YW1IMzdZRXZkVGhuUG5LTWdsX1JBLXFrZVJxaERhczVyUngtY0IwUU5EQmxCREFQ?oc=5"
-    }
-   ],
-   "date": "2026-11-20T07:48:15.000Z",
-   "categories": [],
-   "score": 2
-  },
-  {
-   "id": "building-in-the-uk-key-changes-and-deadlines-founders-need-to-know",
-   "title": "Building in the UK? Key changes and deadlines founders need to know",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ25ocDc3WVh5elVsX0NMTEU0cWhval9PRVUtUUMwdFQ0X0ZtckxZYVJjaE1SY0ZSdGlaMmM0Q1pOcmQ0WHNZdUJGZDZudlEtUGxzWnhGVW9CQWpId1JxOEJpVS1CZnhPTmlHak4zNzV0M1dkd0dWOU84M1A1cjRYNmt2MXhMdDBXS1h3UTNvQ0M0UW1VTlhsVUtIeVNjLVdpUFlWWWVn?oc=5",
-   "summary": "",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Building in the UK? Key changes and deadlines founders need to know",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ25ocDc3WVh5elVsX0NMTEU0cWhval9PRVUtUUMwdFQ0X0ZtckxZYVJjaE1SY0ZSdGlaMmM0Q1pOcmQ0WHNZdUJGZDZudlEtUGxzWnhGVW9CQWpId1JxOEJpVS1CZnhPTmlHak4zNzV0M1dkd0dWOU84M1A1cjRYNmt2MXhMdDBXS1h3UTNvQ0M0UW1VTlhsVUtIeVNjLVdpUFlWWWVn?oc=5"
-    }
-   ],
-   "date": "2026-11-20T10:23:38.000Z",
    "categories": [],
    "score": 2
   }
