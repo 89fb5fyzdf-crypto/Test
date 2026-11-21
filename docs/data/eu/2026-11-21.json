@@ -1,10 +1,10 @@
 {
  "date": "2026-11-21",
- "generatedAt": "2026-11-21T09:14:01.619Z",
+ "generatedAt": "2026-11-21T13:29:20.711Z",
  "windowHours": 36,
  "counts": {
   "articles": 25,
-  "raw": 32,
+  "raw": 33,
   "media": 10
  },
  "scope": "eu",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 7
+   "items": 5
   },
   {
    "source": "EU-Startups",
@@ -33,12 +33,12 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 29
+   "items": 28
   },
   {
    "source": "Google News · European unicorn valuation",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "source": "Google News · UK startup raises funding round",
@@ -58,7 +58,7 @@
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 11
+   "items": 6
   },
   {
    "source": "TechCrunch Europe",
@@ -92,7 +92,7 @@
     "Funding",
     "Unicorns & scale-ups"
    ],
-   "score": 17.6
+   "score": 17.2
   },
   {
    "id": "archer-raises-10m-to-connect-recruiters-and-job-seekers-with-ai",
@@ -120,7 +120,7 @@
     "Funding",
     "AI"
    ],
-   "score": 13.3
+   "score": 13
   },
   {
    "id": "exclusive-stripe-founders-and-paul-graham-back-ai-agent-swarm-startup-hoplite-wi",
@@ -149,7 +149,7 @@
     "Funding",
     "AI"
    ],
-   "score": 12.3
+   "score": 12
   },
   {
    "id": "czech-ai-startup-ranketta-raises-1m-acquires-phemly",
@@ -172,7 +172,7 @@
     "M&A & IPOs",
     "AI"
    ],
-   "score": 12.3
+   "score": 12
   },
   {
    "id": "startup-ecosystem-calls-to-withdraw-and-re-table-eu-inc-proposal-isomorphic-labs",
@@ -194,29 +194,7 @@
     "Funding",
     "Policy & ecosystem"
    ],
-   "score": 9.5
-  },
-  {
-   "id": "madrid-based-wilco-secures-2-5-million-to-scale-its-ai-patient-follow-up-platfor",
-   "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5",
-   "summary": "",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5"
-    }
-   ],
-   "date": "2026-11-20T09:56:25.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 8.1
+   "score": 9.1
   },
   {
    "id": "uk-ai-minister-rejects-calls-for-sovereign-model-sparking-backlash-i-m-so-angry",
@@ -238,6 +216,28 @@
    "categories": [
     "AI",
     "Policy & ecosystem"
+   ],
+   "score": 8
+  },
+  {
+   "id": "madrid-based-wilco-secures-2-5-million-to-scale-its-ai-patient-follow-up-platfor",
+   "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5"
+    }
+   ],
+   "date": "2026-11-20T09:56:25.000Z",
+   "categories": [
+    "Funding",
+    "AI"
    ],
    "score": 8
   },
@@ -331,6 +331,27 @@
    "score": 7
   },
   {
+   "id": "weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-th",
+   "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xUZTNHU3VNbzFOb05OT3ppYTYxcVc5ZklEc1QwWi1vLWlubFhGUXhtaFdJc05zbXQzUTR6dzZIaE4zWUJHcXhuRzU1WlY2U2ZHOXpNUy1Zc21YUEJlSmlrdEtGaS1URkJCUWN1eURZUnVUZjJzM3k2NEszQVVFN0lfdG9HSktwdGFMVmNGQUZGVVRVV1JaSUhYOHFmbldlc2hfSVJVUGhDem5jRkRtYmN2a3l5bnlmLXVfTUdtbENMcDNOem9FbFRJUmJQR1owX2FFTQ?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0xUZTNHU3VNbzFOb05OT3ppYTYxcVc5ZklEc1QwWi1vLWlubFhGUXhtaFdJc05zbXQzUTR6dzZIaE4zWUJHcXhuRzU1WlY2U2ZHOXpNUy1Zc21YUEJlSmlrdEtGaS1URkJCUWN1eURZUnVUZjJzM3k2NEszQVVFN0lfdG9HSktwdGFMVmNGQUZGVVRVV1JaSUhYOHFmbldlc2hfSVJVUGhDem5jRkRtYmN2a3l5bnlmLXVfTUdtbENMcDNOem9FbFRJUmJQR1owX2FFTQ?oc=5"
+    }
+   ],
+   "date": "2026-11-20T16:45:27.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6.3
+  },
+  {
    "id": "uk-startup-clarity-sensors-receives-2-2-million-nihr-award-to-make-advanced-medi",
    "title": "UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmxmdmJ6WEhvbHMtSkFidUxOdG9LNXowX0FYdTFNcXdpcUtES1NSbm1MUlNsVzVKTXBybmFpLU9pbDlKd2MzYUJjRnVFa2pwUVZBUV93VjlBN19qdkRNanBIQzlCUWliRXB3ZTAyeVBpcmRHMmJJY2x5dXViNmE4YTNxaGlpNndpdVVVc21odW9qR2xfUzR5QlZiUDVMeWpsempIcUl2Rl9CYUVVNXR1dXVWSXdzdlJjTXdBcERJeU5qN1I3SjBNVlhzMHdUdEdGOG1LSFBYMmRfaVRRQmc?oc=5",
@@ -349,7 +370,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 6.4
+   "score": 6.1
   },
   {
    "id": "dutch-aerospace-startup-elysian-aircraft-raises-over-12-million",
@@ -391,7 +412,7 @@
    "categories": [
     "Policy & ecosystem"
    ],
-   "score": 5.1
+   "score": 5
   },
   {
    "id": "how-a-handful-of-european-angels-hit-the-anthropic-jackpot",
@@ -410,7 +431,7 @@
    ],
    "date": "2026-11-20T15:34:03.000Z",
    "categories": [],
-   "score": 4.5
+   "score": 4.2
   },
   {
    "id": "inside-malmo-the-swedish-city-building-the-future-of-food",
@@ -508,25 +529,6 @@
    "score": 3
   },
   {
-   "id": "quantum-frontline-industries-tag",
-   "title": "Quantum Frontline Industries Tag",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZV3dONjB1YlFvdGRSY3pLLXZBaDJFZXBOZHI4VnZSMFVsU0U2WUVzYUxyOFdlQjVRYkNuOUhMWVVoY3MzaUJCNjMzdWFpUlQwRmJ5Z3pQZUhQSEpaQkE?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Quantum Frontline Industries Tag",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZV3dONjB1YlFvdGRSY3pLLXZBaDJFZXBOZHI4VnZSMFVsU0U2WUVzYUxyOFdlQjVRYkNuOUhMWVVoY3MzaUJCNjMzdWFpUlQwRmJ5Z3pQZUhQSEpaQkE?oc=5"
-    }
-   ],
-   "date": "2026-11-20T07:08:21.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
    "id": "state-of-european-tech-report-shows-plenty-of-room-for-improvement-despite-stron",
    "title": "State of European Tech report shows plenty of room for improvement despite strong figures",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDVlQjdfZDNsdVRUMXk3eGJhRngxRkd1QWJjSUdTZVNNNExWNWxDVlJyNnpRYmQ3cDZXUXhwcFFEU1AweDJFbG9nMmhtcG43MjhLb1EzdWhNV19sNzFzS2Qtd3h5UzR3bmhRWVVobUFoN3Z3UHgyTlRsNm1RQk9xem0zMmVXRW5uM01mcUtrUjg1TnhuMUZDZVowTF9vQUtLd1RtNHFEVUZlbnU2MWlvOEdUWjlpTWdpLXdoVXZWSjFSQkpu?oc=5",
@@ -543,7 +545,7 @@
    ],
    "date": "2026-11-20T13:13:38.000Z",
    "categories": [],
-   "score": 2.3
+   "score": 2
   },
   {
    "id": "inside-the-helsinki-summit-where-europe-s-tech-elite-plot-a-us-fightback",
@@ -562,7 +564,7 @@
    ],
    "date": "2026-11-20T10:22:20.000Z",
    "categories": [],
-   "score": 2.1
+   "score": 2
   },
   {
    "id": "building-in-the-uk-key-changes-and-deadlines-founders-need-to-know",
@@ -581,7 +583,7 @@
    ],
    "date": "2026-11-20T10:23:38.000Z",
    "categories": [],
-   "score": 2.1
+   "score": 2
   },
   {
    "id": "top-sustainability-startups-in-the-netherlands",
