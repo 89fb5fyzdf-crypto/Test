@@ -1,0 +1,606 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T09:14:01.619Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 25,
+  "raw": 32,
+  "media": 10
+ },
+ "scope": "eu",
+ "lang": "en",
+ "sources": [
+  {
+   "source": "City AM",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "source": "EU-Startups",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Financial Times",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "source": "Google News · Europe scaleup mega round billion",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "source": "Google News · European startup raises Series",
+   "ok": true,
+   "items": 29
+  },
+  {
+   "source": "Google News · European unicorn valuation",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "source": "Google News · UK startup raises funding round",
+   "ok": true,
+   "items": 29
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "Tech.eu",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Tech.eu (via Google News)",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "source": "TechCrunch Europe",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "UKTN",
+   "ok": true,
+   "items": 10
+  }
+ ],
+ "items": [
+  {
+   "id": "exclusive-storonsky-backed-aikido-seeks-4bn-valuation",
+   "title": "Exclusive: Storonsky-backed Aikido seeks €4bn valuation",
+   "url": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Exclusive: Storonsky-backed Aikido seeks €4bn valuation",
+     "url": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/"
+    }
+   ],
+   "date": "2026-11-20T16:04:11.000Z",
+   "categories": [
+    "Funding",
+    "Unicorns & scale-ups"
+   ],
+   "score": 17.6
+  },
+  {
+   "id": "archer-raises-10m-to-connect-recruiters-and-job-seekers-with-ai",
+   "title": "Archer raises $10M to connect recruiters and job seekers with AI",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLU1DSHE2c3JJbDQ3SUFHQmVwZ3FDdHdiR2hQTldYTnd1aWFRVWEtR2MyaEF1ZTZuUW1uUzRTZzJEZF96TS1UNHRZRkIwam9ESC1JN0pmQ19fRmFwMWtFMk8zTVdyakJRWjVmSXFKdWhTN3RRRGJkYnZDSlFuZHdZQng0b0RTTTJtdFB4S1dvUklvRWhuS3c?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Archer raises $10M to connect recruiters and job seekers with AI",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLU1DSHE2c3JJbDQ3SUFHQmVwZ3FDdHdiR2hQTldYTnd1aWFRVWEtR2MyaEF1ZTZuUW1uUzRTZzJEZF96TS1UNHRZRkIwam9ESC1JN0pmQ19fRmFwMWtFMk8zTVdyakJRWjVmSXFKdWhTN3RRRGJkYnZDSlFuZHdZQng0b0RTTTJtdFB4S1dvUklvRWhuS3c?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London-based Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb2NBSV9oWVB1cUgtNWdNLUEtS0RxdTRRTDBQSFQyOEcxZXZfUW1UTU0wUE8wVHdHeG9pNFhuNjRORU1aU2JrUjlodVZhRU9jdlFsTTZCYmFjR0xnd1kzcmFfQzYyQ3pWOFJGZ2hQUlhrczBSeGxfTk9vY1ZZN19lWjhWc3pFNFdvc0RMWU5LN2hFdm92TGswSGJONmlkQnBxTkpNeVpFaWxoTXRJWUFNeEQ1NXRwZGh3RFRLMjhBVGFlN1FGQXJQRzJVMkJsa1F5R3Rn?oc=5"
+    }
+   ],
+   "date": "2026-11-20T09:16:09.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 13.3
+  },
+  {
+   "id": "exclusive-stripe-founders-and-paul-graham-back-ai-agent-swarm-startup-hoplite-wi",
+   "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
+   "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
+   "summary": "",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=656,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/20123002/Screenshot-2026-11-20-at-13.29.41.png",
+   "sources": [
+    "Sifted",
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
+     "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "AI startup founded by two Irish YC alumni gets backing from Stripe's Collison brothers",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXpNUVdWeEVnNUhIYms1NmtPNy1JSnRXaW9JX0NtOVZsWkpNNlZhR0lWc3BpVkg4SGUtbll3b3FrLTFIb1FlMkdad1BldS1XT2gta2pGV0ZKT0lOeWVBWHRaUEFYSEY1UGx1NnlkMVJ3VzZIQlQ0dURncnNjRFZKREVxc2dScExtU0pWZVdEeVVPS3RpV0pUTDlFUUtjV1hleXViNGV6QUdMeV9tRnc?oc=5"
+    }
+   ],
+   "date": "2026-11-20T13:00:51.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 12.3
+  },
+  {
+   "id": "czech-ai-startup-ranketta-raises-1m-acquires-phemly",
+   "title": "Czech AI Startup Ranketta Raises €1M, Acquires Phemly",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3lWWVFyekJUQTBaS0YtSjJpa29UTFFOX0pQWkRUakltQlFOUmt1RWs1elRKNkZmQ09KNEplLV9adC1FTGFkdjUzREZrWFFEcml6aE00U3lubUtUNDFNTnB4c1hDckJRRG9qc25ycE5HQ3d0MXVtRExqWUUyRG1QWTY4Z0RTUDNPT1BSY0xIOVA0Y2d3TlYtTGVDV05faVdJREV3?oc=5",
+   "summary": "",
+   "sources": [
+    "The Recursive"
+   ],
+   "articles": [
+    {
+     "source": "The Recursive",
+     "title": "Czech AI Startup Ranketta Raises €1M, Acquires Phemly",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3lWWVFyekJUQTBaS0YtSjJpa29UTFFOX0pQWkRUakltQlFOUmt1RWs1elRKNkZmQ09KNEplLV9adC1FTGFkdjUzREZrWFFEcml6aE00U3lubUtUNDFNTnB4c1hDckJRRG9qc25ycE5HQ3d0MXVtRExqWUUyRG1QWTY4Z0RTUDNPT1BSY0xIOVA0Y2d3TlYtTGVDV05faVdJREV3?oc=5"
+    }
+   ],
+   "date": "2026-11-20T12:50:52.000Z",
+   "categories": [
+    "Funding",
+    "M&A & IPOs",
+    "AI"
+   ],
+   "score": 12.3
+  },
+  {
+   "id": "startup-ecosystem-calls-to-withdraw-and-re-table-eu-inc-proposal-isomorphic-labs",
+   "title": "Startup ecosystem calls to withdraw and re-table EU Inc proposal, Isomorphic Labs bags $5B, and inside Plural's €1B fund",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNck5YNVJvWU5taWVQUURiSWxjSk5mS192a0pBVlAxMXNZSVA5bjYyQXo5MkRjNEsxQi11SXBYVFBEX2NJNFkxVko2NWU5Zk1yc2RsNDFDYVozYm1nUzBobGNDcWtBdk1HOU9rSTNsNHRxUTR5WVhFdFVmb3dZUWdQa3VHaThHamZmeFNkN0lZN1pMVlhuR2s4?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Startup ecosystem calls to withdraw and re-table EU Inc proposal, Isomorphic Labs bags $5B, and inside Plural's €1B fund",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNck5YNVJvWU5taWVQUURiSWxjSk5mS192a0pBVlAxMXNZSVA5bjYyQXo5MkRjNEsxQi11SXBYVFBEX2NJNFkxVko2NWU5Zk1yc2RsNDFDYVozYm1nUzBobGNDcWtBdk1HOU9rSTNsNHRxUTR5WVhFdFVmb3dZUWdQa3VHaThHamZmeFNkN0lZN1pMVlhuR2s4?oc=5"
+    }
+   ],
+   "date": "2026-11-20T15:12:19.000Z",
+   "categories": [
+    "Funding",
+    "Policy & ecosystem"
+   ],
+   "score": 9.5
+  },
+  {
+   "id": "madrid-based-wilco-secures-2-5-million-to-scale-its-ai-patient-follow-up-platfor",
+   "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5"
+    }
+   ],
+   "date": "2026-11-20T09:56:25.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 8.1
+  },
+  {
+   "id": "uk-ai-minister-rejects-calls-for-sovereign-model-sparking-backlash-i-m-so-angry",
+   "title": "UK AI minister rejects calls for sovereign model, sparking backlash: 'I'm so angry'",
+   "url": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/",
+   "summary": "",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/20005242/kanishka-scaled.png",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "UK AI minister rejects calls for sovereign model, sparking backlash: 'I'm so angry'",
+     "url": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/"
+    }
+   ],
+   "date": "2026-11-20T05:00:50.000Z",
+   "categories": [
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 8
+  },
+  {
+   "id": "swedish-agentic-commerce-startup-wilgot-secures-3-million-in-seed-funding-round-",
+   "title": "Swedish agentic commerce startup Wilgot secures $3 million in seed funding round led by Industrifonden",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUtGR3FvVkppWTdGU25qbmZHM0pFamhkeFd0TWpDRTdoVS00VjRtdThCQmY4VWdVempyX3ZfVDNLY3JEdi1lSGNoSHhQUEFWSGhjdzAwaUpfeHBDSVZUdk1kN2toZDVXcnlPRlRVbjRwakVxZGVUVzRvTVNRemQ4WjdMenl1clI5dWE1WHJ3U1JhT2Fnc2lOT28yUXhEVmFuQjVxLWxBbmpZYjVIRG5IWGhUWWZ5ODNVTUU2cENlNWhJN3lWbDJiZEFKQW43SnliWWpiN2dma3VfTlUyUHJhVEhKVDN1QUlv?oc=5",
+   "summary": "",
+   "sources": [
+    "Retail Technology Innovation Hub"
+   ],
+   "articles": [
+    {
+     "source": "Retail Technology Innovation Hub",
+     "title": "Swedish agentic commerce startup Wilgot secures $3 million in seed funding round led by Industrifonden",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUtGR3FvVkppWTdGU25qbmZHM0pFamhkeFd0TWpDRTdoVS00VjRtdThCQmY4VWdVempyX3ZfVDNLY3JEdi1lSGNoSHhQUEFWSGhjdzAwaUpfeHBDSVZUdk1kN2toZDVXcnlPRlRVbjRwakVxZGVUVzRvTVNRemQ4WjdMenl1clI5dWE1WHJ3U1JhT2Fnc2lOT28yUXhEVmFuQjVxLWxBbmpZYjVIRG5IWGhUWWZ5ODNVTUU2cENlNWhJN3lWbDJiZEFKQW43SnliWWpiN2dma3VfTlUyUHJhVEhKVDN1QUlv?oc=5"
+    }
+   ],
+   "date": "2026-11-20T05:43:33.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 8
+  },
+  {
+   "id": "13-pre-seed-fintechs-to-watch-according-to-vcs",
+   "title": "13 pre-seed fintechs to watch, according to VCs",
+   "url": "https://sifted.eu/articles/pre-seed-fintechs-to-watch/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "13 pre-seed fintechs to watch, according to VCs",
+     "url": "https://sifted.eu/articles/pre-seed-fintechs-to-watch/"
+    }
+   ],
+   "date": "2026-11-20T05:00:48.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
+  },
+  {
+   "id": "oaknorth-wins-us-banking-licence",
+   "title": "OakNorth wins US banking licence",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVXFlUlhxaTF1NWdhYUVhM0xRdHBJWF9BSlZWVGdpdzdaT2hfRmdJX3lHcnlQRUYtNUFpRE14aVducGlLVHBUT0RLNnEyTXgxUC1BVy1TSm1BWkpkUWkxODhXeEk0cUNoamRsbQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "OakNorth wins US banking licence",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVXFlUlhxaTF1NWdhYUVhM0xRdHBJWF9BSlZWVGdpdzdaT2hfRmdJX3lHcnlQRUYtNUFpRE14aVducGlLVHBUT0RLNnEyTXgxUC1BVy1TSm1BWkpkUWkxODhXeEk0cUNoamRsbQ?oc=5"
+    },
+    {
+     "source": "City AM",
+     "title": "British fintech Oaknorth lands US banking licence",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqa1kzTkdGcHlBV3VzYW5JOFhfaFhLbFgwMVZSZ3FMbjRiSm8zTHh1amhPNFFiTzNKSUxRRlBLSExYYy0wRTFQeHJrY0NibDQwTFl4VFI3TldienA4S1BDUHlIc25UX1ZDdFlTZkd2WnQ4dU54NDExRkJrUFF2Zw?oc=5"
+    }
+   ],
+   "date": "2026-11-20T07:39:10.000Z",
+   "categories": [],
+   "score": 7
+  },
+  {
+   "id": "dutch-startup-gradyent-lands-20-million-eib-loan-to-expand-digital-twin-technolo",
+   "title": "Dutch startup Gradyent lands €20 million EIB loan to expand digital twin technology across Europe's heating networks",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUNpSUdNejdDSXdJODJVXy1zMW42MXZMQ21BUFVoazVpSi1rN1UxQ05rMkdlOGJmY19MTy1xX0p3a2VzTVp3RkVYMlJ1cUVveWs1cWxmbDNxQm9SVmZMbUpKaHZLUllMMGk4OXZ5cDBSYTA2T3ZiQTluRUR6RFNKMXJsODB0MG1CWERZV0Y5N25XMWk3X2dwR0toSjYzdUlKQ0FvYVhoY0lxU2FHQkdfeEppZF92RzRLVEgtcFNFX3B3eGVYWmliOXBJZjJYb3U4T2FkS0hreGxIejlYMVk0QlVpQ1RpTU0?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Dutch startup Gradyent lands €20 million EIB loan to expand digital twin technology across Europe's heating networks",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUNpSUdNejdDSXdJODJVXy1zMW42MXZMQ21BUFVoazVpSi1rN1UxQ05rMkdlOGJmY19MTy1xX0p3a2VzTVp3RkVYMlJ1cUVveWs1cWxmbDNxQm9SVmZMbUpKaHZLUllMMGk4OXZ5cDBSYTA2T3ZiQTluRUR6RFNKMXJsODB0MG1CWERZV0Y5N25XMWk3X2dwR0toSjYzdUlKQ0FvYVhoY0lxU2FHQkdfeEppZF92RzRLVEgtcFNFX3B3eGVYWmliOXBJZjJYb3U4T2FkS0hreGxIejlYMVk0QlVpQ1RpTU0?oc=5"
+    }
+   ],
+   "date": "2026-11-20T07:41:14.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
+  },
+  {
+   "id": "uk-startup-clarity-sensors-receives-2-2-million-nihr-award-to-make-advanced-medi",
+   "title": "UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmxmdmJ6WEhvbHMtSkFidUxOdG9LNXowX0FYdTFNcXdpcUtES1NSbm1MUlNsVzVKTXBybmFpLU9pbDlKd2MzYUJjRnVFa2pwUVZBUV93VjlBN19qdkRNanBIQzlCUWliRXB3ZTAyeVBpcmRHMmJJY2x5dXViNmE4YTNxaGlpNndpdVVVc21odW9qR2xfUzR5QlZiUDVMeWpsempIcUl2Rl9CYUVVNXR1dXVWSXdzdlJjTXdBcERJeU5qN1I3SjBNVlhzMHdUdEdGOG1LSFBYMmRfaVRRQmc?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmxmdmJ6WEhvbHMtSkFidUxOdG9LNXowX0FYdTFNcXdpcUtES1NSbm1MUlNsVzVKTXBybmFpLU9pbDlKd2MzYUJjRnVFa2pwUVZBUV93VjlBN19qdkRNanBIQzlCUWliRXB3ZTAyeVBpcmRHMmJJY2x5dXViNmE4YTNxaGlpNndpdVVVc21odW9qR2xfUzR5QlZiUDVMeWpsempIcUl2Rl9CYUVVNXR1dXVWSXdzdlJjTXdBcERJeU5qN1I3SjBNVlhzMHdUdEdGOG1LSFBYMmRfaVRRQmc?oc=5"
+    }
+   ],
+   "date": "2026-11-20T14:24:23.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6.4
+  },
+  {
+   "id": "dutch-aerospace-startup-elysian-aircraft-raises-over-12-million",
+   "title": "Dutch aerospace startup Elysian Aircraft raises over €12 million",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlpiTTlaeGc3RmR4OUJxSkw1NjlJUzdQSG5vOVZOd1ExdkZqZ0poS0JxemdVUjZpclNaZE5ISTZpWFdWNUlTZFNjbkM4V3MwQnpsUzA5SmdPV2llblpZTi1PbHd6dFFjOUhyaEF6Y0dydndyVW8yTUlEZDRubHBxZTJHZjVGbnMtQlktbW5nVHpPQUlMNFllckN6dnBPZVJu?oc=5",
+   "summary": "",
+   "sources": [
+    "Evertiq"
+   ],
+   "articles": [
+    {
+     "source": "Evertiq",
+     "title": "Dutch aerospace startup Elysian Aircraft raises over €12 million",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlpiTTlaeGc3RmR4OUJxSkw1NjlJUzdQSG5vOVZOd1ExdkZqZ0poS0JxemdVUjZpclNaZE5ISTZpWFdWNUlTZFNjbkM4V3MwQnpsUzA5SmdPV2llblpZTi1PbHd6dFFjOUhyaEF6Y0dydndyVW8yTUlEZDRubHBxZTJHZjVGbnMtQlktbW5nVHpPQUlMNFllckN6dnBPZVJu?oc=5"
+    }
+   ],
+   "date": "2026-11-20T05:00:00.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "uk-banks-struggle-to-find-top-boss-to-spearhead-visa-and-mastercard-alternative",
+   "title": "UK banks struggle to find top boss to spearhead Visa and Mastercard alternative",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORFhpUHZPMlJ4Q0hMRWVIZ3J5YnBrdFZCMzh4X041MUFmcWZhLWE1aXZHbU5VeHlyNHRVX18xUlF6cTMtRXlJV3hRelB2LWRkNEozWmF0bWZQUDc3SGgycElablVkY3I1UUlEZzJUTk1EVEdKWGhfN2tiWmZMWVJWZWVTQkV6TlVyNmFuNDBDVmVXZm05RUV1VWJsa0M2endIdmE5SkRR?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "UK banks struggle to find top boss to spearhead Visa and Mastercard alternative",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORFhpUHZPMlJ4Q0hMRWVIZ3J5YnBrdFZCMzh4X041MUFmcWZhLWE1aXZHbU5VeHlyNHRVX18xUlF6cTMtRXlJV3hRelB2LWRkNEozWmF0bWZQUDc3SGgycElablVkY3I1UUlEZzJUTk1EVEdKWGhfN2tiWmZMWVJWZWVTQkV6TlVyNmFuNDBDVmVXZm05RUV1VWJsa0M2endIdmE5SkRR?oc=5"
+    }
+   ],
+   "date": "2026-11-20T10:52:41.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 5.1
+  },
+  {
+   "id": "how-a-handful-of-european-angels-hit-the-anthropic-jackpot",
+   "title": "How a handful of European angels hit the Anthropic jackpot",
+   "url": "https://sifted.eu/articles/european-angels-anthropic-ipo/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "How a handful of European angels hit the Anthropic jackpot",
+     "url": "https://sifted.eu/articles/european-angels-anthropic-ipo/"
+    }
+   ],
+   "date": "2026-11-20T15:34:03.000Z",
+   "categories": [],
+   "score": 4.5
+  },
+  {
+   "id": "inside-malmo-the-swedish-city-building-the-future-of-food",
+   "title": "Inside Malmö: The Swedish city building the future of food",
+   "url": "https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Inside Malmö: The Swedish city building the future of food",
+     "url": "https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/"
+    }
+   ],
+   "date": "2026-11-20T09:00:01.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "espoo-closes-in-on-helsinki-as-finland-s-startup-funding-race-tightens",
+   "title": "Espoo closes in on Helsinki as Finland’s startup funding race tightens",
+   "url": "https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Espoo closes in on Helsinki as Finland’s startup funding race tightens",
+     "url": "https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/"
+    }
+   ],
+   "date": "2026-11-20T05:00:03.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "ukrainian-drone-engineering-meets-german-manufacturing-as-qfi-ramps-up-productio",
+   "title": "Ukrainian drone engineering meets German manufacturing as QFI ramps up production",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0VFTFNvMkpmaDlyRVo2Q3FqdXRpOVZrUVRuaTJOeV93MmJSLTZhUExYRlNmM1E4NnB0YWFCWUE4MkJBWG9kSG1TMWdLa3RZUzhpcXc3bF9nYnVGdWpKYVA4YkdJY2J6bWp3Rkh3R2xVal9mcy10NEVvdzBJdW1QdmdEOU1tcTNKdHZhZ3BwWEI5cnRWeGNLanF0alJUNjJZOUxFaEVpMVE0UWJjWVE?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Ukrainian drone engineering meets German manufacturing as QFI ramps up production",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0VFTFNvMkpmaDlyRVo2Q3FqdXRpOVZrUVRuaTJOeV93MmJSLTZhUExYRlNmM1E4NnB0YWFCWUE4MkJBWG9kSG1TMWdLa3RZUzhpcXc3bF9nYnVGdWpKYVA4YkdJY2J6bWp3Rkh3R2xVal9mcy10NEVvdzBJdW1QdmdEOU1tcTNKdHZhZ3BwWEI5cnRWeGNLanF0alJUNjJZOUxFaEVpMVE0UWJjWVE?oc=5"
+    }
+   ],
+   "date": "2026-11-20T06:51:24.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "inside-slush-2026-robots-riches-and-the-race-to-superintelligence",
+   "title": "Inside Slush 2026: Robots, riches and the race to superintelligence",
+   "url": "https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Inside Slush 2026: Robots, riches and the race to superintelligence",
+     "url": "https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/"
+    }
+   ],
+   "date": "2026-11-20T05:00:44.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "i-want-to-be-the-world-s-youngest-billionaire-meet-the-slush-20u20",
+   "title": "‘I want to be the world’s youngest billionaire’: Meet the Slush 20u20",
+   "url": "https://sifted.eu/articles/slush-20u20-2026/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "‘I want to be the world’s youngest billionaire’: Meet the Slush 20u20",
+     "url": "https://sifted.eu/articles/slush-20u20-2026/"
+    }
+   ],
+   "date": "2026-11-20T05:00:05.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "quantum-frontline-industries-tag",
+   "title": "Quantum Frontline Industries Tag",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZV3dONjB1YlFvdGRSY3pLLXZBaDJFZXBOZHI4VnZSMFVsU0U2WUVzYUxyOFdlQjVRYkNuOUhMWVVoY3MzaUJCNjMzdWFpUlQwRmJ5Z3pQZUhQSEpaQkE?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Quantum Frontline Industries Tag",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZV3dONjB1YlFvdGRSY3pLLXZBaDJFZXBOZHI4VnZSMFVsU0U2WUVzYUxyOFdlQjVRYkNuOUhMWVVoY3MzaUJCNjMzdWFpUlQwRmJ5Z3pQZUhQSEpaQkE?oc=5"
+    }
+   ],
+   "date": "2026-11-20T07:08:21.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "state-of-european-tech-report-shows-plenty-of-room-for-improvement-despite-stron",
+   "title": "State of European Tech report shows plenty of room for improvement despite strong figures",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDVlQjdfZDNsdVRUMXk3eGJhRngxRkd1QWJjSUdTZVNNNExWNWxDVlJyNnpRYmQ3cDZXUXhwcFFEU1AweDJFbG9nMmhtcG43MjhLb1EzdWhNV19sNzFzS2Qtd3h5UzR3bmhRWVVobUFoN3Z3UHgyTlRsNm1RQk9xem0zMmVXRW5uM01mcUtrUjg1TnhuMUZDZVowTF9vQUtLd1RtNHFEVUZlbnU2MWlvOEdUWjlpTWdpLXdoVXZWSjFSQkpu?oc=5",
+   "summary": "",
+   "sources": [
+    "Startupticker.ch"
+   ],
+   "articles": [
+    {
+     "source": "Startupticker.ch",
+     "title": "State of European Tech report shows plenty of room for improvement despite strong figures",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDVlQjdfZDNsdVRUMXk3eGJhRngxRkd1QWJjSUdTZVNNNExWNWxDVlJyNnpRYmQ3cDZXUXhwcFFEU1AweDJFbG9nMmhtcG43MjhLb1EzdWhNV19sNzFzS2Qtd3h5UzR3bmhRWVVobUFoN3Z3UHgyTlRsNm1RQk9xem0zMmVXRW5uM01mcUtrUjg1TnhuMUZDZVowTF9vQUtLd1RtNHFEVUZlbnU2MWlvOEdUWjlpTWdpLXdoVXZWSjFSQkpu?oc=5"
+    }
+   ],
+   "date": "2026-11-20T13:13:38.000Z",
+   "categories": [],
+   "score": 2.3
+  },
+  {
+   "id": "inside-the-helsinki-summit-where-europe-s-tech-elite-plot-a-us-fightback",
+   "title": "Inside the Helsinki summit where Europe’s tech elite plot a US fightback",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlV0eUhUVWVwSExLaUpzNUp5WXBVcGc3QURES1VVNlBkTmgtbndnUHJxbFJmZXpabUhNa2d6UEZqTi1pZnJpU3hoaG02aTU5MUVtUWVtM3RBWGRjMkVacE1sU3dqQng4WnE2VnRtdF83bGZScTBxcjMtM1ZZdFZORVpzRTVFdDI4ajJDci04OGxhdWFRUXd1NkxQZndwZDRLaWxNSkJOQ1lST2gw?oc=5",
+   "summary": "",
+   "sources": [
+    "The Times"
+   ],
+   "articles": [
+    {
+     "source": "The Times",
+     "title": "Inside the Helsinki summit where Europe’s tech elite plot a US fightback",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlV0eUhUVWVwSExLaUpzNUp5WXBVcGc3QURES1VVNlBkTmgtbndnUHJxbFJmZXpabUhNa2d6UEZqTi1pZnJpU3hoaG02aTU5MUVtUWVtM3RBWGRjMkVacE1sU3dqQng4WnE2VnRtdF83bGZScTBxcjMtM1ZZdFZORVpzRTVFdDI4ajJDci04OGxhdWFRUXd1NkxQZndwZDRLaWxNSkJOQ1lST2gw?oc=5"
+    }
+   ],
+   "date": "2026-11-20T10:22:20.000Z",
+   "categories": [],
+   "score": 2.1
+  },
+  {
+   "id": "building-in-the-uk-key-changes-and-deadlines-founders-need-to-know",
+   "title": "Building in the UK? Key changes and deadlines founders need to know",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ25ocDc3WVh5elVsX0NMTEU0cWhval9PRVUtUUMwdFQ0X0ZtckxZYVJjaE1SY0ZSdGlaMmM0Q1pOcmQ0WHNZdUJGZDZudlEtUGxzWnhGVW9CQWpId1JxOEJpVS1CZnhPTmlHak4zNzV0M1dkd0dWOU84M1A1cjRYNmt2MXhMdDBXS1h3UTNvQ0M0UW1VTlhsVUtIeVNjLVdpUFlWWWVn?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Building in the UK? Key changes and deadlines founders need to know",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ25ocDc3WVh5elVsX0NMTEU0cWhval9PRVUtUUMwdFQ0X0ZtckxZYVJjaE1SY0ZSdGlaMmM0Q1pOcmQ0WHNZdUJGZDZudlEtUGxzWnhGVW9CQWpId1JxOEJpVS1CZnhPTmlHak4zNzV0M1dkd0dWOU84M1A1cjRYNmt2MXhMdDBXS1h3UTNvQ0M0UW1VTlhsVUtIeVNjLVdpUFlWWWVn?oc=5"
+    }
+   ],
+   "date": "2026-11-20T10:23:38.000Z",
+   "categories": [],
+   "score": 2.1
+  },
+  {
+   "id": "top-sustainability-startups-in-the-netherlands",
+   "title": "Top Sustainability Startups In The Netherlands",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEZzQUZWaVl4d1lFMUd1bFNYX09BQWZkU09lWWtOTUh1LUJ6c1d2b21rZDM1TkpZTXdBR3lNaElZNDZ4NUlqN3NWOFJlMnllandQSFlsQkxxRUsxU29DQUc4eEVTT1B3R2VWOUhzaGNCSDNRWFpreWtwajJ0bGVITUVYeWlQaUU?oc=5",
+   "summary": "",
+   "sources": [
+    "TechRound"
+   ],
+   "articles": [
+    {
+     "source": "TechRound",
+     "title": "Top Sustainability Startups In The Netherlands",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEZzQUZWaVl4d1lFMUd1bFNYX09BQWZkU09lWWtOTUh1LUJ6c1d2b21rZDM1TkpZTXdBR3lNaElZNDZ4NUlqN3NWOFJlMnllandQSFlsQkxxRUsxU29DQUc4eEVTT1B3R2VWOUhzaGNCSDNRWFpreWtwajJ0bGVITUVYeWlQaUU?oc=5"
+    }
+   ],
+   "date": "2026-11-20T03:18:26.000Z",
+   "categories": [],
+   "score": 2
+  }
+ ]
+}
