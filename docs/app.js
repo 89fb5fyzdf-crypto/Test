@@ -45,16 +45,17 @@ async function getJSON(url) {
   return r.json();
 }
 
-// Adresse : #2026-11-18 (French Tech), #eu ou #eu-2026-11-18 (European Tech).
+// L'adresse ne garde que l'édition (#eu pour European Tech) : le site s'ouvre toujours sur le
+// jour le plus récent. Une ancienne adresse avec une date (#2026-11-18) est ignorée pour la date.
 function readHash() {
-  const h = location.hash.slice(1);
-  const m = h.match(/^(eu)?-?(\d{4}-\d{2}-\d{2})?$/);
-  return m ? { scope: m[1] ? 'eu' : (h ? 'fr' : null), date: m[2] || null } : { scope: null, date: null };
+  const m = location.hash.slice(1).match(/^(eu|fr)?/);
+  return { scope: m && m[1] ? m[1] : null };
 }
 function writeHash() {
-  const prefix = state.scope === 'eu' ? 'eu-' : '';
-  history.replaceState(null, '', `#${prefix}${state.day?.date || ''}`.replace(/-$/, ''));
+  history.replaceState(null, '', state.scope === 'eu' ? '#eu' : location.pathname + location.search);
 }
+// Date du jour à Paris (AAAA-MM-JJ), pour afficher « Today » seulement si c'est vraiment aujourd'hui.
+const parisToday = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Paris' }).format(new Date());
 
 async function init() {
   const fromHash = readHash();
@@ -78,9 +79,24 @@ async function init() {
   sheet.addEventListener('close', () => document.body.classList.remove('locked'));
   window.addEventListener('resize', () => paintScope(false));
 
-  await loadScope(fromHash.date);
+  // Onglet resté ouvert ou page restaurée depuis le cache : si une veille plus récente existe
+  // et qu'on regardait la plus récente, on passe à la nouvelle.
+  const refresh = async () => {
+    if (document.visibilityState !== 'visible') return;
+    try {
+      const latest = (await getJSON(`${SCOPES[state.scope].base}index.json`)).days[0]?.date;
+      const wasLatest = !state.day || state.day.date === state.days[0]?.date;
+      if (latest && latest !== state.days[0]?.date && wasLatest) await loadScope();
+    } catch {}
+  };
+  document.addEventListener('visibilitychange', refresh);
+  window.addEventListener('pageshow', (e) => { if (e.persisted) refresh(); });
+
+  await loadScope();
 }
 
+// preferredDate : seulement lors d'un changement d'édition (on reste sur le jour consulté) ;
+// sinon le jour le plus récent.
 async function loadScope(preferredDate) {
   try {
     state.days = (await getJSON(`${SCOPES[state.scope].base}index.json`)).days;
@@ -160,8 +176,7 @@ function renderStatic() {
   const d = state.day;
   const media = new Set(d.items.flatMap((i) => i.sources)).size;
   const funding = d.items.filter((i) => i.categories.some(isFunding)).length;
-  const isToday = d.date === state.days[0].date;
-  $('#eyebrow').textContent = (isToday ? 'Today, ' : '') + fmtLong(d.date);
+  $('#eyebrow').textContent = (d.date === parisToday() ? 'Today, ' : '') + fmtLong(d.date);
   $('#summary').innerHTML = `<b>${plural(d.items.length, 'story', 'stories')}</b>, including ${plural(funding, 'funding round')}, from ${plural(media, 'outlet')}.`;
 
   const counts = {};

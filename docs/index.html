@@ -12,7 +12,7 @@
     try {
       var today = new Date().toISOString().slice(0, 10);
       var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-      if (!reduce && localStorage.getItem('intro') !== today && !location.hash) document.documentElement.classList.add('with-intro');
+      if (!reduce && localStorage.getItem('intro') !== today) document.documentElement.classList.add('with-intro');
     } catch (e) {}
     try { if (localStorage.getItem('theme') === 'light') { document.documentElement.dataset.theme = 'light'; document.getElementById('theme-color').content = '#f2f3f7'; } } catch (e) {}
   </script>
