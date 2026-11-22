@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T18:07:53.198Z",
+ "generatedAt": "2026-11-22T21:14:24.979Z",
  "windowHours": 36,
  "counts": {
   "articles": 2,
@@ -17,8 +17,8 @@
   },
   {
    "source": "EU-Startups",
-   "ok": true,
-   "items": 10
+   "ok": false,
+   "error": "HTTP 403"
   },
   {
    "source": "Financial Times",
@@ -33,7 +33,7 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "source": "Google News · European unicorn valuation",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 11
+   "items": 7
   },
   {
    "source": "Sifted",
@@ -91,7 +91,7 @@
    "categories": [
     "Policy & ecosystem"
    ],
-   "score": 5.7
+   "score": 5.5
   },
   {
    "id": "hurun-germany-unicorn-index-2026",
@@ -112,7 +112,7 @@
    "categories": [
     "Unicorns & scale-ups"
    ],
-   "score": 5.6
+   "score": 5.4
   }
  ]
 }

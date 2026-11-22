@@ -1,11 +1,11 @@
 {
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T18:07:49.298Z",
+ "generatedAt": "2026-11-22T21:14:21.809Z",
  "windowHours": 36,
  "counts": {
-  "articles": 38,
-  "raw": 50,
-  "media": 24
+  "articles": 35,
+  "raw": 48,
+  "media": 22
  },
  "scope": "fr",
  "lang": "fr",
@@ -38,22 +38,22 @@
   {
    "source": "Google News · licorne française",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "source": "Google News · Mistral AI",
    "ok": true,
-   "items": 26
+   "items": 22
   },
   {
    "source": "Google News · startup française levée de fonds",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "source": "Google News · Station F",
    "ok": true,
-   "items": 1
+   "items": 0
   },
   {
    "source": "Journal du Net",
@@ -68,7 +68,7 @@
   {
    "source": "Les Echos (start-up)",
    "ok": true,
-   "items": 78
+   "items": 75
   },
   {
    "source": "Maddyness",
@@ -147,7 +147,7 @@
     "Levées de fonds",
     "IA"
    ],
-   "score": 21.1
+   "score": 21
   },
   {
    "id": "je-veux-le-redire-avec-des-mots-humains-quand-jensen-huang-humiliait-le-patron-f",
@@ -186,7 +186,7 @@
    "categories": [
     "IA"
    ],
-   "score": 14.2
+   "score": 14
   },
   {
    "id": "genesis-ai-propulse-les-levees-de-la-french-tech-a-526-millions-d-euros-cette-se",
@@ -231,7 +231,7 @@
     "Rachats & IPO",
     "Licornes & scale-ups"
    ],
-   "score": 8.8
+   "score": 8.6
   },
   {
    "id": "bayesline-leve-4-millions-et-impose-la-revue-du-code-ia",
@@ -253,7 +253,7 @@
     "Levées de fonds",
     "IA"
    ],
-   "score": 8.6
+   "score": 8.3
   },
   {
    "id": "perplexity-20-bat-mistral-et-mode-ia-google-2026",
@@ -275,7 +275,7 @@
     "Rachats & IPO",
     "IA"
    ],
-   "score": 8.4
+   "score": 8.2
   },
   {
    "id": "choose-france-l-investissement-des-entreprises-nouveau-point-noir-de-l-economie-",
@@ -296,7 +296,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 8.2
+   "score": 7.9
   },
   {
    "id": "mistral-vibe-euria-apertus-quelle-ia-generative-choisir-pour-se-liberer-de-chatg",
@@ -323,7 +323,7 @@
    "categories": [
     "IA"
    ],
-   "score": 7
+   "score": 6.7
   },
   {
    "id": "french-tech-ce-tissu-bordelais-qui-freine-les-missiles-patriot",
@@ -344,7 +344,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 6.3
+   "score": 6
   },
   {
    "id": "avec-42-milliards-d-euros-de-promesses-d-investissements-en-france-emmanuel-macr",
@@ -363,7 +363,7 @@
    ],
    "date": "2026-11-22T18:00:42.000Z",
    "categories": [],
-   "score": 6
+   "score": 5.7
   },
   {
    "id": "levee-de-fonds-a-l-international-des-start-up-une-nouvelle-ere-pour-l-ecosysteme",
@@ -384,7 +384,7 @@
    "categories": [
     "Levées de fonds"
    ],
-   "score": 5.4
+   "score": 5.2
   },
   {
    "id": "kim-kardashian-tibo-inshape-et-paris-jackson-les-peoples-croques-par-philippe-be",
@@ -403,28 +403,7 @@
    ],
    "date": "2026-11-22T10:05:07.000Z",
    "categories": [],
-   "score": 5.3
-  },
-  {
-   "id": "la-french-tech-phnom-penh-noue-des-accords-avec-trois-institutions-cambodgiennes",
-   "title": "La French Tech Phnom Penh noue des accords avec trois institutions cambodgiennes",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUJRVk91NVh6UWZ3eVhvT0taSlJWNzk4ZlFrcmVCNzdWZXJudHYxc2RTb21WOGthX0V0T0lQR0JRLW9HNDVpTHpWQVhNRjU2dWRubFlJLXhTbVE1RkQtZUdXOHZWYUl2VERqTXBmR3dncmZuUXJaY1E4RXNMTVlEVXplLVA1TTUwc0JhVmZXRF9KQXVWWUxlNHpIZS05MnFadFctSnZPajB4NUdFRUMyNkRCYWF0ektiMzM0M2l3ejI?oc=5",
-   "summary": "",
-   "sources": [
-    "Lepetitjournal.com"
-   ],
-   "articles": [
-    {
-     "source": "Lepetitjournal.com",
-     "title": "La French Tech Phnom Penh noue des accords avec trois institutions cambodgiennes",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUJRVk91NVh6UWZ3eVhvT0taSlJWNzk4ZlFrcmVCNzdWZXJudHYxc2RTb21WOGthX0V0T0lQR0JRLW9HNDVpTHpWQVhNRjU2dWRubFlJLXhTbVE1RkQtZUdXOHZWYUl2VERqTXBmR3dncmZuUXJaY1E4RXNMTVlEVXplLVA1TTUwc0JhVmZXRF9KQXVWWUxlNHpIZS05MnFadFctSnZPajB4NUdFRUMyNkRCYWF0ektiMzM0M2l3ejI?oc=5"
-    }
-   ],
-   "date": "2026-11-21T07:07:11.000Z",
-   "categories": [
-    "Politique & écosystème"
-   ],
-   "score": 5
+   "score": 5.1
   },
   {
    "id": "mistral-ouvre-un-bureau-a-singapour-et-vise-200-employes-en-asie-pacifique",
@@ -445,89 +424,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.4
-  },
-  {
-   "id": "ressemblant-a-une-licorne-un-cervide-est-capte-par-le-piege-photographique-d-une",
-   "title": "Ressemblant à une licorne, un cervidé est capté par le piège photographique d'une fondation alors qu'il a une excroissance sur le front, les experts n'ont pas encore statué le phénomène",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNVFdpU1BYUzlNM1BtS3ZzTWN6LWduRWUwRHRyQng5RzNRcnJLbDMyUXktOWF3WjJUUzFGd25WOUxlcTBJTUgyaDdPaDFxR0Jjd015ZjlSM1pHLVBYMEF6eWY2V0p4QmI5a0E5NGU3Mm42NTN4UlBkXzhvY0FORkpnaWtaN2ppMDQ2V3B5ZUY3Q2YyTkJFWHZUeVJBaTNQQnhJdGhDZXlxYW0yRV9BbmV3alg5ZVFnaG9FVDhKd0I1Y1E5QkRiejZvb3NBYWN1T1RQSG5ialNBLUdDU21hS0FZN3MzU2tCWThUc1gwZXVwSFZKQUF5RUd5eWZDcF9LMGFPUG5IUnVIbXp3dGE2NW5CT0VEamFJRHFwR2dPYW1Ga2lIY1NK?oc=5",
-   "summary": "",
-   "sources": [
-    "PetitBleu.fr"
-   ],
-   "articles": [
-    {
-     "source": "PetitBleu.fr",
-     "title": "Ressemblant à une licorne, un cervidé est capté par le piège photographique d'une fondation alors qu'il a une excroissance sur le front, les experts n'ont pas encore statué le phénomène",
-     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNVFdpU1BYUzlNM1BtS3ZzTWN6LWduRWUwRHRyQng5RzNRcnJLbDMyUXktOWF3WjJUUzFGd25WOUxlcTBJTUgyaDdPaDFxR0Jjd015ZjlSM1pHLVBYMEF6eWY2V0p4QmI5a0E5NGU3Mm42NTN4UlBkXzhvY0FORkpnaWtaN2ppMDQ2V3B5ZUY3Q2YyTkJFWHZUeVJBaTNQQnhJdGhDZXlxYW0yRV9BbmV3alg5ZVFnaG9FVDhKd0I1Y1E5QkRiejZvb3NBYWN1T1RQSG5ialNBLUdDU21hS0FZN3MzU2tCWThUc1gwZXVwSFZKQUF5RUd5eWZDcF9LMGFPUG5IUnVIbXp3dGE2NW5CT0VEamFJRHFwR2dPYW1Ga2lIY1NK?oc=5"
-    }
-   ],
-   "date": "2026-11-21T10:00:00.000Z",
-   "categories": [
-    "Licornes & scale-ups"
-   ],
-   "score": 4
-  },
-  {
-   "id": "fonctions-ia-sur-smartphone-lesquelles-sont-vraiment-utiles-et-lesquelles-sont-d",
-   "title": "Fonctions IA sur smartphone : lesquelles sont vraiment utiles, et lesquelles sont du recyclage marketing ?",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2hnTGNuQUdsVFNUanNSak5VazVkb0NHOF9jendxbFlHMllhdzVCa2Rqc3dfNHlfX0tFUV92eEZNeWFZTFlFWDhzY2VZU3h0dE1kUENmZzZiSS1ITi1ybjlfV0hiTGJBWXFlSWVaU2pDbnhvdjEyT3kzNmVJTlVmX2gwbkxrbDRRZ0NfRUk0SFlKQWw5NW51dEV3Z0w4UHluLWs1YmdTN1BwZWpwbzRCaTIwWENzcXY0eF9oaWR1dXhfZ0JOSlJidW9waWltZlZkNS1XN2w3RzFja3FnQlBfZGxCczMtN0ZZT0NRR3phaXZaQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Android MT"
-   ],
-   "articles": [
-    {
-     "source": "Android MT",
-     "title": "Fonctions IA sur smartphone : lesquelles sont vraiment utiles, et lesquelles sont du recyclage marketing ?",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2hnTGNuQUdsVFNUanNSak5VazVkb0NHOF9jendxbFlHMllhdzVCa2Rqc3dfNHlfX0tFUV92eEZNeWFZTFlFWDhzY2VZU3h0dE1kUENmZzZiSS1ITi1ybjlfV0hiTGJBWXFlSWVaU2pDbnhvdjEyT3kzNmVJTlVmX2gwbkxrbDRRZ0NfRUk0SFlKQWw5NW51dEV3Z0w4UHluLWs1YmdTN1BwZWpwbzRCaTIwWENzcXY0eF9oaWR1dXhfZ0JOSlJidW9waWltZlZkNS1XN2w3RzFja3FnQlBfZGxCczMtN0ZZT0NRR3phaXZaQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-22T05:49:49.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 4
-  },
-  {
-   "id": "temoignage-on-a-demande-aux-ia-de-nous-dire-de-quoi-on-est-malade",
-   "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5",
-   "summary": "",
-   "sources": [
-    "Ouest-France"
-   ],
-   "articles": [
-    {
-     "source": "Ouest-France",
-     "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5"
-    }
-   ],
-   "date": "2026-11-22T06:00:28.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 4
-  },
-  {
-   "id": "contribution-a-l-ue-la-france-ne-pourra-pas-obtenir-de-rabais-sans-lacher-quelqu",
-   "title": "Contribution à l'UE : « La France ne pourra pas obtenir de rabais sans lâcher quelque chose en contrepartie",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTTB5Ni02dWFKUTIwSXdCQzZ2ekhVQnI4eHdlWWxyWEhvUmpYX29tdTlxcTdNYXhRVzFZYVFDZ1RVbG5uRS15dkRueXVpMG1nQlc1akVlTVJ3R09yZGpQd1BXZHRXXzROb2FSMUg3MFQ1VjVBTUVwRFpCbXVua1JYTW5qUWVkdWx4UzJkWEd0RkZ5Qjc2VnNjcW5fSXRyNS1XMEx5WXRLYXNScmpTSmFDR2E5RkxEeHIzWXpRUXl4cUlOM09lZ0VneVIwNWx3TDY5dGFqcTB5T0xodlBtLV90SFFaU0w3bW1tX3c?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "Contribution à l'UE : « La France ne pourra pas obtenir de rabais sans lâcher quelque chose en contrepartie",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTTB5Ni02dWFKUTIwSXdCQzZ2ekhVQnI4eHdlWWxyWEhvUmpYX29tdTlxcTdNYXhRVzFZYVFDZ1RVbG5uRS15dkRueXVpMG1nQlc1akVlTVJ3R09yZGpQd1BXZHRXXzROb2FSMUg3MFQ1VjVBTUVwRFpCbXVua1JYTW5qUWVkdWx4UzJkWEd0RkZ5Qjc2VnNjcW5fSXRyNS1XMEx5WXRLYXNScmpTSmFDR2E5RkxEeHIzWXpRUXl4cUlOM09lZ0VneVIwNWx3TDY5dGFqcTB5T0xodlBtLV90SFFaU0w3bW1tX3c?oc=5"
-    }
-   ],
-   "date": "2026-11-21T09:10:09.000Z",
-   "categories": [],
-   "score": 4
+   "score": 4.2
   },
   {
    "id": "video-banques-hedge-funds-et-fonds-etrangers-qui-detient-la-dette-francaise",
@@ -587,6 +484,78 @@
    "score": 4
   },
   {
+   "id": "les-plus-malins-en-profitent-ce-placement-a-5-5-brut-fait-mieux-que-livret-a-et-",
+   "title": "Les plus malins en profitent : ce placement à 5,5% brut fait mieux que Livret A et des milliers de Français sautent sur l'occasion",
+   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/les-plus-malins-en-profitent-ce-placement-a-5-5-brut-fait-mieux-que-livret-a-et-des-milliers-de-francais-sautent-sur-l-occasion_AB-202611220016.html",
+   "summary": "Il est certain qu'après deux siècles d'existence, le Livret A a du plomb dans l'aile depuis que Fortuneo propose son épargne qui répond au nom de Livret +. Sans risque et entièrement gratuit, des milliers de Français se précipitent pour le mettre en place et bénéficier d'un super-taux.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kr-4FAkQjKNQLWjNI_x09ogf9Sc=/0x106:2048x1258/800x0/images/Fortuneo-250-euros-offerts-si-vous-ouvrez-un-compte-avant-le-temps-imparti-2062556.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "Les plus malins en profitent : ce placement à 5,5% brut fait mieux que Livret A et des milliers de Français sautent sur l'occasion",
+     "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/les-plus-malins-en-profitent-ce-placement-a-5-5-brut-fait-mieux-que-livret-a-et-des-milliers-de-francais-sautent-sur-l-occasion_AB-202611220016.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Il est certain qu'après deux siècles d'existence, le Livret A a du plomb dans l'aile depuis que Fortuneo propose son épargne qui répond au nom de Livret +.",
+    "points": [
+     "Bientôt la fin de l’année et beaucoup parlent déjà du versement des intérêts du Livret A quand pour d’autres, ce n’est plus un sujet de conversation.",
+     "Banque en ligne du groupe Crédit Agricole, BforBank met en avant une promotion sur son Livret d’épargne Bfor+.",
+     "Les nouveaux souscripteurs peuvent y placer leur épargne au taux boosté de 3,5 % brut pendant 12 mois.",
+     "Sans risque et entièrement gratuit, des milliers de Français se précipitent pour le mettre en place et bénéficier d'un super-taux."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-22T10:30:00.000Z",
+   "categories": [],
+   "score": 3.9
+  },
+  {
+   "id": "fonctions-ia-sur-smartphone-lesquelles-sont-vraiment-utiles-et-lesquelles-sont-d",
+   "title": "Fonctions IA sur smartphone : lesquelles sont vraiment utiles, et lesquelles sont du recyclage marketing ?",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2hnTGNuQUdsVFNUanNSak5VazVkb0NHOF9jendxbFlHMllhdzVCa2Rqc3dfNHlfX0tFUV92eEZNeWFZTFlFWDhzY2VZU3h0dE1kUENmZzZiSS1ITi1ybjlfV0hiTGJBWXFlSWVaU2pDbnhvdjEyT3kzNmVJTlVmX2gwbkxrbDRRZ0NfRUk0SFlKQWw5NW51dEV3Z0w4UHluLWs1YmdTN1BwZWpwbzRCaTIwWENzcXY0eF9oaWR1dXhfZ0JOSlJidW9waWltZlZkNS1XN2w3RzFja3FnQlBfZGxCczMtN0ZZT0NRR3phaXZaQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Android MT"
+   ],
+   "articles": [
+    {
+     "source": "Android MT",
+     "title": "Fonctions IA sur smartphone : lesquelles sont vraiment utiles, et lesquelles sont du recyclage marketing ?",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2hnTGNuQUdsVFNUanNSak5VazVkb0NHOF9jendxbFlHMllhdzVCa2Rqc3dfNHlfX0tFUV92eEZNeWFZTFlFWDhzY2VZU3h0dE1kUENmZzZiSS1ITi1ybjlfV0hiTGJBWXFlSWVaU2pDbnhvdjEyT3kzNmVJTlVmX2gwbkxrbDRRZ0NfRUk0SFlKQWw5NW51dEV3Z0w4UHluLWs1YmdTN1BwZWpwbzRCaTIwWENzcXY0eF9oaWR1dXhfZ0JOSlJidW9waWltZlZkNS1XN2w3RzFja3FnQlBfZGxCczMtN0ZZT0NRR3phaXZaQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-22T05:49:49.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.7
+  },
+  {
+   "id": "temoignage-on-a-demande-aux-ia-de-nous-dire-de-quoi-on-est-malade",
+   "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5",
+   "summary": "",
+   "sources": [
+    "Ouest-France"
+   ],
+   "articles": [
+    {
+     "source": "Ouest-France",
+     "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5"
+    }
+   ],
+   "date": "2026-11-22T06:00:28.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.7
+  },
+  {
    "id": "90-des-francais-ignorent-encore-cette-offre-carrefour-destocke-cette-tv-qled-par",
    "title": "90% des Français ignorent encore cette offre : Carrefour déstocke cette TV QLED par palettes mais dès mardi, ça risque d'être trop tard",
    "url": "https://www.bfmtv.com/tech/bons-plans/90-des-francais-ignorent-encore-cette-offre-carrefour-destocke-cette-tv-qled-par-palettes-mais-des-mardi-ca-risque-d-etre-trop-tard_AB-202611220056.html",
@@ -610,35 +579,6 @@
     "facts": []
    },
    "date": "2026-11-22T14:21:00.000Z",
-   "categories": [],
-   "score": 3.7
-  },
-  {
-   "id": "complement-livret-a-les-francais-adorent-ce-compte-remunere-et-vu-les-atouts-on-",
-   "title": "Complément Livret A : les Français adorent ce compte rémunéré et vu les atouts on comprend vite pourquoi",
-   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/complement-livret-a-les-francais-adorent-ce-compte-remunere-et-vu-les-atouts-on-comprend-vite-pourquoi_AB-202611220036.html",
-   "summary": "Avoir un livret d’épargne comme le Livret A est un bon point de départ pour faire travailler son argent sur le long terme et en récolter les fruits. Toutefois, ce n’est pas suffisant. Chez Trade Republic, un compte rémunéré permet d’en dépasser les rendements contraints.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/HJGUYYRk3-L_XcwEbnuxQ1jvemk=/33x4:1665x922/800x0/images/Brad-Pitt-2284713.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "Complément Livret A : les Français adorent ce compte rémunéré et vu les atouts on comprend vite pourquoi",
-     "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/complement-livret-a-les-francais-adorent-ce-compte-remunere-et-vu-les-atouts-on-comprend-vite-pourquoi_AB-202611220036.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Avoir un livret d’épargne comme le Livret A est un bon point de départ pour faire travailler son argent sur le long terme et en récolter les fruits.",
-    "points": [
-     "Banque en ligne du groupe Crédit Agricole, BforBank met en avant une promotion sur son Livret d’épargne Bfor+.",
-     "Les nouveaux souscripteurs peuvent y placer leur épargne au taux boosté de 3,5 % brut pendant 12 mois.",
-     "Chez Trade Republic, un compte rémunéré permet d’en dépasser les rendements contraints."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-22T06:36:00.000Z",
    "categories": [],
    "score": 3.4
   },
@@ -667,34 +607,7 @@
    },
    "date": "2026-11-22T10:23:00.000Z",
    "categories": [],
-   "score": 3.4
-  },
-  {
-   "id": "les-geants-de-la-tech-adorent-ce-logiciel-francais",
-   "title": "Les géants de la tech adorent ce logiciel français",
-   "url": "https://www.bfmtv.com/tech/actualites/video-les-geants-de-la-tech-adorent-ce-logiciel-francais_VN-202611220171.html",
-   "summary": "Intel, Microsoft et même la Nasa utilisent un logiciel français pour tester les composants de leurs ordinateurs. Un logiciel méconnu conçu par une PME de 8 personnes à Douai.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/7dEkthC6znOdnCRU3myRrRxEmbU=/0x0:1280x720/800x0/images/Les-geants-de-la-tech-adorent-ce-logiciel-francais-2388399.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "Les géants de la tech adorent ce logiciel français",
-     "url": "https://www.bfmtv.com/tech/actualites/video-les-geants-de-la-tech-adorent-ce-logiciel-francais_VN-202611220171.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Intel, Microsoft et même la Nasa utilisent un logiciel français pour tester les composants de leurs ordinateurs.",
-    "points": [
-     "Un logiciel méconnu conçu par une PME de 8 personnes à Douai."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-22T08:00:04.000Z",
-   "categories": [],
-   "score": 3.2
+   "score": 3.1
   },
   {
    "id": "une-ia-pour-permettre-aux-pilotes-malentendants-de-lire-la-radio",
@@ -739,6 +652,27 @@
    "score": 3
   },
   {
+   "id": "the-argument-that-ai-advances-mark-the-start-of-an-intelligence-explosion",
+   "title": "The argument that AI advances mark the start of an 'intelligence explosion'",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RVXNUeDZuM0pjb3NXLW9Rd0hwNTdXaW1YVzdTVG5EWmxzZTBaN0RycWwxb3l4SGlvUkpMMndPV3gzUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Digg"
+   ],
+   "articles": [
+    {
+     "source": "Digg",
+     "title": "The argument that AI advances mark the start of an 'intelligence explosion'",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RVXNUeDZuM0pjb3NXLW9Rd0hwNTdXaW1YVzdTVG5EWmxzZTBaN0RycWwxb3l4SGlvUkpMMndPV3gzUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-21T16:31:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
    "id": "black-friday-crosscall-vivez-chacune-de-vos-sorties-avec-outdoor-avec-confiance-",
    "title": "Black Friday Crosscall : vivez chacune de vos sorties avec outdoor avec confiance et intensité avec le Stellar-M6 Chamonix à prix réduit",
    "url": "https://www.bfmtv.com/tech/bons-plans/black-friday-crosscall-vivez-chacune-de-vos-sorties-avec-outdoor-avec-confiance-et-intensite-avec-le-stellar-m6-chamonix-a-prix-reduit_AB-202611220070.html",
@@ -764,7 +698,7 @@
    },
    "date": "2026-11-22T12:30:00.000Z",
    "categories": [],
-   "score": 2.5
+   "score": 2.3
   },
   {
    "id": "link-to-windows-votre-tablette-android-pourrait-devenir-le-second-ecran-de-votre",
@@ -783,26 +717,7 @@
    ],
    "date": "2026-11-22T07:04:59.000Z",
    "categories": [],
-   "score": 2.1
-  },
-  {
-   "id": "raspberry-pi-5-faut-il-vraiment-payer-8-ou-16-go-de-ram",
-   "title": "Raspberry Pi 5 : faut-il vraiment payer 8 ou 16 Go de RAM ?",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFRMM0pqaUMwM0JMSHg3MmUzaXdQTEdjcWUxeGxsem44cTkxWWtCU2xyYTl1aUYwMWhJaWJKdHpwLWVnM182aUxBLWdVUHVvdllxdkpkMXEwMGlxSkxGS1RlLXM4MUJKbEUzc2NMODJZUGloOUlidDRCU2JaUW5KVW55WTQwYmViemFtZ0NTRG1pWGlqbWZQOVFIYnlERG9uV2xCRWczOXhKX2FJT0RIYlhhLWE?oc=5",
-   "summary": "",
-   "sources": [
-    "Android MT"
-   ],
-   "articles": [
-    {
-     "source": "Android MT",
-     "title": "Raspberry Pi 5 : faut-il vraiment payer 8 ou 16 Go de RAM ?",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFRMM0pqaUMwM0JMSHg3MmUzaXdQTEdjcWUxeGxsem44cTkxWWtCU2xyYTl1aUYwMWhJaWJKdHpwLWVnM182aUxBLWdVUHVvdllxdkpkMXEwMGlxSkxGS1RlLXM4MUJKbEUzc2NMODJZUGloOUlidDRCU2JaUW5KVW55WTQwYmViemFtZ0NTRG1pWGlqbWZQOVFIYnlERG9uV2xCRWczOXhKX2FJT0RIYlhhLWE?oc=5"
-    }
-   ],
-   "date": "2026-11-22T06:54:55.000Z",
-   "categories": [],
-   "score": 2.1
+   "score": 1.8
   },
   {
    "id": "gta-6-recoit-plus-de-2000-avis-negatifs-sur-metacritic-des-le-lendemain-du-lance",
@@ -821,7 +736,45 @@
    ],
    "date": "2026-11-22T06:39:53.000Z",
    "categories": [],
-   "score": 2
+   "score": 1.8
+  },
+  {
+   "id": "raspberry-pi-5-faut-il-vraiment-payer-8-ou-16-go-de-ram",
+   "title": "Raspberry Pi 5 : faut-il vraiment payer 8 ou 16 Go de RAM ?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFRMM0pqaUMwM0JMSHg3MmUzaXdQTEdjcWUxeGxsem44cTkxWWtCU2xyYTl1aUYwMWhJaWJKdHpwLWVnM182aUxBLWdVUHVvdllxdkpkMXEwMGlxSkxGS1RlLXM4MUJKbEUzc2NMODJZUGloOUlidDRCU2JaUW5KVW55WTQwYmViemFtZ0NTRG1pWGlqbWZQOVFIYnlERG9uV2xCRWczOXhKX2FJT0RIYlhhLWE?oc=5",
+   "summary": "",
+   "sources": [
+    "Android MT"
+   ],
+   "articles": [
+    {
+     "source": "Android MT",
+     "title": "Raspberry Pi 5 : faut-il vraiment payer 8 ou 16 Go de RAM ?",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFRMM0pqaUMwM0JMSHg3MmUzaXdQTEdjcWUxeGxsem44cTkxWWtCU2xyYTl1aUYwMWhJaWJKdHpwLWVnM182aUxBLWdVUHVvdllxdkpkMXEwMGlxSkxGS1RlLXM4MUJKbEUzc2NMODJZUGloOUlidDRCU2JaUW5KVW55WTQwYmViemFtZ0NTRG1pWGlqbWZQOVFIYnlERG9uV2xCRWczOXhKX2FJT0RIYlhhLWE?oc=5"
+    }
+   ],
+   "date": "2026-11-22T06:54:55.000Z",
+   "categories": [],
+   "score": 1.8
+  },
+  {
+   "id": "galaxy-s26-ultra-est-ce-encore-un-bon-achat-pour-les-fetes-de-fin-d-annee",
+   "title": "Galaxy S26 Ultra : est-ce encore un bon achat pour les fêtes de fin d’année ?",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzQ4VHNLSU9xczdEaHVaaUZfMDF3eV82eHRwbkZkR1A5c09QVHZaakpwYUduMi02c1lEeko4YXFTdk5icGlpZVM2bEZsRVFwTnZudVBqR1RUMTVORG5iLXlzNklNT2xoTzlrbkZ6UHQtNTluUDc3dUNhOFNOTHJhUkx3Q2JNUFBRbGk3SnVQTzcyODZGS2VEMmJXSkJDbGMtRHBFR3ZGV0NRQjhKZFczREFzZU1FZTZ0b21TVUxJeU1NWVlkb1hvYXJQSQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Android MT"
+   ],
+   "articles": [
+    {
+     "source": "Android MT",
+     "title": "Galaxy S26 Ultra : est-ce encore un bon achat pour les fêtes de fin d’année ?",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzQ4VHNLSU9xczdEaHVaaUZfMDF3eV82eHRwbkZkR1A5c09QVHZaakpwYUduMi02c1lEeko4YXFTdk5icGlpZVM2bEZsRVFwTnZudVBqR1RUMTVORG5iLXlzNklNT2xoTzlrbkZ6UHQtNTluUDc3dUNhOFNOTHJhUkx3Q2JNUFBRbGk3SnVQTzcyODZGS2VEMmJXSkJDbGMtRHBFR3ZGV0NRQjhKZFczREFzZU1FZTZ0b21TVUxJeU1NWVlkb1hvYXJQSQ?oc=5"
+    }
+   ],
+   "date": "2026-11-22T06:42:41.000Z",
+   "categories": [],
+   "score": 1.8
   },
   {
    "id": "les-discussions-de-financement-de-cognition-visent-une-valorisation-de-75-millia",
@@ -934,25 +887,6 @@
     }
    ],
    "date": "2026-11-21T10:03:49.000Z",
-   "categories": [],
-   "score": 1
-  },
-  {
-   "id": "pyramide-sur-tf1-le-jeu-culte-revient-avec-arthur-des-le-4-janvier-2027",
-   "title": "Pyramide sur TF1 : le jeu culte revient avec Arthur dès le 4 janvier 2027",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iQTU1b1BXRWxfazd6V19Ob1JIcVFLdkpsV2hfdHYxbFQtWVNZdWp3REZKMjRmQzYzaGhkLWlMTGhHdjlQODR0N0toUTZXS3lZc0JhakFVcjdXYXFfWnQwQkNPS2VjUUVCZVFVdWw2aDRzdjYxMUE?oc=5",
-   "summary": "",
-   "sources": [
-    "MCE TV"
-   ],
-   "articles": [
-    {
-     "source": "MCE TV",
-     "title": "Pyramide sur TF1 : le jeu culte revient avec Arthur dès le 4 janvier 2027",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iQTU1b1BXRWxfazd6V19Ob1JIcVFLdkpsV2hfdHYxbFQtWVNZdWp3REZKMjRmQzYzaGhkLWlMTGhHdjlQODR0N0toUTZXS3lZc0JhakFVcjdXYXFfWnQwQkNPS2VjUUVCZVFVdWw2aDRzdjYxMUE?oc=5"
-    }
-   ],
-   "date": "2026-11-21T08:03:10.000Z",
    "categories": [],
    "score": 1
   }
