@@ -1,11 +1,11 @@
 {
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T13:28:39.431Z",
+ "generatedAt": "2026-11-22T18:07:53.198Z",
  "windowHours": 36,
  "counts": {
-  "articles": 1,
-  "raw": 1,
-  "media": 1
+  "articles": 2,
+  "raw": 2,
+  "media": 2
  },
  "scope": "eu",
  "lang": "en",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 1
+   "items": 0
   },
   {
    "source": "EU-Startups",
@@ -33,17 +33,17 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 12
+   "items": 8
   },
   {
    "source": "Google News · European unicorn valuation",
    "ok": true,
-   "items": 1
+   "items": 2
   },
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 17
+   "items": 11
   },
   {
    "source": "Sifted",
@@ -73,6 +73,27 @@
  ],
  "items": [
   {
+   "id": "eu-seeks-strategic-tech-investment-to-keep-startups-in-europe",
+   "title": "EU Seeks Strategic Tech Investment to Keep Startups in Europe",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlJIUm84WFJjRTdpYWl2OEtyUlpidXpGWllpRlE0MENyMGYxQlg5ZGpNTlh0YWVvejBaOXVyVmNvZHo1LVh3d3NGdGxndWRxSXFBOHlacnc1Mjkwd1Naa2dsdnlPbFZDa3FJcGtoRGxuOU5MVGlCdnpoS3FUTFZ1blhIdVFXd0thN3Vr?oc=5",
+   "summary": "",
+   "sources": [
+    "JournalArta"
+   ],
+   "articles": [
+    {
+     "source": "JournalArta",
+     "title": "EU Seeks Strategic Tech Investment to Keep Startups in Europe",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlJIUm84WFJjRTdpYWl2OEtyUlpidXpGWllpRlE0MENyMGYxQlg5ZGpNTlh0YWVvejBaOXVyVmNvZHo1LVh3d3NGdGxndWRxSXFBOHlacnc1Mjkwd1Naa2dsdnlPbFZDa3FJcGtoRGxuOU5MVGlCdnpoS3FUTFZ1blhIdVFXd0thN3Vr?oc=5"
+    }
+   ],
+   "date": "2026-11-22T14:40:23.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 5.7
+  },
+  {
    "id": "hurun-germany-unicorn-index-2026",
    "title": "Hurun Germany Unicorn Index 2026",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91b3hsLS0yeDFfbXlaRzNBMWFrZVhWbXljUTlTczRPNEN6Wmc0eFZ3aG1zYjhIbUk5TXo4YVptckpLblhnYlBvMHg5SkJsa3I4U1pUVzNHUTJlc2ZDSjhpX2pjalRRWEE?oc=5",
@@ -91,7 +112,7 @@
    "categories": [
     "Unicorns & scale-ups"
    ],
-   "score": 6
+   "score": 5.6
   }
  ]
 }

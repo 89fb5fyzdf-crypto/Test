@@ -1,11 +1,11 @@
 {
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T13:28:37.121Z",
+ "generatedAt": "2026-11-22T18:07:49.298Z",
  "windowHours": 36,
  "counts": {
-  "articles": 31,
-  "raw": 44,
-  "media": 25
+  "articles": 38,
+  "raw": 50,
+  "media": 24
  },
  "scope": "fr",
  "lang": "fr",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · \"French Tech\"",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "source": "Google News · Bpifrance startup",
@@ -43,17 +43,17 @@
   {
    "source": "Google News · Mistral AI",
    "ok": true,
-   "items": 30
+   "items": 26
   },
   {
    "source": "Google News · startup française levée de fonds",
    "ok": true,
-   "items": 8
+   "items": 6
   },
   {
    "source": "Google News · Station F",
    "ok": true,
-   "items": 0
+   "items": 1
   },
   {
    "source": "Journal du Net",
@@ -63,12 +63,12 @@
   {
    "source": "L'Usine Digitale",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "source": "Les Echos (start-up)",
    "ok": true,
-   "items": 100
+   "items": 78
   },
   {
    "source": "Maddyness",
@@ -147,7 +147,7 @@
     "Levées de fonds",
     "IA"
    ],
-   "score": 21.5
+   "score": 21.1
   },
   {
    "id": "je-veux-le-redire-avec-des-mots-humains-quand-jensen-huang-humiliait-le-patron-f",
@@ -156,9 +156,9 @@
    "summary": "",
    "sources": [
     "Le Figaro",
-    "MCE TV",
+    "21News",
     "Linformatique.org",
-    "21News"
+    "MCE TV"
    ],
    "articles": [
     {
@@ -167,9 +167,9 @@
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPek9jMkJ6ZU5mTVdXRG54aDFfMHNhZ1I0Q3pQWU43WHJ4TFdEZlpvRHpoTWQxb2tyV0cwUFlyenc5c21lZVdsRWZ5ZDRobUdGenVjY3dfTWNnT1VONlJmTUdNMHhCTVlsbkNBNUNXclp2NkJWc2pVdTVpUEI2cXhzNE9ZOXZQclRvMkRSWERTanFqSTF6QTB0dkJpS0daSnhEa29hYXBaT3RibzZLejRNZ0NWYm9obTdtLTc1WFpNZWx5LS1BS3c2dGg3UTJ1YmI1TGhmbDl6MEpwM0hkQUhJNHNRSUdIWGc?oc=5"
     },
     {
-     "source": "MCE TV",
-     "title": "Nvidia : quand Jensen Huang humiliait le patron français de Mistral AI sur scène",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem5FZTJTQjhKZUdwRnFQM1NPa1FweXJmQ1ZwWHItX2w4YnlJZVVpUDlCMmx6V0RWeDBqUWZSeTBKcXpBUXVYdDdVb3hqOXBESV9rQUFlTVZCZ2d1M3JWYVJrbEhWV3E4SlVncGxIN0JfRXBZZ19LZlg3b1NVX0xhTndsR3ZNU241OGln?oc=5"
+     "source": "21News",
+     "title": "Jensen Huang aurait humilie le patron français de Mistral AI devant des centaines de personnes pour son accent. La vidéo refait surface.",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU2FTREhMRlBOUjBnY1hDQ1RhNGRUdVdoak82ck5PMlM5d3gwTlg4VXYxVWtKRFJyVW9HT01BZDcyWjFsSkhlWUJjYVVrT0NBb25UaVVxd3dWUmJlV1BTNDJMX0F4dG02QS1NX0R6cUtwVEplOTVXMnhZb0dLOGxTLVFqMzdxaTU1c2IzTWpJXzdwUTlXN3FXdmdwZHVkMlhxVXVrY1JjNmlwR1FZRHpZcVpHRDBnSVA5a2IxdFA2VmVZYV80X3ZVQ2tKV2FRRjBzWVl0ZUlEM3FHb1hrUk03YTR5V0JWR1UxVGZjV2ln?oc=5"
     },
     {
      "source": "Linformatique.org",
@@ -177,16 +177,16 @@
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6cGp0MEZmYUpBY3VxZXViMTFQTDVReEQ5OFp1UGF5SE1OVExJQmk1cUJZcDFTYVBlTDFvaFBFc3M3RVF5VVBPWW1XT29yUDhpVjFpdUs3WDR5eWtrLU1ZTlNPRUJRdVA5VTd1anhMa1RfRDl5Q2tucw?oc=5"
     },
     {
-     "source": "21News",
-     "title": "Jensen Huang aurait humilie le patron français de Mistral AI devant des centaines de personnes pour son accent. La vidéo refait surface.",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU2FTREhMRlBOUjBnY1hDQ1RhNGRUdVdoak82ck5PMlM5d3gwTlg4VXYxVWtKRFJyVW9HT01BZDcyWjFsSkhlWUJjYVVrT0NBb25UaVVxd3dWUmJlV1BTNDJMX0F4dG02QS1NX0R6cUtwVEplOTVXMnhZb0dLOGxTLVFqMzdxaTU1c2IzTWpJXzdwUTlXN3FXdmdwZHVkMlhxVXVrY1JjNmlwR1FZRHpZcVpHRDBnSVA5a2IxdFA2VmVZYV80X3ZVQ2tKV2FRRjBzWVl0ZUlEM3FHb1hrUk03YTR5V0JWR1UxVGZjV2ln?oc=5"
+     "source": "MCE TV",
+     "title": "Nvidia : quand Jensen Huang humiliait le patron français de Mistral AI sur scène",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem5FZTJTQjhKZUdwRnFQM1NPa1FweXJmQ1ZwWHItX2w4YnlJZVVpUDlCMmx6V0RWeDBqUWZSeTBKcXpBUXVYdDdVb3hqOXBESV9rQUFlTVZCZ2d1M3JWYVJrbEhWV3E4SlVncGxIN0JfRXBZZ19LZlg3b1NVX0xhTndsR3ZNU241OGln?oc=5"
     }
    ],
    "date": "2026-11-21T09:22:29.000Z",
    "categories": [
     "IA"
    ],
-   "score": 14.6
+   "score": 14.2
   },
   {
    "id": "genesis-ai-propulse-les-levees-de-la-french-tech-a-526-millions-d-euros-cette-se",
@@ -209,7 +209,7 @@
     "IA",
     "Politique & écosystème"
    ],
-   "score": 9.3
+   "score": 9
   },
   {
    "id": "fayssac-la-commune-fait-l-acquisition-de-la-licorne-de-stanko-kristic",
@@ -231,7 +231,7 @@
     "Rachats & IPO",
     "Licornes & scale-ups"
    ],
-   "score": 9.2
+   "score": 8.8
   },
   {
    "id": "bayesline-leve-4-millions-et-impose-la-revue-du-code-ia",
@@ -253,7 +253,7 @@
     "Levées de fonds",
     "IA"
    ],
-   "score": 9
+   "score": 8.6
   },
   {
    "id": "perplexity-20-bat-mistral-et-mode-ia-google-2026",
@@ -275,7 +275,7 @@
     "Rachats & IPO",
     "IA"
    ],
-   "score": 8.8
+   "score": 8.4
   },
   {
    "id": "choose-france-l-investissement-des-entreprises-nouveau-point-noir-de-l-economie-",
@@ -296,7 +296,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 8.6
+   "score": 8.2
   },
   {
    "id": "mistral-vibe-euria-apertus-quelle-ia-generative-choisir-pour-se-liberer-de-chatg",
@@ -323,7 +323,7 @@
    "categories": [
     "IA"
    ],
-   "score": 7.4
+   "score": 7
   },
   {
    "id": "french-tech-ce-tissu-bordelais-qui-freine-les-missiles-patriot",
@@ -340,11 +340,30 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGF1NmozS1ZkS2FBMFlGMWpGTDIzS2FXdlc1ZlB4cF9UeGFteEYxb1hXQUNlZUZoYzZ4U19TbDJTOHF4VU5seHJZZ0Z4U3VPYXFGUlAyNUJzSWYtRkgwb0ExbW4wNnNiSVkyVklFcEFudy1HQW1zT2QxMkU3U2dRMkd1MF80NEdPTkJkbU5lZ0hsQ2JOZHhERXVHRmtORkNRNHJWbXJYVm9nLTdWcE80R3RHbXd5V21TaVJTRTZR?oc=5"
     }
    ],
-   "date": "2026-11-22T09:10:32.000Z",
+   "date": "2026-11-22T09:12:41.000Z",
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 6.6
+   "score": 6.3
+  },
+  {
+   "id": "avec-42-milliards-d-euros-de-promesses-d-investissements-en-france-emmanuel-macr",
+   "title": "Avec 42 milliards d'euros de promesses d'investissements en France, Emmanuel Macron défend son bilan industriel",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM3UyMFhpTlh3eGhQcmNwdjg3Z3VQZjhXSE1vNE9ONzA1ZWFqcHBGYWRsSUZxVzlmZ0pKLWJWVVZTTV9fcHZocE85T3hEQ1lua3RFc0JiM0xLVVlUb1JMYjFkN3M4dDFqVWtnR2VMTld2NkVORWkycXcwdUF3OVZWeGZjSXNiejY2dVljd0NGYjZRMmNzbUlrakFEU254QUlZbGtmaXJEQ2NfZEJyWHlROHMxMTd2eFhYR01hU0M4aU4tM3F6eEJjZHdVb3NZWkVCYlZyaHdnSmZyX1pJZXZZTzBoeWdhYm1XRzRXUUJLMzRUMGlFYVA0ODBsU0o?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Avec 42 milliards d'euros de promesses d'investissements en France, Emmanuel Macron défend son bilan industriel",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM3UyMFhpTlh3eGhQcmNwdjg3Z3VQZjhXSE1vNE9ONzA1ZWFqcHBGYWRsSUZxVzlmZ0pKLWJWVVZTTV9fcHZocE85T3hEQ1lua3RFc0JiM0xLVVlUb1JMYjFkN3M4dDFqVWtnR2VMTld2NkVORWkycXcwdUF3OVZWeGZjSXNiejY2dVljd0NGYjZRMmNzbUlrakFEU254QUlZbGtmaXJEQ2NfZEJyWHlROHMxMTd2eFhYR01hU0M4aU4tM3F6eEJjZHdVb3NZWkVCYlZyaHdnSmZyX1pJZXZZTzBoeWdhYm1XRzRXUUJLMzRUMGlFYVA0ODBsU0o?oc=5"
+    }
+   ],
+   "date": "2026-11-22T18:00:42.000Z",
+   "categories": [],
+   "score": 6
   },
   {
    "id": "levee-de-fonds-a-l-international-des-start-up-une-nouvelle-ere-pour-l-ecosysteme",
@@ -365,7 +384,7 @@
    "categories": [
     "Levées de fonds"
    ],
-   "score": 5.8
+   "score": 5.4
   },
   {
    "id": "kim-kardashian-tibo-inshape-et-paris-jackson-les-peoples-croques-par-philippe-be",
@@ -384,7 +403,7 @@
    ],
    "date": "2026-11-22T10:05:07.000Z",
    "categories": [],
-   "score": 5.7
+   "score": 5.3
   },
   {
    "id": "la-french-tech-phnom-penh-noue-des-accords-avec-trois-institutions-cambodgiennes",
@@ -426,47 +445,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.8
-  },
-  {
-   "id": "temoignage-on-a-demande-aux-ia-de-nous-dire-de-quoi-on-est-malade",
-   "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5",
-   "summary": "",
-   "sources": [
-    "Ouest-France"
-   ],
-   "articles": [
-    {
-     "source": "Ouest-France",
-     "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5"
-    }
-   ],
-   "date": "2026-11-22T06:00:28.000Z",
-   "categories": [
-    "IA"
-   ],
    "score": 4.4
-  },
-  {
-   "id": "restaurant-que-vaut-chez-monix-le-chalet-d-hiver-des-bistrots-pas-parisiens-a-as",
-   "title": "Restaurant : que vaut « Chez Monix », le chalet d'hiver des Bistrots Pas Parisiens à Asnières",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2lUNTJMT3VFM1RsOVl4UU5hNlhoV0dXaFlHTEhwZnV3d0hhR3RKRmZCR1l6MXJ2WEhFVVRXaG5weHZKWHl5SlFqbk41NW0yU1Fyd05JZVBsNFMxeDRaM1dDaFlkN3ZySTdkME5tYkJSOVNzUVVQRTlZaXdwY3d2aXN2V2tseUFjR0tOMy1YX1ZRR1RFamlYQWZRbFdHRkVzYzN5VEFsLWZhWVgtTjYxWU9ZUVZEYzk2X25FSmM1dVNKeGxGNXphZmZmazVzUkYxMlRWbHJyenZ6dw?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "Restaurant : que vaut « Chez Monix », le chalet d'hiver des Bistrots Pas Parisiens à Asnières",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2lUNTJMT3VFM1RsOVl4UU5hNlhoV0dXaFlHTEhwZnV3d0hhR3RKRmZCR1l6MXJ2WEhFVVRXaG5weHZKWHl5SlFqbk41NW0yU1Fyd05JZVBsNFMxeDRaM1dDaFlkN3ZySTdkME5tYkJSOVNzUVVQRTlZaXdwY3d2aXN2V2tseUFjR0tOMy1YX1ZRR1RFamlYQWZRbFdHRkVzYzN5VEFsLWZhWVgtTjYxWU9ZUVZEYzk2X25FSmM1dVNKeGxGNXphZmZmazVzUkYxMlRWbHJyenZ6dw?oc=5"
-    }
-   ],
-   "date": "2026-11-21T14:55:11.000Z",
-   "categories": [],
-   "score": 4.1
   },
   {
    "id": "ressemblant-a-une-licorne-un-cervide-est-capte-par-le-piege-photographique-d-une",
@@ -486,6 +465,48 @@
    "date": "2026-11-21T10:00:00.000Z",
    "categories": [
     "Licornes & scale-ups"
+   ],
+   "score": 4
+  },
+  {
+   "id": "fonctions-ia-sur-smartphone-lesquelles-sont-vraiment-utiles-et-lesquelles-sont-d",
+   "title": "Fonctions IA sur smartphone : lesquelles sont vraiment utiles, et lesquelles sont du recyclage marketing ?",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2hnTGNuQUdsVFNUanNSak5VazVkb0NHOF9jendxbFlHMllhdzVCa2Rqc3dfNHlfX0tFUV92eEZNeWFZTFlFWDhzY2VZU3h0dE1kUENmZzZiSS1ITi1ybjlfV0hiTGJBWXFlSWVaU2pDbnhvdjEyT3kzNmVJTlVmX2gwbkxrbDRRZ0NfRUk0SFlKQWw5NW51dEV3Z0w4UHluLWs1YmdTN1BwZWpwbzRCaTIwWENzcXY0eF9oaWR1dXhfZ0JOSlJidW9waWltZlZkNS1XN2w3RzFja3FnQlBfZGxCczMtN0ZZT0NRR3phaXZaQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Android MT"
+   ],
+   "articles": [
+    {
+     "source": "Android MT",
+     "title": "Fonctions IA sur smartphone : lesquelles sont vraiment utiles, et lesquelles sont du recyclage marketing ?",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2hnTGNuQUdsVFNUanNSak5VazVkb0NHOF9jendxbFlHMllhdzVCa2Rqc3dfNHlfX0tFUV92eEZNeWFZTFlFWDhzY2VZU3h0dE1kUENmZzZiSS1ITi1ybjlfV0hiTGJBWXFlSWVaU2pDbnhvdjEyT3kzNmVJTlVmX2gwbkxrbDRRZ0NfRUk0SFlKQWw5NW51dEV3Z0w4UHluLWs1YmdTN1BwZWpwbzRCaTIwWENzcXY0eF9oaWR1dXhfZ0JOSlJidW9waWltZlZkNS1XN2w3RzFja3FnQlBfZGxCczMtN0ZZT0NRR3phaXZaQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-22T05:49:49.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4
+  },
+  {
+   "id": "temoignage-on-a-demande-aux-ia-de-nous-dire-de-quoi-on-est-malade",
+   "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5",
+   "summary": "",
+   "sources": [
+    "Ouest-France"
+   ],
+   "articles": [
+    {
+     "source": "Ouest-France",
+     "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5"
+    }
+   ],
+   "date": "2026-11-22T06:00:28.000Z",
+   "categories": [
+    "IA"
    ],
    "score": 4
   },
@@ -528,6 +549,25 @@
    "score": 4
   },
   {
+   "id": "restaurant-que-vaut-chez-monix-le-chalet-d-hiver-des-bistrots-pas-parisiens-a-as",
+   "title": "Restaurant : que vaut « Chez Monix », le chalet d'hiver des Bistrots Pas Parisiens à Asnières",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2lUNTJMT3VFM1RsOVl4UU5hNlhoV0dXaFlHTEhwZnV3d0hhR3RKRmZCR1l6MXJ2WEhFVVRXaG5weHZKWHl5SlFqbk41NW0yU1Fyd05JZVBsNFMxeDRaM1dDaFlkN3ZySTdkME5tYkJSOVNzUVVQRTlZaXdwY3d2aXN2V2tseUFjR0tOMy1YX1ZRR1RFamlYQWZRbFdHRkVzYzN5VEFsLWZhWVgtTjYxWU9ZUVZEYzk2X25FSmM1dVNKeGxGNXphZmZmazVzUkYxMlRWbHJyenZ6dw?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Restaurant : que vaut « Chez Monix », le chalet d'hiver des Bistrots Pas Parisiens à Asnières",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2lUNTJMT3VFM1RsOVl4UU5hNlhoV0dXaFlHTEhwZnV3d0hhR3RKRmZCR1l6MXJ2WEhFVVRXaG5weHZKWHl5SlFqbk41NW0yU1Fyd05JZVBsNFMxeDRaM1dDaFlkN3ZySTdkME5tYkJSOVNzUVVQRTlZaXdwY3d2aXN2V2tseUFjR0tOMy1YX1ZRR1RFamlYQWZRbFdHRkVzYzN5VEFsLWZhWVgtTjYxWU9ZUVZEYzk2X25FSmM1dVNKeGxGNXphZmZmazVzUkYxMlRWbHJyenZ6dw?oc=5"
+    }
+   ],
+   "date": "2026-11-21T14:55:11.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
    "id": "montreal-mise-sur-la-magie-de-noel-pour-seduire-les-touristes-francais",
    "title": "Montréal mise sur la magie de Noël pour séduire les touristes français",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRzduVDdKUWZBUl9PdUhSUXZ6RVc0ZHlQd2VqMWhqR1ZXT01WMG9oNmhxNlRGeFZtaGJjSVhoZzY3RTdqRHB1dXB1NVNRbDBXMDk4NlU4TFQyZlowRTZKM0RzanBxLWVRdGlWS1B4d2xBLTEzbXdSM0thVTFvU3ExUWJvaVZlV3RPZTh6T0FOZmJGdWFLM0s2cFZXNEc5Q1RTM1I4MHgwMTROZFNoWTF0Y29zS2VwcTB1LTlKWmNOUmo0UUNoSEc1VU9rNUxkS2M5TzVMM3VoYw?oc=5",
@@ -545,6 +585,33 @@
    "date": "2026-11-21T10:30:08.000Z",
    "categories": [],
    "score": 4
+  },
+  {
+   "id": "90-des-francais-ignorent-encore-cette-offre-carrefour-destocke-cette-tv-qled-par",
+   "title": "90% des Français ignorent encore cette offre : Carrefour déstocke cette TV QLED par palettes mais dès mardi, ça risque d'être trop tard",
+   "url": "https://www.bfmtv.com/tech/bons-plans/90-des-francais-ignorent-encore-cette-offre-carrefour-destocke-cette-tv-qled-par-palettes-mais-des-mardi-ca-risque-d-etre-trop-tard_AB-202611220056.html",
+   "summary": "Un grand écran 4K UHD de 55 pouces pour vos films, séries et jeux à la maison, c’est possible à un montant nettement plus bas. Dès mardi, Carrefour propose un arrivage par palettes de la Smart TV QLED Hisense 55E7S, avec 100 euros de remise, en stock limité.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/es7gh_NzPXGaY5Ajl4FiFyUbAN0=/0x0:1600x900/800x0/images/Offre-Carrefour-2387475.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "90% des Français ignorent encore cette offre : Carrefour déstocke cette TV QLED par palettes mais dès mardi, ça risque d'être trop tard",
+     "url": "https://www.bfmtv.com/tech/bons-plans/90-des-francais-ignorent-encore-cette-offre-carrefour-destocke-cette-tv-qled-par-palettes-mais-des-mardi-ca-risque-d-etre-trop-tard_AB-202611220056.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Un grand écran 4K UHD de 55 pouces pour vos films, séries et jeux à la maison, c’est possible à un montant nettement plus bas.",
+    "points": [
+     "Dès mardi, Carrefour propose un arrivage par palettes de la Smart TV QLED Hisense 55E7S, avec 100 euros de remise, en stock limité."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-22T14:21:00.000Z",
+   "categories": [],
+   "score": 3.7
   },
   {
    "id": "complement-livret-a-les-francais-adorent-ce-compte-remunere-et-vu-les-atouts-on-",
@@ -565,16 +632,15 @@
    "brief": {
     "essentiel": "Avoir un livret d’épargne comme le Livret A est un bon point de départ pour faire travailler son argent sur le long terme et en récolter les fruits.",
     "points": [
-     "Entre le Livret A et un placement mieux payé, des épargnants ont déjà choisi.",
-     "Fortuneo propose le Livret+, avec un taux de 5,5 % brut pendant 3 mois pour une première ouverture.",
      "Banque en ligne du groupe Crédit Agricole, BforBank met en avant une promotion sur son Livret d’épargne Bfor+.",
-     "Les nouveaux souscripteurs peuvent y placer leur épargne au taux boosté de 3,5 % brut pendant 12 mois."
+     "Les nouveaux souscripteurs peuvent y placer leur épargne au taux boosté de 3,5 % brut pendant 12 mois.",
+     "Chez Trade Republic, un compte rémunéré permet d’en dépasser les rendements contraints."
     ],
     "facts": []
    },
-   "date": "2026-11-21T22:25:00.000Z",
+   "date": "2026-11-22T06:36:00.000Z",
    "categories": [],
-   "score": 3.8
+   "score": 3.4
   },
   {
    "id": "il-se-distribue-comme-des-petits-pains-depuis-samedi-ce-bracelet-connecte-fitbit",
@@ -601,7 +667,7 @@
    },
    "date": "2026-11-22T10:23:00.000Z",
    "categories": [],
-   "score": 3.7
+   "score": 3.4
   },
   {
    "id": "les-geants-de-la-tech-adorent-ce-logiciel-francais",
@@ -628,27 +694,6 @@
    },
    "date": "2026-11-22T08:00:04.000Z",
    "categories": [],
-   "score": 3.5
-  },
-  {
-   "id": "ai-agent-swarms-compete-in-minecraft-and-mindustry-experiments",
-   "title": "AI agent swarms compete in Minecraft and Mindustry experiments",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwaTdhUGdjVVNlbVp6dDdJUGR2OUVoUVB5dldUSGRpRFNzUVZjTnpudklsRmpXM3pWT1NyVC1ZenJMdw?oc=5",
-   "summary": "",
-   "sources": [
-    "Digg"
-   ],
-   "articles": [
-    {
-     "source": "Digg",
-     "title": "AI agent swarms compete in Minecraft and Mindustry experiments",
-     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwaTdhUGdjVVNlbVp6dDdJUGR2OUVoUVB5dldUSGRpRFNzUVZjTnpudklsRmpXM3pWT1NyVC1ZenJMdw?oc=5"
-    }
-   ],
-   "date": "2026-11-21T16:25:39.000Z",
-   "categories": [
-    "IA"
-   ],
    "score": 3.2
   },
   {
@@ -673,21 +718,21 @@
    "score": 3
   },
   {
-   "id": "intelligence-artificielle-c-est-quoi-un-prompt",
-   "title": "Intelligence artificielle : c’est quoi un « prompt » ?",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVm8zMlVfaTJyY1pQcEVMenp1UllCcldiaE5JdXowWVNLZ1Y5ZjA1ZVpUbzFOWUVzOUluNnQ2dmNHcXNzQW05R3haenZ1Y0UyeXdKQmpxR3pKLTBTRVlyX0VWTkh6MFV2QTNobDBGQi0wQU16U0Q2VUxIU0czYnRXelNlYWR0OTQtbERNZmFnZzZOVU91SFAxVlpBeVIyQTJjUmlOeGtITThOZGt5MzNEN2xQX1lrN25NZlV0My01MEl3dEZ6VmUwNGp6RE5GZ2JJNlpWV3A0bnpBNXJDazRv?oc=5",
+   "id": "ai-agent-swarms-compete-in-minecraft-and-mindustry-experiments",
+   "title": "AI agent swarms compete in Minecraft and Mindustry experiments",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwaTdhUGdjVVNlbVp6dDdJUGR2OUVoUVB5dldUSGRpRFNzUVZjTnpudklsRmpXM3pWT1NyVC1ZenJMdw?oc=5",
    "summary": "",
    "sources": [
-    "Ouest-France"
+    "Digg"
    ],
    "articles": [
     {
-     "source": "Ouest-France",
-     "title": "Intelligence artificielle : c’est quoi un « prompt » ?",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVm8zMlVfaTJyY1pQcEVMenp1UllCcldiaE5JdXowWVNLZ1Y5ZjA1ZVpUbzFOWUVzOUluNnQ2dmNHcXNzQW05R3haenZ1Y0UyeXdKQmpxR3pKLTBTRVlyX0VWTkh6MFV2QTNobDBGQi0wQU16U0Q2VUxIU0czYnRXelNlYWR0OTQtbERNZmFnZzZOVU91SFAxVlpBeVIyQTJjUmlOeGtITThOZGt5MzNEN2xQX1lrN25NZlV0My01MEl3dEZ6VmUwNGp6RE5GZ2JJNlpWV3A0bnpBNXJDazRv?oc=5"
+     "source": "Digg",
+     "title": "AI agent swarms compete in Minecraft and Mindustry experiments",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwaTdhUGdjVVNlbVp6dDdJUGR2OUVoUVB5dldUSGRpRFNzUVZjTnpudklsRmpXM3pWT1NyVC1ZenJMdw?oc=5"
     }
    ],
-   "date": "2026-11-21T06:00:32.000Z",
+   "date": "2026-11-21T16:25:39.000Z",
    "categories": [
     "IA"
    ],
@@ -719,7 +764,26 @@
    },
    "date": "2026-11-22T12:30:00.000Z",
    "categories": [],
-   "score": 2.9
+   "score": 2.5
+  },
+  {
+   "id": "link-to-windows-votre-tablette-android-pourrait-devenir-le-second-ecran-de-votre",
+   "title": "Link to Windows : votre tablette Android pourrait devenir le second écran de votre PC",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZXpVeTBhcVZxaGRvUUlmOUotSEQ0TGpsVUtrWE92OExkdlJiOTVLay1SN3FTSGhGMVp0VDJTeDFiME92clh4WXVZS3QwQzFobmU0VzNkZ0ZkU1Mtd0JsWlpYckt4Wnp5cTNSSlh4RW51dld2TkZxMFlycEZxT3F2V3dBc0xTcFhSZVFFcUxNX1M5TXhqbXZkMk01aHBjdVNDRFlWTHFsTjNvVThNaUI4dk50V0U5SWhFc1BLNmVuaEViVXJfa3l2anRZSQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Android MT"
+   ],
+   "articles": [
+    {
+     "source": "Android MT",
+     "title": "Link to Windows : votre tablette Android pourrait devenir le second écran de votre PC",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZXpVeTBhcVZxaGRvUUlmOUotSEQ0TGpsVUtrWE92OExkdlJiOTVLay1SN3FTSGhGMVp0VDJTeDFiME92clh4WXVZS3QwQzFobmU0VzNkZ0ZkU1Mtd0JsWlpYckt4Wnp5cTNSSlh4RW51dld2TkZxMFlycEZxT3F2V3dBc0xTcFhSZVFFcUxNX1M5TXhqbXZkMk01aHBjdVNDRFlWTHFsTjNvVThNaUI4dk50V0U5SWhFc1BLNmVuaEViVXJfa3l2anRZSQ?oc=5"
+    }
+   ],
+   "date": "2026-11-22T07:04:59.000Z",
+   "categories": [],
+   "score": 2.1
   },
   {
    "id": "raspberry-pi-5-faut-il-vraiment-payer-8-ou-16-go-de-ram",
@@ -738,7 +802,7 @@
    ],
    "date": "2026-11-22T06:54:55.000Z",
    "categories": [],
-   "score": 2.5
+   "score": 2.1
   },
   {
    "id": "gta-6-recoit-plus-de-2000-avis-negatifs-sur-metacritic-des-le-lendemain-du-lance",
@@ -756,33 +820,6 @@
     }
    ],
    "date": "2026-11-22T06:39:53.000Z",
-   "categories": [],
-   "score": 2.4
-  },
-  {
-   "id": "un-client-escroque-doit-desormais-etre-immediatement-rembourse-par-sa-banque-dec",
-   "title": "Un client escroqué doit désormais être immédiatement remboursé par sa banque, décide la Cour de justice de l'Union européenne",
-   "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1558189-hf1-cjue-fraude-banque/",
-   "summary": "Selon la Banque de France, les conflits entre clients et établissements bancaires se multiplient. Certains clients victimes d'une arnaque bancaire sont indemnisés mais dans d'autres cas les banques refusent de rembourser.",
-   "image": "https://img-0.journaldunet.com/HzHDZU4opTqUCiGX-1f-hRD42vY=/1280x/smart/6c77a6ce9ae84d91888331c04c242627/ccmcms-jdn/39546425.jpg",
-   "sources": [
-    "Journal du Net"
-   ],
-   "articles": [
-    {
-     "source": "Journal du Net",
-     "title": "Un client escroqué doit désormais être immédiatement remboursé par sa banque, décide la Cour de justice de l'Union européenne",
-     "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1558189-hf1-cjue-fraude-banque/"
-    }
-   ],
-   "brief": {
-    "essentiel": "Selon la Banque de France, les conflits entre clients et établissements bancaires se multiplient.",
-    "points": [
-     "Certains clients victimes d'une arnaque bancaire sont indemnisés mais dans d'autres cas les banques refusent de rembourser."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-21T05:55:02.000Z",
    "categories": [],
    "score": 2
   },
@@ -821,6 +858,101 @@
     }
    ],
    "date": "2026-11-21T11:55:41.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "bon-plan-oppo-reno15-fs-5g-un-smartphone-a-grosse-batterie-et-512-go-de-stockage",
+   "title": "Bon plan : OPPO Reno15 FS 5G, un smartphone à grosse batterie et 512 Go de stockage",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeGxLWlRCS0MyNW5zajczdkx1TDlYYmMzV0c1TWhPMnRBdUIxQmhKRUpUT0FLdXhSV2JNSmFpMWk5Q1oxeU1IQ3FEN1A0ZHVmZll1OXBtYTdJWWJUclpTWmNxWkFwLXRDOHpFeGthN0hfTW5fT1hvWmZaZmllSHZNY1FvX1FHbVpkTElIODJpUWljTXJyblFTYm5ZNFdaeC1iSGVEaDdYbUdlVjFydHFoeXdQRkxsWlNxOUdKT1ZZQnFvRlBGVXRvM1ZPQlNfVUZkRzdjRG83cGxKOUhOZGhod0hGeUJQT3FwRTNuWW9R?oc=5",
+   "summary": "",
+   "sources": [
+    "Android MT"
+   ],
+   "articles": [
+    {
+     "source": "Android MT",
+     "title": "Bon plan : OPPO Reno15 FS 5G, un smartphone à grosse batterie et 512 Go de stockage",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeGxLWlRCS0MyNW5zajczdkx1TDlYYmMzV0c1TWhPMnRBdUIxQmhKRUpUT0FLdXhSV2JNSmFpMWk5Q1oxeU1IQ3FEN1A0ZHVmZll1OXBtYTdJWWJUclpTWmNxWkFwLXRDOHpFeGthN0hfTW5fT1hvWmZaZmllSHZNY1FvX1FHbVpkTElIODJpUWljTXJyblFTYm5ZNFdaeC1iSGVEaDdYbUdlVjFydHFoeXdQRkxsWlNxOUdKT1ZZQnFvRlBGVXRvM1ZPQlNfVUZkRzdjRG83cGxKOUhOZGhod0hGeUJQT3FwRTNuWW9R?oc=5"
+    }
+   ],
+   "date": "2026-11-21T11:01:00.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "kate-middleton-devoile-heal-son-documentaire-sur-l-apres-cancer-le-29-novembre",
+   "title": "Kate Middleton dévoile « Heal », son documentaire sur l’après-cancer, le 29 novembre",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWRScVVqSWNVZDdfaEt5MlNfWmtiWnlKc1hXemQtSl9MN3UxRDJKdWJvQk1GNWhoQlkzd19FbnBtcW9jUTZOQkI3dHB1MlJfbS0tUGxHclUtWUxqcko2NnJvR0pXVlpvUTFZOHRqSzgwb3E4WXQ5OV9pREc3WHpDU2ZXNlpYMTYw?oc=5",
+   "summary": "",
+   "sources": [
+    "MCE TV"
+   ],
+   "articles": [
+    {
+     "source": "MCE TV",
+     "title": "Kate Middleton dévoile « Heal », son documentaire sur l’après-cancer, le 29 novembre",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWRScVVqSWNVZDdfaEt5MlNfWmtiWnlKc1hXemQtSl9MN3UxRDJKdWJvQk1GNWhoQlkzd19FbnBtcW9jUTZOQkI3dHB1MlJfbS0tUGxHclUtWUxqcko2NnJvR0pXVlpvUTFZOHRqSzgwb3E4WXQ5OV9pREc3WHpDU2ZXNlpYMTYw?oc=5"
+    }
+   ],
+   "date": "2026-11-21T18:01:54.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "brillante-le-thriller-avec-jessica-chastain-domine-le-top-10-netflix-de-91-pays",
+   "title": "« Brillante » : le thriller avec Jessica Chastain domine le top 10 Netflix de 91 pays",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0txd2E2Vk1LSzJRNG1IZGlUMGpXd2t4bXBMZWVzN2lpMENac3hib0xFbDVTbUh6WDBKSE1DbGRqNUN6RV95bm9RVUY3by1UY0pLWDNydVUzeHB0cVBrV01hMWJYUWpCWjdyQWJfb1BSVU94SWRpNktRZ0ZhcXVLd3gtd05jN29TZl9XOFFoZw?oc=5",
+   "summary": "",
+   "sources": [
+    "MCE TV"
+   ],
+   "articles": [
+    {
+     "source": "MCE TV",
+     "title": "« Brillante » : le thriller avec Jessica Chastain domine le top 10 Netflix de 91 pays",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0txd2E2Vk1LSzJRNG1IZGlUMGpXd2t4bXBMZWVzN2lpMENac3hib0xFbDVTbUh6WDBKSE1DbGRqNUN6RV95bm9RVUY3by1UY0pLWDNydVUzeHB0cVBrV01hMWJYUWpCWjdyQWJfb1BSVU94SWRpNktRZ0ZhcXVLd3gtd05jN29TZl9XOFFoZw?oc=5"
+    }
+   ],
+   "date": "2026-11-21T15:01:48.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "james-bond-apres-robert-pattinson-le-debat-sur-un-007-plus-diversifie-relance",
+   "title": "James Bond : après Robert Pattinson, le débat sur un 007 plus diversifié relancé",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbE54b0F4bkFNV2lKNDBsX3lscTRPY19tYmFKeS1TV09Ub1plWUlxVmF1V3drN2NjZjIxaXdINVZjWHlUb3h3eDQwd2JNVG83Y04tT09Xdl9EeFNMZm9GcEJoSm13bndVdFZmT0VheGxWdHExQmYzZDVwU2RCTzZMbmFsb0NBZw?oc=5",
+   "summary": "",
+   "sources": [
+    "MCE TV"
+   ],
+   "articles": [
+    {
+     "source": "MCE TV",
+     "title": "James Bond : après Robert Pattinson, le débat sur un 007 plus diversifié relancé",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbE54b0F4bkFNV2lKNDBsX3lscTRPY19tYmFKeS1TV09Ub1plWUlxVmF1V3drN2NjZjIxaXdINVZjWHlUb3h3eDQwd2JNVG83Y04tT09Xdl9EeFNMZm9GcEJoSm13bndVdFZmT0VheGxWdHExQmYzZDVwU2RCTzZMbmFsb0NBZw?oc=5"
+    }
+   ],
+   "date": "2026-11-21T10:03:49.000Z",
+   "categories": [],
+   "score": 1
+  },
+  {
+   "id": "pyramide-sur-tf1-le-jeu-culte-revient-avec-arthur-des-le-4-janvier-2027",
+   "title": "Pyramide sur TF1 : le jeu culte revient avec Arthur dès le 4 janvier 2027",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iQTU1b1BXRWxfazd6V19Ob1JIcVFLdkpsV2hfdHYxbFQtWVNZdWp3REZKMjRmQzYzaGhkLWlMTGhHdjlQODR0N0toUTZXS3lZc0JhakFVcjdXYXFfWnQwQkNPS2VjUUVCZVFVdWw2aDRzdjYxMUE?oc=5",
+   "summary": "",
+   "sources": [
+    "MCE TV"
+   ],
+   "articles": [
+    {
+     "source": "MCE TV",
+     "title": "Pyramide sur TF1 : le jeu culte revient avec Arthur dès le 4 janvier 2027",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iQTU1b1BXRWxfazd6V19Ob1JIcVFLdkpsV2hfdHYxbFQtWVNZdWp3REZKMjRmQzYzaGhkLWlMTGhHdjlQODR0N0toUTZXS3lZc0JhakFVcjdXYXFfWnQwQkNPS2VjUUVCZVFVdWw2aDRzdjYxMUE?oc=5"
+    }
+   ],
+   "date": "2026-11-21T08:03:10.000Z",
    "categories": [],
    "score": 1
   }
