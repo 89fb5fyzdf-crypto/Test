@@ -1,0 +1,75 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-22T09:14:16.993Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 0,
+  "raw": 0,
+  "media": 0
+ },
+ "scope": "eu",
+ "lang": "en",
+ "sources": [
+  {
+   "source": "City AM",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "source": "EU-Startups",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "Financial Times",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "Google News · Europe scaleup mega round billion",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "source": "Google News · European startup raises Series",
+   "ok": true,
+   "items": 22
+  },
+  {
+   "source": "Google News · European unicorn valuation",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "Google News · UK startup raises funding round",
+   "ok": true,
+   "items": 29
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "Tech.eu",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Tech.eu (via Google News)",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "source": "TechCrunch Europe",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "UKTN",
+   "ok": true,
+   "items": 10
+  }
+ ],
+ "items": []
+}
