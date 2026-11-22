@@ -1,11 +1,11 @@
 {
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T09:14:16.993Z",
+ "generatedAt": "2026-11-22T13:28:39.431Z",
  "windowHours": 36,
  "counts": {
-  "articles": 0,
-  "raw": 0,
-  "media": 0
+  "articles": 1,
+  "raw": 1,
+  "media": 1
  },
  "scope": "eu",
  "lang": "en",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "source": "EU-Startups",
@@ -23,7 +23,7 @@
   {
    "source": "Financial Times",
    "ok": true,
-   "items": 1
+   "items": 2
   },
   {
    "source": "Google News · Europe scaleup mega round billion",
@@ -33,7 +33,7 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 22
+   "items": 12
   },
   {
    "source": "Google News · European unicorn valuation",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 29
+   "items": 17
   },
   {
    "source": "Sifted",
@@ -58,7 +58,7 @@
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 8
+   "items": 4
   },
   {
    "source": "TechCrunch Europe",
@@ -71,5 +71,27 @@
    "items": 10
   }
  ],
- "items": []
+ "items": [
+  {
+   "id": "hurun-germany-unicorn-index-2026",
+   "title": "Hurun Germany Unicorn Index 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91b3hsLS0yeDFfbXlaRzNBMWFrZVhWbXljUTlTczRPNEN6Wmc0eFZ3aG1zYjhIbUk5TXo4YVptckpLblhnYlBvMHg5SkJsa3I4U1pUVzNHUTJlc2ZDSjhpX2pjalRRWEE?oc=5",
+   "summary": "",
+   "sources": [
+    "胡润百富"
+   ],
+   "articles": [
+    {
+     "source": "胡润百富",
+     "title": "Hurun Germany Unicorn Index 2026",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91b3hsLS0yeDFfbXlaRzNBMWFrZVhWbXljUTlTczRPNEN6Wmc0eFZ3aG1zYjhIbUk5TXo4YVptckpLblhnYlBvMHg5SkJsa3I4U1pUVzNHUTJlc2ZDSjhpX2pjalRRWEE?oc=5"
+    }
+   ],
+   "date": "2026-11-22T01:43:44.000Z",
+   "categories": [
+    "Unicorns & scale-ups"
+   ],
+   "score": 6
+  }
+ ]
 }

@@ -1,11 +1,11 @@
 {
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T09:14:13.656Z",
+ "generatedAt": "2026-11-22T13:28:37.121Z",
  "windowHours": 36,
  "counts": {
   "articles": 31,
   "raw": 44,
-  "media": 27
+  "media": 25
  },
  "scope": "fr",
  "lang": "fr",
@@ -28,17 +28,17 @@
   {
    "source": "Google News · \"French Tech\"",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "source": "Google News · Bpifrance startup",
    "ok": true,
-   "items": 3
+   "items": 0
   },
   {
    "source": "Google News · licorne française",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "source": "Google News · Mistral AI",
@@ -48,12 +48,12 @@
   {
    "source": "Google News · startup française levée de fonds",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "source": "Google News · Station F",
    "ok": true,
-   "items": 4
+   "items": 0
   },
   {
    "source": "Journal du Net",
@@ -63,7 +63,7 @@
   {
    "source": "L'Usine Digitale",
    "ok": true,
-   "items": 4
+   "items": 2
   },
   {
    "source": "Les Echos (start-up)",
@@ -101,8 +101,8 @@
    "sources": [
     "FrenchWeb",
     "Frenchweb.fr",
-    "Brief IA",
     "lefilia.fr",
+    "Brief IA",
     "Foro3D"
    ],
    "articles": [
@@ -117,14 +117,14 @@
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUHV5Z3VobUl5bU11T3NkdGR0dlBkbUFmMVNSVE5KS0dvRExoMGVrRVlUZ3JNeXAwa29vN0E5N2hqcEJjZWJSZlJYVUdzX0ZfMDBtOUtiMlIteV80UklIck9IcWRTR2VnYnJKY01MYVNSN01XOXlpSlRhT0h4UjJ3YzFZY0FscU0wak5oYnJTLWRKVDE4Vm1WVVc4bUktSzhXb0ZNc2IxSlMtZnpGeTlTLUlXNTBmXzQ1bS13ZFhjcWJtSWpUYUdNa1hucmNhZGRRcDcyUktGYldFZ3ZaUFk5eVV5bkxEQ0JrVDFDbnpmSGlHWGd4RXNKdw?oc=5"
     },
     {
-     "source": "Brief IA",
-     "title": "Mistral reçoit 100 millions d’euros de Deutsche Telekom",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gb2hUYzlyelBCeXNhRU9pYzk1SlRjT0d0V1RzY0dmZjQ3LVN2alVMUHpPYjhta01qSk9YeFhsdHduTXI5aW5ncm10M2MzekM4b2dnQ1M1NFFSSVpMYm5JYmR5c0poWkZSTHVnR3RfcUw?oc=5"
-    },
-    {
      "source": "lefilia.fr",
      "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFZIOXNrMGk1LXlJRi1QMUlGcURLNVRmdUFCaWUxZXlYYVdJdkxaSzdYc3UybVMtOGo0WE1vYjFZS2d1MHJOZDlld3pybkNJRkFzYXR0MFl1RUdmZ1NtSmxya0IyMzA5RWRhSnBQdl8xT3pJanhFSHFybEc4WTY4ZnkxNzlHb19kMDJ0YVhSR0FVNTNzQ2J3X1NRNDNhMnI0UkxUcDVJTFNyWTY3cVhtb19JdDhpbzFEek9KdzI3QzlLVGRDR0hz?oc=5"
+    },
+    {
+     "source": "Brief IA",
+     "title": "Mistral reçoit 100 millions d’euros de Deutsche Telekom",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gb2hUYzlyelBCeXNhRU9pYzk1SlRjT0d0V1RzY0dmZjQ3LVN2alVMUHpPYjhta01qSk9YeFhsdHduTXI5aW5ncm10M2MzekM4b2dnQ1M1NFFSSVpMYm5JYmR5c0poWkZSTHVnR3RfcUw?oc=5"
     },
     {
      "source": "Foro3D",
@@ -147,7 +147,7 @@
     "Levées de fonds",
     "IA"
    ],
-   "score": 21.8
+   "score": 21.5
   },
   {
    "id": "je-veux-le-redire-avec-des-mots-humains-quand-jensen-huang-humiliait-le-patron-f",
@@ -186,7 +186,7 @@
    "categories": [
     "IA"
    ],
-   "score": 15
+   "score": 14.6
   },
   {
    "id": "genesis-ai-propulse-les-levees-de-la-french-tech-a-526-millions-d-euros-cette-se",
@@ -209,7 +209,7 @@
     "IA",
     "Politique & écosystème"
    ],
-   "score": 9.7
+   "score": 9.3
   },
   {
    "id": "fayssac-la-commune-fait-l-acquisition-de-la-licorne-de-stanko-kristic",
@@ -231,7 +231,51 @@
     "Rachats & IPO",
     "Licornes & scale-ups"
    ],
-   "score": 9.6
+   "score": 9.2
+  },
+  {
+   "id": "bayesline-leve-4-millions-et-impose-la-revue-du-code-ia",
+   "title": "Bayesline lève 4 millions et impose la revue du code IA",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jWEtON1pSR3VVWHEtR0kyaUtUeFF6bHVGVkVzSXRZZ2JjbFI4aXBlTDBrUWRQRV9iS1BMeUxiTFVEbkMyeENBYnhGTHg5eHZDR1UwWDB3T1hwUjFFSFRLSnpmNFlRSlR1NFR3OFAxYjBIUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Brief IA"
+   ],
+   "articles": [
+    {
+     "source": "Brief IA",
+     "title": "Bayesline lève 4 millions et impose la revue du code IA",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jWEtON1pSR3VVWHEtR0kyaUtUeFF6bHVGVkVzSXRZZ2JjbFI4aXBlTDBrUWRQRV9iS1BMeUxiTFVEbkMyeENBYnhGTHg5eHZDR1UwWDB3T1hwUjFFSFRLSnpmNFlRSlR1NFR3OFAxYjBIUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-22T13:01:15.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 9
+  },
+  {
+   "id": "perplexity-20-bat-mistral-et-mode-ia-google-2026",
+   "title": "Perplexity 20 $ bat Mistral et Mode IA Google [2026]",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRR2dtNTJtUUdObXM2aWxJa2RJS2Y0SVVxUU1lS3J3Y0Q5aWZRWk5oM01WanFYMXpTc3pWN0p0RmVHY2xnSlc5SFFjRk5Md2lOeFVYYW1mX20xTXZKanVXQVJ6Z1JMX1Y3eTRlTjZoRU8wVTJDc0RybEh1eWEyUTg?oc=5",
+   "summary": "",
+   "sources": [
+    "shattered.io"
+   ],
+   "articles": [
+    {
+     "source": "shattered.io",
+     "title": "Perplexity 20 $ bat Mistral et Mode IA Google [2026]",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRR2dtNTJtUUdObXM2aWxJa2RJS2Y0SVVxUU1lS3J3Y0Q5aWZRWk5oM01WanFYMXpTc3pWN0p0RmVHY2xnSlc5SFFjRk5Md2lOeFVYYW1mX20xTXZKanVXQVJ6Z1JMX1Y3eTRlTjZoRU8wVTJDc0RybEh1eWEyUTg?oc=5"
+    }
+   ],
+   "date": "2026-11-22T11:10:35.000Z",
+   "categories": [
+    "Rachats & IPO",
+    "IA"
+   ],
+   "score": 8.8
   },
   {
    "id": "choose-france-l-investissement-des-entreprises-nouveau-point-noir-de-l-economie-",
@@ -252,7 +296,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 8.9
+   "score": 8.6
   },
   {
    "id": "mistral-vibe-euria-apertus-quelle-ia-generative-choisir-pour-se-liberer-de-chatg",
@@ -279,7 +323,7 @@
    "categories": [
     "IA"
    ],
-   "score": 7.7
+   "score": 7.4
   },
   {
    "id": "french-tech-ce-tissu-bordelais-qui-freine-les-missiles-patriot",
@@ -300,7 +344,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 7
+   "score": 6.6
   },
   {
    "id": "levee-de-fonds-a-l-international-des-start-up-une-nouvelle-ere-pour-l-ecosysteme",
@@ -321,7 +365,26 @@
    "categories": [
     "Levées de fonds"
    ],
-   "score": 6.2
+   "score": 5.8
+  },
+  {
+   "id": "kim-kardashian-tibo-inshape-et-paris-jackson-les-peoples-croques-par-philippe-be",
+   "title": "Kim Kardashian, Tibo InShape et Paris Jackson… Les peoples croqués par Philippe Besson",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM21uT0M0am9GNng3dE9TZk0tNUU3MWNuZjZtdFpmb0x2ZEdaOENKR29hak5pQlJRUTNPWWdWaXZpV3FKR2VmMi1NX1VaUnRHRkZiZ0NKT0NVb0pKOWN6MEhxc3g4UzFYYlMxNDVuWS13elBHMUhEMGhLVzk3LWdJWDZoZkpNbVdQWDhnLXZ5eXNJN1RUSzgyejVvY1dOWkV3b0VTS1lybkpqeGlZRnZ3ZzBrQXhVNVRVUmlvWGc1ZXhDNXNyczNrTzhMQ3ZiQkRH?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Kim Kardashian, Tibo InShape et Paris Jackson… Les peoples croqués par Philippe Besson",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM21uT0M0am9GNng3dE9TZk0tNUU3MWNuZjZtdFpmb0x2ZEdaOENKR29hak5pQlJRUTNPWWdWaXZpV3FKR2VmMi1NX1VaUnRHRkZiZ0NKT0NVb0pKOWN6MEhxc3g4UzFYYlMxNDVuWS13elBHMUhEMGhLVzk3LWdJWDZoZkpNbVdQWDhnLXZ5eXNJN1RUSzgyejVvY1dOWkV3b0VTS1lybkpqeGlZRnZ3ZzBrQXhVNVRVUmlvWGc1ZXhDNXNyczNrTzhMQ3ZiQkRH?oc=5"
+    }
+   ],
+   "date": "2026-11-22T10:05:07.000Z",
+   "categories": [],
+   "score": 5.7
   },
   {
    "id": "la-french-tech-phnom-penh-noue-des-accords-avec-trois-institutions-cambodgiennes",
@@ -345,6 +408,27 @@
    "score": 5
   },
   {
+   "id": "mistral-ouvre-un-bureau-a-singapour-et-vise-200-employes-en-asie-pacifique",
+   "title": "Mistral ouvre un bureau à Singapour et vise 200 employés en Asie-Pacifique",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemQ5Q2xCVjRBRXp4SVY4eWhJVnpZbFp0LVc3eU82UXJZOS1wX2M4TFBlRWFGYmxyUWE5S3R3Z1l6WXIzUG5GMmg5TkRGT291SjQzVG5YQld6b2Q1dlktamZocU9IZGYwd3IwLVNidzZCTmJzcnliSUYwOXl1dnpReFExQ0RxZVRxSVpzRmRWTjdXQ19HN1lWYlZ2eFplakxuNkFqS2ppanhDQmt4cVphUXlR?oc=5",
+   "summary": "",
+   "sources": [
+    "Foro3D"
+   ],
+   "articles": [
+    {
+     "source": "Foro3D",
+     "title": "Mistral ouvre un bureau à Singapour et vise 200 employés en Asie-Pacifique",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemQ5Q2xCVjRBRXp4SVY4eWhJVnpZbFp0LVc3eU82UXJZOS1wX2M4TFBlRWFGYmxyUWE5S3R3Z1l6WXIzUG5GMmg5TkRGT291SjQzVG5YQld6b2Q1dlktamZocU9IZGYwd3IwLVNidzZCTmJzcnliSUYwOXl1dnpReFExQ0RxZVRxSVpzRmRWTjdXQ19HN1lWYlZ2eFplakxuNkFqS2ppanhDQmt4cVphUXlR?oc=5"
+    }
+   ],
+   "date": "2026-11-22T11:05:04.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.8
+  },
+  {
    "id": "temoignage-on-a-demande-aux-ia-de-nous-dire-de-quoi-on-est-malade",
    "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5",
@@ -363,7 +447,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.7
+   "score": 4.4
   },
   {
    "id": "restaurant-que-vaut-chez-monix-le-chalet-d-hiver-des-bistrots-pas-parisiens-a-as",
@@ -382,26 +466,7 @@
    ],
    "date": "2026-11-21T14:55:11.000Z",
    "categories": [],
-   "score": 4.5
-  },
-  {
-   "id": "video-banques-hedge-funds-et-fonds-etrangers-qui-detient-la-dette-francaise",
-   "title": "VIDEO - Banques, « hedge funds » et fonds étrangers : qui détient la dette française ?",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdmZjQXhpTDZTUE43X2xFbllJRGJJY2xPZHZQaktTaENwSnROZ2ZUd04tZG4ySXltSXA5VG80X2RIeGpjWkNrYlEwcXhuVzE2QXRMWnpDNllhbnhwb2U4MHBwV1JiZXAzT203N3J3ZEVSR2doa1Jya2JVYkRsVEhhT2JsMVJSRDRQWGpiSjNGWVR2Ri1qTDFHcmQ1WE9qdkt2eVo4anBGVWNZMmpIZXBOMlBwaWYyTngteENEMDVRZjd0MmFsQ0JNNWlIcV9vTGRhMFZDcjFNbU5fdw?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "VIDEO - Banques, « hedge funds » et fonds étrangers : qui détient la dette française ?",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdmZjQXhpTDZTUE43X2xFbllJRGJJY2xPZHZQaktTaENwSnROZ2ZUd04tZG4ySXltSXA5VG80X2RIeGpjWkNrYlEwcXhuVzE2QXRMWnpDNllhbnhwb2U4MHBwV1JiZXAzT203N3J3ZEVSR2doa1Jya2JVYkRsVEhhT2JsMVJSRDRQWGpiSjNGWVR2Ri1qTDFHcmQ1WE9qdkt2eVo4anBGVWNZMmpIZXBOMlBwaWYyTngteENEMDVRZjd0MmFsQ0JNNWlIcV9vTGRhMFZDcjFNbU5fdw?oc=5"
-    }
-   ],
-   "date": "2026-11-21T12:00:09.000Z",
-   "categories": [],
-   "score": 4.2
+   "score": 4.1
   },
   {
    "id": "ressemblant-a-une-licorne-un-cervide-est-capte-par-le-piege-photographique-d-une",
@@ -422,26 +487,7 @@
    "categories": [
     "Licornes & scale-ups"
    ],
-   "score": 4.1
-  },
-  {
-   "id": "montreal-mise-sur-la-magie-de-noel-pour-seduire-les-touristes-francais",
-   "title": "Montréal mise sur la magie de Noël pour séduire les touristes français",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRzduVDdKUWZBUl9PdUhSUXZ6RVc0ZHlQd2VqMWhqR1ZXT01WMG9oNmhxNlRGeFZtaGJjSVhoZzY3RTdqRHB1dXB1NVNRbDBXMDk4NlU4TFQyZlowRTZKM0RzanBxLWVRdGlWS1B4d2xBLTEzbXdSM0thVTFvU3ExUWJvaVZlV3RPZTh6T0FOZmJGdWFLM0s2cFZXNEc5Q1RTM1I4MHgwMTROZFNoWTF0Y29zS2VwcTB1LTlKWmNOUmo0UUNoSEc1VU9rNUxkS2M5TzVMM3VoYw?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "Montréal mise sur la magie de Noël pour séduire les touristes français",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRzduVDdKUWZBUl9PdUhSUXZ6RVc0ZHlQd2VqMWhqR1ZXT01WMG9oNmhxNlRGeFZtaGJjSVhoZzY3RTdqRHB1dXB1NVNRbDBXMDk4NlU4TFQyZlowRTZKM0RzanBxLWVRdGlWS1B4d2xBLTEzbXdSM0thVTFvU3ExUWJvaVZlV3RPZTh6T0FOZmJGdWFLM0s2cFZXNEc5Q1RTM1I4MHgwMTROZFNoWTF0Y29zS2VwcTB1LTlKWmNOUmo0UUNoSEc1VU9rNUxkS2M5TzVMM3VoYw?oc=5"
-    }
-   ],
-   "date": "2026-11-21T10:30:08.000Z",
-   "categories": [],
-   "score": 4.1
+   "score": 4
   },
   {
    "id": "contribution-a-l-ue-la-france-ne-pourra-pas-obtenir-de-rabais-sans-lacher-quelqu",
@@ -461,6 +507,101 @@
    "date": "2026-11-21T09:10:09.000Z",
    "categories": [],
    "score": 4
+  },
+  {
+   "id": "video-banques-hedge-funds-et-fonds-etrangers-qui-detient-la-dette-francaise",
+   "title": "VIDEO - Banques, « hedge funds » et fonds étrangers : qui détient la dette française ?",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdmZjQXhpTDZTUE43X2xFbllJRGJJY2xPZHZQaktTaENwSnROZ2ZUd04tZG4ySXltSXA5VG80X2RIeGpjWkNrYlEwcXhuVzE2QXRMWnpDNllhbnhwb2U4MHBwV1JiZXAzT203N3J3ZEVSR2doa1Jya2JVYkRsVEhhT2JsMVJSRDRQWGpiSjNGWVR2Ri1qTDFHcmQ1WE9qdkt2eVo4anBGVWNZMmpIZXBOMlBwaWYyTngteENEMDVRZjd0MmFsQ0JNNWlIcV9vTGRhMFZDcjFNbU5fdw?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "VIDEO - Banques, « hedge funds » et fonds étrangers : qui détient la dette française ?",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdmZjQXhpTDZTUE43X2xFbllJRGJJY2xPZHZQaktTaENwSnROZ2ZUd04tZG4ySXltSXA5VG80X2RIeGpjWkNrYlEwcXhuVzE2QXRMWnpDNllhbnhwb2U4MHBwV1JiZXAzT203N3J3ZEVSR2doa1Jya2JVYkRsVEhhT2JsMVJSRDRQWGpiSjNGWVR2Ri1qTDFHcmQ1WE9qdkt2eVo4anBGVWNZMmpIZXBOMlBwaWYyTngteENEMDVRZjd0MmFsQ0JNNWlIcV9vTGRhMFZDcjFNbU5fdw?oc=5"
+    }
+   ],
+   "date": "2026-11-21T12:00:09.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "montreal-mise-sur-la-magie-de-noel-pour-seduire-les-touristes-francais",
+   "title": "Montréal mise sur la magie de Noël pour séduire les touristes français",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRzduVDdKUWZBUl9PdUhSUXZ6RVc0ZHlQd2VqMWhqR1ZXT01WMG9oNmhxNlRGeFZtaGJjSVhoZzY3RTdqRHB1dXB1NVNRbDBXMDk4NlU4TFQyZlowRTZKM0RzanBxLWVRdGlWS1B4d2xBLTEzbXdSM0thVTFvU3ExUWJvaVZlV3RPZTh6T0FOZmJGdWFLM0s2cFZXNEc5Q1RTM1I4MHgwMTROZFNoWTF0Y29zS2VwcTB1LTlKWmNOUmo0UUNoSEc1VU9rNUxkS2M5TzVMM3VoYw?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Montréal mise sur la magie de Noël pour séduire les touristes français",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRzduVDdKUWZBUl9PdUhSUXZ6RVc0ZHlQd2VqMWhqR1ZXT01WMG9oNmhxNlRGeFZtaGJjSVhoZzY3RTdqRHB1dXB1NVNRbDBXMDk4NlU4TFQyZlowRTZKM0RzanBxLWVRdGlWS1B4d2xBLTEzbXdSM0thVTFvU3ExUWJvaVZlV3RPZTh6T0FOZmJGdWFLM0s2cFZXNEc5Q1RTM1I4MHgwMTROZFNoWTF0Y29zS2VwcTB1LTlKWmNOUmo0UUNoSEc1VU9rNUxkS2M5TzVMM3VoYw?oc=5"
+    }
+   ],
+   "date": "2026-11-21T10:30:08.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "complement-livret-a-les-francais-adorent-ce-compte-remunere-et-vu-les-atouts-on-",
+   "title": "Complément Livret A : les Français adorent ce compte rémunéré et vu les atouts on comprend vite pourquoi",
+   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/complement-livret-a-les-francais-adorent-ce-compte-remunere-et-vu-les-atouts-on-comprend-vite-pourquoi_AB-202611220036.html",
+   "summary": "Avoir un livret d’épargne comme le Livret A est un bon point de départ pour faire travailler son argent sur le long terme et en récolter les fruits. Toutefois, ce n’est pas suffisant. Chez Trade Republic, un compte rémunéré permet d’en dépasser les rendements contraints.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/HJGUYYRk3-L_XcwEbnuxQ1jvemk=/33x4:1665x922/800x0/images/Brad-Pitt-2284713.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "Complément Livret A : les Français adorent ce compte rémunéré et vu les atouts on comprend vite pourquoi",
+     "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/complement-livret-a-les-francais-adorent-ce-compte-remunere-et-vu-les-atouts-on-comprend-vite-pourquoi_AB-202611220036.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Avoir un livret d’épargne comme le Livret A est un bon point de départ pour faire travailler son argent sur le long terme et en récolter les fruits.",
+    "points": [
+     "Entre le Livret A et un placement mieux payé, des épargnants ont déjà choisi.",
+     "Fortuneo propose le Livret+, avec un taux de 5,5 % brut pendant 3 mois pour une première ouverture.",
+     "Banque en ligne du groupe Crédit Agricole, BforBank met en avant une promotion sur son Livret d’épargne Bfor+.",
+     "Les nouveaux souscripteurs peuvent y placer leur épargne au taux boosté de 3,5 % brut pendant 12 mois."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-21T22:25:00.000Z",
+   "categories": [],
+   "score": 3.8
+  },
+  {
+   "id": "il-se-distribue-comme-des-petits-pains-depuis-samedi-ce-bracelet-connecte-fitbit",
+   "title": "Il se distribue comme des petits pains depuis samedi, ce bracelet connecté Fitbit Air a conquis des milliers de Français",
+   "url": "https://www.bfmtv.com/tech/bons-plans/il-se-distribue-comme-des-petits-pains-depuis-samedi-ce-bracelet-connecte-fitbit-air-a-conquis-des-milliers-de-francais_AB-202611220007.html",
+   "summary": "Pourquoi mettre cher dans une montre connectée lourde et encombrante quand un bracelet connecté Fitbit Air de Google répond aux mêmes besoins sans vous ruiner ? Sur Amazon, le Black Friday est aussi l’occasion de monitorer au plus près ce que vous dit votre corps.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/IQtYjAVltj1whKJRSQlJqO65EFg=/0x0:1600x900/800x0/images/Tout-le-monde-le-veut-a-son-poignet-le-bracelet-Google-Fitbit-Air-cree-l-evenement-pour-la-rentree-2337827.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "Il se distribue comme des petits pains depuis samedi, ce bracelet connecté Fitbit Air a conquis des milliers de Français",
+     "url": "https://www.bfmtv.com/tech/bons-plans/il-se-distribue-comme-des-petits-pains-depuis-samedi-ce-bracelet-connecte-fitbit-air-a-conquis-des-milliers-de-francais_AB-202611220007.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Pourquoi mettre cher dans une montre connectée lourde et encombrante quand un bracelet connecté Fitbit Air de Google répond aux mêmes besoins sans vous ruiner ?",
+    "points": [
+     "Sur Amazon, le Black Friday est aussi l’occasion de monitorer au plus près ce que vous dit votre corps."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-22T10:23:00.000Z",
+   "categories": [],
+   "score": 3.7
   },
   {
    "id": "les-geants-de-la-tech-adorent-ce-logiciel-francais",
@@ -487,37 +628,7 @@
    },
    "date": "2026-11-22T08:00:04.000Z",
    "categories": [],
-   "score": 3.9
-  },
-  {
-   "id": "des-milliers-d-internautes-ont-saute-le-pas-voici-le-placement-que-les-francais-",
-   "title": "Des milliers d'internautes ont sauté le pas : voici le placement que les Français adorent et ce n'est pas le Livret A",
-   "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/des-dizaines-de-milliers-de-francais-echangent-leur-livret-a-pour-cette-epargne-a-5-5-brut-vu-les-avantages-on-comprend-pourquoi_AB-202611210011.html",
-   "summary": "Depuis que la banque en ligne Fortuneo propose son Livret +, le Livret A n'arrive plus à suivre, et de plus en plus de Français se précipitent sur ce nouveau placement. Avec un taux d'intérêt qui dépasse les 5 % et un plafond quasiment illimité, le Livret + Fortuneo s'impose sans pitié.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kr-4FAkQjKNQLWjNI_x09ogf9Sc=/0x106:2048x1258/800x0/images/Fortuneo-250-euros-offerts-si-vous-ouvrez-un-compte-avant-le-temps-imparti-2062556.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "Des milliers d'internautes ont sauté le pas : voici le placement que les Français adorent et ce n'est pas le Livret A",
-     "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/des-dizaines-de-milliers-de-francais-echangent-leur-livret-a-pour-cette-epargne-a-5-5-brut-vu-les-avantages-on-comprend-pourquoi_AB-202611210011.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Depuis que la banque en ligne Fortuneo propose son Livret +, le Livret A n'arrive plus à suivre, et de plus en plus de Français se précipitent sur ce nouveau placement.",
-    "points": [
-     "Avec un taux d'intérêt qui dépasse les 5 % et un plafond quasiment illimité, le Livret + Fortuneo s'impose sans pitié.",
-     "Avoir un livret d’épargne comme le Livret A est un bon point de départ pour faire travailler son argent sur le long terme et en récolter les fruits.",
-     "Entre le Livret A et un placement mieux payé, des épargnants ont déjà choisi.",
-     "Fortuneo propose le Livret+, avec un taux de 5,5 % brut pendant 3 mois pour une première ouverture."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-21T14:58:00.000Z",
-   "categories": [],
-   "score": 3.8
+   "score": 3.5
   },
   {
    "id": "ai-agent-swarms-compete-in-minecraft-and-mindustry-experiments",
@@ -538,7 +649,7 @@
    "categories": [
     "IA"
    ],
-   "score": 3.6
+   "score": 3.2
   },
   {
    "id": "une-ia-pour-permettre-aux-pilotes-malentendants-de-lire-la-radio",
@@ -556,48 +667,6 @@
     }
    ],
    "date": "2026-11-21T14:01:06.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3.4
-  },
-  {
-   "id": "intelligence-artificielle-mistral-veut-plus-que-doubler-ses-effectifs-en-asie-pa",
-   "title": "Intelligence artificielle : Mistral veut plus que doubler ses effectifs en Asie-Pacifique",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLW5hOGRUV09Ib0xERGZ2aDRoNEo2c2FtNjlhdEtWMFFySmtMU0pzU2xqV2JRazZfVVFaY3d3VEJaTkJheDVhMmQ4QUNLYWotVlBVejB6SjdJcXU0VzNYUGNRMnBTTWZ6NDAweWFKbmphbWx1cFRfdHFrNElPcHphbDFmOEVDYjctUDNlR3pVajBySzc1b09nYzhGZWpuTDFvWjE3MlBWX3ZWUHFBSWRmeUw5WGlZYUJRS0xuWlZTZm02YWdTb2ZkQVA3OWpfUDg2V1VJZFR1cndkNlFCcmtlMQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Outre-mer La 1ère"
-   ],
-   "articles": [
-    {
-     "source": "Outre-mer La 1ère",
-     "title": "Intelligence artificielle : Mistral veut plus que doubler ses effectifs en Asie-Pacifique",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLW5hOGRUV09Ib0xERGZ2aDRoNEo2c2FtNjlhdEtWMFFySmtMU0pzU2xqV2JRazZfVVFaY3d3VEJaTkJheDVhMmQ4QUNLYWotVlBVejB6SjdJcXU0VzNYUGNRMnBTTWZ6NDAweWFKbmphbWx1cFRfdHFrNElPcHphbDFmOEVDYjctUDNlR3pVajBySzc1b09nYzhGZWpuTDFvWjE3MlBWX3ZWUHFBSWRmeUw5WGlZYUJRS0xuWlZTZm02YWdTb2ZkQVA3OWpfUDg2V1VJZFR1cndkNlFCcmtlMQ?oc=5"
-    }
-   ],
-   "date": "2026-11-20T21:19:43.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3
-  },
-  {
-   "id": "maj-ia-et-droit-d-auteur-le-texte-de-laure-darcos-encore-repousse-a-l-assemblee",
-   "title": "[Màj] IA et droit d’auteur : le texte de Laure Darcos encore repoussé à l’Assemblée",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHhUdkNob1J0aDEya04yemxNd051MWZXaFVQN0VTak9Pd2Uwd0VWQzZzQjI2RVN0dTlLT25JQlNUZ2p2NV9XdllDS3AxU3FCMkNPcmlZQkIzeUF1SXlPMFRObW5aN19rcE11Y19vR2FwUm1yOUV2eHVHaTJZUGkyTjdBTUxGWFp3dHU1cnZvTXlRdXRWakM0dFJuenFDMkZxWEtvS21kLVJ3WVk?oc=5",
-   "summary": "",
-   "sources": [
-    "next.ink"
-   ],
-   "articles": [
-    {
-     "source": "next.ink",
-     "title": "[Màj] IA et droit d’auteur : le texte de Laure Darcos encore repoussé à l’Assemblée",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHhUdkNob1J0aDEya04yemxNd051MWZXaFVQN0VTak9Pd2Uwd0VWQzZzQjI2RVN0dTlLT25JQlNUZ2p2NV9XdllDS3AxU3FCMkNPcmlZQkIzeUF1SXlPMFRObW5aN19rcE11Y19vR2FwUm1yOUV2eHVHaTJZUGkyTjdBTUxGWFp3dHU1cnZvTXlRdXRWakM0dFJuenFDMkZxWEtvS21kLVJ3WVk?oc=5"
-    }
-   ],
-   "date": "2026-11-21T00:37:59.000Z",
    "categories": [
     "IA"
    ],
@@ -625,56 +694,70 @@
    "score": 3
   },
   {
-   "id": "pourquoi-personne-ne-parle-de-cette-box-internet-free-alors-que-des-milliers-de-",
-   "title": "Pourquoi personne ne parle de cette box internet Free alors que des milliers de français y souscrivent chaque mois ?",
-   "url": "https://www.bfmtv.com/tech/bons-plans/pourquoi-personne-ne-parle-de-cette-box-internet-free-alors-que-des-milliers-de-francais-y-souscrivent-chaque-mois_AB-202611210073.html",
-   "summary": "Vous voulez économiser sur votre box internet ? Comme de nombreux Français, vous pouvez opter pour la Freebox Pop S, une offre dont on parle peu, entièrement tournée vers internet. Elle offre la fibre et le Wi-Fi 7 des abonnements haut de gamme, pour moins de 25 euros par mois.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/6tmbgg9AaTIpfAaWyKmvlNtb86U=/0x0:1600x900/800x0/images/Free-1975880.jpg",
+   "id": "black-friday-crosscall-vivez-chacune-de-vos-sorties-avec-outdoor-avec-confiance-",
+   "title": "Black Friday Crosscall : vivez chacune de vos sorties avec outdoor avec confiance et intensité avec le Stellar-M6 Chamonix à prix réduit",
+   "url": "https://www.bfmtv.com/tech/bons-plans/black-friday-crosscall-vivez-chacune-de-vos-sorties-avec-outdoor-avec-confiance-et-intensite-avec-le-stellar-m6-chamonix-a-prix-reduit_AB-202611220070.html",
+   "summary": "Attention les yeux, Crosscall a pris le Black Friday très au sérieux ! C’est une remise de 120 euros que la marque française vous offre sur le Crosscall Stellar-M6 Chamonix. Conçu pour les amateurs de montagne, il résiste à tout !",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5oFIJVj2paizOUH2jq7TZ16y79M=/0x0:1600x900/800x0/images/Black-Friday-Crosscall-le-STELLAR-X5s-Chamonix-Mont-Blanc-a-599-90-euros-pour-la-premiere-fois-2387707.jpg",
    "sources": [
     "BFM Tech"
    ],
    "articles": [
     {
      "source": "BFM Tech",
-     "title": "Pourquoi personne ne parle de cette box internet Free alors que des milliers de français y souscrivent chaque mois ?",
-     "url": "https://www.bfmtv.com/tech/bons-plans/pourquoi-personne-ne-parle-de-cette-box-internet-free-alors-que-des-milliers-de-francais-y-souscrivent-chaque-mois_AB-202611210073.html"
+     "title": "Black Friday Crosscall : vivez chacune de vos sorties avec outdoor avec confiance et intensité avec le Stellar-M6 Chamonix à prix réduit",
+     "url": "https://www.bfmtv.com/tech/bons-plans/black-friday-crosscall-vivez-chacune-de-vos-sorties-avec-outdoor-avec-confiance-et-intensite-avec-le-stellar-m6-chamonix-a-prix-reduit_AB-202611220070.html"
     }
    ],
    "brief": {
-    "essentiel": "Comme de nombreux Français, vous pouvez opter pour la Freebox Pop S, une offre dont on parle peu, entièrement tournée vers internet.",
-    "points": [],
+    "essentiel": "Attention les yeux, Crosscall a pris le Black Friday très au sérieux !",
+    "points": [
+     "C’est une remise de 120 euros que la marque française vous offre sur le Crosscall Stellar-M6 Chamonix.",
+     "Conçu pour les amateurs de montagne, il résiste à tout !"
+    ],
     "facts": []
    },
-   "date": "2026-11-21T20:35:00.000Z",
+   "date": "2026-11-22T12:30:00.000Z",
    "categories": [],
    "score": 2.9
   },
   {
-   "id": "adieu-les-ordinateurs-lents-des-milliers-de-francais-adoptent-ce-pc-gamer-a-moin",
-   "title": "Adieu les ordinateurs lents : des milliers de Français adoptent ce PC Gamer, à moins de 700 euros c'est une super affaire",
-   "url": "https://www.bfmtv.com/tech/bons-plans/adieu-les-ordinateurs-lents-des-milliers-de-francais-adoptent-ce-pc-gamer-a-moins-de-700-euros-c-est-une-super-affaire_AB-202611210100.html",
-   "summary": "Vous préférez les PC pour jouer ? Alors, vous allez adorer Pixmania. Sur la boutique, retrouvez le PC fixe NitroPC, qui est en ce moment à moins de 660 euros. Puissant, il va vous faire jouer jusqu’au bout de la nuit.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Yt0rOgOfIJauXrlV5HHt5ha0W9I=/0x0:1600x900/800x0/images/PC-Gamer-NitroPC-2387573.jpg",
+   "id": "raspberry-pi-5-faut-il-vraiment-payer-8-ou-16-go-de-ram",
+   "title": "Raspberry Pi 5 : faut-il vraiment payer 8 ou 16 Go de RAM ?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFRMM0pqaUMwM0JMSHg3MmUzaXdQTEdjcWUxeGxsem44cTkxWWtCU2xyYTl1aUYwMWhJaWJKdHpwLWVnM182aUxBLWdVUHVvdllxdkpkMXEwMGlxSkxGS1RlLXM4MUJKbEUzc2NMODJZUGloOUlidDRCU2JaUW5KVW55WTQwYmViemFtZ0NTRG1pWGlqbWZQOVFIYnlERG9uV2xCRWczOXhKX2FJT0RIYlhhLWE?oc=5",
+   "summary": "",
    "sources": [
-    "BFM Tech"
+    "Android MT"
    ],
    "articles": [
     {
-     "source": "BFM Tech",
-     "title": "Adieu les ordinateurs lents : des milliers de Français adoptent ce PC Gamer, à moins de 700 euros c'est une super affaire",
-     "url": "https://www.bfmtv.com/tech/bons-plans/adieu-les-ordinateurs-lents-des-milliers-de-francais-adoptent-ce-pc-gamer-a-moins-de-700-euros-c-est-une-super-affaire_AB-202611210100.html"
+     "source": "Android MT",
+     "title": "Raspberry Pi 5 : faut-il vraiment payer 8 ou 16 Go de RAM ?",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFRMM0pqaUMwM0JMSHg3MmUzaXdQTEdjcWUxeGxsem44cTkxWWtCU2xyYTl1aUYwMWhJaWJKdHpwLWVnM182aUxBLWdVUHVvdllxdkpkMXEwMGlxSkxGS1RlLXM4MUJKbEUzc2NMODJZUGloOUlidDRCU2JaUW5KVW55WTQwYmViemFtZ0NTRG1pWGlqbWZQOVFIYnlERG9uV2xCRWczOXhKX2FJT0RIYlhhLWE?oc=5"
     }
    ],
-   "brief": {
-    "essentiel": "Sur la boutique, retrouvez le PC fixe NitroPC, qui est en ce moment à moins de 660 euros.",
-    "points": [
-     "Puissant, il va vous faire jouer jusqu’au bout de la nuit."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-21T12:05:00.000Z",
+   "date": "2026-11-22T06:54:55.000Z",
    "categories": [],
-   "score": 2.2
+   "score": 2.5
+  },
+  {
+   "id": "gta-6-recoit-plus-de-2000-avis-negatifs-sur-metacritic-des-le-lendemain-du-lance",
+   "title": "GTA 6 reçoit plus de 2000 avis négatifs sur Metacritic dès le lendemain du lancement",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDFzdVNzMWt0TFdZWHdfTEpDd0I5YU9PZHhaaVpsazMyMU90dUtKd0lNOFZjdGpLMUYzX0JHaGdMY194NVc4UTFBTzhLOE5ZREllNzJKR3ZrUFdIV3RlQVZucTNTSlFiNU5sak5QNnRTQmpmeVlsbFBQaGhlWmNpZjVqajFtZ0Q1aTR4S0FiRlZHdVBXelNBNzJmWHRyZTJRdk5aUHFGN1ZTakxvVElSX3NPbEdMVXA5TDBSWF9KT1JGVG9tVnd0eTM1QXQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Android MT"
+   ],
+   "articles": [
+    {
+     "source": "Android MT",
+     "title": "GTA 6 reçoit plus de 2000 avis négatifs sur Metacritic dès le lendemain du lancement",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDFzdVNzMWt0TFdZWHdfTEpDd0I5YU9PZHhaaVpsazMyMU90dUtKd0lNOFZjdGpLMUYzX0JHaGdMY194NVc4UTFBTzhLOE5ZREllNzJKR3ZrUFdIV3RlQVZucTNTSlFiNU5sak5QNnRTQmpmeVlsbFBQaGhlWmNpZjVqajFtZ0Q1aTR4S0FiRlZHdVBXelNBNzJmWHRyZTJRdk5aUHFGN1ZTakxvVElSX3NPbEdMVXA5TDBSWF9KT1JGVG9tVnd0eTM1QXQ?oc=5"
+    }
+   ],
+   "date": "2026-11-22T06:39:53.000Z",
+   "categories": [],
+   "score": 2.4
   },
   {
    "id": "un-client-escroque-doit-desormais-etre-immediatement-rembourse-par-sa-banque-dec",
@@ -704,50 +787,23 @@
    "score": 2
   },
   {
-   "id": "ski-valmeinier-oz-3300-bonneval-sur-arc-nos-sept-petites-stations-familiales-con",
-   "title": "Ski : Valmeinier, Oz 3300, Bonneval-sur-Arc… Nos sept petites stations familiales, conviviales et abordables",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZ3ltLS1vV1oyY1BSSXppSngwZmFMMTRLNHgxX05iUFhZd0p1SlFyNVhpUDBaWXlNYmJWOGxSbHNwM2VPZlJtUzNCYjl2VkNNOXM0bHdJbmE3c3RZc2JFNTFVbkIwUzJPdi1sSHBGRHYxTGFlQWZRSzZkeVhMWi1YN1Y5emdmYnNFU3lPVXEwWUx1bExyWjNZd28tWW9QQ2RsV1UxdGZ4Qi1vTGRXcWVkZ1hjcXYxa1BLdTVZVHNTLU5zOFdrR0ZGcEhlQVNGT3hsS2R1d0k1RWR3STJ5eDdENWdPQjl3U28?oc=5",
+   "id": "les-discussions-de-financement-de-cognition-visent-une-valorisation-de-75-millia",
+   "title": "Les discussions de financement de Cognition visent une valorisation de 75 milliards de dollars",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcVJvMklic2QwbFBkbjVpalhST0tkSGhVX1JaYVVEUmF6cTJMbEVzdDYtRXk2Y0VnWnVDR2pSSjNfTDBSTm9UaXJzRTM3OHhjWHdaZERhbVNkT3d2NjhpV1hQczAxQzQyMU53bFplOUd0T0pkZDVFUU5ycm5KdDVLMHFB?oc=5",
    "summary": "",
    "sources": [
-    "Le Figaro"
+    "remio"
    ],
    "articles": [
     {
-     "source": "Le Figaro",
-     "title": "Ski : Valmeinier, Oz 3300, Bonneval-sur-Arc… Nos sept petites stations familiales, conviviales et abordables",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZ3ltLS1vV1oyY1BSSXppSngwZmFMMTRLNHgxX05iUFhZd0p1SlFyNVhpUDBaWXlNYmJWOGxSbHNwM2VPZlJtUzNCYjl2VkNNOXM0bHdJbmE3c3RZc2JFNTFVbkIwUzJPdi1sSHBGRHYxTGFlQWZRSzZkeVhMWi1YN1Y5emdmYnNFU3lPVXEwWUx1bExyWjNZd28tWW9QQ2RsV1UxdGZ4Qi1vTGRXcWVkZ1hjcXYxa1BLdTVZVHNTLU5zOFdrR0ZGcEhlQVNGT3hsS2R1d0k1RWR3STJ5eDdENWdPQjl3U28?oc=5"
+     "source": "remio",
+     "title": "Les discussions de financement de Cognition visent une valorisation de 75 milliards de dollars",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcVJvMklic2QwbFBkbjVpalhST0tkSGhVX1JaYVVEUmF6cTJMbEVzdDYtRXk2Y0VnWnVDR2pSSjNfTDBSTm9UaXJzRTM3OHhjWHdaZERhbVNkT3d2NjhpV1hQczAxQzQyMU53bFplOUd0T0pkZDVFUU5ycm5KdDVLMHFB?oc=5"
     }
    ],
-   "date": "2026-11-21T20:00:00.000Z",
+   "date": "2026-11-21T10:36:55.000Z",
    "categories": [],
-   "score": 1.9
-  },
-  {
-   "id": "intersport-devient-la-star-des-enseignes-depuis-que-ce-velo-electrique-a-atteint",
-   "title": "Intersport devient la star des enseignes depuis que ce vélo électrique a atteint ce prix rare que tout le monde attendait",
-   "url": "https://www.bfmtv.com/tech/bons-plans/intersport-devient-la-star-des-enseignes-depuis-que-ce-velo-electrique-a-atteint-ce-prix-rare-que-tout-le-monde-attendait_AB-202611210012.html",
-   "summary": "Il n'y a pas de secret, quand un vélo électrique est fabriqué pour répondre à un cahier des charges précis, il ne peut connaître qu’un très beau succès. C'est le cas de ce modèle français conçu par Nakamura, qui a été spécifiquement développé pour une utilisation urbaine quotidienne.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/wmJM2eaM0LXef-JXK54ssyiqPEo=/0x0:1600x900/800x0/images/Velo-electrique-destocke-voici-la-pepite-a-400-euros-chez-Intersport-les-stocks-se-font-liquider-en-masse-2377864.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "Intersport devient la star des enseignes depuis que ce vélo électrique a atteint ce prix rare que tout le monde attendait",
-     "url": "https://www.bfmtv.com/tech/bons-plans/intersport-devient-la-star-des-enseignes-depuis-que-ce-velo-electrique-a-atteint-ce-prix-rare-que-tout-le-monde-attendait_AB-202611210012.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Il n'y a pas de secret, quand un vélo électrique est fabriqué pour répondre à un cahier des charges précis, il ne peut connaître qu’un très beau succès.",
-    "points": [
-     "C'est le cas de ce modèle français conçu par Nakamura, qui a été spécifiquement développé pour une utilisation urbaine quotidienne."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-21T13:28:00.000Z",
-   "categories": [],
-   "score": 1.4
+   "score": 1
   },
   {
    "id": "samuel-ubido-estime-que-les-startups-africaines-negligent-les-capitaux-du-golfe",
@@ -765,63 +821,6 @@
     }
    ],
    "date": "2026-11-21T11:55:41.000Z",
-   "categories": [],
-   "score": 1.2
-  },
-  {
-   "id": "les-discussions-de-financement-de-cognition-visent-une-valorisation-de-75-millia",
-   "title": "Les discussions de financement de Cognition visent une valorisation de 75 milliards de dollars",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcVJvMklic2QwbFBkbjVpalhST0tkSGhVX1JaYVVEUmF6cTJMbEVzdDYtRXk2Y0VnWnVDR2pSSjNfTDBSTm9UaXJzRTM3OHhjWHdaZERhbVNkT3d2NjhpV1hQczAxQzQyMU53bFplOUd0T0pkZDVFUU5ycm5KdDVLMHFB?oc=5",
-   "summary": "",
-   "sources": [
-    "remio"
-   ],
-   "articles": [
-    {
-     "source": "remio",
-     "title": "Les discussions de financement de Cognition visent une valorisation de 75 milliards de dollars",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcVJvMklic2QwbFBkbjVpalhST0tkSGhVX1JaYVVEUmF6cTJMbEVzdDYtRXk2Y0VnWnVDR2pSSjNfTDBSTm9UaXJzRTM3OHhjWHdaZERhbVNkT3d2NjhpV1hQczAxQzQyMU53bFplOUd0T0pkZDVFUU5ycm5KdDVLMHFB?oc=5"
-    }
-   ],
-   "date": "2026-11-21T10:36:55.000Z",
-   "categories": [],
-   "score": 1.1
-  },
-  {
-   "id": "cafe-gourmand-trouvez-la-formation-qui-vous-correspond",
-   "title": "Café gourmand : trouvez la formation qui vous correspond",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHQ2aGExWFJBLVFNSi05Q1Y2VV9WZDlGMi0tajVuM1RoVHFMY1c3enZuNnNXZkJPVm5qUmRpcDBfQjNFRVZBS3lEYkhSdU5OWGp2UW4wTmNHT2ZwREZTUXZyLVZHTGNqSk1kcmZna094UWhSVXVNN3YwOVo1QVI1ZGV4b3Ntb3dpcXF6MzcyWnJYWVVUVnU4M2k4Y0x4TFBQN2VFUm5rQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "French Tech Bordeaux"
-   ],
-   "articles": [
-    {
-     "source": "French Tech Bordeaux",
-     "title": "Café gourmand : trouvez la formation qui vous correspond",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHQ2aGExWFJBLVFNSi05Q1Y2VV9WZDlGMi0tajVuM1RoVHFMY1c3enZuNnNXZkJPVm5qUmRpcDBfQjNFRVZBS3lEYkhSdU5OWGp2UW4wTmNHT2ZwREZTUXZyLVZHTGNqSk1kcmZna094UWhSVXVNN3YwOVo1QVI1ZGV4b3Ntb3dpcXF6MzcyWnJYWVVUVnU4M2k4Y0x4TFBQN2VFUm5rQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-21T04:52:08.000Z",
-   "categories": [],
-   "score": 1
-  },
-  {
-   "id": "star-academy-ce-finaliste-pousse-un-coup-de-gueule-contre-les-moqueries",
-   "title": "Star Academy : ce finaliste pousse un coup de gueule contre les moqueries",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajhIMk4tamw3SVJlZUVTSUhuaTRVQWlRSk0yTWhBbkV1bjg2MjEtMUNybWN6bjRaclZpc3ZGcHM3S0xhaVZXM2hpNDR6aV9Ka080XzFlUDY0dVJqX1FpY0dwaDVEcWo0d0ZfSmExVkRfdUdWUnl1YlplTzRyZHJuNFRJb25ETW52VlJWUWtB?oc=5",
-   "summary": "",
-   "sources": [
-    "MCE TV"
-   ],
-   "articles": [
-    {
-     "source": "MCE TV",
-     "title": "Star Academy : ce finaliste pousse un coup de gueule contre les moqueries",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajhIMk4tamw3SVJlZUVTSUhuaTRVQWlRSk0yTWhBbkV1bjg2MjEtMUNybWN6bjRaclZpc3ZGcHM3S0xhaVZXM2hpNDR6aV9Ka080XzFlUDY0dVJqX1FpY0dwaDVEcWo0d0ZfSmExVkRfdUdWUnl1YlplTzRyZHJuNFRJb25ETW52VlJWUWtB?oc=5"
-    }
-   ],
-   "date": "2026-11-21T06:03:37.000Z",
    "categories": [],
    "score": 1
   }
