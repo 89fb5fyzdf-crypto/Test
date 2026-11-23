@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generatedAt": "2026-11-23T18:19:16.211Z",
+ "generatedAt": "2026-11-23T21:17:34.914Z",
  "windowHours": 36,
  "counts": {
-  "articles": 27,
-  "raw": 68,
-  "media": 16
+  "articles": 25,
+  "raw": 66,
+  "media": 15
  },
  "scope": "eu",
  "lang": "en",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 56
+   "items": 59
   },
   {
    "source": "EU-Startups",
@@ -33,12 +33,12 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 21
+   "items": 22
   },
   {
    "source": "Google News · European unicorn valuation",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "source": "Google News · UK startup raises funding round",
@@ -77,17 +77,19 @@
    "title": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
    "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
    "summary": "Agon, a London-based defence AI startup building sovereign infrastructure for autonomous military systems, has raised a €63.87 million ($70 million) Series A round at a valuation of €411.3 million ($450 million). The round was led by Northzone with participation from returning investors Lakestar, XYZ, Lux Capital, and Global Founders Capital. The UK Government’s Sovereign AI […]",
+   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-23T190722.858.jpg",
    "sources": [
     "Sifted",
     "Tech.eu",
     "EU-Startups",
     "Tech Funding News",
     "The Economic Times",
-    "Traders Union",
     "MLQ.ai",
-    "The Next Web",
     "AFP.com",
-    "AI Insider"
+    "AI Insider",
+    "Traders Union",
+    "Pulse 2.0",
+    "The Next Web"
    ],
    "articles": [
     {
@@ -116,19 +118,9 @@
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbEF2MXFqMDFzRFB6ZjZfNHcwN2UwcUxGdlo2TTRqdjd0aFpmNkJ0Wk5CR19RVGRIMl94UFVuRE1adktfVWNvS0g3SFhpbGpDV3VVeHIxLXN2S3d3bURHbDhCVGNwOVVocmZWNEZ0RWQ0bWljVU4zT1BYdjcyRU82RV9PMFlzLUxKdDVKcHlfQjA2aWFlbHFqZkVyeUc5dVVNRVg1RGhsdHBneTRDQkhnMk1QakFHLUw1RVlKcWE3ZWZKV29RX2pnakJ6S1NJM2FjdWJoMWxrTVBTMFB3aWpoZzZFLVZLX0RGVkxn0gHwAUFVX3lxTE8zaDk1ZWIyOVhpY09sdjRmbDlKbWdFa2EyZGVyQURjbndzZUtIc2tjNjJEUFRoMmJrQ1FseWI3WXI2Z1RLeEd4RG9GRE1kc1FJdUxNV1ZBa042UkdTQlJ5WEhmdG9QTjc0Vjd4cF95SGxpQlQzUDgya24tblJRQThBR2dWR09mOHRuaHppZDFyajN2NjhIa3AxRW9LQlFGancxQVgzU0U5VFV3RzVDcGNOaUoxQWpoODhDNGFfMkZ5R0xpNElQN1RKaUJBdkpBZUlFd1p4cDhNN1VreDBWZlo3c1Bvb19GemRBYUdwRXQ5Uw?oc=5"
     },
     {
-     "source": "Traders Union",
-     "title": "UK defense AI startup Agon raises $70 million in Series A funding",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmV1dW12cHJDdUxzcEt4MldHU2VfMDc0REJVZGJzMy1tVmtoQ180ZlhlVm5SY0R2SW5ydTVGbXp5bGNyYUVYWFhjMkxWVVlTc2NxN3pEdFkwOUFkbGdUMGZ6STdYQ3B0WlN1RXNMUGxkTXJpQUdUMWR5M1BKQXJoUDc5T1BiaXRORWNPVzFNdU94bDQ?oc=5"
-    },
-    {
      "source": "MLQ.ai",
      "title": "London defense AI startup Agon raises $70 million at a $450 million valuation",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnRXZnFianQzakFTS1d0MGhrYWlhV3BscktVUE15eWx6WmVmWG85OEZCbDJaVHBaMkxaMlBfd09LMTgzSjZOZXp6R3BkaURreUh6bWZGWTF6NVRYSG9STWo4allfc2tLamhUNWh3ejIybmNYZklaeGR0SjVNd3NrQ0ZQbFhqN1hOMDhjbkpuWWZDTExOaHVQbzdESHE?oc=5"
-    },
-    {
-     "source": "The Next Web",
-     "title": "UK defence startup Agon raises $70M to simulate the battlefield",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTW5saFRQQTlFRWo0MUsyM2V1ZG16Y1ZsYTliRXA0WG03VF8wM0w3b2tXTFpUVEZsYzliNXhHTUE5aHJibmxjS3BzVnhNSTF3eDdWNnY1R0tpRTRvN0RRcmZCNi1sOHJHSUdtb1VQS1JrSV9aVFE?oc=5"
     },
     {
      "source": "AFP.com",
@@ -139,6 +131,21 @@
      "source": "AI Insider",
      "title": "European Defense AI Company Agon Raises $70M in Series A Funding to Develop Autonomous Systems Technology",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbV9pVVJjcDRtZkFpdzlRWmRZekdESlNIS2M4Y294bjl1Y3Q0Y2F1U0hEbk9IUGlCUmROdEJjWlgwaEdoc0hwZWt2aXJTNzQzS3B3V2Y0cnNoUm45czJrT01zX2pfdUF1aGtBU0dheUpGYWZXZmZhdGJ0a3dhalgySlA2RlEwMk9qRHhfWEd3amRIWkxaaUF5V0ZUM2RNRUsxdE5MYWhiUVpvRm9lLTJ2a1IwN3RfZlVtQ3p4aklrT3hid192ZVd1UnRieGc4bldZNkpId2ZQTkhndw?oc=5"
+    },
+    {
+     "source": "Traders Union",
+     "title": "UK defense AI startup Agon raises $70 million in Series A funding",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmV1dW12cHJDdUxzcEt4MldHU2VfMDc0REJVZGJzMy1tVmtoQ180ZlhlVm5SY0R2SW5ydTVGbXp5bGNyYUVYWFhjMkxWVVlTc2NxN3pEdFkwOUFkbGdUMGZ6STdYQ3B0WlN1RXNMUGxkTXJpQUdUMWR5M1BKQXJoUDc5T1BiaXRORWNPVzFNdU94bDQ?oc=5"
+    },
+    {
+     "source": "Pulse 2.0",
+     "title": "Agon Raises $70 Million At $450 Million Valuation To Build European Defense AI Infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFZ0ZlhUUi1kbFNIMWVJSnd4Q2l2V243cTdaT0lpZ2RjOWU0R0s0RWVZVl85Q3p1eDF0cmtvdFpWV19tX1lQTDhxbTFIVllrNjZ4cGpIRDJodjM4ZHZLdTdMMWZUUHU1d2NEMUc0dTlBU001VlU4bmNCQ1VVOEVvbFJFLS1wclhqaUtCQ3VTZDVhOHdKbVEyLTF3eWs2MjNMazJyZlB2UTlMOUVGd3F5Yg?oc=5"
+    },
+    {
+     "source": "The Next Web",
+     "title": "UK defence startup Agon raises $70M to simulate the battlefield",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTW5saFRQQTlFRWo0MUsyM2V1ZG16Y1ZsYTliRXA0WG03VF8wM0w3b2tXTFpUVEZsYzliNXhHTUE5aHJibmxjS3BzVnhNSTF3eDdWNnY1R0tpRTRvN0RRcmZCNi1sOHJHSUdtb1VQS1JrSV9aVFE?oc=5"
     }
    ],
    "brief": {
@@ -175,7 +182,7 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 34.7
+   "score": 35
   },
   {
    "id": "eileen-burbidge-backs-monzo-alums-anti-fraud-startup-in-1-8m-pre-seed",
@@ -234,7 +241,7 @@
     "Unicorns & scale-ups",
     "AI"
    ],
-   "score": 20.4
+   "score": 20.1
   },
   {
    "id": "swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-deve",
@@ -297,7 +304,7 @@
     "Funding",
     "AI"
    ],
-   "score": 20.3
+   "score": 20
   },
   {
    "id": "plural-s-sten-tamkivi-on-its-1bn-fund-defence-tech-and-why-europe-didn-t-miss-th",
@@ -320,7 +327,7 @@
     "Funding",
     "AI"
    ],
-   "score": 18.4
+   "score": 18.1
   },
   {
    "id": "amd-acquires-ai-chip-startup-taalas-for-2-9b-to-advance-ai-inference-technology",
@@ -344,7 +351,7 @@
     "Policy & ecosystem",
     "People"
    ],
-   "score": 13.7
+   "score": 13.5
   },
   {
    "id": "ex-sequoia-boss-backs-uk-defense-startup-at-450-million-value",
@@ -365,7 +372,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 13
+   "score": 12.7
   },
   {
    "id": "theseus-robotics-secures-455k-to-put-robots-to-work-in-supermarkets-across-europ",
@@ -404,7 +411,7 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 12.4
+   "score": 12.2
   },
   {
    "id": "german-startup-playbook-secures-8-million-to-help-pharma-companies-deploy-ai-saf",
@@ -442,7 +449,7 @@
     "Funding",
     "AI"
    ],
-   "score": 10.8
+   "score": 10.5
   },
   {
    "id": "bbb-invests-43m-in-oxford-university-spinout-backer",
@@ -459,33 +466,11 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1JpX0pTUU9pdy1xVkI4OUl5czN1ZDZwVmhXMW5rUnVUVnBhMVR2c0R1SU5XQkh1NEg1SV9XOHNoOVFiOElZZEgtRVpYR0xzbWYyWDZIMGxVbU04REIwc1d6aDM3UFB6YmZvUEZ5NWVIamNteEdPZy1iTWRYa2hQakZrRy1Bbmly?oc=5"
     }
    ],
-   "date": "2026-11-23T11:58:40.000Z",
+   "date": "2026-11-23T12:31:22.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 9.5
-  },
-  {
-   "id": "laronix-raises-5m-in-pre-series-a-to-take-ai-voice-restoration-tech-to-us-and-eu",
-   "title": "Laronix raises $5m in pre-Series A to take AI voice restoration tech to US and Europe",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVBtcjlBMGxNalRZMEgzdzluclkwb29BendWVTFWUTIyTUNxX3dGUkFBTVJobkM2OHl1b0w0VklQQzJXZkF0dlMyTi1JcUdlTzNvUE84V1o2dVd2ZjhiZXRLZ1hfR2dvZU92c3lPZGotN25oVVJfS1hwMDBQZlZmajRXUHY4MGotbnFSRi04WTNjeTdXUTJZSG1CblpaWklKbmdOSnl0VEYyNEswSWdXUjBSRk9EU1laR3hsMkNjREJGeUs5QVBMbXhlVUlzX3hyN0HSAd4BQVVfeXFMUDdtb2lxd3ZjWVNBcWRiRHF2UFZPWlFsdnFIa19fRWY2Mkxuc1hWVXZtUzNYOFdJTER6UnVIbzJRbm1lSWM1OGNEQ09ndzdQWGtHQWpseWZMYmlyRTV2WkFLNTFsbmFzM3JsdUlZSEIycGhWZ2tTbG12M1VaOUJVQ3FBN0gxYkNEV2NvdDgtcG13ZVUtWUJiX0hXRGJPQ3EwbzBfWnczZFVtbHk2RUJOTlVtMmIxeEpSUjhnR0ZkNnR6aGtTbDByT2QwRmFSek1FQUhIcU1jMl90ZG16MlRn?oc=5",
-   "summary": "",
-   "sources": [
-    "Business News Australia"
-   ],
-   "articles": [
-    {
-     "source": "Business News Australia",
-     "title": "Laronix raises $5m in pre-Series A to take AI voice restoration tech to US and Europe",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVBtcjlBMGxNalRZMEgzdzluclkwb29BendWVTFWUTIyTUNxX3dGUkFBTVJobkM2OHl1b0w0VklQQzJXZkF0dlMyTi1JcUdlTzNvUE84V1o2dVd2ZjhiZXRLZ1hfR2dvZU92c3lPZGotN25oVVJfS1hwMDBQZlZmajRXUHY4MGotbnFSRi04WTNjeTdXUTJZSG1CblpaWklKbmdOSnl0VEYyNEswSWdXUjBSRk9EU1laR3hsMkNjREJGeUs5QVBMbXhlVUlzX3hyN0HSAd4BQVVfeXFMUDdtb2lxd3ZjWVNBcWRiRHF2UFZPWlFsdnFIa19fRWY2Mkxuc1hWVXZtUzNYOFdJTER6UnVIbzJRbm1lSWM1OGNEQ09ndzdQWGtHQWpseWZMYmlyRTV2WkFLNTFsbmFzM3JsdUlZSEIycGhWZ2tTbG12M1VaOUJVQ3FBN0gxYkNEV2NvdDgtcG13ZVUtWUJiX0hXRGJPQ3EwbzBfWnczZFVtbHk2RUJOTlVtMmIxeEpSUjhnR0ZkNnR6aGtTbDByT2QwRmFSek1FQUhIcU1jMl90ZG16MlRn?oc=5"
-    }
-   ],
-   "date": "2026-11-23T03:59:59.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 8.8
+   "score": 9.3
   },
   {
    "id": "kbra-releases-research-europe-s-2027-election-cycle-political-risk-and-sovereign",
@@ -506,28 +491,7 @@
    "categories": [
     "Policy & ecosystem"
    ],
-   "score": 6.7
-  },
-  {
-   "id": "zurich-warns-firms-face-hidden-ai-risks-despite-using-separate-models",
-   "title": "Zurich warns firms face ‘hidden’ AI risks despite using separate models",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUUwTG92TmgtTWp3a1UwS0RnQWxsQTJnQ25PUV9fZEI2blRhb1RMTzlvbHM1dS1Zd2FmNElXMmZFSmN1R0U4alRCT0Y4bE9ibm1HRTM2MDJBUW40Z2pkR2toMHZqQi1TN3JjLTJfOExXdkV1aHo4WWJnYWVqZUtUdDhwWW1sbTFaSWdVaTltQjl5eE1Idk9HRA?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "Zurich warns firms face ‘hidden’ AI risks despite using separate models",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUUwTG92TmgtTWp3a1UwS0RnQWxsQTJnQ25PUV9fZEI2blRhb1RMTzlvbHM1dS1Zd2FmNElXMmZFSmN1R0U4alRCT0Y4bE9ibm1HRTM2MDJBUW40Z2pkR2toMHZqQi1TN3JjLTJfOExXdkV1aHo4WWJnYWVqZUtUdDhwWW1sbTFaSWdVaTltQjl5eE1Idk9HRA?oc=5"
-    }
-   ],
-   "date": "2026-11-23T08:15:00.000Z",
-   "categories": [
-    "AI"
-   ],
-   "score": 6.2
+   "score": 6.5
   },
   {
    "id": "why-ai-startups-should-build-governance-early",
@@ -548,7 +512,28 @@
    "categories": [
     "AI"
    ],
-   "score": 6.2
+   "score": 6
+  },
+  {
+   "id": "zurich-warns-firms-face-hidden-ai-risks-despite-using-separate-models",
+   "title": "Zurich warns firms face ‘hidden’ AI risks despite using separate models",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUUwTG92TmgtTWp3a1UwS0RnQWxsQTJnQ25PUV9fZEI2blRhb1RMTzlvbHM1dS1Zd2FmNElXMmZFSmN1R0U4alRCT0Y4bE9ibm1HRTM2MDJBUW40Z2pkR2toMHZqQi1TN3JjLTJfOExXdkV1aHo4WWJnYWVqZUtUdDhwWW1sbTFaSWdVaTltQjl5eE1Idk9HRA?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Zurich warns firms face ‘hidden’ AI risks despite using separate models",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUUwTG92TmgtTWp3a1UwS0RnQWxsQTJnQ25PUV9fZEI2blRhb1RMTzlvbHM1dS1Zd2FmNElXMmZFSmN1R0U4alRCT0Y4bE9ibm1HRTM2MDJBUW40Z2pkR2toMHZqQi1TN3JjLTJfOExXdkV1aHo4WWJnYWVqZUtUdDhwWW1sbTFaSWdVaTltQjl5eE1Idk9HRA?oc=5"
+    }
+   ],
+   "date": "2026-11-23T08:15:00.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 5.9
   },
   {
    "id": "sign-up-for-the-first-london-tech-chess-night",
@@ -567,7 +552,7 @@
    ],
    "date": "2026-11-23T13:07:34.000Z",
    "categories": [],
-   "score": 5.6
+   "score": 5.3
   },
   {
    "id": "opinion-ai-will-favour-the-companies-built-for-ai-not-adapted-to-it",
@@ -598,7 +583,7 @@
    "categories": [
     "AI"
    ],
-   "score": 5.5
+   "score": 5.2
   },
   {
    "id": "european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-6b",
@@ -615,28 +600,9 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5"
     }
    ],
-   "date": "2026-11-23T08:00:38.000Z",
+   "date": "2026-11-23T08:00:39.000Z",
    "categories": [],
-   "score": 5.1
-  },
-  {
-   "id": "london-s-skills-shortage-is-really-an-opportunity-shortage",
-   "title": "London’s skills shortage is really an opportunity shortage",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "London’s skills shortage is really an opportunity shortage",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5"
-    }
-   ],
-   "date": "2026-11-23T14:19:21.000Z",
-   "categories": [],
-   "score": 4.7
+   "score": 4.9
   },
   {
    "id": "women-s-world-cup-2035-uk-confirmed-as-host-by-fifa",
@@ -655,7 +621,7 @@
    ],
    "date": "2026-11-23T15:16:34.000Z",
    "categories": [],
-   "score": 4.7
+   "score": 4.5
   },
   {
    "id": "opinion-europe-s-rearmament-risks-creating-empty-factories",
@@ -684,7 +650,26 @@
    },
    "date": "2026-11-23T14:42:34.000Z",
    "categories": [],
-   "score": 4.7
+   "score": 4.5
+  },
+  {
+   "id": "london-s-skills-shortage-is-really-an-opportunity-shortage",
+   "title": "London’s skills shortage is really an opportunity shortage",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "London’s skills shortage is really an opportunity shortage",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5"
+    }
+   ],
+   "date": "2026-11-23T14:19:21.000Z",
+   "categories": [],
+   "score": 4.4
   },
   {
    "id": "is-silicon-valley-turning-its-back-on-europe-plug-and-play-s-thomas-bigagli-weig",
@@ -713,26 +698,7 @@
    },
    "date": "2026-11-23T12:33:20.000Z",
    "categories": [],
-   "score": 4.5
-  },
-  {
-   "id": "zurich-insurance-group-archives",
-   "title": "zurich insurance group Archives",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lazJsRC1UZHktbWhsR1lvbUotNXZGcEFwdDRIcy11M1RKX2pQcTBQZ0dhTGp3Zm53cnRDRHNYWFZNRm5EQmYxN05BQ21SZ1NacVBmbWxOR09DQ1R6SDhQLWM2VF9STndxaDR2VXhtRGl2Y2Q3VWMxaWxqQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "zurich insurance group Archives",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lazJsRC1UZHktbWhsR1lvbUotNXZGcEFwdDRIcy11M1RKX2pQcTBQZ0dhTGp3Zm53cnRDRHNYWFZNRm5EQmYxN05BQ21SZ1NacVBmbWxOR09DQ1R6SDhQLWM2VF9STndxaDR2VXhtRGl2Y2Q3VWMxaWxqQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-23T08:19:17.000Z",
-   "categories": [],
-   "score": 4.4
+   "score": 4.3
   },
   {
    "id": "haigh-sets-natural-england-up-for-axe-and-hints-at-control-of-water-companies",
@@ -751,7 +717,26 @@
    ],
    "date": "2026-11-23T11:21:47.000Z",
    "categories": [],
-   "score": 4.4
+   "score": 4.2
+  },
+  {
+   "id": "rapport-london-archives",
+   "title": "Rapport London Archives",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Iek4wRzdhYkxGdWlOR1Vlb3lmcHJZczJjVEtQcjVNeHkwbW5aVFFsRGY0U0xibFUta0g4RjBpSFZtZm8xbW55cG5OWTV3NmZFSDFiX21BTDh1WWI2WW9ZRXNhbXA3Z2tCUUthVy1INWE?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Rapport London Archives",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Iek4wRzdhYkxGdWlOR1Vlb3lmcHJZczJjVEtQcjVNeHkwbW5aVFFsRGY0U0xibFUta0g4RjBpSFZtZm8xbW55cG5OWTV3NmZFSDFiX21BTDh1WWI2WW9ZRXNhbXA3Z2tCUUthVy1INWE?oc=5"
+    }
+   ],
+   "date": "2026-11-23T08:19:17.000Z",
+   "categories": [],
+   "score": 4.1
   },
   {
    "id": "another-blow-to-london-as-ftse-100-catering-giant-departs-for-new-york",
@@ -770,28 +755,7 @@
    ],
    "date": "2026-11-23T07:49:19.000Z",
    "categories": [],
-   "score": 4.1
-  },
-  {
-   "id": "eu-seeks-strategic-tech-investment-to-keep-startups-in-europe",
-   "title": "EU Seeks Strategic Tech Investment to Keep Startups in Europe",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlJIUm84WFJjRTdpYWl2OEtyUlpidXpGWllpRlE0MENyMGYxQlg5ZGpNTlh0YWVvejBaOXVyVmNvZHo1LVh3d3NGdGxndWRxSXFBOHlacnc1Mjkwd1Naa2dsdnlPbFZDa3FJcGtoRGxuOU5MVGlCdnpoS3FUTFZ1blhIdVFXd0thN3Vr?oc=5",
-   "summary": "",
-   "sources": [
-    "JournalArta"
-   ],
-   "articles": [
-    {
-     "source": "JournalArta",
-     "title": "EU Seeks Strategic Tech Investment to Keep Startups in Europe",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlJIUm84WFJjRTdpYWl2OEtyUlpidXpGWllpRlE0MENyMGYxQlg5ZGpNTlh0YWVvejBaOXVyVmNvZHo1LVh3d3NGdGxndWRxSXFBOHlacnc1Mjkwd1Naa2dsdnlPbFZDa3FJcGtoRGxuOU5MVGlCdnpoS3FUTFZ1blhIdVFXd0thN3Vr?oc=5"
-    }
-   ],
-   "date": "2026-11-22T14:40:23.000Z",
-   "categories": [
-    "Policy & ecosystem"
-   ],
-   "score": 4
+   "score": 3.9
   },
   {
    "id": "backed-by-nvidia-and-a16z-black-forest-labs-sets-its-sights-on-world-models",
@@ -810,7 +774,7 @@
    ],
    "date": "2026-11-23T05:00:45.000Z",
    "categories": [],
-   "score": 3.9
+   "score": 3.6
   },
   {
    "id": "british-airways-owner-tells-burnham-heathrow-s-third-runway-doomed-to-failure",
