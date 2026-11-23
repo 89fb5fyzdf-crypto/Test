@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generatedAt": "2026-11-23T13:53:03.861Z",
+ "generatedAt": "2026-11-23T18:19:16.211Z",
  "windowHours": 36,
  "counts": {
-  "articles": 21,
-  "raw": 60,
-  "media": 15
+  "articles": 27,
+  "raw": 68,
+  "media": 16
  },
  "scope": "eu",
  "lang": "en",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 34
+   "items": 56
   },
   {
    "source": "EU-Startups",
@@ -23,7 +23,7 @@
   {
    "source": "Financial Times",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "source": "Google News · Europe scaleup mega round billion",
@@ -33,7 +33,7 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 32
+   "items": 21
   },
   {
    "source": "Google News · European unicorn valuation",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 28
+   "items": 30
   },
   {
    "source": "Sifted",
@@ -58,7 +58,7 @@
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 7
+   "items": 9
   },
   {
    "source": "TechCrunch Europe",
@@ -73,11 +73,12 @@
  ],
  "items": [
   {
-   "id": "defence-startup-agon-raises-70m-with-uk-s-sovai-and-nssif-investing",
-   "title": "Defence startup Agon raises $70M, with UK's SovAI and NSSIF investing",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnFVUk14WjFPdldJYkpuMXRkQVU4YVk2TzlRdlFvejY1azZCLVo4TVhiUTFkd1hQVXNmOWw0cF9FUC1Yb2pIWjZ2N1BCaUNlWXMtMXhmMldyeEs3VXo1azBJMXdQMFBUcHVpZzg2RXptbmZDTnpVSFJ4bUFNRjFZZjR0dlF1NDZiMTgyekZCNkxURVRDR1BxWg?oc=5",
+   "id": "defence-startup-agon-raises-70m-backed-by-northzone-and-lakestar",
+   "title": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+   "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
    "summary": "Agon, a London-based defence AI startup building sovereign infrastructure for autonomous military systems, has raised a €63.87 million ($70 million) Series A round at a valuation of €411.3 million ($450 million). The round was led by Northzone with participation from returning investors Lakestar, XYZ, Lux Capital, and Global Founders Capital. The UK Government’s Sovereign AI […]",
    "sources": [
+    "Sifted",
     "Tech.eu",
     "EU-Startups",
     "Tech Funding News",
@@ -85,9 +86,15 @@
     "Traders Union",
     "MLQ.ai",
     "The Next Web",
-    "01net"
+    "AFP.com",
+    "AI Insider"
    ],
    "articles": [
+    {
+     "source": "Sifted",
+     "title": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+     "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/"
+    },
     {
      "source": "Tech.eu",
      "title": "Defence startup Agon raises $70M, with UK's SovAI and NSSIF investing",
@@ -124,9 +131,14 @@
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTW5saFRQQTlFRWo0MUsyM2V1ZG16Y1ZsYTliRXA0WG03VF8wM0w3b2tXTFpUVEZsYzliNXhHTUE5aHJibmxjS3BzVnhNSTF3eDdWNnY1R0tpRTRvN0RRcmZCNi1sOHJHSUdtb1VQS1JrSV9aVFE?oc=5"
     },
     {
-     "source": "01net",
-     "title": "Agon raises $70 million in Series A round to build Europe’s defence AI lab",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWJBQlRSTUJTM2t3ZFZfa3NiSERpVlAwMGpaa3Uzb0Z5ckEtTURZOTJ5S3oyZ1VmMzRhM0JaNlJ1ZmFfY1hvek9teTRJd0pJQlFwY2tNWUswZlJ4UmVwZXJaUHRWaWVCSVBjZHR0NEFSMEJXUHRpY0cyRVE0V21aZ1BUc19fcHRNNHRmXzY0T2hzX2N2N2RMcWx3?oc=5"
+     "source": "AFP.com",
+     "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdklnd1V0aWVfS0xTUkdiM0FXak1LR2czTG5vYXA2OGFQendfaFRza0hpR1djaDlaX3Z6a0VQSkRtZjBwd0RCR3Y5UW5BRC1UbVcwM0F6UHZoZlg4UWY5S0RwMmhKak02OXVDMDNtWGdUT01UZTl5WTlWWW1YR09HdWpVb1ZZNVlIM1pVcXdPVThCQzRtWHpDTWpobHQzWFRrLTJ6dnBVYzhJUi0wZ0ZmdQ?oc=5"
+    },
+    {
+     "source": "AI Insider",
+     "title": "European Defense AI Company Agon Raises $70M in Series A Funding to Develop Autonomous Systems Technology",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbV9pVVJjcDRtZkFpdzlRWmRZekdESlNIS2M4Y294bjl1Y3Q0Y2F1U0hEbk9IUGlCUmROdEJjWlgwaEdoc0hwZWt2aXJTNzQzS3B3V2Y0cnNoUm45czJrT01zX2pfdUF1aGtBU0dheUpGYWZXZmZhdGJ0a3dhalgySlA2RlEwMk9qRHhfWEd3amRIWkxaaUF5V0ZUM2RNRUsxdE5MYWhiUVpvRm9lLTJ2a1IwN3RfZlVtQ3p4aklrT3hid192ZVd1UnRieGc4bldZNkpId2ZQTkhndw?oc=5"
     }
    ],
    "brief": {
@@ -140,7 +152,7 @@
     "facts": [
      {
       "key": "amount",
-      "value": "$70M"
+      "value": "$70m"
      },
      {
       "key": "round",
@@ -152,7 +164,7 @@
      },
      {
       "key": "investors",
-      "value": "Northzone"
+      "value": "Northzone and Lakestar"
      }
     ]
    },
@@ -163,14 +175,14 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 35
+   "score": 34.7
   },
   {
    "id": "eileen-burbidge-backs-monzo-alums-anti-fraud-startup-in-1-8m-pre-seed",
    "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
    "url": "https://sifted.eu/articles/acorda-pre-seed/",
    "summary": "Acorda, a London-based FinTech startup helping payment providers stop financial scams through shared risk data, has raised €2.15 million (£1.8 million) in a pre-Seed funding round. The round was led by Concept Ventures, the first venture capital firm to back AI unicorn Eleven Labs, with participation from NFG Ventures, the firm founded by early Monzo […]",
-   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-23T160003.836.jpg",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=1024,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/20161103/1795188124888.jpeg",
    "sources": [
     "Sifted",
     "Tech.eu",
@@ -222,14 +234,13 @@
     "Unicorns & scale-ups",
     "AI"
    ],
-   "score": 20.7
+   "score": 20.4
   },
   {
    "id": "swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-deve",
    "title": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVIzVHZ6a3JnWFhZWXV4MzVOOURYTEQyNGEyeHFyYV9NRlgyTnJTenRvSlZ3NC1FbXRMcUY0ZXhUV0w5bnJEQ243bWFqYzdNcm9qTkRwLWtJZUFueF9GdTZ5QjVhR3dOenkyYnhDcHBKZUZYcTBIU2dPRndDUGFRbzU4aXdVOUZuRlV1TDdjRkRSRkh5a2JHYWNVbW95Yko3aG9WdVZ3bjZHV1VpUmg3OVA0TjN2UUM3VUpEZ082UXM?oc=5",
    "summary": "coprod, a Swiss robotics hardware startup building modular hardware components for robotics and physical AI applications, has raised €5.45 million ($6 million) in a pre-Seed funding round. The round was co-led by Founderful and PROTOTYPE, with additional backing from General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital, and Venturekick. Angel ",
-   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/coprod-founders.jpg",
    "sources": [
     "Tech.eu",
     "EU-Startups",
@@ -286,7 +297,7 @@
     "Funding",
     "AI"
    ],
-   "score": 20.6
+   "score": 20.3
   },
   {
    "id": "plural-s-sten-tamkivi-on-its-1bn-fund-defence-tech-and-why-europe-didn-t-miss-th",
@@ -309,7 +320,7 @@
     "Funding",
     "AI"
    ],
-   "score": 18.7
+   "score": 18.4
   },
   {
    "id": "amd-acquires-ai-chip-startup-taalas-for-2-9b-to-advance-ai-inference-technology",
@@ -317,27 +328,23 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzJCT1c1Z3JtOUs3akd4LWxFc3JlNFhLQzMzZzAxd1JXNTBFZi0zOHVMaUwzTG91clVyV1VQSDRoRDNkZWFGSFlsdFZTd1ZzbDhjYk00WHdoNUpPZUgyYkdVRWR0MUQ4SjgxSGJHX0oyZ2hyRTZ2VWJlQ1dILTFVaTltSkVTMWU5VlVfdkhEaDFGYldEa3JRSm5lVkJVYnA0c0doWEpDRS1KQQ?oc=5",
    "summary": "",
    "sources": [
-    "Tech.eu",
-    "The Recursive"
+    "Tech.eu"
    ],
    "articles": [
     {
      "source": "Tech.eu",
      "title": "AMD acquires AI chip startup Taalas for $2.9B to advance AI inference technology",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzJCT1c1Z3JtOUs3akd4LWxFc3JlNFhLQzMzZzAxd1JXNTBFZi0zOHVMaUwzTG91clVyV1VQSDRoRDNkZWFGSFlsdFZTd1ZzbDhjYk00WHdoNUpPZUgyYkdVRWR0MUQ4SjgxSGJHX0oyZ2hyRTZ2VWJlQ1dILTFVaTltSkVTMWU5VlVfdkhEaDFGYldEa3JRSm5lVkJVYnA0c0doWEpDRS1KQQ?oc=5"
-    },
-    {
-     "source": "The Recursive",
-     "title": "Inside AMD’s $2.9B Deal for CEE Co-Founded Taalas With Its Sole European Investor",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hN1BnMmtuZnlRWnZsZW8xYVBTdjFqVGQxb29wUGlLTXBSNENaQmFzeWo3X0RqZ0I4cl9SQVUxX1VGbm5NUXFhQTRRNDdfbVhQNW0xcVZiVFhrc0t2WDItOUFzbTdUdGcteHVMMVg1WkQ?oc=5"
     }
    ],
-   "date": "2026-11-23T05:43:06.000Z",
+   "date": "2026-11-23T05:43:08.000Z",
    "categories": [
     "M&A & IPOs",
-    "AI"
+    "AI",
+    "Policy & ecosystem",
+    "People"
    ],
-   "score": 14.8
+   "score": 13.7
   },
   {
    "id": "ex-sequoia-boss-backs-uk-defense-startup-at-450-million-value",
@@ -358,7 +365,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 13.3
+   "score": 13
   },
   {
    "id": "theseus-robotics-secures-455k-to-put-robots-to-work-in-supermarkets-across-europ",
@@ -397,7 +404,45 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 12.8
+   "score": 12.4
+  },
+  {
+   "id": "german-startup-playbook-secures-8-million-to-help-pharma-companies-deploy-ai-saf",
+   "title": "German startup Playbook secures €8 million to help pharma companies deploy AI safely",
+   "url": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
+   "summary": "Munich’s Playbook, a startup developing neurological AI to ensure rule-based compliance in pharmaceutical industries, has raised €8 million to turn documents into data AI can read, but not change. Heal Capital leads the round, together with Bayern Kapital and existing investor Capnamic. The company raised €2.5 million in 2025. “Our ambition is to help Pharma […]",
+   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-bar-23-300x169.png",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "German startup Playbook secures €8 million to help pharma companies deploy AI safely",
+     "url": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Munich’s Playbook , a startup developing neurological AI to ensure rule-based compliance in pharmaceutical industries, has raised €8 million to turn documents into data AI can read, but not change.",
+    "points": [
+     "In Germany, Munich-based Interloom raised €14.2 million for AI-agent knowledge infrastructure, Berlin-based Cognee secured €7.5 million for AI memory technology, and Stuttgart-based Blockbrain attracted €17.5 million for secure enterprise AI agents.",
+     "Elsewhere, London-based Pharosyn raised €2.5 million for pharmaceutical intelligence software, while Barcelona’s Mafer AI secured €2 million for AI-enabled R&D and regulatory workflows, and Barcelona and San Francisco-based Modern Relay raised €2.5 million for enterprise AI infrastructure.",
+     "Source: EU-Startups EU-Startups previously covered lead investor Heal Capital’s participation in Swiss startup CGC Genomics’ €1.7 million round , supporting regulated AI applications in oncology.",
+     "Together, these rounds represent approximately €46.2 million in 2026 funding, rising to €54.2 million including Playbook’s new investment."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€8 million"
+     }
+    ]
+   },
+   "date": "2026-11-23T15:40:56.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 10.8
   },
   {
    "id": "bbb-invests-43m-in-oxford-university-spinout-backer",
@@ -414,11 +459,11 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1JpX0pTUU9pdy1xVkI4OUl5czN1ZDZwVmhXMW5rUnVUVnBhMVR2c0R1SU5XQkh1NEg1SV9XOHNoOVFiOElZZEgtRVpYR0xzbWYyWDZIMGxVbU04REIwc1d6aDM3UFB6YmZvUEZ5NWVIamNteEdPZy1iTWRYa2hQakZrRy1Bbmly?oc=5"
     }
    ],
-   "date": "2026-11-23T11:54:35.000Z",
+   "date": "2026-11-23T11:58:40.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 9.8
+   "score": 9.5
   },
   {
    "id": "laronix-raises-5m-in-pre-series-a-to-take-ai-voice-restoration-tech-to-us-and-eu",
@@ -440,28 +485,28 @@
     "Funding",
     "AI"
    ],
-   "score": 9.2
+   "score": 8.8
   },
   {
-   "id": "why-ai-startups-should-build-governance-early",
-   "title": "Why AI startups should build governance early",
-   "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/",
+   "id": "kbra-releases-research-europe-s-2027-election-cycle-political-risk-and-sovereign",
+   "title": "KBRA Releases Research – Europe’s 2027 Election Cycle: Political Risk and Sovereign Credit",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWxSUDVNUzVwa3V3SnZzNmVhc0tUMnNKdVUtNk5FYUk3WEhrdHpoMS1sSi0xdjJBQXQ3LUtCRTBGZzRhcGNMTlE3WVZ3d1hfbUh6WGhKQjhaeU45d05iVm8xYzRCSVY3dzZnRHpYLXNNY3NLUUhzemJYR0o4R1pLcWp2VDRGalQ1NXltTDJHaFJMZ1JvWVJuWlZTX1JJYVlBTm1pZDFTejlnSHNrZElv?oc=5",
    "summary": "",
    "sources": [
-    "Sifted"
+    "City AM"
    ],
    "articles": [
     {
-     "source": "Sifted",
-     "title": "Why AI startups should build governance early",
-     "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/"
+     "source": "City AM",
+     "title": "KBRA Releases Research – Europe’s 2027 Election Cycle: Political Risk and Sovereign Credit",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWxSUDVNUzVwa3V3SnZzNmVhc0tUMnNKdVUtNk5FYUk3WEhrdHpoMS1sSi0xdjJBQXQ3LUtCRTBGZzRhcGNMTlE3WVZ3d1hfbUh6WGhKQjhaeU45d05iVm8xYzRCSVY3dzZnRHpYLXNNY3NLUUhzemJYR0o4R1pLcWp2VDRGalQ1NXltTDJHaFJMZ1JvWVJuWlZTX1JJYVlBTm1pZDFTejlnSHNrZElv?oc=5"
     }
    ],
-   "date": "2026-11-23T09:00:24.000Z",
+   "date": "2026-11-23T14:47:00.000Z",
    "categories": [
-    "AI"
+    "Policy & ecosystem"
    ],
-   "score": 6.6
+   "score": 6.7
   },
   {
    "id": "zurich-warns-firms-face-hidden-ai-risks-despite-using-separate-models",
@@ -482,7 +527,28 @@
    "categories": [
     "AI"
    ],
-   "score": 6.5
+   "score": 6.2
+  },
+  {
+   "id": "why-ai-startups-should-build-governance-early",
+   "title": "Why AI startups should build governance early",
+   "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Why AI startups should build governance early",
+     "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/"
+    }
+   ],
+   "date": "2026-11-23T09:00:24.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 6.2
   },
   {
    "id": "sign-up-for-the-first-london-tech-chess-night",
@@ -501,7 +567,7 @@
    ],
    "date": "2026-11-23T13:07:34.000Z",
    "categories": [],
-   "score": 5.9
+   "score": 5.6
   },
   {
    "id": "opinion-ai-will-favour-the-companies-built-for-ai-not-adapted-to-it",
@@ -532,7 +598,7 @@
    "categories": [
     "AI"
    ],
-   "score": 5.9
+   "score": 5.5
   },
   {
    "id": "european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-6b",
@@ -549,9 +615,76 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5"
     }
    ],
-   "date": "2026-11-23T08:00:17.000Z",
+   "date": "2026-11-23T08:00:38.000Z",
    "categories": [],
-   "score": 5.5
+   "score": 5.1
+  },
+  {
+   "id": "london-s-skills-shortage-is-really-an-opportunity-shortage",
+   "title": "London’s skills shortage is really an opportunity shortage",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "London’s skills shortage is really an opportunity shortage",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5"
+    }
+   ],
+   "date": "2026-11-23T14:19:21.000Z",
+   "categories": [],
+   "score": 4.7
+  },
+  {
+   "id": "women-s-world-cup-2035-uk-confirmed-as-host-by-fifa",
+   "title": "Women’s World Cup 2035: UK confirmed as host by Fifa",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZbUVMbDduR2pVRUMyQXMwdEk2dkhNOERxZFU4cEhGMVh6bERfdFFENUZpU3llMGxHZVJFMG1YV3hUTG5OR2llOTJSaUNuMTN3WnN1eDJkR0hDOGJMdjJNRF80cEFiU09tQXNLV211Z1hGUWJZ?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Women’s World Cup 2035: UK confirmed as host by Fifa",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZbUVMbDduR2pVRUMyQXMwdEk2dkhNOERxZFU4cEhGMVh6bERfdFFENUZpU3llMGxHZVJFMG1YV3hUTG5OR2llOTJSaUNuMTN3WnN1eDJkR0hDOGJMdjJNRF80cEFiU09tQXNLV211Z1hGUWJZ?oc=5"
+    }
+   ],
+   "date": "2026-11-23T15:16:34.000Z",
+   "categories": [],
+   "score": 4.7
+  },
+  {
+   "id": "opinion-europe-s-rearmament-risks-creating-empty-factories",
+   "title": "OPINION: Europe’s rearmament risks creating empty factories",
+   "url": "https://www.eu-startups.com/2026/11/opinion-europes-rearmament-risks-creating-empty-factories/",
+   "summary": "Weapons factories are springing up all over Europe as proof, many say, that the continent is taking its rearmament seriously. It seems so simple. Build factories, manufacture arms and kit, and Europe, faced with aggression on its eastern flank and the changing realities of a complex, multipolar world, will be able to take care of […]",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "OPINION: Europe’s rearmament risks creating empty factories",
+     "url": "https://www.eu-startups.com/2026/11/opinion-europes-rearmament-risks-creating-empty-factories/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Weapons factories are springing up all over Europe as proof, many say, that the continent is taking its rearmament seriously.",
+    "points": [
+     "Build factories, manufacture arms and kit, and Europe, faced with aggression on its eastern flank and the changing realities of a complex, multipolar world, will be able to take care of itself and its interests after decades of low defence investment.",
+     "Because supply chains, the networks of production and distribution on which all manufacturing relies, are not all in Europe, and do not scale in proportion to manufacturing.",
+     "To think that they do is to believe, wrongly, that a company may get funding, massively improve its production capacity, and never have to worry that a chip, or some unusual component, might stop it from manufacturing anything.",
+     "Indeed, weapons factories are expanding at three times the rate they did in peacetime, covering some 7 million square metres of new industrial development, but whether Europe is pursuing the right industrial policy."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-23T14:42:34.000Z",
+   "categories": [],
+   "score": 4.7
   },
   {
    "id": "is-silicon-valley-turning-its-back-on-europe-plug-and-play-s-thomas-bigagli-weig",
@@ -580,26 +713,7 @@
    },
    "date": "2026-11-23T12:33:20.000Z",
    "categories": [],
-   "score": 4.9
-  },
-  {
-   "id": "haigh-sets-natural-england-up-for-axe-and-hints-at-control-of-water-companies",
-   "title": "Haigh sets Natural England up for axe and hints at control of water companies",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUNFRzdNdDl4dDR0U0ZrSE1IaE8xaXQ5S2t5R20yZVloZ3A5R2RYbFFwY3RGTk1jbEc3X2hWLTk3VVNCUlU1SFRTNTBsdXkxTE5mSUJuRnhZdlpkRXBYV05iNFl1OU5pc3p6WV9wRE9UaW93UjZnT3VuTWlOclBmdzdqTThpb3U1VkxMNEVZcnpvQk00MFU1dHBJMDVoaVBMTFM4?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "Haigh sets Natural England up for axe and hints at control of water companies",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUNFRzdNdDl4dDR0U0ZrSE1IaE8xaXQ5S2t5R20yZVloZ3A5R2RYbFFwY3RGTk1jbEc3X2hWLTk3VVNCUlU1SFRTNTBsdXkxTE5mSUJuRnhZdlpkRXBYV05iNFl1OU5pc3p6WV9wRE9UaW93UjZnT3VuTWlOclBmdzdqTThpb3U1VkxMNEVZcnpvQk00MFU1dHBJMDVoaVBMTFM4?oc=5"
-    }
-   ],
-   "date": "2026-11-23T11:21:47.000Z",
-   "categories": [],
-   "score": 4.8
+   "score": 4.5
   },
   {
    "id": "zurich-insurance-group-archives",
@@ -618,7 +732,26 @@
    ],
    "date": "2026-11-23T08:19:17.000Z",
    "categories": [],
-   "score": 4.8
+   "score": 4.4
+  },
+  {
+   "id": "haigh-sets-natural-england-up-for-axe-and-hints-at-control-of-water-companies",
+   "title": "Haigh sets Natural England up for axe and hints at control of water companies",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUNFRzdNdDl4dDR0U0ZrSE1IaE8xaXQ5S2t5R20yZVloZ3A5R2RYbFFwY3RGTk1jbEc3X2hWLTk3VVNCUlU1SFRTNTBsdXkxTE5mSUJuRnhZdlpkRXBYV05iNFl1OU5pc3p6WV9wRE9UaW93UjZnT3VuTWlOclBmdzdqTThpb3U1VkxMNEVZcnpvQk00MFU1dHBJMDVoaVBMTFM4?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Haigh sets Natural England up for axe and hints at control of water companies",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUNFRzdNdDl4dDR0U0ZrSE1IaE8xaXQ5S2t5R20yZVloZ3A5R2RYbFFwY3RGTk1jbEc3X2hWLTk3VVNCUlU1SFRTNTBsdXkxTE5mSUJuRnhZdlpkRXBYV05iNFl1OU5pc3p6WV9wRE9UaW93UjZnT3VuTWlOclBmdzdqTThpb3U1VkxMNEVZcnpvQk00MFU1dHBJMDVoaVBMTFM4?oc=5"
+    }
+   ],
+   "date": "2026-11-23T11:21:47.000Z",
+   "categories": [],
+   "score": 4.4
   },
   {
    "id": "another-blow-to-london-as-ftse-100-catering-giant-departs-for-new-york",
@@ -637,7 +770,28 @@
    ],
    "date": "2026-11-23T07:49:19.000Z",
    "categories": [],
-   "score": 4.5
+   "score": 4.1
+  },
+  {
+   "id": "eu-seeks-strategic-tech-investment-to-keep-startups-in-europe",
+   "title": "EU Seeks Strategic Tech Investment to Keep Startups in Europe",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlJIUm84WFJjRTdpYWl2OEtyUlpidXpGWllpRlE0MENyMGYxQlg5ZGpNTlh0YWVvejBaOXVyVmNvZHo1LVh3d3NGdGxndWRxSXFBOHlacnc1Mjkwd1Naa2dsdnlPbFZDa3FJcGtoRGxuOU5MVGlCdnpoS3FUTFZ1blhIdVFXd0thN3Vr?oc=5",
+   "summary": "",
+   "sources": [
+    "JournalArta"
+   ],
+   "articles": [
+    {
+     "source": "JournalArta",
+     "title": "EU Seeks Strategic Tech Investment to Keep Startups in Europe",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlJIUm84WFJjRTdpYWl2OEtyUlpidXpGWllpRlE0MENyMGYxQlg5ZGpNTlh0YWVvejBaOXVyVmNvZHo1LVh3d3NGdGxndWRxSXFBOHlacnc1Mjkwd1Naa2dsdnlPbFZDa3FJcGtoRGxuOU5MVGlCdnpoS3FUTFZ1blhIdVFXd0thN3Vr?oc=5"
+    }
+   ],
+   "date": "2026-11-22T14:40:23.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 4
   },
   {
    "id": "backed-by-nvidia-and-a16z-black-forest-labs-sets-its-sights-on-world-models",
@@ -656,7 +810,7 @@
    ],
    "date": "2026-11-23T05:00:45.000Z",
    "categories": [],
-   "score": 4.3
+   "score": 3.9
   },
   {
    "id": "british-airways-owner-tells-burnham-heathrow-s-third-runway-doomed-to-failure",
