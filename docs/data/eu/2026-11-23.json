@@ -1,0 +1,366 @@
+{
+ "date": "2026-11-23",
+ "generatedAt": "2026-11-23T09:49:57.622Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 12,
+  "raw": 23,
+  "media": 11
+ },
+ "scope": "eu",
+ "lang": "en",
+ "sources": [
+  {
+   "source": "City AM",
+   "ok": true,
+   "items": 21
+  },
+  {
+   "source": "EU-Startups",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Financial Times",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "source": "Google News · Europe scaleup mega round billion",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "source": "Google News · European startup raises Series",
+   "ok": false,
+   "error": "HTTP 429"
+  },
+  {
+   "source": "Google News · European unicorn valuation",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "source": "Google News · UK startup raises funding round",
+   "ok": true,
+   "items": 28
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "Tech.eu",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Tech.eu (via Google News)",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "TechCrunch Europe",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "UKTN",
+   "ok": true,
+   "items": 10
+  }
+ ],
+ "items": [
+  {
+   "id": "defence-startup-agon-raises-70m-with-uk-s-sovai-and-nssif-investing",
+   "title": "Defence startup Agon raises $70M, with UK's SovAI and NSSIF investing",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnFVUk14WjFPdldJYkpuMXRkQVU4YVk2TzlRdlFvejY1azZCLVo4TVhiUTFkd1hQVXNmOWw0cF9FUC1Yb2pIWjZ2N1BCaUNlWXMtMXhmMldyeEs3VXo1azBJMXdQMFBUcHVpZzg2RXptbmZDTnpVSFJ4bUFNRjFZZjR0dlF1NDZiMTgyekZCNkxURVRDR1BxWg?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "Traders Union",
+    "The Next Web",
+    "AFP.com"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Defence startup Agon raises $70M, with UK's SovAI and NSSIF investing",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnFVUk14WjFPdldJYkpuMXRkQVU4YVk2TzlRdlFvejY1azZCLVo4TVhiUTFkd1hQVXNmOWw0cF9FUC1Yb2pIWjZ2N1BCaUNlWXMtMXhmMldyeEs3VXo1azBJMXdQMFBUcHVpZzg2RXptbmZDTnpVSFJ4bUFNRjFZZjR0dlF1NDZiMTgyekZCNkxURVRDR1BxWg?oc=5"
+    },
+    {
+     "source": "Traders Union",
+     "title": "UK defense AI startup Agon raises $70 million in Series A funding",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmV1dW12cHJDdUxzcEt4MldHU2VfMDc0REJVZGJzMy1tVmtoQ180ZlhlVm5SY0R2SW5ydTVGbXp5bGNyYUVYWFhjMkxWVVlTc2NxN3pEdFkwOUFkbGdUMGZ6STdYQ3B0WlN1RXNMUGxkTXJpQUdUMWR5M1BKQXJoUDc5T1BiaXRORWNPVzFNdU94bDQ?oc=5"
+    },
+    {
+     "source": "The Next Web",
+     "title": "UK defence startup Agon raises $70M to simulate the battlefield",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTW5saFRQQTlFRWo0MUsyM2V1ZG16Y1ZsYTliRXA0WG03VF8wM0w3b2tXTFpUVEZsYzliNXhHTUE5aHJibmxjS3BzVnhNSTF3eDdWNnY1R0tpRTRvN0RRcmZCNi1sOHJHSUdtb1VQS1JrSV9aVFE?oc=5"
+    },
+    {
+     "source": "AFP.com",
+     "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejRySXJSNUVYTm1peGZJVHVKdDJRT2Y5SWFueElRUTJySGZJMHlmZUViQkswdlRTakIyMjF0YmdiU0VtenpXRENlZGs4QkxOTmwtMk9tMDhKbWNpaC1WaDlLT3ZzZmxOZ1ZhdGFzZUpNMkwzdHpldmhWVW04MVc0WGlmak94LVdqQUdWQ1Q0bFlHUWo5MVN3?oc=5"
+    }
+   ],
+   "date": "2026-11-23T07:10:27.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 24
+  },
+  {
+   "id": "swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-deve",
+   "title": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVIzVHZ6a3JnWFhZWXV4MzVOOURYTEQyNGEyeHFyYV9NRlgyTnJTenRvSlZ3NC1FbXRMcUY0ZXhUV0w5bnJEQ243bWFqYzdNcm9qTkRwLWtJZUFueF9GdTZ5QjVhR3dOenkyYnhDcHBKZUZYcTBIU2dPRndDUGFRbzU4aXdVOUZuRlV1TDdjRkRSRkh5a2JHYWNVbW95Yko3aG9WdVZ3bjZHV1VpUmg3OVA0TjN2UUM3VUpEZ082UXM?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "ChannelLife UK",
+    "EU-Startups",
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVIzVHZ6a3JnWFhZWXV4MzVOOURYTEQyNGEyeHFyYV9NRlgyTnJTenRvSlZ3NC1FbXRMcUY0ZXhUV0w5bnJEQ243bWFqYzdNcm9qTkRwLWtJZUFueF9GdTZ5QjVhR3dOenkyYnhDcHBKZUZYcTBIU2dPRndDUGFRbzU4aXdVOUZuRlV1TDdjRkRSRkh5a2JHYWNVbW95Yko3aG9WdVZ3bjZHV1VpUmg3OVA0TjN2UUM3VUpEZ082UXM?oc=5"
+    },
+    {
+     "source": "ChannelLife UK",
+     "title": "Swiss robotics startup coprod raises USD $6 million",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjlGZ3dBNUZ2em9uNDlxWEJ3RXF0MTNrQ3lyMGFTMjZRS2QzR3NOemtSOGFUcGU3VGN2UlA2aU1NY3VkVWFtQ2oxTUZvakEtZV80bzQ3b0ZUeHBTSS0zRlFscTAwTkx3Sk1QYzF2WWZrTi1mdjhfaEdQMDhDbVJ4ZXJmcURXaWYxbXc?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and physical AI hardware",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObzBNV1VweGNUTDAxVXV5eUd6Zlh6RllSSU5LR2ZfNklLLUE3Unpabm9XeWUwRGRjS3dZYWZHZ0RIeUxNLVpLSHZfS01xdm5QaFdQSHVRNzZaSkxwMkJtTkxzeE4tYzVFb25MT08wdTNQNGM3dkZtbWw1NHNrQ191RWdzQTFiSGxMdGt6TTktYXFxdXptVEFwbHljV2dkSDRveEgtMG5Qblp3d2hyeEpfMFQtOTlZcWVaZXFzeXI0a2w4NG04Qll4SFBGSi1fekhXN3NoalF3SEY?oc=5"
+    },
+    {
+     "source": "Dealroom",
+     "title": "Swiss robotics startup coprod raises $6M to fix hardware's \"integration hell",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSGdWbnVkbVE4ZTFuaXFuZ1paN05FZlk3MnFGQXY3U0pEOGJCOHBYTW9xcTh4S3Jmbkcwd0c2cEFfMWt3MTlvanNpYzdFVFgwY3Q4blYydEVqYlFUZDV0NFo0WllvUjM5aS1LSDlUV0xYVFpRaWRUeGd5VmlpbHBJTURSQ3J6ZHdFdUdTcFo0QWtXbEo1RGhXX00zdW5XT3ZOUDViX3hlOWVYTzhV?oc=5"
+    }
+   ],
+   "date": "2026-11-23T09:00:00.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 21
+  },
+  {
+   "id": "ex-sequoia-boss-backs-uk-defense-startup-at-450-million-value",
+   "title": "Ex-Sequoia Boss Backs UK Defense Startup at $450 Million Value",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2VKZjJpVWZ3RVUwdVlSN0p4aHdRWURXN0Jwd3g1TVBqR1FhNm42bjEzbG1LNWtaTW9BMWc5ZEoySjZnWVUzYVBwT3lrNGgtb1BUa2JRRU96YTN2UjhEUDFOamFQYThpSVpqNmd6SlJIZ3RUUHdFMm1aQ01nSVZOOVhKcGJZOS0yNWZ3Nk1Ua3F4Z3J4S0FaVWZ4aXV1bjJTQmZkTzhNVWFmWGhJdXZ4ZnpJS0JncUprcGFVUmt0N3R1Q2VS?oc=5",
+   "summary": "",
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "articles": [
+    {
+     "source": "Bloomberg.com",
+     "title": "Ex-Sequoia Boss Backs UK Defense Startup at $450 Million Value",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2VKZjJpVWZ3RVUwdVlSN0p4aHdRWURXN0Jwd3g1TVBqR1FhNm42bjEzbG1LNWtaTW9BMWc5ZEoySjZnWVUzYVBwT3lrNGgtb1BUa2JRRU96YTN2UjhEUDFOamFQYThpSVpqNmd6SlJIZ3RUUHdFMm1aQ01nSVZOOVhKcGJZOS0yNWZ3Nk1Ua3F4Z3J4S0FaVWZ4aXV1bjJTQmZkTzhNVWFmWGhJdXZ4ZnpJS0JncUprcGFVUmt0N3R1Q2VS?oc=5"
+    }
+   ],
+   "date": "2026-11-23T06:00:00.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 13.7
+  },
+  {
+   "id": "eileen-burbidge-backs-monzo-alums-anti-fraud-startup-in-1-8m-pre-seed",
+   "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+   "url": "https://sifted.eu/articles/acorda-pre-seed/",
+   "summary": "",
+   "sources": [
+    "Sifted",
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+     "url": "https://sifted.eu/articles/acorda-pre-seed/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "Former Monzo scam prevention team raises £1.8M for Acorda to help banks fight fraud with better data",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2RlVUZRMjNlWEV1UkNTc2hUemV6bURjNUEtQ1hKdXB0TkdNcWVHajRLeVRBMzhONjgzMjJRcjMyRTNIWkwwRHBSRnY4aEx6WUY1MWlZeW9KR3hZQmFvbnQteGY5MUNRN1p1akpnYVZRaTI3ZHRYQm8zdFVHZE5fR0drYWFiTXV2Y2pyTGswWnJzRC1lbU5tZjM0dWFIYkZQWVZFMjhmUlkyOTM2blJUT0JscG5TdXg4R0ZWcnlrMmphdEdPNFI4?oc=5"
+    }
+   ],
+   "date": "2026-11-23T05:00:46.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 11.9
+  },
+  {
+   "id": "amd-acquires-ai-chip-startup-taalas-for-2-9b-to-advance-ai-inference-technology",
+   "title": "AMD acquires AI chip startup Taalas for $2.9B to advance AI inference technology",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzJCT1c1Z3JtOUs3akd4LWxFc3JlNFhLQzMzZzAxd1JXNTBFZi0zOHVMaUwzTG91clVyV1VQSDRoRDNkZWFGSFlsdFZTd1ZzbDhjYk00WHdoNUpPZUgyYkdVRWR0MUQ4SjgxSGJHX0oyZ2hyRTZ2VWJlQ1dILTFVaTltSkVTMWU5VlVfdkhEaDFGYldEa3JRSm5lVkJVYnA0c0doWEpDRS1KQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "AMD acquires AI chip startup Taalas for $2.9B to advance AI inference technology",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzJCT1c1Z3JtOUs3akd4LWxFc3JlNFhLQzMzZzAxd1JXNTBFZi0zOHVMaUwzTG91clVyV1VQSDRoRDNkZWFGSFlsdFZTd1ZzbDhjYk00WHdoNUpPZUgyYkdVRWR0MUQ4SjgxSGJHX0oyZ2hyRTZ2VWJlQ1dILTFVaTltSkVTMWU5VlVfdkhEaDFGYldEa3JRSm5lVkJVYnA0c0doWEpDRS1KQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-23T05:38:53.000Z",
+   "categories": [
+    "M&A & IPOs",
+    "AI"
+   ],
+   "score": 10.7
+  },
+  {
+   "id": "why-ai-startups-should-build-governance-early",
+   "title": "Why AI startups should build governance early",
+   "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/",
+   "summary": "",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=581,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/13094302/5919_ioannisioannou_532563_crop.jpg",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Why AI startups should build governance early",
+     "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/"
+    }
+   ],
+   "date": "2026-11-23T09:00:24.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 6.9
+  },
+  {
+   "id": "zurich-warns-firms-face-hidden-ai-risks-despite-using-separate-models",
+   "title": "Zurich warns firms face ‘hidden’ AI risks despite using separate models",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUUwTG92TmgtTWp3a1UwS0RnQWxsQTJnQ25PUV9fZEI2blRhb1RMTzlvbHM1dS1Zd2FmNElXMmZFSmN1R0U4alRCT0Y4bE9ibm1HRTM2MDJBUW40Z2pkR2toMHZqQi1TN3JjLTJfOExXdkV1aHo4WWJnYWVqZUtUdDhwWW1sbTFaSWdVaTltQjl5eE1Idk9HRA?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Zurich warns firms face ‘hidden’ AI risks despite using separate models",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUUwTG92TmgtTWp3a1UwS0RnQWxsQTJnQ25PUV9fZEI2blRhb1RMTzlvbHM1dS1Zd2FmNElXMmZFSmN1R0U4alRCT0Y4bE9ibm1HRTM2MDJBUW40Z2pkR2toMHZqQi1TN3JjLTJfOExXdkV1aHo4WWJnYWVqZUtUdDhwWW1sbTFaSWdVaTltQjl5eE1Idk9HRA?oc=5"
+    }
+   ],
+   "date": "2026-11-23T08:15:00.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 6.9
+  },
+  {
+   "id": "european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-6b",
+   "title": "European tech weekly recap: More than 65 tech funding deals worth over €6B",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "European tech weekly recap: More than 65 tech funding deals worth over €6B",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5"
+    }
+   ],
+   "date": "2026-11-23T08:00:17.000Z",
+   "categories": [],
+   "score": 5.8
+  },
+  {
+   "id": "hurun-germany-unicorn-index-2026",
+   "title": "Hurun Germany Unicorn Index 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91b3hsLS0yeDFfbXlaRzNBMWFrZVhWbXljUTlTczRPNEN6Wmc0eFZ3aG1zYjhIbUk5TXo4YVptckpLblhnYlBvMHg5SkJsa3I4U1pUVzNHUTJlc2ZDSjhpX2pjalRRWEE?oc=5",
+   "summary": "",
+   "sources": [
+    "胡润百富"
+   ],
+   "articles": [
+    {
+     "source": "胡润百富",
+     "title": "Hurun Germany Unicorn Index 2026",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91b3hsLS0yeDFfbXlaRzNBMWFrZVhWbXljUTlTczRPNEN6Wmc0eFZ3aG1zYjhIbUk5TXo4YVptckpLblhnYlBvMHg5SkJsa3I4U1pUVzNHUTJlc2ZDSjhpX2pjalRRWEE?oc=5"
+    }
+   ],
+   "date": "2026-11-22T01:43:44.000Z",
+   "categories": [
+    "Unicorns & scale-ups"
+   ],
+   "score": 5
+  },
+  {
+   "id": "another-blow-to-london-as-ftse-100-catering-giant-departs-for-new-york",
+   "title": "Another blow to London as FTSE 100 catering giant departs for New York",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmI3UTBfcm9Wam93UVZfR2lRc3p5VmMtWlJWQVlwdThNcXZlaXJkUElqclBXWEFDTFk5aXpoNW10REFRYk9DZ2IyOUNLbGd0WHpGbUQ2eTZVTkJjS05EWUhpZzZqM3RFNnNfRkJUNjJReEp5MFV6QklBZFFkUDBieHZR?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Another blow to London as FTSE 100 catering giant departs for New York",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmI3UTBfcm9Wam93UVZfR2lRc3p5VmMtWlJWQVlwdThNcXZlaXJkUElqclBXWEFDTFk5aXpoNW10REFRYk9DZ2IyOUNLbGd0WHpGbUQ2eTZVTkJjS05EWUhpZzZqM3RFNnNfRkJUNjJReEp5MFV6QklBZFFkUDBieHZR?oc=5"
+    }
+   ],
+   "date": "2026-11-23T07:49:19.000Z",
+   "categories": [],
+   "score": 4.8
+  },
+  {
+   "id": "backed-by-nvidia-and-a16z-black-forest-labs-sets-its-sights-on-world-models",
+   "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+   "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+     "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/"
+    }
+   ],
+   "date": "2026-11-23T05:00:45.000Z",
+   "categories": [],
+   "score": 4.6
+  },
+  {
+   "id": "british-airways-owner-tells-burnham-heathrow-s-third-runway-doomed-to-failure",
+   "title": "British Airways owner tells Burnham Heathrow’s third runway ‘doomed to failure’",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbElqMDJFQnMtQndIbkxIa3RnOXc0RGlxVTJmN1VPVGRPbzFldGl1X01ZdGpfTEpzVVdtdVJVTGV5SjNOaXNvTk9SaUJHT1VtMmZ4N3FpbHYzSGJlUW02VlVJQnpwSS0wTXVJYTlsRjlCLTVod180MmRmeE8xaXZrc2U3MjhtdjE2Z0ZpS3BDbTNnMWEtcE9vLXBNQkhhTkJNNkE?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "British Airways owner tells Burnham Heathrow’s third runway ‘doomed to failure’",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbElqMDJFQnMtQndIbkxIa3RnOXc0RGlxVTJmN1VPVGRPbzFldGl1X01ZdGpfTEpzVVdtdVJVTGV5SjNOaXNvTk9SaUJHT1VtMmZ4N3FpbHYzSGJlUW02VlVJQnpwSS0wTXVJYTlsRjlCLTVod180MmRmeE8xaXZrc2U3MjhtdjE2Z0ZpS3BDbTNnMWEtcE9vLXBNQkhhTkJNNkE?oc=5"
+    }
+   ],
+   "date": "2026-11-22T10:39:25.000Z",
+   "categories": [],
+   "score": 3.1
+  }
+ ]
+}
