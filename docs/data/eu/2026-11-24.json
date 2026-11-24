@@ -1,11 +1,11 @@
 {
  "date": "2026-11-24",
- "generatedAt": "2026-11-24T09:41:20.378Z",
+ "generatedAt": "2026-11-24T13:47:09.437Z",
  "windowHours": 36,
  "counts": {
-  "articles": 28,
-  "raw": 81,
-  "media": 21
+  "articles": 39,
+  "raw": 86,
+  "media": 19
  },
  "scope": "eu",
  "lang": "en",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 30
+   "items": 25
   },
   {
    "source": "EU-Startups",
@@ -23,7 +23,7 @@
   {
    "source": "Financial Times",
    "ok": true,
-   "items": 2
+   "items": 4
   },
   {
    "source": "Google News · Europe scaleup mega round billion",
@@ -33,7 +33,7 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 24
+   "items": 57
   },
   {
    "source": "Google News · European unicorn valuation",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 58
+   "items": 30
   },
   {
    "source": "Sifted",
@@ -58,7 +58,7 @@
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 15
+   "items": 18
   },
   {
    "source": "TechCrunch Europe",
@@ -84,15 +84,13 @@
     "EU-Startups",
     "Tech Funding News",
     "The Economic Times",
+    "Traders Union",
+    "The Next Web",
     "MLQ.ai",
+    "Pulse 2.0",
     "AFP.com",
     "AI Insider",
-    "Traders Union",
-    "Pulse 2.0",
-    "The Next Web",
-    "01net",
-    "Business Wire",
-    "Demokratis.co.id"
+    "World Business Outlook"
    ],
    "articles": [
     {
@@ -121,29 +119,9 @@
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbEF2MXFqMDFzRFB6ZjZfNHcwN2UwcUxGdlo2TTRqdjd0aFpmNkJ0Wk5CR19RVGRIMl94UFVuRE1adktfVWNvS0g3SFhpbGpDV3VVeHIxLXN2S3d3bURHbDhCVGNwOVVocmZWNEZ0RWQ0bWljVU4zT1BYdjcyRU82RV9PMFlzLUxKdDVKcHlfQjA2aWFlbHFqZkVyeUc5dVVNRVg1RGhsdHBneTRDQkhnMk1QakFHLUw1RVlKcWE3ZWZKV29RX2pnakJ6S1NJM2FjdWJoMWxrTVBTMFB3aWpoZzZFLVZLX0RGVkxn0gHwAUFVX3lxTE8zaDk1ZWIyOVhpY09sdjRmbDlKbWdFa2EyZGVyQURjbndzZUtIc2tjNjJEUFRoMmJrQ1FseWI3WXI2Z1RLeEd4RG9GRE1kc1FJdUxNV1ZBa042UkdTQlJ5WEhmdG9QTjc0Vjd4cF95SGxpQlQzUDgya24tblJRQThBR2dWR09mOHRuaHppZDFyajN2NjhIa3AxRW9LQlFGancxQVgzU0U5VFV3RzVDcGNOaUoxQWpoODhDNGFfMkZ5R0xpNElQN1RKaUJBdkpBZUlFd1p4cDhNN1VreDBWZlo3c1Bvb19GemRBYUdwRXQ5Uw?oc=5"
     },
     {
-     "source": "MLQ.ai",
-     "title": "London defense AI startup Agon raises $70 million at a $450 million valuation",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnRXZnFianQzakFTS1d0MGhrYWlhV3BscktVUE15eWx6WmVmWG85OEZCbDJaVHBaMkxaMlBfd09LMTgzSjZOZXp6R3BkaURreUh6bWZGWTF6NVRYSG9STWo4allfc2tLamhUNWh3ejIybmNYZklaeGR0SjVNd3NrQ0ZQbFhqN1hOMDhjbkpuWWZDTExOaHVQbzdESHE?oc=5"
-    },
-    {
-     "source": "AFP.com",
-     "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdklnd1V0aWVfS0xTUkdiM0FXak1LR2czTG5vYXA2OGFQendfaFRza0hpR1djaDlaX3Z6a0VQSkRtZjBwd0RCR3Y5UW5BRC1UbVcwM0F6UHZoZlg4UWY5S0RwMmhKak02OXVDMDNtWGdUT01UZTl5WTlWWW1YR09HdWpVb1ZZNVlIM1pVcXdPVThCQzRtWHpDTWpobHQzWFRrLTJ6dnBVYzhJUi0wZ0ZmdQ?oc=5"
-    },
-    {
-     "source": "AI Insider",
-     "title": "European Defense AI Company Agon Raises $70M in Series A Funding to Develop Autonomous Systems Technology",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbV9pVVJjcDRtZkFpdzlRWmRZekdESlNIS2M4Y294bjl1Y3Q0Y2F1U0hEbk9IUGlCUmROdEJjWlgwaEdoc0hwZWt2aXJTNzQzS3B3V2Y0cnNoUm45czJrT01zX2pfdUF1aGtBU0dheUpGYWZXZmZhdGJ0a3dhalgySlA2RlEwMk9qRHhfWEd3amRIWkxaaUF5V0ZUM2RNRUsxdE5MYWhiUVpvRm9lLTJ2a1IwN3RfZlVtQ3p4aklrT3hid192ZVd1UnRieGc4bldZNkpId2ZQTkhndw?oc=5"
-    },
-    {
      "source": "Traders Union",
      "title": "UK defense AI startup Agon raises $70 million in Series A funding",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmV1dW12cHJDdUxzcEt4MldHU2VfMDc0REJVZGJzMy1tVmtoQ180ZlhlVm5SY0R2SW5ydTVGbXp5bGNyYUVYWFhjMkxWVVlTc2NxN3pEdFkwOUFkbGdUMGZ6STdYQ3B0WlN1RXNMUGxkTXJpQUdUMWR5M1BKQXJoUDc5T1BiaXRORWNPVzFNdU94bDQ?oc=5"
-    },
-    {
-     "source": "Pulse 2.0",
-     "title": "Agon Raises $70 Million At $450 Million Valuation To Build European Defense AI Infrastructure",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFZ0ZlhUUi1kbFNIMWVJSnd4Q2l2V243cTdaT0lpZ2RjOWU0R0s0RWVZVl85Q3p1eDF0cmtvdFpWV19tX1lQTDhxbTFIVllrNjZ4cGpIRDJodjM4ZHZLdTdMMWZUUHU1d2NEMUc0dTlBU001VlU4bmNCQ1VVOEVvbFJFLS1wclhqaUtCQ3VTZDVhOHdKbVEyLTF3eWs2MjNMazJyZlB2UTlMOUVGd3F5Yg?oc=5"
     },
     {
      "source": "The Next Web",
@@ -151,19 +129,29 @@
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTW5saFRQQTlFRWo0MUsyM2V1ZG16Y1ZsYTliRXA0WG03VF8wM0w3b2tXTFpUVEZsYzliNXhHTUE5aHJibmxjS3BzVnhNSTF3eDdWNnY1R0tpRTRvN0RRcmZCNi1sOHJHSUdtb1VQS1JrSV9aVFE?oc=5"
     },
     {
-     "source": "01net",
-     "title": "Agon raises $70 million in Series A round to build Europe’s defence AI lab",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWJBQlRSTUJTM2t3ZFZfa3NiSERpVlAwMGpaa3Uzb0Z5ckEtTURZOTJ5S3oyZ1VmMzRhM0JaNlJ1ZmFfY1hvek9teTRJd0pJQlFwY2tNWUswZlJ4UmVwZXJaUHRWaWVCSVBjZHR0NEFSMEJXUHRpY0cyRVE0V21aZ1BUc19fcHRNNHRmXzY0T2hzX2N2N2RMcWx3?oc=5"
+     "source": "MLQ.ai",
+     "title": "London defense AI startup Agon raises $70 million at a $450 million valuation",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnRXZnFianQzakFTS1d0MGhrYWlhV3BscktVUE15eWx6WmVmWG85OEZCbDJaVHBaMkxaMlBfd09LMTgzSjZOZXp6R3BkaURreUh6bWZGWTF6NVRYSG9STWo4allfc2tLamhUNWh3ejIybmNYZklaeGR0SjVNd3NrQ0ZQbFhqN1hOMDhjbkpuWWZDTExOaHVQbzdESHE?oc=5"
     },
     {
-     "source": "Business Wire",
+     "source": "Pulse 2.0",
+     "title": "Agon Raises $70 Million At $450 Million Valuation To Build European Defense AI Infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFZ0ZlhUUi1kbFNIMWVJSnd4Q2l2V243cTdaT0lpZ2RjOWU0R0s0RWVZVl85Q3p1eDF0cmtvdFpWV19tX1lQTDhxbTFIVllrNjZ4cGpIRDJodjM4ZHZLdTdMMWZUUHU1d2NEMUc0dTlBU001VlU4bmNCQ1VVOEVvbFJFLS1wclhqaUtCQ3VTZDVhOHdKbVEyLTF3eWs2MjNMazJyZlB2UTlMOUVGd3F5Yg?oc=5"
+    },
+    {
+     "source": "AFP.com",
      "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLV9MUmotYlVSbXpwVFhHQUF1TVZfTnhmczZmUUZQMHBiZllURHB2TWpCUm9ZVVh6bXhTNjczdTFKbExvcExhQ0x6UUdqQzg0dVBncU5FSy1kbWhhejd1bGUyMENKSXRLRzNwX1hmZ1Y2STNwTld5eG5LZW56ZWp6NGdKMlEwNVFLWTJDVmFYVl9rU19wRnVLVy0xbXpWem5DUVdGVlVBN2xQTGl1dDBmcFVtb1lzTzFYMWhYeUtJWll0NFNtdjBpVFQ0amw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejRySXJSNUVYTm1peGZJVHVKdDJRT2Y5SWFueElRUTJySGZJMHlmZUViQkswdlRTakIyMjF0YmdiU0VtenpXRENlZGs4QkxOTmwtMk9tMDhKbWNpaC1WaDlLT3ZzZmxOZ1ZhdGFzZUpNMkwzdHpldmhWVW04MVc0WGlmak94LVdqQUdWQ1Q0bFlHUWo5MVN3?oc=5"
     },
     {
-     "source": "Demokratis.co.id",
-     "title": "UK Funds Agon AI Defence Systems in $70 Million Series A",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oV184cFY5ZVQ1aTdTSUhDbjZZM1VwY2tGQ0VmMWY2SlM5THRTSnFNV3NOQVQ1bFJCUG5tcmR2a1FkZElOaGRHNTc2c0xhQTZwdnRqcFZGOHlreXlSdHlGUTJiQ3hCRDFwLVE?oc=5"
+     "source": "AI Insider",
+     "title": "European Defense AI Company Agon Raises $70M in Series A Funding to Develop Autonomous Systems Technology",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbV9pVVJjcDRtZkFpdzlRWmRZekdESlNIS2M4Y294bjl1Y3Q0Y2F1U0hEbk9IUGlCUmROdEJjWlgwaEdoc0hwZWt2aXJTNzQzS3B3V2Y0cnNoUm45czJrT01zX2pfdUF1aGtBU0dheUpGYWZXZmZhdGJ0a3dhalgySlA2RlEwMk9qRHhfWEd3amRIWkxaaUF5V0ZUM2RNRUsxdE5MYWhiUVpvRm9lLTJ2a1IwN3RfZlVtQ3p4aklrT3hid192ZVd1UnRieGc4bldZNkpId2ZQTkhndw?oc=5"
+    },
+    {
+     "source": "World Business Outlook",
+     "title": "Agon Secures USD 70 Million Series A to Expand European Defence AI Infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWc5RFI3MlhQS041MktKRDE4bFJkWjNzelhHTWFzY01vTTBtXzdocDdBVC15OHVTdW1qSmp5OG5fdWpQWkRmVHBSbzNKUVVYS3cxbUJ4eGtkWUZ6Z2RMM0ZvNnRER3BKZUNaWm1adGNiX0pBX20tRktHZkZqaDBlQWhKcUpOOU9PdnhpcG9kMnRMUjFQTU5Oelp6QWlkUm5JcWk4MkJYV0VlRl9MZ25OaE1zbUxGdw?oc=5"
     }
    ],
    "brief": {
@@ -200,78 +188,30 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 33.9
+   "score": 33.6
   },
   {
-   "id": "eileen-burbidge-backs-monzo-alums-anti-fraud-startup-in-1-8m-pre-seed",
-   "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
-   "url": "https://sifted.eu/articles/acorda-pre-seed/",
-   "summary": "Acorda, a London-based FinTech startup helping payment providers stop financial scams through shared risk data, has raised €2.15 million (£1.8 million) in a pre-Seed funding round. The round was led by Concept Ventures, the first venture capital firm to back AI unicorn Eleven Labs, with participation from NFG Ventures, the firm founded by early Monzo […]",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=1024,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/20161103/1795188124888.jpeg",
+   "id": "dutch-ai-chipmaker-axelera-in-talks-to-raise-400m-and-eu-subsidies-to-take-on-nv",
+   "title": "Dutch AI chipmaker Axelera in talks to raise $400M and EU subsidies to take on Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTNWVk9KMW5BLUFxaVl3QWpnUHBwM1pPY0g3TUJSQVBhaWstNXBYQ3dHaDBHUUpaSlkyNEZOYjNRN2FMTTBHdjh4UlRKMXkyeGY3Umx4QThBMXRQOXlSU0Q4MU90c0o2U0swRXNBSWJ1Z0dqdExYQ3FiUExRMTFXOTR0aFl5YzM3TDd1cDR3MlB0c3hyMGo0X1QwTXYxQWJYa2RsbldGeHlyMVBTeklla05zOA?oc=5",
+   "summary": "",
    "sources": [
-    "Sifted",
-    "Tech.eu",
-    "EU-Startups",
-    "UK Tech Investment News",
-    "Business Model Analyst"
+    "Tech Funding News"
    ],
    "articles": [
     {
-     "source": "Sifted",
-     "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
-     "url": "https://sifted.eu/articles/acorda-pre-seed/"
-    },
-    {
-     "source": "Tech.eu",
-     "title": "Former Monzo scam prevention team raises £1.8M for Acorda to help banks fight fraud with better data",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2RlVUZRMjNlWEV1UkNTc2hUemV6bURjNUEtQ1hKdXB0TkdNcWVHajRLeVRBMzhONjgzMjJRcjMyRTNIWkwwRHBSRnY4aEx6WUY1MWlZeW9KR3hZQmFvbnQteGY5MUNRN1p1akpnYVZRaTI3ZHRYQm8zdFVHZE5fR0drYWFiTXV2Y2pyTGswWnJzRC1lbU5tZjM0dWFIYkZQWVZFMjhmUlkyOTM2blJUT0JscG5TdXg4R0ZWcnlrMmphdEdPNFI4?oc=5"
-    },
-    {
-     "source": "EU-Startups",
-     "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
-     "url": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/"
-    },
-    {
-     "source": "UK Tech Investment News",
-     "title": "Acorda Intelligence (t/a Acorda) secures £1.8 million Pre-Seed investment led by Concept Ventures, NFG Ventures and Business Angels – UK Tech Investment News by Deal Lite",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYTRDRzdmUzJpdHJJcjVGbjFhQTdFNnhwb2MzX2tORG1lZUxGU0hHZ05UdTBPMnIyRm9xaTlqYUstZE54U1FXMWIyUXdGRDJ3ekRyX29xYUJqQUNzSEJvMWI4cHV2djJQa2RDVzZZb0Q3RHp3Y0EtdHE0SGthdGlLTzJDVnE2bWp1amJveUlkb0VUcTdONmV1dUxwYXF3XzZ6aHRMbWIzRk02T0RDN2xQdG95bkUtOVlkeHFOSnl2SWtlZmJ6WTdhSlE0VEdjejMwWWkxWUdleDNKVmp4YTFxTVZqU05NdUdZNUFDbHRtbmpPcjUwQjlNekkzdw?oc=5"
-    },
-    {
-     "source": "Business Model Analyst",
-     "title": "Monzo’s Old Scam Team Just Raised £1.8m on a UK Refund Rule",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRM29mb3NvaENUYm5oaW9VWTFjamhJczdtRUdZXy1SOEZ5encwb3JRMTZmelh0a0xNTVQySjRJMHRxQjVXeEppa0dzWlVCN0JYbjZOZjRVb3JKMHVHcGFpREg3b1Y2alJFOVA2Z0RrZWNXdzhXYmZzSmg4MA?oc=5"
+     "source": "Tech Funding News",
+     "title": "Dutch AI chipmaker Axelera in talks to raise $400M and EU subsidies to take on Nvidia",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTNWVk9KMW5BLUFxaVl3QWpnUHBwM1pPY0g3TUJSQVBhaWstNXBYQ3dHaDBHUUpaSlkyNEZOYjNRN2FMTTBHdjh4UlRKMXkyeGY3Umx4QThBMXRQOXlSU0Q4MU90c0o2U0swRXNBSWJ1Z0dqdExYQ3FiUExRMTFXOTR0aFl5YzM3TDd1cDR3MlB0c3hyMGo0X1QwTXYxQWJYa2RsbldGeHlyMVBTeklla05zOA?oc=5"
     }
    ],
-   "brief": {
-    "essentiel": "Acorda , a London-based FinTech startup helping payment providers stop financial scams through shared risk data, has raised €2.15 million (£1.8 million) in a pre-Seed funding round.",
-    "points": [
-     "The round was led by Concept Ventures, the first venture capital firm to back AI unicorn Eleven Labs, with participation from NFG Ventures, the firm founded by early Monzo investor and non-executive director Eileen Burbridge.",
-     "We want to provide better data in a way that they genuinely love to use .” The fundraising comes as fraudulent payments globally reached an estimated €537 billion in 2025, a 9% year-on-year jump driven largely by AI-powered scam operations.",
-     "A cohort of angel investors with experience across Monzo, Revolut, Coinbase and OakNorth Bank also participated in this round.",
-     "“Scam prevention is becoming an increasingly expensive problem for all banks and payment providers."
-    ],
-    "facts": [
-     {
-      "key": "amount",
-      "value": "£1.8m"
-     },
-     {
-      "key": "round",
-      "value": "Pre-seed"
-     },
-     {
-      "key": "investors",
-      "value": "Concept Ventures"
-     }
-    ]
-   },
-   "date": "2026-11-23T05:00:46.000Z",
+   "date": "2026-11-24T10:38:28.000Z",
    "categories": [
     "Funding",
-    "Unicorns & scale-ups",
-    "AI"
+    "AI",
+    "Policy & ecosystem"
    ],
-   "score": 25.5
+   "score": 17.7
   },
   {
    "id": "plural-s-sten-tamkivi-on-its-1bn-fund-defence-tech-and-why-europe-didn-t-miss-th",
@@ -294,7 +234,7 @@
     "Funding",
     "AI"
    ],
-   "score": 17.1
+   "score": 17
   },
   {
    "id": "commerzventures-launches-50m-fund-iv-targeting-early-stage-ai-and-fintech-startu",
@@ -341,7 +281,7 @@
     "Funding",
     "AI"
    ],
-   "score": 16.9
+   "score": 16.5
   },
   {
    "id": "swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-deve",
@@ -376,6 +316,27 @@
     "AI"
    ],
    "score": 16
+  },
+  {
+   "id": "pliant-secures-over-200m-in-debt-financing-to-scale-european-payments-business",
+   "title": "Pliant secures over €200M in debt financing to scale European payments business",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhPN0Z5b3Z5SmlDZ3pwZ0g4eDZtMDJsQTlYOUIyVFhBZUR1WTJPQW40dEtPQlBCMXVQREUyZFpsbjg0QVZ5cHpRdTlLZGJsYXJPNlI0VVF6YTRkQTBpWXVsSlhhYjBnaUpER2hORGlUZThpOGxKOFVJLUFDc01oME14eDNNNmFuN2QyTThzUG5TR0NyX2FpcElWMy1aczZLUU81R25VcDBQMjJjTUE?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Pliant secures over €200M in debt financing to scale European payments business",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhPN0Z5b3Z5SmlDZ3pwZ0g4eDZtMDJsQTlYOUIyVFhBZUR1WTJPQW40dEtPQlBCMXVQREUyZFpsbjg0QVZ5cHpRdTlLZGJsYXJPNlI0VVF6YTRkQTBpWXVsSlhhYjBnaUpER2hORGlUZThpOGxKOFVJLUFDc01oME14eDNNNmFuN2QyTThzUG5TR0NyX2FpcElWMy1aczZLUU81R25VcDBQMjJjTUE?oc=5"
+    }
+   ],
+   "date": "2026-11-24T12:38:49.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 14.9
   },
   {
    "id": "good-heat-secures-2m-to-expand-industrial-heat-battery-solutions-across-europe",
@@ -427,7 +388,7 @@
     "Funding",
     "Policy & ecosystem"
    ],
-   "score": 14.9
+   "score": 14.6
   },
   {
    "id": "playbook-raises-8m-to-help-pharma-companies-keep-ai-agents-compliant",
@@ -471,34 +432,118 @@
     "Funding",
     "AI"
    ],
-   "score": 14.8
+   "score": 14.5
   },
   {
-   "id": "bbb-invests-43m-in-oxford-university-spinout-backer",
-   "title": "BBB invests £43M in Oxford University spinout backer",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1JpX0pTUU9pdy1xVkI4OUl5czN1ZDZwVmhXMW5rUnVUVnBhMVR2c0R1SU5XQkh1NEg1SV9XOHNoOVFiOElZZEgtRVpYR0xzbWYyWDZIMGxVbU04REIwc1d6aDM3UFB6YmZvUEZ5NWVIamNteEdPZy1iTWRYa2hQakZrRy1Bbmly?oc=5",
+   "id": "eileen-burbidge-backs-monzo-alums-anti-fraud-startup-in-1-8m-pre-seed",
+   "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+   "url": "https://sifted.eu/articles/acorda-pre-seed/",
+   "summary": "",
+   "sources": [
+    "Sifted",
+    "Tech.eu",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+     "url": "https://sifted.eu/articles/acorda-pre-seed/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "Former Monzo scam prevention team raises £1.8M for Acorda to help banks fight fraud with better data",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2RlVUZRMjNlWEV1UkNTc2hUemV6bURjNUEtQ1hKdXB0TkdNcWVHajRLeVRBMzhONjgzMjJRcjMyRTNIWkwwRHBSRnY4aEx6WUY1MWlZeW9KR3hZQmFvbnQteGY5MUNRN1p1akpnYVZRaTI3ZHRYQm8zdFVHZE5fR0drYWFiTXV2Y2pyTGswWnJzRC1lbU5tZjM0dWFIYkZQWVZFMjhmUlkyOTM2blJUT0JscG5TdXg4R0ZWcnlrMmphdEdPNFI4?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclRpM05acE9pM19CSHJhRTVJVzNLcC1UaGJLMWVtaXRCOERqSE1GM0FZdHBYWGtRc3NqNmMwSHJ5bFdBTmU2U1d2ZlQ2Mk80VlAwUFhrZWZhMURXa2JILWFiRC1YTlFYZVhZTFlySXM1cWJHeWFYT1JVcVcteURwLWUxbkJNRDVSSVNmd2pvT1I0dlhEaFoxYjZTYUlTeEtzN3cxNFNqUnpadnFzTHJBUVFtcWNNbHIya2hYc0lKc09zaURLN2o2VzhSbw?oc=5"
+    }
+   ],
+   "date": "2026-11-23T05:00:46.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 14
+  },
+  {
+   "id": "amd-acquires-ai-chip-startup-taalas-for-2-9b-to-advance-ai-inference-technology",
+   "title": "AMD acquires AI chip startup Taalas for $2.9B to advance AI inference technology",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzJCT1c1Z3JtOUs3akd4LWxFc3JlNFhLQzMzZzAxd1JXNTBFZi0zOHVMaUwzTG91clVyV1VQSDRoRDNkZWFGSFlsdFZTd1ZzbDhjYk00WHdoNUpPZUgyYkdVRWR0MUQ4SjgxSGJHX0oyZ2hyRTZ2VWJlQ1dILTFVaTltSkVTMWU5VlVfdkhEaDFGYldEa3JRSm5lVkJVYnA0c0doWEpDRS1KQQ?oc=5",
    "summary": "",
    "sources": [
     "Tech.eu",
-    "BusinessCloud"
+    "The Recursive"
    ],
    "articles": [
     {
      "source": "Tech.eu",
-     "title": "BBB invests £43M in Oxford University spinout backer",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1JpX0pTUU9pdy1xVkI4OUl5czN1ZDZwVmhXMW5rUnVUVnBhMVR2c0R1SU5XQkh1NEg1SV9XOHNoOVFiOElZZEgtRVpYR0xzbWYyWDZIMGxVbU04REIwc1d6aDM3UFB6YmZvUEZ5NWVIamNteEdPZy1iTWRYa2hQakZrRy1Bbmly?oc=5"
+     "title": "AMD acquires AI chip startup Taalas for $2.9B to advance AI inference technology",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzJCT1c1Z3JtOUs3akd4LWxFc3JlNFhLQzMzZzAxd1JXNTBFZi0zOHVMaUwzTG91clVyV1VQSDRoRDNkZWFGSFlsdFZTd1ZzbDhjYk00WHdoNUpPZUgyYkdVRWR0MUQ4SjgxSGJHX0oyZ2hyRTZ2VWJlQ1dILTFVaTltSkVTMWU5VlVfdkhEaDFGYldEa3JRSm5lVkJVYnA0c0doWEpDRS1KQQ?oc=5"
     },
     {
-     "source": "BusinessCloud",
-     "title": "British Business Bank invests £43m in Oxford spinout builder",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3BxNDN0ZkdTX0tWRjVjM1hHZWtKOGh2cDlCbm4wejZQNUJxbkI4QlMwOXdUeGpYMjA4N3VjTUVBcjBaaklXQ3ZNRWFZMXpwSDZpeEl6MnpqNEMySmNmV3R1ZUlzRTk4Um5URWRJU0RHTGFSYlh0emUwNV8xYk5NVEVpQUNsVy02MFBDRG9MYmo1Mk5fZExFdA?oc=5"
+     "source": "The Recursive",
+     "title": "Inside AMD’s $2.9B Deal for CEE Co-Founded Taalas With Its Sole European Investor",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hN1BnMmtuZnlRWnZsZW8xYVBTdjFqVGQxb29wUGlLTXBSNENaQmFzeWo3X0RqZ0I4cl9SQVUxX1VGbm5NUXFhQTRRNDdfbVhQNW0xcVZiVFhrc0t2WDItOUFzbTdUdGcteHVMMVg1WkQ?oc=5"
     }
    ],
-   "date": "2026-11-23T11:58:40.000Z",
+   "date": "2026-11-23T05:43:08.000Z",
+   "categories": [
+    "M&A & IPOs",
+    "AI"
+   ],
+   "score": 13
+  },
+  {
+   "id": "reversa-raises-750k-to-automate-regulatory-processes-with-ai-agents",
+   "title": "Reversa raises €750K to automate regulatory processes with AI agents",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnJaWGpmQ2J3WDNZZ1cxSEw2OVZNbUs0SWhGdkFILXNuU3NoZklNVV9fNG5LcFpvTjFqa3dDS0VCR3RxRm5FdC02SGFjdDVmVUNNdl9fcGpydDlfMXJSa2dFbWdXXy0xZHBJNVFLUmVkVFRJYW01bnJPc0RjYzRTYjhMeVdQV0lpaWh5UEJaRVJabVpkMTVBVUZpalZhUTg?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Reversa raises €750K to automate regulatory processes with AI agents",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnJaWGpmQ2J3WDNZZ1cxSEw2OVZNbUs0SWhGdkFILXNuU3NoZklNVV9fNG5LcFpvTjFqa3dDS0VCR3RxRm5FdC02SGFjdDVmVUNNdl9fcGpydDlfMXJSa2dFbWdXXy0xZHBJNVFLUmVkVFRJYW01bnJPc0RjYzRTYjhMeVdQV0lpaWh5UEJaRVJabVpkMTVBVUZpalZhUTg?oc=5"
+    }
+   ],
+   "date": "2026-11-24T10:00:19.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 12.7
+  },
+  {
+   "id": "polish-foodtech-tasted-raises-6-5m-as-it-launches-in-los-angeles",
+   "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "The Recursive"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5"
+    },
+    {
+     "source": "The Recursive",
+     "title": "Warsaw-built TASTED raises €5.6M, launches dining app in LA",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbi10R1B6R01ZS2tIVFl3cWlGbG5FUWNJbjJUaVpwYU9ZWUd1TVFsX3hVV0pVYU1hQjdnbkRfd3ZtQjRKdkp3Y1gxaFZndlB0U0phdC1yYjZydGtpTzhTQWtfUE1GSTlxY2lCQmRXR3Y1dlNweGd5T3pleHdLNXNHcFhHR3JaWkRkdUhIWTR1bThQaTg?oc=5"
+    }
+   ],
+   "date": "2026-11-24T09:01:12.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 13.8
+   "score": 12.6
   },
   {
    "id": "ex-sequoia-boss-backs-uk-defense-startup-at-450-million-value",
@@ -520,6 +565,27 @@
     "Funding"
    ],
    "score": 12
+  },
+  {
+   "id": "trustly-completes-60m-funding-raise",
+   "title": "Trustly completes $60M funding raise",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSWpoWW0tQUxBUUVJcWZwZnJSZzJxcXJubFNJVFhmdXA2Y3lMQkhFM3JfdkhZOW1uLXQ1Q2lRbmtVejFaNGVtanlZZ2RNUmVIUmNJUGNnaTA0a0E2cXp6c21vN3dvZURab01yWXpLNXo?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Trustly completes $60M funding raise",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSWpoWW0tQUxBUUVJcWZwZnJSZzJxcXJubFNJVFhmdXA2Y3lMQkhFM3JfdkhZOW1uLXQ1Q2lRbmtVejFaNGVtanlZZ2RNUmVIUmNJUGNnaTA0a0E2cXp6c21vN3dvZURab01yWXpLNXo?oc=5"
+    }
+   ],
+   "date": "2026-11-24T11:15:37.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 11.8
   },
   {
    "id": "theseus-robotics-secures-455k-to-put-robots-to-work-in-supermarkets-across-europ",
@@ -558,7 +624,7 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 11.1
+   "score": 11
   },
   {
    "id": "nordic-and-ukrainian-investors-back-pai-defence-with-5m-to-tackle-frontline-dron",
@@ -575,33 +641,55 @@
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3d6SjFWTW1NaXoxd0xIN1ItSnh5bDNJWDN1bWwwcWk1YXgxczZST1VsZzV2NnhrSGtzMzRZMmsxbHAxTWhNTzZBeE9pNzUwV1lTWDAxcmFhQzRoQVFhTEU3YjBEck9faEFBU0U3ZFlQMDZtTzRsNFh4aUl5QWVqVXNKR0xDcHpDemNGTzM0V3hWcm9oaGtpVUpmVWpWSzFPMWFyQUtRS1FRbE9Sa1laVzVuenI2NXZH?oc=5"
     }
    ],
-   "date": "2026-11-24T07:00:34.000Z",
+   "date": "2026-11-24T07:01:49.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 9.8
+   "score": 9.4
   },
   {
-   "id": "amd-acquires-ai-chip-startup-taalas-for-2-9b-to-advance-ai-inference-technology",
-   "title": "AMD acquires AI chip startup Taalas for $2.9B to advance AI inference technology",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzJCT1c1Z3JtOUs3akd4LWxFc3JlNFhLQzMzZzAxd1JXNTBFZi0zOHVMaUwzTG91clVyV1VQSDRoRDNkZWFGSFlsdFZTd1ZzbDhjYk00WHdoNUpPZUgyYkdVRWR0MUQ4SjgxSGJHX0oyZ2hyRTZ2VWJlQ1dILTFVaTltSkVTMWU5VlVfdkhEaDFGYldEa3JRSm5lVkJVYnA0c0doWEpDRS1KQQ?oc=5",
-   "summary": "",
+   "id": "bcomp-secures-20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carb",
+   "title": "Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics",
+   "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/",
+   "summary": "Bcomp, a Fribourg-based CleanTech startup specialising in high-performance bio-based materials, has secured €20 million from the European Investment Bank (EIB) to build a high-volume manufacturing plant in the Romanian city of Timișoara and continue research and development in Fribourg. This EIB backing takes the form of €20 million in venture debt, supporting the company’s €47.6 […]",
    "sources": [
-    "Tech.eu"
+    "EU-Startups"
    ],
    "articles": [
     {
-     "source": "Tech.eu",
-     "title": "AMD acquires AI chip startup Taalas for $2.9B to advance AI inference technology",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzJCT1c1Z3JtOUs3akd4LWxFc3JlNFhLQzMzZzAxd1JXNTBFZi0zOHVMaUwzTG91clVyV1VQSDRoRDNkZWFGSFlsdFZTd1ZzbDhjYk00WHdoNUpPZUgyYkdVRWR0MUQ4SjgxSGJHX0oyZ2hyRTZ2VWJlQ1dILTFVaTltSkVTMWU5VlVfdkhEaDFGYldEa3JRSm5lVkJVYnA0c0doWEpDRS1KQQ?oc=5"
+     "source": "EU-Startups",
+     "title": "Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics",
+     "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/"
     }
    ],
-   "date": "2026-11-23T05:43:08.000Z",
+   "brief": {
+    "essentiel": "Bcomp , a Fribourg-based CleanTech startup specialising in high-performance bio-based materials, has secured €20 million from the European Investment Bank (EIB) to build a high-volume manufacturing plant in the Romanian city of Timișoara and continue research and development in Fribourg.",
+    "points": [
+     "This EIB backing takes the form of €20 million in venture debt, supporting the company’s €47.6 million investment programme to expand manufacturing capacity in Romania and further develop its R&D activities in Switzerland.",
+     "“Europe needs to turn technological innovation into industrial production if we are to strengthen our competitiveness and accelerate the green transition.",
+     "By supporting Bcomp in Romania and Switzerland, we are helping European innovation reach industrial scale and unlock new opportunities for sustainable growth,” said EIB Vice-President Ioannis Tsakiris .",
+     "Founded in 2011 by Christian Fischer and Julien Rion, Bcomp develops composite materials based primarily on flax fibres instead of conventional carbon fibre, glass fibre and plastics."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€20 million"
+     },
+     {
+      "key": "round",
+      "value": "Series C"
+     },
+     {
+      "key": "investors",
+      "value": "EGS Beteiligungen AG"
+     }
+    ]
+   },
+   "date": "2026-11-24T11:34:52.000Z",
    "categories": [
-    "M&A & IPOs",
-    "AI"
+    "Funding"
    ],
-   "score": 9
+   "score": 8.8
   },
   {
    "id": "intelligent-legal-solutions-secures-11m-series-a-to-expand-provision-platform",
@@ -622,28 +710,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 8.9
-  },
-  {
-   "id": "polish-foodtech-tasted-raises-6-5m-as-it-launches-in-los-angeles",
-   "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5"
-    }
-   ],
-   "date": "2026-11-24T09:03:57.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 8.9
+   "score": 8.6
   },
   {
    "id": "another-blow-to-london-as-ftse-100-catering-giant-departs-for-new-york",
@@ -660,11 +727,75 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmI3UTBfcm9Wam93UVZfR2lRc3p5VmMtWlJWQVlwdThNcXZlaXJkUElqclBXWEFDTFk5aXpoNW10REFRYk9DZ2IyOUNLbGd0WHpGbUQ2eTZVTkJjS05EWUhpZzZqM3RFNnNfRkJUNjJReEp5MFV6QklBZFFkUDBieHZR?oc=5"
     }
    ],
-   "date": "2026-11-23T07:49:19.000Z",
+   "date": "2026-11-23T08:35:00.000Z",
    "categories": [
     "M&A & IPOs"
    ],
-   "score": 8.9
+   "score": 8.5
+  },
+  {
+   "id": "bbb-invests-43m-in-oxford-university-spinout-backer",
+   "title": "BBB invests £43M in Oxford University spinout backer",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1JpX0pTUU9pdy1xVkI4OUl5czN1ZDZwVmhXMW5rUnVUVnBhMVR2c0R1SU5XQkh1NEg1SV9XOHNoOVFiOElZZEgtRVpYR0xzbWYyWDZIMGxVbU04REIwc1d6aDM3UFB6YmZvUEZ5NWVIamNteEdPZy1iTWRYa2hQakZrRy1Bbmly?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "BBB invests £43M in Oxford University spinout backer",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1JpX0pTUU9pdy1xVkI4OUl5czN1ZDZwVmhXMW5rUnVUVnBhMVR2c0R1SU5XQkh1NEg1SV9XOHNoOVFiOElZZEgtRVpYR0xzbWYyWDZIMGxVbU04REIwc1d6aDM3UFB6YmZvUEZ5NWVIamNteEdPZy1iTWRYa2hQakZrRy1Bbmly?oc=5"
+    }
+   ],
+   "date": "2026-11-23T11:58:40.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8
+  },
+  {
+   "id": "laronix-raises-5m-in-pre-series-a-to-take-ai-voice-restoration-tech-to-us-and-eu",
+   "title": "Laronix raises $5m in pre-Series A to take AI voice restoration tech to US and Europe",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVBtcjlBMGxNalRZMEgzdzluclkwb29BendWVTFWUTIyTUNxX3dGUkFBTVJobkM2OHl1b0w0VklQQzJXZkF0dlMyTi1JcUdlTzNvUE84V1o2dVd2ZjhiZXRLZ1hfR2dvZU92c3lPZGotN25oVVJfS1hwMDBQZlZmajRXUHY4MGotbnFSRi04WTNjeTdXUTJZSG1CblpaWklKbmdOSnl0VEYyNEswSWdXUjBSRk9EU1laR3hsMkNjREJGeUs5QVBMbXhlVUlzX3hyN0HSAd4BQVVfeXFMUDdtb2lxd3ZjWVNBcWRiRHF2UFZPWlFsdnFIa19fRWY2Mkxuc1hWVXZtUzNYOFdJTER6UnVIbzJRbm1lSWM1OGNEQ09ndzdQWGtHQWpseWZMYmlyRTV2WkFLNTFsbmFzM3JsdUlZSEIycGhWZ2tTbG12M1VaOUJVQ3FBN0gxYkNEV2NvdDgtcG13ZVUtWUJiX0hXRGJPQ3EwbzBfWnczZFVtbHk2RUJOTlVtMmIxeEpSUjhnR0ZkNnR6aGtTbDByT2QwRmFSek1FQUhIcU1jMl90ZG16MlRn?oc=5",
+   "summary": "",
+   "sources": [
+    "Business News Australia"
+   ],
+   "articles": [
+    {
+     "source": "Business News Australia",
+     "title": "Laronix raises $5m in pre-Series A to take AI voice restoration tech to US and Europe",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVBtcjlBMGxNalRZMEgzdzluclkwb29BendWVTFWUTIyTUNxX3dGUkFBTVJobkM2OHl1b0w0VklQQzJXZkF0dlMyTi1JcUdlTzNvUE84V1o2dVd2ZjhiZXRLZ1hfR2dvZU92c3lPZGotN25oVVJfS1hwMDBQZlZmajRXUHY4MGotbnFSRi04WTNjeTdXUTJZSG1CblpaWklKbmdOSnl0VEYyNEswSWdXUjBSRk9EU1laR3hsMkNjREJGeUs5QVBMbXhlVUlzX3hyN0HSAd4BQVVfeXFMUDdtb2lxd3ZjWVNBcWRiRHF2UFZPWlFsdnFIa19fRWY2Mkxuc1hWVXZtUzNYOFdJTER6UnVIbzJRbm1lSWM1OGNEQ09ndzdQWGtHQWpseWZMYmlyRTV2WkFLNTFsbmFzM3JsdUlZSEIycGhWZ2tTbG12M1VaOUJVQ3FBN0gxYkNEV2NvdDgtcG13ZVUtWUJiX0hXRGJPQ3EwbzBfWnczZFVtbHk2RUJOTlVtMmIxeEpSUjhnR0ZkNnR6aGtTbDByT2QwRmFSek1FQUhIcU1jMl90ZG16MlRn?oc=5"
+    }
+   ],
+   "date": "2026-11-23T03:59:59.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 8
+  },
+  {
+   "id": "google-snaps-up-king-s-cross-office-as-ai-giants-expand-london-footprint",
+   "title": "Google snaps up King’s Cross office as AI giants expand London footprint",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHRNS0UyNG5fblhDYVgtUFVyX0lGcmRxeVpjbGZIRkdlOG5KdjNBZm9JZEZCaC1uVWliMHpQXzh5TVZuVjFJMkhELUMwOS1EeERSOC1UT3V5OTVpVkp0bHc0cm8yRDdfXzBjaEk3ODVXd3F6cDlRTVd3MHhScUJteWFMemJOU3BQdWV2MXBkZlI5X0pNTWF2T1BCSQ?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Google snaps up King’s Cross office as AI giants expand London footprint",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHRNS0UyNG5fblhDYVgtUFVyX0lGcmRxeVpjbGZIRkdlOG5KdjNBZm9JZEZCaC1uVWliMHpQXzh5TVZuVjFJMkhELUMwOS1EeERSOC1UT3V5OTVpVkp0bHc0cm8yRDdfXzBjaEk3ODVXd3F6cDlRTVd3MHhScUJteWFMemJOU3BQdWV2MXBkZlI5X0pNTWF2T1BCSQ?oc=5"
+    }
+   ],
+   "date": "2026-11-24T12:48:40.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 6.9
   },
   {
    "id": "jensen-huang-reinstated-as-nvidia-ceo-following-input-from-us-government",
@@ -686,28 +817,47 @@
     "Policy & ecosystem",
     "People"
    ],
-   "score": 6.4
+   "score": 6.1
   },
   {
-   "id": "uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai",
-   "title": "UK gov invests in defense startup making virtual training ground for AI",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckZqY1ExZWVNUHNLRTRvdnM1cWZ3bGFqX2NCYjFnTFZ6eHRHTy1NMjFuOEVVX3dheUxULTRDZEt0U1FUd0hTS185M0FEWEZkajZ1bUdULUxwWHFTazFlMVpzVFN2SEFCNWhveVRTdnJfbERMX01QdnRoemdELWxGdjhBcnhjZ0E0SjBoSTBVaWxXWWhfYWQ0bnp0ZFZSdk9jd3pWaENVNldvdHVmQXFuZWwwdWJ6MEh6WjdDN0haZ0JtRHZDLVdJ?oc=5",
+   "id": "who-could-be-starling-s-next-ceo",
+   "title": "Who could be Starling’s next CEO?",
+   "url": "https://sifted.eu/articles/starlings-next-ceo/",
    "summary": "",
    "sources": [
-    "The Register"
+    "Sifted"
    ],
    "articles": [
     {
-     "source": "The Register",
-     "title": "UK gov invests in defense startup making virtual training ground for AI",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckZqY1ExZWVNUHNLRTRvdnM1cWZ3bGFqX2NCYjFnTFZ6eHRHTy1NMjFuOEVVX3dheUxULTRDZEt0U1FUd0hTS185M0FEWEZkajZ1bUdULUxwWHFTazFlMVpzVFN2SEFCNWhveVRTdnJfbERMX01QdnRoemdELWxGdjhBcnhjZ0E0SjBoSTBVaWxXWWhfYWQ0bnp0ZFZSdk9jd3pWaENVNldvdHVmQXFuZWwwdWJ6MEh6WjdDN0haZ0JtRHZDLVdJ?oc=5"
+     "source": "Sifted",
+     "title": "Who could be Starling’s next CEO?",
+     "url": "https://sifted.eu/articles/starlings-next-ceo/"
     }
    ],
-   "date": "2026-11-24T09:16:00.000Z",
+   "date": "2026-11-24T11:00:37.000Z",
    "categories": [
-    "AI"
+    "People"
    ],
-   "score": 6
+   "score": 5.8
+  },
+  {
+   "id": "cybersecurity-startups-mapped-108-companies-guarding-europe-s-digital-frontline",
+   "title": "Cybersecurity startups mapped: 108 companies guarding Europe's digital frontline",
+   "url": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Cybersecurity startups mapped: 108 companies guarding Europe's digital frontline",
+     "url": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/"
+    }
+   ],
+   "date": "2026-11-24T05:00:22.000Z",
+   "categories": [],
+   "score": 5.3
   },
   {
    "id": "kbra-releases-research-europe-s-2027-election-cycle-political-risk-and-sovereign",
@@ -728,7 +878,7 @@
    "categories": [
     "Policy & ecosystem"
    ],
-   "score": 5.4
+   "score": 5.1
   },
   {
    "id": "why-ai-startups-should-build-governance-early",
@@ -780,7 +930,7 @@
    "categories": [
     "People"
    ],
-   "score": 4.7
+   "score": 4.4
   },
   {
    "id": "sign-up-for-the-first-london-tech-chess-night",
@@ -799,7 +949,26 @@
    ],
    "date": "2026-11-23T13:07:34.000Z",
    "categories": [],
-   "score": 4.3
+   "score": 4
+  },
+  {
+   "id": "european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-6b",
+   "title": "European tech weekly recap: More than 65 tech funding deals worth over €6B",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "European tech weekly recap: More than 65 tech funding deals worth over €6B",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5"
+    }
+   ],
+   "date": "2026-11-23T08:00:39.000Z",
+   "categories": [],
+   "score": 4
   },
   {
    "id": "opinion-ai-will-favour-the-companies-built-for-ai-not-adapted-to-it",
@@ -830,43 +999,43 @@
    "categories": [
     "AI"
    ],
-   "score": 4.2
-  },
-  {
-   "id": "european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-6b",
-   "title": "European tech weekly recap: More than 65 tech funding deals worth over €6B",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "European tech weekly recap: More than 65 tech funding deals worth over €6B",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5"
-    }
-   ],
-   "date": "2026-11-23T08:00:39.000Z",
-   "categories": [],
    "score": 4
   },
   {
-   "id": "london-s-skills-shortage-is-really-an-opportunity-shortage",
-   "title": "London’s skills shortage is really an opportunity shortage",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5",
+   "id": "why-many-european-biotechs-license-their-science-instead-of-scaling-it",
+   "title": "Why many European biotechs license their science instead of scaling it",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSklQdU9UcFBQb0d3elNHRFNSYjFWWmdoc3hMZkd4U0lmZi0wV2R6NXFvZ1oyWXdydkRQY1Y4Q09OUmFIT19aUWpPTU1VR1NINmhyd2l5SS1HdFh2VVdubUpHd29lMHZ2cWU5NGN2di1hemZONWswYnBTbFVvRmI3d3h3T05wMGF1NUNJTkJQamllMHo2djdLd29HUklLdWZyYUo5WnFRNjBOQWpaV0pnSy1GMERCZTZTZXc?oc=5",
    "summary": "",
    "sources": [
-    "City AM"
+    "MarketScale"
    ],
    "articles": [
     {
-     "source": "City AM",
-     "title": "London’s skills shortage is really an opportunity shortage",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5"
+     "source": "MarketScale",
+     "title": "Why many European biotechs license their science instead of scaling it",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSklQdU9UcFBQb0d3elNHRFNSYjFWWmdoc3hMZkd4U0lmZi0wV2R6NXFvZ1oyWXdydkRQY1Y4Q09OUmFIT19aUWpPTU1VR1NINmhyd2l5SS1HdFh2VVdubUpHd29lMHZ2cWU5NGN2di1hemZONWswYnBTbFVvRmI3d3h3T05wMGF1NUNJTkJQamllMHo2djdLd29HUklLdWZyYUo5WnFRNjBOQWpaV0pnSy1GMERCZTZTZXc?oc=5"
     }
    ],
-   "date": "2026-11-23T14:19:21.000Z",
+   "date": "2026-11-24T12:11:00.000Z",
+   "categories": [],
+   "score": 3.9
+  },
+  {
+   "id": "startup-robotics-pitches-at-alibaba-cocreate-london",
+   "title": "Startup Robotics Pitches at Alibaba CoCreate London",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczNVd1ZLemlubmJJZzFNLWp6eHVFM1Z6bVg2XzI4LUI4aE12Skpzam1tTGozN3FUdjhXWlJNa3R6REx5dHBEVjhJRy1PMmRkZXh0Mm03S2xYaDNvcklOY2ZaNXRhelFtejlYa2NtaW50N1FCQWFlU2ZyNDlfZzZ1a0tlQUt1VGdPRVdfRg?oc=5",
+   "summary": "",
+   "sources": [
+    "Wisevoter"
+   ],
+   "articles": [
+    {
+     "source": "Wisevoter",
+     "title": "Startup Robotics Pitches at Alibaba CoCreate London",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczNVd1ZLemlubmJJZzFNLWp6eHVFM1Z6bVg2XzI4LUI4aE12Skpzam1tTGozN3FUdjhXWlJNa3R6REx5dHBEVjhJRy1PMmRkZXh0Mm03S2xYaDNvcklOY2ZaNXRhelFtejlYa2NtaW50N1FCQWFlU2ZyNDlfZzZ1a0tlQUt1VGdPRVdfRg?oc=5"
+    }
+   ],
+   "date": "2026-11-24T06:10:33.000Z",
    "categories": [],
    "score": 3.4
   },
@@ -897,7 +1066,64 @@
    },
    "date": "2026-11-23T14:42:34.000Z",
    "categories": [],
-   "score": 3.4
+   "score": 3.1
+  },
+  {
+   "id": "backed-by-nvidia-and-a16z-black-forest-labs-sets-its-sights-on-world-models",
+   "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+   "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+     "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/"
+    }
+   ],
+   "date": "2026-11-23T05:00:45.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "rapport-london-archives",
+   "title": "Rapport London Archives",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Iek4wRzdhYkxGdWlOR1Vlb3lmcHJZczJjVEtQcjVNeHkwbW5aVFFsRGY0U0xibFUta0g4RjBpSFZtZm8xbW55cG5OWTV3NmZFSDFiX21BTDh1WWI2WW9ZRXNhbXA3Z2tCUUthVy1INWE?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Rapport London Archives",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Iek4wRzdhYkxGdWlOR1Vlb3lmcHJZczJjVEtQcjVNeHkwbW5aVFFsRGY0U0xibFUta0g4RjBpSFZtZm8xbW55cG5OWTV3NmZFSDFiX21BTDh1WWI2WW9ZRXNhbXA3Z2tCUUthVy1INWE?oc=5"
+    }
+   ],
+   "date": "2026-11-23T08:19:17.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
+   "id": "london-s-skills-shortage-is-really-an-opportunity-shortage",
+   "title": "London’s skills shortage is really an opportunity shortage",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "London’s skills shortage is really an opportunity shortage",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0tscW5YcWt2UU1rU0M4MnZZUXdzREt6NzRfV1hvMXdLaHNtOUR1bTd0UFBSbklHT0xfNzJwbTBSUVUyamxrbmlNMzk1Q01HajN3a0M5TlllTi03TkVLQ2EyVkdDRXJfSlhTZkFfRGdXTlNRV2VKam1uR0tIcmxDaEUwOUl3eHVuVmY0TnZFN29oTjZN?oc=5"
+    }
+   ],
+   "date": "2026-11-23T14:19:21.000Z",
+   "categories": [],
+   "score": 3
   },
   {
    "id": "is-silicon-valley-turning-its-back-on-europe-plug-and-play-s-thomas-bigagli-weig",
@@ -926,45 +1152,26 @@
    },
    "date": "2026-11-23T12:33:20.000Z",
    "categories": [],
-   "score": 3.2
-  },
-  {
-   "id": "rapport-london-archives",
-   "title": "Rapport London Archives",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Iek4wRzdhYkxGdWlOR1Vlb3lmcHJZczJjVEtQcjVNeHkwbW5aVFFsRGY0U0xibFUta0g4RjBpSFZtZm8xbW55cG5OWTV3NmZFSDFiX21BTDh1WWI2WW9ZRXNhbXA3Z2tCUUthVy1INWE?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "Rapport London Archives",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Iek4wRzdhYkxGdWlOR1Vlb3lmcHJZczJjVEtQcjVNeHkwbW5aVFFsRGY0U0xibFUta0g4RjBpSFZtZm8xbW55cG5OWTV3NmZFSDFiX21BTDh1WWI2WW9ZRXNhbXA3Z2tCUUthVy1INWE?oc=5"
-    }
-   ],
-   "date": "2026-11-23T08:19:17.000Z",
-   "categories": [],
-   "score": 3.1
-  },
-  {
-   "id": "backed-by-nvidia-and-a16z-black-forest-labs-sets-its-sights-on-world-models",
-   "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
-   "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
-     "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/"
-    }
-   ],
-   "date": "2026-11-23T05:00:45.000Z",
-   "categories": [],
    "score": 3
+  },
+  {
+   "id": "astana-hub-opens-eurasia-growth-hub-in-london",
+   "title": "Astana Hub Opens Eurasia Growth Hub in London",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY01rcXhmV0VYT3VCV0Jia0ZQalppMk1GcUZWeThSZ21ZblJfRmEyMDloTzI5anJxa3RFT1hNcW5FaTBJZ24zbjNoTTUwTm1vTzlPYTBSMDFmN3lYU1pBV0lJVHBXSzV6bnNaQ2xNNkRPSTlfZzhtaTAzSWE0ZzZBaw?oc=5",
+   "summary": "",
+   "sources": [
+    "Wisevoter"
+   ],
+   "articles": [
+    {
+     "source": "Wisevoter",
+     "title": "Astana Hub Opens Eurasia Growth Hub in London",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY01rcXhmV0VYT3VCV0Jia0ZQalppMk1GcUZWeThSZ21ZblJfRmEyMDloTzI5anJxa3RFT1hNcW5FaTBJZ24zbjNoTTUwTm1vTzlPYTBSMDFmN3lYU1pBV0lJVHBXSzV6bnNaQ2xNNkRPSTlfZzhtaTAzSWE0ZzZBaw?oc=5"
+    }
+   ],
+   "date": "2026-11-24T00:48:07.000Z",
+   "categories": [],
+   "score": 2.9
   }
  ]
 }
