@@ -1,11 +1,11 @@
 {
  "date": "2026-11-24",
- "generatedAt": "2026-11-24T18:16:02.670Z",
+ "generatedAt": "2026-11-24T21:23:45.926Z",
  "windowHours": 36,
  "counts": {
-  "articles": 44,
-  "raw": 73,
-  "media": 14
+  "articles": 37,
+  "raw": 54,
+  "media": 8
  },
  "scope": "eu",
  "lang": "en",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 48
+   "items": 47
   },
   {
    "source": "EU-Startups",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 61
+   "items": 30
   },
   {
    "source": "Sifted",
@@ -95,45 +95,6 @@
    "score": 17
   },
   {
-   "id": "former-monzo-scam-prevention-team-raises-1-8m-for-acorda-to-help-banks-fight-fra",
-   "title": "Former Monzo scam prevention team raises £1.8M for Acorda to help banks fight fraud with better data",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2RlVUZRMjNlWEV1UkNTc2hUemV6bURjNUEtQ1hKdXB0TkdNcWVHajRLeVRBMzhONjgzMjJRcjMyRTNIWkwwRHBSRnY4aEx6WUY1MWlZeW9KR3hZQmFvbnQteGY5MUNRN1p1akpnYVZRaTI3ZHRYQm8zdFVHZE5fR0drYWFiTXV2Y2pyTGswWnJzRC1lbU5tZjM0dWFIYkZQWVZFMjhmUlkyOTM2blJUT0JscG5TdXg4R0ZWcnlrMmphdEdPNFI4?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu",
-    "EU-Startups",
-    "UK Tech Investment News",
-    "Business Model Analyst"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Former Monzo scam prevention team raises £1.8M for Acorda to help banks fight fraud with better data",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2RlVUZRMjNlWEV1UkNTc2hUemV6bURjNUEtQ1hKdXB0TkdNcWVHajRLeVRBMzhONjgzMjJRcjMyRTNIWkwwRHBSRnY4aEx6WUY1MWlZeW9KR3hZQmFvbnQteGY5MUNRN1p1akpnYVZRaTI3ZHRYQm8zdFVHZE5fR0drYWFiTXV2Y2pyTGswWnJzRC1lbU5tZjM0dWFIYkZQWVZFMjhmUlkyOTM2blJUT0JscG5TdXg4R0ZWcnlrMmphdEdPNFI4?oc=5"
-    },
-    {
-     "source": "EU-Startups",
-     "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclRpM05acE9pM19CSHJhRTVJVzNLcC1UaGJLMWVtaXRCOERqSE1GM0FZdHBYWGtRc3NqNmMwSHJ5bFdBTmU2U1d2ZlQ2Mk80VlAwUFhrZWZhMURXa2JILWFiRC1YTlFYZVhZTFlySXM1cWJHeWFYT1JVcVcteURwLWUxbkJNRDVSSVNmd2pvT1I0dlhEaFoxYjZTYUlTeEtzN3cxNFNqUnpadnFzTHJBUVFtcWNNbHIya2hYc0lKc09zaURLN2o2VzhSbw?oc=5"
-    },
-    {
-     "source": "UK Tech Investment News",
-     "title": "Acorda Intelligence (t/a Acorda) secures £1.8 million Pre-Seed investment led by Concept Ventures, NFG Ventures and Business Angels – UK Tech Investment News by Deal Lite",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYTRDRzdmUzJpdHJJcjVGbjFhQTdFNnhwb2MzX2tORG1lZUxGU0hHZ05UdTBPMnIyRm9xaTlqYUstZE54U1FXMWIyUXdGRDJ3ekRyX29xYUJqQUNzSEJvMWI4cHV2djJQa2RDVzZZb0Q3RHp3Y0EtdHE0SGthdGlLTzJDVnE2bWp1amJveUlkb0VUcTdONmV1dUxwYXF3XzZ6aHRMbWIzRk02T0RDN2xQdG95bkUtOVlkeHFOSnl2SWtlZmJ6WTdhSlE0VEdjejMwWWkxWUdleDNKVmp4YTFxTVZqU05NdUdZNUFDbHRtbmpPcjUwQjlNekkzdw?oc=5"
-    },
-    {
-     "source": "Business Model Analyst",
-     "title": "Monzo’s Old Scam Team Just Raised £1.8m on a UK Refund Rule",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRM29mb3NvaENUYm5oaW9VWTFjamhJczdtRUdZXy1SOEZ5encwb3JRMTZmelh0a0xNTVQySjRJMHRxQjVXeEppa0dzWlVCN0JYbjZOZjRVb3JKMHVHcGFpREg3b1Y2alJFOVA2Z0RrZWNXdzhXYmZzSmg4MA?oc=5"
-    }
-   ],
-   "date": "2026-11-23T09:00:45.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 17
-  },
-  {
    "id": "commerzventures-launches-50m-fund-iv-targeting-early-stage-ai-and-fintech-startu",
    "title": "CommerzVentures launches €50M Fund IV targeting early-stage AI and fintech startups",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmlxYmM4NEpxdXhpWUE1RzFQb0x2LWw0eS1MX0otWk9ieVRQNk5Dd3lleDN4UG1iYmt1NkhCY1M5aGp5OGs0RGdOTVVGNUhVOWJGLVFEdDhtQ0tOaC1Ud3l5YUZtNHk1bDF2TGVHSUJhUmhoem9OZkFJLXN4X25fZEFELV9yX2Q4V09NMWNUVmpKbFNJYXdHYkt5dHo5NnBXZEJiSDhTdHR4NlJfLUdwU1pUbw?oc=5",
@@ -178,41 +139,7 @@
     "Funding",
     "AI"
    ],
-   "score": 16.2
-  },
-  {
-   "id": "swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-deve",
-   "title": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVIzVHZ6a3JnWFhZWXV4MzVOOURYTEQyNGEyeHFyYV9NRlgyTnJTenRvSlZ3NC1FbXRMcUY0ZXhUV0w5bnJEQ243bWFqYzdNcm9qTkRwLWtJZUFueF9GdTZ5QjVhR3dOenkyYnhDcHBKZUZYcTBIU2dPRndDUGFRbzU4aXdVOUZuRlV1TDdjRkRSRkh5a2JHYWNVbW95Yko3aG9WdVZ3bjZHV1VpUmg3OVA0TjN2UUM3VUpEZ082UXM?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu",
-    "EU-Startups",
-    "Dealroom"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVIzVHZ6a3JnWFhZWXV4MzVOOURYTEQyNGEyeHFyYV9NRlgyTnJTenRvSlZ3NC1FbXRMcUY0ZXhUV0w5bnJEQ243bWFqYzdNcm9qTkRwLWtJZUFueF9GdTZ5QjVhR3dOenkyYnhDcHBKZUZYcTBIU2dPRndDUGFRbzU4aXdVOUZuRlV1TDdjRkRSRkh5a2JHYWNVbW95Yko3aG9WdVZ3bjZHV1VpUmg3OVA0TjN2UUM3VUpEZ082UXM?oc=5"
-    },
-    {
-     "source": "EU-Startups",
-     "title": "Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and physical AI hardware",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObzBNV1VweGNUTDAxVXV5eUd6Zlh6RllSSU5LR2ZfNklLLUE3Unpabm9XeWUwRGRjS3dZYWZHZ0RIeUxNLVpLSHZfS01xdm5QaFdQSHVRNzZaSkxwMkJtTkxzeE4tYzVFb25MT08wdTNQNGM3dkZtbWw1NHNrQ191RWdzQTFiSGxMdGt6TTktYXFxdXptVEFwbHljV2dkSDRveEgtMG5Qblp3d2hyeEpfMFQtOTlZcWVaZXFzeXI0a2w4NG04Qll4SFBGSi1fekhXN3NoalF3SEY?oc=5"
-    },
-    {
-     "source": "Dealroom",
-     "title": "Swiss robotics startup coprod raises $6M to fix hardware's \"integration hell",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSGdWbnVkbVE4ZTFuaXFuZ1paN05FZlk3MnFGQXY3U0pEOGJCOHBYTW9xcTh4S3Jmbkcwd0c2cEFfMWt3MTlvanNpYzdFVFgwY3Q4blYydEVqYlFUZDV0NFo0WllvUjM5aS1LSDlUV0xYVFpRaWRUeGd5VmlpbHBJTURSQ3J6ZHdFdUdTcFo0QWtXbEo1RGhXX00zdW5XT3ZOUDViX3hlOWVYTzhV?oc=5"
-    }
-   ],
-   "date": "2026-11-23T09:01:18.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 16
+   "score": 15.9
   },
   {
    "id": "government-backs-british-defence-ai-startup-in-70m-funding-round",
@@ -235,7 +162,7 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 15.9
+   "score": 15.6
   },
   {
    "id": "pliant-secures-over-200m-in-debt-financing-to-scale-european-payments-business",
@@ -252,11 +179,11 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhPN0Z5b3Z5SmlDZ3pwZ0g4eDZtMDJsQTlYOUIyVFhBZUR1WTJPQW40dEtPQlBCMXVQREUyZFpsbjg0QVZ5cHpRdTlLZGJsYXJPNlI0VVF6YTRkQTBpWXVsSlhhYjBnaUpER2hORGlUZThpOGxKOFVJLUFDc01oME14eDNNNmFuN2QyTThzUG5TR0NyX2FpcElWMy1aczZLUU81R25VcDBQMjJjTUE?oc=5"
     }
    ],
-   "date": "2026-11-24T12:38:49.000Z",
+   "date": "2026-11-24T12:39:01.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 14.5
+   "score": 14.3
   },
   {
    "id": "good-heat-secures-2m-to-expand-industrial-heat-battery-solutions-across-europe",
@@ -308,7 +235,7 @@
     "Funding",
     "Policy & ecosystem"
    ],
-   "score": 14.2
+   "score": 14
   },
   {
    "id": "playbook-raises-8m-to-help-pharma-companies-keep-ai-agents-compliant",
@@ -352,7 +279,7 @@
     "Funding",
     "AI"
    ],
-   "score": 14.1
+   "score": 13.8
   },
   {
    "id": "reversa-raises-750k-to-automate-regulatory-processes-with-ai-agents",
@@ -375,7 +302,7 @@
     "AI",
     "Policy & ecosystem"
    ],
-   "score": 12.3
+   "score": 12.1
   },
   {
    "id": "trustly-completes-60m-funding-raise",
@@ -396,7 +323,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 11.4
+   "score": 11.2
   },
   {
    "id": "arken-labs-launches-to-bring-ai-driven-automation-to-physical-infrastructure",
@@ -419,7 +346,7 @@
     "Policy & ecosystem",
     "People"
    ],
-   "score": 9.7
+   "score": 9.5
   },
   {
    "id": "nordic-and-ukrainian-investors-back-pai-defence-with-5m-to-tackle-frontline-dron",
@@ -440,7 +367,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 9.1
+   "score": 8.8
   },
   {
    "id": "bcomp-secures-20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carb",
@@ -484,70 +411,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 8.4
-  },
-  {
-   "id": "intelligent-legal-solutions-secures-11m-series-a-to-expand-provision-platform",
-   "title": "Intelligent Legal Solutions secures $11M Series A to expand ProVision platform",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dVUzZYVUlNei1uVVdkTGl2TGFrM0kzcWFBejNCcWdjOXBGWFZ4RXlIX3I2emlzckZQY0hRTlMxbnc2Z0dnZGNXM0NOaEVnUjY2dXJKQlRGejVVZDc2THh2RlE3dTUwTjJ3ejFNcndCQVhoNmRZeUZkTnI1QVBmOEk5WXozREYwYnVWczMwUlIxRUwwSTF2RzZiOHYtRmtpNU9QUHFXVXo?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Intelligent Legal Solutions secures $11M Series A to expand ProVision platform",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dVUzZYVUlNei1uVVdkTGl2TGFrM0kzcWFBejNCcWdjOXBGWFZ4RXlIX3I2emlzckZQY0hRTlMxbnc2Z0dnZGNXM0NOaEVnUjY2dXJKQlRGejVVZDc2THh2RlE3dTUwTjJ3ejFNcndCQVhoNmRZeUZkTnI1QVBmOEk5WXozREYwYnVWczMwUlIxRUwwSTF2RzZiOHYtRmtpNU9QUHFXVXo?oc=5"
-    }
-   ],
-   "date": "2026-11-24T08:31:53.000Z",
-   "categories": [
-    "Funding"
-   ],
    "score": 8.2
-  },
-  {
-   "id": "polish-foodtech-tasted-raises-6-5m-as-it-launches-in-los-angeles",
-   "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5"
-    }
-   ],
-   "date": "2026-11-24T09:08:24.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 8.2
-  },
-  {
-   "id": "another-blow-to-london-as-ftse-100-catering-giant-departs-for-new-york",
-   "title": "Another blow to London as FTSE 100 catering giant departs for New York",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmI3UTBfcm9Wam93UVZfR2lRc3p5VmMtWlJWQVlwdThNcXZlaXJkUElqclBXWEFDTFk5aXpoNW10REFRYk9DZ2IyOUNLbGd0WHpGbUQ2eTZVTkJjS05EWUhpZzZqM3RFNnNfRkJUNjJReEp5MFV6QklBZFFkUDBieHZR?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "Another blow to London as FTSE 100 catering giant departs for New York",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmI3UTBfcm9Wam93UVZfR2lRc3p5VmMtWlJWQVlwdThNcXZlaXJkUElqclBXWEFDTFk5aXpoNW10REFRYk9DZ2IyOUNLbGd0WHpGbUQ2eTZVTkJjS05EWUhpZzZqM3RFNnNfRkJUNjJReEp5MFV6QklBZFFkUDBieHZR?oc=5"
-    }
-   ],
-   "date": "2026-11-23T08:35:00.000Z",
-   "categories": [
-    "M&A & IPOs"
-   ],
-   "score": 8.1
   },
   {
    "id": "bbb-invests-43m-in-oxford-university-spinout-backer",
@@ -571,6 +435,69 @@
    "score": 8
   },
   {
+   "id": "polish-foodtech-tasted-raises-6-5m-as-it-launches-in-los-angeles",
+   "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5"
+    }
+   ],
+   "date": "2026-11-24T09:08:24.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8
+  },
+  {
+   "id": "intelligent-legal-solutions-secures-11m-series-a-to-expand-provision-platform",
+   "title": "Intelligent Legal Solutions secures $11M Series A to expand ProVision platform",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dVUzZYVUlNei1uVVdkTGl2TGFrM0kzcWFBejNCcWdjOXBGWFZ4RXlIX3I2emlzckZQY0hRTlMxbnc2Z0dnZGNXM0NOaEVnUjY2dXJKQlRGejVVZDc2THh2RlE3dTUwTjJ3ejFNcndCQVhoNmRZeUZkTnI1QVBmOEk5WXozREYwYnVWczMwUlIxRUwwSTF2RzZiOHYtRmtpNU9QUHFXVXo?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Intelligent Legal Solutions secures $11M Series A to expand ProVision platform",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dVUzZYVUlNei1uVVdkTGl2TGFrM0kzcWFBejNCcWdjOXBGWFZ4RXlIX3I2emlzckZQY0hRTlMxbnc2Z0dnZGNXM0NOaEVnUjY2dXJKQlRGejVVZDc2THh2RlE3dTUwTjJ3ejFNcndCQVhoNmRZeUZkTnI1QVBmOEk5WXozREYwYnVWczMwUlIxRUwwSTF2RzZiOHYtRmtpNU9QUHFXVXo?oc=5"
+    }
+   ],
+   "date": "2026-11-24T08:31:53.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7.9
+  },
+  {
+   "id": "compass-us-listing-move-is-a-wake-up-call-for-uk-capital-markets",
+   "title": "Compass US listing move is a wake-up call for UK capital markets",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ibWFLLUJ1Vzlldm4zR3JraUVXdjJnYjJ6RG91RUZwNTJKNzkzNmFDYmtGRzd6X20ydHJqbnpXaW5SVloxeWM4eEY4c3NXelJBT25ZU1lzcXhDeFZyNmRpRWNtREpUS3dJdTlpclU0R3E2aGQyeDliWWNVNGtjd0E?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Compass US listing move is a wake-up call for UK capital markets",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ibWFLLUJ1Vzlldm4zR3JraUVXdjJnYjJ6RG91RUZwNTJKNzkzNmFDYmtGRzd6X20ydHJqbnpXaW5SVloxeWM4eEY4c3NXelJBT25ZU1lzcXhDeFZyNmRpRWNtREpUS3dJdTlpclU0R3E2aGQyeDliWWNVNGtjd0E?oc=5"
+    }
+   ],
+   "date": "2026-11-23T14:57:56.000Z",
+   "categories": [
+    "M&A & IPOs"
+   ],
+   "score": 7.9
+  },
+  {
    "id": "why-europe-s-sovereignty-debate-is-heading-to-luxembourg-this-march",
    "title": "Why Europe’s sovereignty debate is heading to Luxembourg this March",
    "url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
@@ -589,50 +516,7 @@
    "categories": [
     "Policy & ecosystem"
    ],
-   "score": 7.7
-  },
-  {
-   "id": "uk-spinout-tagomics-raises-13m-for-a-blood-based-drug-safety-test",
-   "title": "UK spinout Tagomics raises $13M for a blood-based drug safety test",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2E2bjlCVlhDUVExSE1LQzFidzRMSU1jTDhVTjUyU2g2XzdUZzJmcUlJYU9nSzFLLWFSQW0yRTJfMVRkbFJ2bXlaRnhoN1ZwRG42ckluUmEwTzZvZXFVNEUzU1RhbkRJS1J3bmFlbVM1T0tiaXg5OE1rMTRHeG02X0kzV3dOM3Fsc3QyNFRwaw?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech Funding News"
-   ],
-   "articles": [
-    {
-     "source": "Tech Funding News",
-     "title": "UK spinout Tagomics raises $13M for a blood-based drug safety test",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2E2bjlCVlhDUVExSE1LQzFidzRMSU1jTDhVTjUyU2g2XzdUZzJmcUlJYU9nSzFLLWFSQW0yRTJfMVRkbFJ2bXlaRnhoN1ZwRG42ckluUmEwTzZvZXFVNEUzU1RhbkRJS1J3bmFlbVM1T0tiaXg5OE1rMTRHeG02X0kzV3dOM3Fsc3QyNFRwaw?oc=5"
-    }
-   ],
-   "date": "2026-11-24T10:36:06.000Z",
-   "categories": [
-    "Funding"
-   ],
    "score": 7.4
-  },
-  {
-   "id": "uk-financial-regulator-seeks-to-set-expectations-for-agentic-ai",
-   "title": "UK financial regulator seeks to set expectations for agentic AI",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQURDX0RzbE1GVkp4T0RzRzlXSmJCcU9Ec3h4ajNhenVjSFJ3VzFreFJ3eWh6R19rbXI5U2dZLUswcGNZdXluSG5xZVJsT183SjE4RTRZZ3hrdVpTeU1EVGNEemFMa1YyRmVZTDBhSWZWbW16Wk45eDdKX05lYzFtNk1wQVpycnZLc0t3Zm9KWE12SmROVEFSSEUzeTBCVTZlLW8tTHV4YlpYckNhS2RkVTF2YnJQbF9aRXkwdURxaHkwVllJT2o3WXYyRDZLdXJLc3VDRHk3QW5OdkMwemZ5WElZNHTSAeQBQVVfeXFMT0FEQ19Ec2xNRlZKeE9Ec0c5V0piQnFPRHN4eGozYXp1Y0hSd1cxa3hSd3loekdfa21yOVNnWS1LMHBjWXV5bkhucWVSbE9fN0oxOEU0WWd4a3VaU3lNRFRjRHphTGtWMkZlWUwwYUlmVm1telpOOXg3Sl9OZWMxbTZNcEFacnJ2S3NLd2ZvSlhNdkpkTlRBUkhFM3kwQlU2ZS1vLUx1eGJaWHJDYUtkZFUxdmJyUGxfWkV5MHVEcWh5MFZZSU9qN1l2MkQ2S3VyS3N1Q0R5N0FuTnZDMHpmeVhJWTR0?oc=5",
-   "summary": "",
-   "sources": [
-    "The Economic Times"
-   ],
-   "articles": [
-    {
-     "source": "The Economic Times",
-     "title": "UK financial regulator seeks to set expectations for agentic AI",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQURDX0RzbE1GVkp4T0RzRzlXSmJCcU9Ec3h4ajNhenVjSFJ3VzFreFJ3eWh6R19rbXI5U2dZLUswcGNZdXluSG5xZVJsT183SjE4RTRZZ3hrdVpTeU1EVGNEemFMa1YyRmVZTDBhSWZWbW16Wk45eDdKX05lYzFtNk1wQVpycnZLc0t3Zm9KWE12SmROVEFSSEUzeTBCVTZlLW8tTHV4YlpYckNhS2RkVTF2YnJQbF9aRXkwdURxaHkwVllJT2o3WXYyRDZLdXJLc3VDRHk3QW5OdkMwemZ5WElZNHTSAeQBQVVfeXFMT0FEQ19Ec2xNRlZKeE9Ec0c5V0piQnFPRHN4eGozYXp1Y0hSd1cxa3hSd3loekdfa21yOVNnWS1LMHBjWXV5bkhucWVSbE9fN0oxOEU0WWd4a3VaU3lNRFRjRHphTGtWMkZlWUwwYUlmVm1telpOOXg3Sl9OZWMxbTZNcEFacnJ2S3NLd2ZvSlhNdkpkTlRBUkhFM3kwQlU2ZS1vLUx1eGJaWHJDYUtkZFUxdmJyUGxfWkV5MHVEcWh5MFZZSU9qN1l2MkQ2S3VyS3N1Q0R5N0FuTnZDMHpmeVhJWTR0?oc=5"
-    }
-   ],
-   "date": "2026-11-24T08:52:00.000Z",
-   "categories": [
-    "AI",
-    "Policy & ecosystem"
-   ],
-   "score": 7.2
   },
   {
    "id": "spanish-startup-stark-future-becomes-europe-s-1st-electric-motorcycle-unicorn",
@@ -653,7 +537,7 @@
    "categories": [
     "Unicorns & scale-ups"
    ],
-   "score": 6.7
+   "score": 6.4
   },
   {
    "id": "google-snaps-up-king-s-cross-office-as-ai-giants-expand-london-footprint",
@@ -674,28 +558,7 @@
    "categories": [
     "AI"
    ],
-   "score": 6.5
-  },
-  {
-   "id": "the-chancellor-gave-brits-100-off-energy-i-m-giving-them-3-000",
-   "title": "‘The Chancellor gave Brits £100 off energy, I’m giving them £3,000’",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmlSdlhWeWE1dG5VNFh6OFFVcHAwdGV2aWptYUUtaURlZlBJaUc0TTdoUVFOdFFheFI0VmhQaUZuRDRYUjR6T3ROUEpsY0ttcWlwVzJFOTlFR2RHRUFBYXA0TVZkWE5iYkRLMG51alczNEx1bDEyQjVJQWgyMkI2X1R0TWpuNmFXWUp5VnVqay1rR3pQWWRBUkhDWFc3ZEU?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "‘The Chancellor gave Brits £100 off energy, I’m giving them £3,000’",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmlSdlhWeWE1dG5VNFh6OFFVcHAwdGV2aWptYUUtaURlZlBJaUc0TTdoUVFOdFFheFI0VmhQaUZuRDRYUjR6T3ROUEpsY0ttcWlwVzJFOTlFR2RHRUFBYXA0TVZkWE5iYkRLMG51alczNEx1bDEyQjVJQWgyMkI2X1R0TWpuNmFXWUp5VnVqay1rR3pQWWRBUkhDWFc3ZEU?oc=5"
-    }
-   ],
-   "date": "2026-11-24T08:01:27.000Z",
-   "categories": [
-    "Policy & ecosystem"
-   ],
-   "score": 6.1
+   "score": 6.3
   },
   {
    "id": "theseus-robotics-secures-455k-to-put-robots-to-work-in-supermarkets-across-europ",
@@ -717,6 +580,69 @@
     "Funding"
    ],
    "score": 6
+  },
+  {
+   "id": "london-based-acorda-raises-2-15-million-to-help-banks-detect-payment-scams-befor",
+   "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclRpM05acE9pM19CSHJhRTVJVzNLcC1UaGJLMWVtaXRCOERqSE1GM0FZdHBYWGtRc3NqNmMwSHJ5bFdBTmU2U1d2ZlQ2Mk80VlAwUFhrZWZhMURXa2JILWFiRC1YTlFYZVhZTFlySXM1cWJHeWFYT1JVcVcteURwLWUxbkJNRDVSSVNmd2pvT1I0dlhEaFoxYjZTYUlTeEtzN3cxNFNqUnpadnFzTHJBUVFtcWNNbHIya2hYc0lKc09zaURLN2o2VzhSbw?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclRpM05acE9pM19CSHJhRTVJVzNLcC1UaGJLMWVtaXRCOERqSE1GM0FZdHBYWGtRc3NqNmMwSHJ5bFdBTmU2U1d2ZlQ2Mk80VlAwUFhrZWZhMURXa2JILWFiRC1YTlFYZVhZTFlySXM1cWJHeWFYT1JVcVcteURwLWUxbkJNRDVSSVNmd2pvT1I0dlhEaFoxYjZTYUlTeEtzN3cxNFNqUnpadnFzTHJBUVFtcWNNbHIya2hYc0lKc09zaURLN2o2VzhSbw?oc=5"
+    }
+   ],
+   "date": "2026-11-23T10:31:19.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "swiss-robotics-startup-coprod-raises-6m-to-fix-hardware-s-integration-hell",
+   "title": "Swiss robotics startup coprod raises $6M to fix hardware's \"integration hell",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSGdWbnVkbVE4ZTFuaXFuZ1paN05FZlk3MnFGQXY3U0pEOGJCOHBYTW9xcTh4S3Jmbkcwd0c2cEFfMWt3MTlvanNpYzdFVFgwY3Q4blYydEVqYlFUZDV0NFo0WllvUjM5aS1LSDlUV0xYVFpRaWRUeGd5VmlpbHBJTURSQ3J6ZHdFdUdTcFo0QWtXbEo1RGhXX00zdW5XT3ZOUDViX3hlOWVYTzhV?oc=5",
+   "summary": "",
+   "sources": [
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Dealroom",
+     "title": "Swiss robotics startup coprod raises $6M to fix hardware's \"integration hell",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSGdWbnVkbVE4ZTFuaXFuZ1paN05FZlk3MnFGQXY3U0pEOGJCOHBYTW9xcTh4S3Jmbkcwd0c2cEFfMWt3MTlvanNpYzdFVFgwY3Q4blYydEVqYlFUZDV0NFo0WllvUjM5aS1LSDlUV0xYVFpRaWRUeGd5VmlpbHBJTURSQ3J6ZHdFdUdTcFo0QWtXbEo1RGhXX00zdW5XT3ZOUDViX3hlOWVYTzhV?oc=5"
+    }
+   ],
+   "date": "2026-11-23T09:29:33.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "exclusive-starling-veteran-to-take-over-as-ceo",
+   "title": "Exclusive: Starling veteran to take over as CEO",
+   "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Exclusive: Starling veteran to take over as CEO",
+     "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/"
+    }
+   ],
+   "date": "2026-11-24T11:00:37.000Z",
+   "categories": [
+    "People"
+   ],
+   "score": 5.4
   },
   {
    "id": "uk-active-business-numbers-back-above-2019-level-after-three-year-fall",
@@ -745,91 +671,7 @@
    },
    "date": "2026-11-24T14:43:32.000Z",
    "categories": [],
-   "score": 5.7
-  },
-  {
-   "id": "exclusive-starling-veteran-to-take-over-as-ceo",
-   "title": "Exclusive: Starling veteran to take over as CEO",
-   "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "Exclusive: Starling veteran to take over as CEO",
-     "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/"
-    }
-   ],
-   "date": "2026-11-24T11:00:37.000Z",
-   "categories": [
-    "People"
-   ],
-   "score": 5.6
-  },
-  {
-   "id": "uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai",
-   "title": "UK gov invests in defense startup making virtual training ground for AI",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckZqY1ExZWVNUHNLRTRvdnM1cWZ3bGFqX2NCYjFnTFZ6eHRHTy1NMjFuOEVVX3dheUxULTRDZEt0U1FUd0hTS185M0FEWEZkajZ1bUdULUxwWHFTazFlMVpzVFN2SEFCNWhveVRTdnJfbERMX01QdnRoemdELWxGdjhBcnhjZ0E0SjBoSTBVaWxXWWhfYWQ0bnp0ZFZSdk9jd3pWaENVNldvdHVmQXFuZWwwdWJ6MEh6WjdDN0haZ0JtRHZDLVdJ?oc=5",
-   "summary": "",
-   "sources": [
-    "The Register"
-   ],
-   "articles": [
-    {
-     "source": "The Register",
-     "title": "UK gov invests in defense startup making virtual training ground for AI",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckZqY1ExZWVNUHNLRTRvdnM1cWZ3bGFqX2NCYjFnTFZ6eHRHTy1NMjFuOEVVX3dheUxULTRDZEt0U1FUd0hTS185M0FEWEZkajZ1bUdULUxwWHFTazFlMVpzVFN2SEFCNWhveVRTdnJfbERMX01QdnRoemdELWxGdjhBcnhjZ0E0SjBoSTBVaWxXWWhfYWQ0bnp0ZFZSdk9jd3pWaENVNldvdHVmQXFuZWwwdWJ6MEh6WjdDN0haZ0JtRHZDLVdJ?oc=5"
-    }
-   ],
-   "date": "2026-11-24T09:16:00.000Z",
-   "categories": [
-    "AI"
-   ],
-   "score": 5.2
-  },
-  {
-   "id": "why-ai-startups-should-build-governance-early",
-   "title": "Why AI startups should build governance early",
-   "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "Why AI startups should build governance early",
-     "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/"
-    }
-   ],
-   "date": "2026-11-23T09:00:24.000Z",
-   "categories": [
-    "AI"
-   ],
-   "score": 5
-  },
-  {
-   "id": "spain-reaches-2-278-billion-in-tech-investment-and-adds-three-new-unicorns",
-   "title": "Spain reaches 2.278 billion in tech investment and adds three new unicorns",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUVUWEFrN1dUUHpFczY0U0ZqNUZ5bllVdExNbWhxQUNUVHFIM3NkTkdyRUNHWG12aFdhZ2IzekhXT3ZLbl9CZDRVQ2Y4ZHJMQmV6Yjl6VlpqM0R1U011Y0UwMFVGbTdFOHp4UTJZUWdkc1lpQXhxVUQzVG9WWWRiMVlGQVJiT28wZVFBQXh1emw5NWREVi1xcTdZbFFoR1hHWTkwYWlndUt6cDQ0NjJ5RW5B?oc=5",
-   "summary": "",
-   "sources": [
-    "Foro3D"
-   ],
-   "articles": [
-    {
-     "source": "Foro3D",
-     "title": "Spain reaches 2.278 billion in tech investment and adds three new unicorns",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUVUWEFrN1dUUHpFczY0U0ZqNUZ5bllVdExNbWhxQUNUVHFIM3NkTkdyRUNHWG12aFdhZ2IzekhXT3ZLbl9CZDRVQ2Y4ZHJMQmV6Yjl6VlpqM0R1U011Y0UwMFVGbTdFOHp4UTJZUWdkc1lpQXhxVUQzVG9WWWRiMVlGQVJiT28wZVFBQXh1emw5NWREVi1xcTdZbFFoR1hHWTkwYWlndUt6cDQ0NjJ5RW5B?oc=5"
-    }
-   ],
-   "date": "2026-11-23T08:00:00.000Z",
-   "categories": [
-    "Unicorns & scale-ups"
-   ],
-   "score": 5
+   "score": 5.4
   },
   {
    "id": "kbra-releases-research-europe-s-2027-election-cycle-political-risk-and-sovereign",
@@ -869,7 +711,7 @@
    ],
    "date": "2026-11-24T05:00:22.000Z",
    "categories": [],
-   "score": 4.9
+   "score": 4.6
   },
   {
    "id": "has-uk-reached-peak-guinness-far-from-it-says-pub-boss",
@@ -888,7 +730,7 @@
    ],
    "date": "2026-11-24T10:52:25.000Z",
    "categories": [],
-   "score": 4.4
+   "score": 4.1
   },
   {
    "id": "sign-up-for-the-first-london-tech-chess-night",
@@ -907,56 +749,6 @@
    ],
    "date": "2026-11-23T13:07:34.000Z",
    "categories": [],
-   "score": 4
-  },
-  {
-   "id": "european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-6b",
-   "title": "European tech weekly recap: More than 65 tech funding deals worth over €6B",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "European tech weekly recap: More than 65 tech funding deals worth over €6B",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5"
-    }
-   ],
-   "date": "2026-11-23T08:00:39.000Z",
-   "categories": [],
-   "score": 4
-  },
-  {
-   "id": "adyen-s-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-be",
-   "title": "Adyen’s co-founder Pieter van der Does to retire as Co-CEO; Ingo Uytdehaage to become sole CEO",
-   "url": "https://www.eu-startups.com/2026/11/adyens-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-become-sole-ceo/",
-   "summary": "Pieter van der Does, co-founder and Co-CEO of Dutch Fintech Adyen, is stepping down from his executive role after 20 years at the helm of one of Europe’s most prominent technology companies. In an announcement on 23 November 2026, marking Adyen’s 20th anniversary, the company said van der Does will retire on 31 December 2026, […]",
-   "sources": [
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "EU-Startups",
-     "title": "Adyen’s co-founder Pieter van der Does to retire as Co-CEO; Ingo Uytdehaage to become sole CEO",
-     "url": "https://www.eu-startups.com/2026/11/adyens-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-become-sole-ceo/"
-    }
-   ],
-   "brief": {
-    "essentiel": "Pieter van der Does, co-founder and Co-CEO of Dutch Fintech Adyen , is stepping down from his executive role after 20 years at the helm of one of Europe’s most prominent technology companies.",
-    "points": [
-     "In an announcement on 23 November 2026, marking Adyen’s 20th anniversary, the company said van der Does will retire on 31 December 2026, and Ingo Uytdehaage, Co-CEO since 2023, will become sole CEO “ After 20 years, this is the right moment for me to step down on a positive note and with a very good feeling.",
-     "Ingo and I have worked very closely together as Co-CEOs, and now we have completed the transition ,” said van der Does , co-founder and co-CEO of Adyen.",
-     "During Q3 2026, the company reported net revenue of €738.1 million, a 23% year-on-year increase, while processed volume climbed 30% year-on-year to €451.1 billion.",
-     "Adyen has been my life’s work, and I’m incredibly proud of what our teams and customers have built together over the past two decades."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-24T06:27:55.000Z",
-   "categories": [
-    "People"
-   ],
    "score": 4
   },
   {
@@ -991,6 +783,37 @@
    "score": 4
   },
   {
+   "id": "adyen-s-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-be",
+   "title": "Adyen’s co-founder Pieter van der Does to retire as Co-CEO; Ingo Uytdehaage to become sole CEO",
+   "url": "https://www.eu-startups.com/2026/11/adyens-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-become-sole-ceo/",
+   "summary": "Pieter van der Does, co-founder and Co-CEO of Dutch Fintech Adyen, is stepping down from his executive role after 20 years at the helm of one of Europe’s most prominent technology companies. In an announcement on 23 November 2026, marking Adyen’s 20th anniversary, the company said van der Does will retire on 31 December 2026, […]",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Adyen’s co-founder Pieter van der Does to retire as Co-CEO; Ingo Uytdehaage to become sole CEO",
+     "url": "https://www.eu-startups.com/2026/11/adyens-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-become-sole-ceo/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Pieter van der Does, co-founder and Co-CEO of Dutch Fintech Adyen , is stepping down from his executive role after 20 years at the helm of one of Europe’s most prominent technology companies.",
+    "points": [
+     "In an announcement on 23 November 2026, marking Adyen’s 20th anniversary, the company said van der Does will retire on 31 December 2026, and Ingo Uytdehaage, Co-CEO since 2023, will become sole CEO “ After 20 years, this is the right moment for me to step down on a positive note and with a very good feeling.",
+     "Ingo and I have worked very closely together as Co-CEOs, and now we have completed the transition ,” said van der Does , co-founder and co-CEO of Adyen.",
+     "During Q3 2026, the company reported net revenue of €738.1 million, a 23% year-on-year increase, while processed volume climbed 30% year-on-year to €451.1 billion.",
+     "Adyen has been my life’s work, and I’m incredibly proud of what our teams and customers have built together over the past two decades."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-24T06:27:55.000Z",
+   "categories": [
+    "People"
+   ],
+   "score": 3.8
+  },
+  {
    "id": "opinion-separate-the-hype-from-reality-in-china-s-robotics-race",
    "title": "OPINION: Separate the hype from reality in China’s robotics race",
    "url": "https://www.eu-startups.com/2026/11/opinion-separate-the-hype-from-reality-in-chinas-robotics-race/",
@@ -1017,7 +840,7 @@
    },
    "date": "2026-11-24T14:50:34.000Z",
    "categories": [],
-   "score": 3.7
+   "score": 3.5
   },
   {
    "id": "why-many-european-biotechs-license-their-science-instead-of-scaling-it",
@@ -1036,7 +859,7 @@
    ],
    "date": "2026-11-24T12:11:00.000Z",
    "categories": [],
-   "score": 3.5
+   "score": 3.2
   },
   {
    "id": "haigh-sets-natural-england-up-for-axe-and-hints-at-control-of-water-companies",
@@ -1091,7 +914,7 @@
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MaFFFZ0dXZXMzcHE4Q2lZeF9zbExBTl82S19kUVFmYmtpOU9iSGctUHNyRWZHV0RoaFB2OV9QZG9Tbll5cEVBeExxNHQza3dFcWxna3ZHV0dkb0xkS0E?oc=5"
     }
    ],
-   "date": "2026-11-23T08:19:17.000Z",
+   "date": "2026-11-23T10:53:43.000Z",
    "categories": [],
    "score": 3
   },
