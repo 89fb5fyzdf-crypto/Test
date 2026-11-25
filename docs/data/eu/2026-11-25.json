@@ -1,0 +1,1130 @@
+{
+ "date": "2026-11-25",
+ "generatedAt": "2026-11-25T09:44:54.115Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 42,
+  "raw": 51,
+  "media": 16
+ },
+ "scope": "eu",
+ "lang": "en",
+ "sources": [
+  {
+   "source": "City AM",
+   "ok": true,
+   "items": 22
+  },
+  {
+   "source": "EU-Startups",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "Financial Times",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "Google News · Europe scaleup mega round billion",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "source": "Google News · European startup raises Series",
+   "ok": true,
+   "items": 31
+  },
+  {
+   "source": "Google News · European unicorn valuation",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "source": "Google News · UK startup raises funding round",
+   "ok": true,
+   "items": 61
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "Tech.eu",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Tech.eu (via Google News)",
+   "ok": true,
+   "items": 19
+  },
+  {
+   "source": "TechCrunch Europe",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "UKTN",
+   "ok": true,
+   "items": 10
+  }
+ ],
+ "items": [
+  {
+   "id": "bound-secures-50m-to-advance-fx-risk-management-for-mid-market-companies",
+   "title": "Bound secures $50M to advance FX risk management for mid-market companies",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1kyRGhzcXMwejhfVV9yQTMwZjcwSlZURTk2QjhiUzdfU2Z1Ym1fY3A2Nl9Md2ozQTh5TEpuSERydjFNMkprTF93N0RqODFlY0c2Ti12R1VORXZxdjhYb0JNcFd4TGpUc2NvYmRUdVlXMUFtXzg4QmhpOXhaUmdmOF9nallmbDcyQVRVYThCbFQ0R0Z4ZmhXcjZudHo1ZkJGV2c?oc=5",
+   "summary": "Bound, a London-based AI-powered foreign exchange risk management platform for mid-market companies, has secured a €45.72 million ($50 million) three-year revolving debt facility. The debt facility comes from Viola Credit, a global alternative credit manager specialising in funding Europe’s high-growth technology companies. It is structured as a warehouse facility, allowing the company to expand i",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Bound secures $50M to advance FX risk management for mid-market companies",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1kyRGhzcXMwejhfVV9yQTMwZjcwSlZURTk2QjhiUzdfU2Z1Ym1fY3A2Nl9Md2ozQTh5TEpuSERydjFNMkprTF93N0RqODFlY0c2Ti12R1VORXZxdjhYb0JNcFd4TGpUc2NvYmRUdVlXMUFtXzg4QmhpOXhaUmdmOF9nallmbDcyQVRVYThCbFQ0R0Z4ZmhXcjZudHo1ZkJGV2c?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London-based Bound secures €45.72 million debt facility for its AI-powered FX risk management platform",
+     "url": "https://www.eu-startups.com/2026/11/london-based-bound-secures-e45-68-million-debt-facility-for-its-ai-powered-fx-risk-management-platform/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Bound , a London-based AI-powered foreign exchange risk management platform for mid-market companies, has secured a €45.72 million ($50 million) three-year revolving debt facility.",
+    "points": [
+     "“ We’re excited to partner with the Bound team through this $50 million warehouse facility.",
+     "Bound’s growth has been striking, with the company reporting transaction volumes of approximately €1.37 billion ($1.5 billion) in 2025, and the company is on track to surpass $6 billion in 2026.",
+     "The facility comes on top of Bound’s €20.7 million ($24.5 million) Series A equity round led by AlbionVC in February.",
+     "The company is targeting businesses processing between $10 million and $100 million in annual FX transactions."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$50M"
+     },
+     {
+      "key": "round",
+      "value": "Series A"
+     },
+     {
+      "key": "investors",
+      "value": "AlbionVC in February"
+     }
+    ]
+   },
+   "date": "2026-11-25T06:17:36.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 17.8
+  },
+  {
+   "id": "commerzventures-launches-50m-fund-iv-targeting-early-stage-ai-and-fintech-startu",
+   "title": "CommerzVentures launches €50M Fund IV targeting early-stage AI and fintech startups",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmlxYmM4NEpxdXhpWUE1RzFQb0x2LWw0eS1MX0otWk9ieVRQNk5Dd3lleDN4UG1iYmt1NkhCY1M5aGp5OGs0RGdOTVVGNUhVOWJGLVFEdDhtQ0tOaC1Ud3l5YUZtNHk1bDF2TGVHSUJhUmhoem9OZkFJLXN4X25fZEFELV9yX2Q4V09NMWNUVmpKbFNJYXdHYkt5dHo5NnBXZEJiSDhTdHR4NlJfLUdwU1pUbw?oc=5",
+   "summary": "CommerzVentures, a Frankfurt-based specialist venture capital firm focused on financial services, has closed its fourth fund at €50 million. The fourth fund — CommerzVentures IV (Fund IV) — is anchored by Commerzbank and is deliberately smaller than its predecessors; the firm managed over €550 million across three prior funds, including €300 million in Fund III. […]",
+   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/CommerzVentures.jpg",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "CommerzVentures launches €50M Fund IV targeting early-stage AI and fintech startups",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmlxYmM4NEpxdXhpWUE1RzFQb0x2LWw0eS1MX0otWk9ieVRQNk5Dd3lleDN4UG1iYmt1NkhCY1M5aGp5OGs0RGdOTVVGNUhVOWJGLVFEdDhtQ0tOaC1Ud3l5YUZtNHk1bDF2TGVHSUJhUmhoem9OZkFJLXN4X25fZEFELV9yX2Q4V09NMWNUVmpKbFNJYXdHYkt5dHo5NnBXZEJiSDhTdHR4NlJfLUdwU1pUbw?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Frankfurt-based CommerzVentures closes €50 million Fund IV, betting on early-stage FinTech and AI",
+     "url": "https://www.eu-startups.com/2026/11/frankfurt-based-commerzventures-closes-e50-million-fund-iv-betting-on-early-stage-fintech-and-ai/"
+    }
+   ],
+   "brief": {
+    "essentiel": "CommerzVentures , a Frankfurt-based specialist venture capital firm focused on financial services, has closed its fourth fund at €50 million.",
+    "points": [
+     "The fourth fund — CommerzVentures IV (Fund IV) — is anchored by Commerzbank and is deliberately smaller than its predecessors; the firm managed over €550 million across three prior funds, including €300 million in Fund III .",
+     "“ Fund IV is deliberately smaller because we want to invest earlier.",
+     "We aim to combine early conviction with the experience, industry connections and hands-on support founders need to build their businesses ,” said Judith Vogel , Partner, CommerzVentures.",
+     "Founded in 2014, CommerzVentures is a specialist financial services investor having backed more than 40 companies across its three previous funds."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€50M"
+     },
+     {
+      "key": "round",
+      "value": "Seed"
+     }
+    ]
+   },
+   "date": "2026-11-24T08:01:58.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 15
+  },
+  {
+   "id": "government-backs-british-defence-ai-startup-in-70m-funding-round",
+   "title": "Government backs British defence AI startup in $70m funding round",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONGNDYXhzS2o5TmNTRF95X2phS2l6c3hlZDNRYjBHcFRtNXNfb0FYci1wTTVzVFI3Q0c4UDNJSjBEbldTNFhOWmNzNlF1cFFJekIzVENOTlVIUE9yN3F2ckxoTk5uUm1GNWtyaEtMV19paG5qT2E0V08yN1R5dkZ0THVzRUdSWjZWMFR1V0prYnlBQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Government backs British defence AI startup in $70m funding round",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONGNDYXhzS2o5TmNTRF95X2phS2l6c3hlZDNRYjBHcFRtNXNfb0FYci1wTTVzVFI3Q0c4UDNJSjBEbldTNFhOWmNzNlF1cFFJekIzVENOTlVIUE9yN3F2ckxoTk5uUm1GNWtyaEtMV19paG5qT2E0V08yN1R5dkZ0THVzRUdSWjZWMFR1V0prYnlBQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-24T16:43:39.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 14.6
+  },
+  {
+   "id": "europe-has-10-billion-for-startups-does-it-have-a-market-for-them",
+   "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTlCZ0VGckQ0c1JxcEZFME0yOFlNWXRhc3hZZFZFaEJHc042bXhSN2ZkNFJvQ25takthSGRLaVFwQjg1YlFLUGwtREhYVE1OUm5JYU10NTJNbFlZQ3ZyYmVBWG0yWVFKdXpxQWRTajl1anNzWmgyRmRob0pKNUNaTzF1SEMzX0J3aExDRmpDXy1WSDlfa04zVkROZW9OWHZRd0VvQkZ2N1FhbkcxY1BYOFQ5WQ?oc=5",
+   "summary": "",
+   "sources": [
+    "EU Reporter"
+   ],
+   "articles": [
+    {
+     "source": "EU Reporter",
+     "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTlCZ0VGckQ0c1JxcEZFME0yOFlNWXRhc3hZZFZFaEJHc042bXhSN2ZkNFJvQ25takthSGRLaVFwQjg1YlFLUGwtREhYVE1OUm5JYU10NTJNbFlZQ3ZyYmVBWG0yWVFKdXpxQWRTajl1anNzWmgyRmRob0pKNUNaTzF1SEMzX0J3aExDRmpDXy1WSDlfa04zVkROZW9OWHZRd0VvQkZ2N1FhbkcxY1BYOFQ5WQ?oc=5"
+    }
+   ],
+   "date": "2026-11-24T21:22:43.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 14
+  },
+  {
+   "id": "pliant-secures-over-200m-in-debt-financing-to-scale-european-payments-business",
+   "title": "Pliant secures over €200M in debt financing to scale European payments business",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhPN0Z5b3Z5SmlDZ3pwZ0g4eDZtMDJsQTlYOUIyVFhBZUR1WTJPQW40dEtPQlBCMXVQREUyZFpsbjg0QVZ5cHpRdTlLZGJsYXJPNlI0VVF6YTRkQTBpWXVsSlhhYjBnaUpER2hORGlUZThpOGxKOFVJLUFDc01oME14eDNNNmFuN2QyTThzUG5TR0NyX2FpcElWMy1aczZLUU81R25VcDBQMjJjTUE?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Pliant secures over €200M in debt financing to scale European payments business",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhPN0Z5b3Z5SmlDZ3pwZ0g4eDZtMDJsQTlYOUIyVFhBZUR1WTJPQW40dEtPQlBCMXVQREUyZFpsbjg0QVZ5cHpRdTlLZGJsYXJPNlI0VVF6YTRkQTBpWXVsSlhhYjBnaUpER2hORGlUZThpOGxKOFVJLUFDc01oME14eDNNNmFuN2QyTThzUG5TR0NyX2FpcElWMy1aczZLUU81R25VcDBQMjJjTUE?oc=5"
+    }
+   ],
+   "date": "2026-11-24T12:39:01.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 13.2
+  },
+  {
+   "id": "good-heat-secures-2m-to-expand-industrial-heat-battery-solutions-across-europe",
+   "title": "Good Heat secures €2M to expand industrial heat battery solutions across Europe",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtLUC1ZeGJ4Vjg0c0llSEhva1BKWGJlX1JheXk4eVNDTzFoemQ2eDVvWE5oUXVwdGZKNFQ0M1VvOWtobVgtZTlNX2ZwMTNJdDE5aUg0MlNMSk1KbWt3c19IdG9WZWRuMGtYZkZKY1RVcExGRFV0U1FiLUhmbVNodjlpLXVjSU1ydFFlZDhCcVZlYVdSZHBUSmg2MjZJYnY5MUhGU0lTTnI1OXh1TXc?oc=5",
+   "summary": "Good Heat, an Amsterdam-based startup that delivers zero-carbon heat as a service to industrial heat users, has raised €2 million to support its growing project pipeline. The round is led by SET Ventures, Europe’s leading energy VC, with participation from Shell Ventures and existing investor Investible. In October 2025, the company announced €1.83 million ($2 […]",
+   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-24T142447.324.jpg",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Good Heat secures €2M to expand industrial heat battery solutions across Europe",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtLUC1ZeGJ4Vjg0c0llSEhva1BKWGJlX1JheXk4eVNDTzFoemQ2eDVvWE5oUXVwdGZKNFQ0M1VvOWtobVgtZTlNX2ZwMTNJdDE5aUg0MlNMSk1KbWt3c19IdG9WZWRuMGtYZkZKY1RVcExGRFV0U1FiLUhmbVNodjlpLXVjSU1ydFFlZDhCcVZlYVdSZHBUSmg2MjZJYnY5MUhGU0lTTnI1OXh1TXc?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Amsterdam’s Good Heat raises €2 million to replace industrial gas-fired steam boilers with heat batteries",
+     "url": "https://www.eu-startups.com/2026/11/amsterdams-good-heat-raises-e2-million-to-replace-industrial-gas-fired-steam-boilers-with-heat-batteries/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Good Heat , an Amsterdam-based startup that delivers zero-carbon heat as a service to industrial heat users, has raised €2 million to support its growing project pipeline.",
+    "points": [
+     "In October 2025, the company announced €1.83 million ($2 million) in pre-Seed funding backed by Understorey Ventures, Investible, 2100VC, and Foobar VC.",
+     "The round is led by SET Ventures, Europe’s leading energy VC, with participation from Shell Ventures and existing investor Investible.",
+     "“Industrial heat is an enormous market: a fifth of all the energy the world uses, and almost 90% of it still comes from fossil fuels.",
+     "The cost of that dependence is obvious at every site we see."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€2M"
+     },
+     {
+      "key": "round",
+      "value": "Pre-Seed"
+     },
+     {
+      "key": "investors",
+      "value": "SET Ventures, Europe’s leading energy VC"
+     }
+    ]
+   },
+   "date": "2026-11-24T09:00:10.000Z",
+   "categories": [
+    "Funding",
+    "Policy & ecosystem"
+   ],
+   "score": 13
+  },
+  {
+   "id": "uk-government-backs-agon-dynamics-in-70-million-round-for-ai-defense-training",
+   "title": "UK government backs Agon Dynamics in $70 million round for AI defense training",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVE0zVFBBZ3ZxVVBnUm8tdGNkOXFhcWRnYU02amZPMi13ME8zMTJ6LUJLVkJzN1FzNG9MTU5iVzZiZ0F6X3RZcjB4X3ZfZGRLNUNUY21FU1MxY252eWR1MlZjc1V6UWxEd1NMa2gzeE84NEtva1E4UzlfR0w?oc=5",
+   "summary": "",
+   "sources": [
+    "Crypto Briefing"
+   ],
+   "articles": [
+    {
+     "source": "Crypto Briefing",
+     "title": "UK government backs Agon Dynamics in $70 million round for AI defense training",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVE0zVFBBZ3ZxVVBnUm8tdGNkOXFhcWRnYU02amZPMi13ME8zMTJ6LUJLVkJzN1FzNG9MTU5iVzZiZ0F6X3RZcjB4X3ZfZGRLNUNUY21FU1MxY252eWR1MlZjc1V6UWxEd1NMa2gzeE84NEtva1E4UzlfR0w?oc=5"
+    }
+   ],
+   "date": "2026-11-24T10:07:48.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 13
+  },
+  {
+   "id": "yc-backed-elbic-raises-2-7-million-to-keep-european-customer-calls-off-us-server",
+   "title": "YC-backed elbic raises €2.7 million to keep European customer calls off US servers with sovereign voice AI",
+   "url": "https://www.eu-startups.com/2026/11/yc-backed-elbic-raises-e2-7-million-to-keep-european-customer-calls-off-us-servers-with-sovereign-voice-ai/",
+   "summary": "elbic, a Berlin-based voice AI startup formerly known as KugelAudio, has raised €2.7 million in a pre-Seed round. The round was led by London-based Repeat Ventures, with participation from San Francisco’s Rebel Fund, Y Combinator, and several business angels from the German scene, including fastgen founders Maik Mahlkow and David Nordhausen and voize co-founder Erik […]",
+   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/elbic.jpg",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "YC-backed elbic raises €2.7 million to keep European customer calls off US servers with sovereign voice AI",
+     "url": "https://www.eu-startups.com/2026/11/yc-backed-elbic-raises-e2-7-million-to-keep-european-customer-calls-off-us-servers-with-sovereign-voice-ai/"
+    }
+   ],
+   "brief": {
+    "essentiel": "elbic , a Berlin-based voice AI startup formerly known as KugelAudio, has raised €2.7 million in a pre-Seed round.",
+    "points": [
+     "The raise follows the startup’s acceptance into Y Combinator’s programme in spring 2026.",
+     "The round was led by London-based Repeat Ventures, with participation from San Francisco’s Rebel Fund, Y Combinator, and several business angels from the German scene, including fastgen founders Maik Mahlkow and David Nordhausen and voize co-founder Erik Ziegler.",
+     "European firms need models they can run themselves, and Elbic’s founding team has the deep expertise in voice AI and model compression to deliver exactly that.",
+     "With its new name, chosen because it is short and easy to pronounce across languages, the company is also looking beyond Germany, and aims to become the go-to sovereign voice AI infrastructure for European businesses."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€2.7 million"
+     },
+     {
+      "key": "round",
+      "value": "Pre-Seed"
+     },
+     {
+      "key": "investors",
+      "value": "London-based Repeat Ventures"
+     }
+    ]
+   },
+   "date": "2026-11-25T09:27:53.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 13
+  },
+  {
+   "id": "reversa-raises-750k-to-automate-regulatory-processes-with-ai-agents",
+   "title": "Reversa raises €750K to automate regulatory processes with AI agents",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnJaWGpmQ2J3WDNZZ1cxSEw2OVZNbUs0SWhGdkFILXNuU3NoZklNVV9fNG5LcFpvTjFqa3dDS0VCR3RxRm5FdC02SGFjdDVmVUNNdl9fcGpydDlfMXJSa2dFbWdXXy0xZHBJNVFLUmVkVFRJYW01bnJPc0RjYzRTYjhMeVdQV0lpaWh5UEJaRVJabVpkMTVBVUZpalZhUTg?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Reversa raises €750K to automate regulatory processes with AI agents",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnJaWGpmQ2J3WDNZZ1cxSEw2OVZNbUs0SWhGdkFILXNuU3NoZklNVV9fNG5LcFpvTjFqa3dDS0VCR3RxRm5FdC02SGFjdDVmVUNNdl9fcGpydDlfMXJSa2dFbWdXXy0xZHBJNVFLUmVkVFRJYW01bnJPc0RjYzRTYjhMeVdQV0lpaWh5UEJaRVJabVpkMTVBVUZpalZhUTg?oc=5"
+    }
+   ],
+   "date": "2026-11-24T10:01:24.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 11
+  },
+  {
+   "id": "payhawk-and-dronamics-backer-eleven-secures-57-million-first-close-of-its-fourth",
+   "title": "Payhawk and Dronamics backer Eleven secures €57 million first close of its fourth fund, targets €100 million",
+   "url": "https://www.eu-startups.com/2026/11/payhawk-and-dronamics-backer-eleven-secures-e57-million-first-close-of-its-fourth-fund-targets-e100-million/",
+   "summary": "Eleven, the Sofia-based early-stage venture capital firm behind some of Europe’s most prominent startup success stories, has secured a €57 million first close for its fourth fund, targeting a final raise of €100 million. The first close of its Fund IV drew strong support from existing limited partners, with 70% of Eleven’s LP base recommitting […]",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Payhawk and Dronamics backer Eleven secures €57 million first close of its fourth fund, targets €100 million",
+     "url": "https://www.eu-startups.com/2026/11/payhawk-and-dronamics-backer-eleven-secures-e57-million-first-close-of-its-fourth-fund-targets-e100-million/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Eleven , the Sofia-based early-stage venture capital firm behind some of Europe’s most prominent startup success stories, has secured a €57 million first close for its fourth fund, targeting a final raise of €100 million.",
+    "points": [
+     "Its €60 million third fund brought investments to South-Eastern Europe.",
+     "Its portfolio includes some of Europe’s most recognised names, including Payhawk, Bulgaria’s first unicorn, which recently raised a €255.14 million ($280 million) Series C round at a €1.82 billion ($2 billion) valuation.",
+     "Other prominent names include Dronamics, Europe’s first licensed cargo drone airline; eBag, which has surpassed €100 million in annualised revenues; and SMSBump and NitroPack, both acquired by global buyers.",
+     "With Fund IV, Eleven plans to lead or co-lead pre-Seed and Seed rounds across Europe, writing initial cheques of €300k to €1.5 million, with up to €5 million per company reserved for follow-on investment."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€57 million"
+     },
+     {
+      "key": "round",
+      "value": "Series C"
+     }
+    ]
+   },
+   "date": "2026-11-25T08:00:23.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 10.9
+  },
+  {
+   "id": "trustly-completes-60m-funding-raise",
+   "title": "Trustly completes $60M funding raise",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSWpoWW0tQUxBUUVJcWZwZnJSZzJxcXJubFNJVFhmdXA2Y3lMQkhFM3JfdkhZOW1uLXQ1Q2lRbmtVejFaNGVtanlZZ2RNUmVIUmNJUGNnaTA0a0E2cXp6c21vN3dvZURab01yWXpLNXo?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Trustly completes $60M funding raise",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSWpoWW0tQUxBUUVJcWZwZnJSZzJxcXJubFNJVFhmdXA2Y3lMQkhFM3JfdkhZOW1uLXQ1Q2lRbmtVejFaNGVtanlZZ2RNUmVIUmNJUGNnaTA0a0E2cXp6c21vN3dvZURab01yWXpLNXo?oc=5"
+    }
+   ],
+   "date": "2026-11-24T11:19:32.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 10.1
+  },
+  {
+   "id": "playbook-raises-8m-to-help-pharma-companies-keep-ai-agents-compliant",
+   "title": "Playbook raises €8M to help pharma companies keep AI agents compliant",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVNNeDFhcGh2clpTdU55SWU1ZE1TRnJERF9GdTFsaURtZEJJOUtJSlBacUJIVE02S24wb3ZYT0E0QmRJNURHMnJMa19iRjQwZk5leGk1SXppTU5vQl9RSGJ2Q1BJLU4zZ2lGMlZPOUkzaVNFaDZDeWhmaU9rbklmX0hsMmxrZ2twbWtHWHV4ZFpwRGNMMXJ0WE9lZjEwa0Qy?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Playbook raises €8M to help pharma companies keep AI agents compliant",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVNNeDFhcGh2clpTdU55SWU1ZE1TRnJERF9GdTFsaURtZEJJOUtJSlBacUJIVE02S24wb3ZYT0E0QmRJNURHMnJMa19iRjQwZk5leGk1SXppTU5vQl9RSGJ2Q1BJLU4zZ2lGMlZPOUkzaVNFaDZDeWhmaU9rbklmX0hsMmxrZ2twbWtHWHV4ZFpwRGNMMXJ0WE9lZjEwa0Qy?oc=5"
+    }
+   ],
+   "date": "2026-11-24T07:29:15.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 9
+  },
+  {
+   "id": "how-to-build-an-ai-native-vc-fund",
+   "title": "How to build an AI-native VC fund",
+   "url": "https://sifted.eu/articles/how-to-build-an-ai-native-vc-fund/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "How to build an AI-native VC fund",
+     "url": "https://sifted.eu/articles/how-to-build-an-ai-native-vc-fund/"
+    }
+   ],
+   "date": "2026-11-25T05:00:06.000Z",
+   "categories": [
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 8.6
+  },
+  {
+   "id": "nordic-and-ukrainian-investors-back-pai-defence-with-5m-to-tackle-frontline-dron",
+   "title": "Nordic and Ukrainian investors back Pai Defence with $5M to tackle frontline drone threats",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3d6SjFWTW1NaXoxd0xIN1ItSnh5bDNJWDN1bWwwcWk1YXgxczZST1VsZzV2NnhrSGtzMzRZMmsxbHAxTWhNTzZBeE9pNzUwV1lTWDAxcmFhQzRoQVFhTEU3YjBEck9faEFBU0U3ZFlQMDZtTzRsNFh4aUl5QWVqVXNKR0xDcHpDemNGTzM0V3hWcm9oaGtpVUpmVWpWSzFPMWFyQUtRS1FRbE9Sa1laVzVuenI2NXZH?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Nordic and Ukrainian investors back Pai Defence with $5M to tackle frontline drone threats",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3d6SjFWTW1NaXoxd0xIN1ItSnh5bDNJWDN1bWwwcWk1YXgxczZST1VsZzV2NnhrSGtzMzRZMmsxbHAxTWhNTzZBeE9pNzUwV1lTWDAxcmFhQzRoQVFhTEU3YjBEck9faEFBU0U3ZFlQMDZtTzRsNFh4aUl5QWVqVXNKR0xDcHpDemNGTzM0V3hWcm9oaGtpVUpmVWpWSzFPMWFyQUtRS1FRbE9Sa1laVzVuenI2NXZH?oc=5"
+    }
+   ],
+   "date": "2026-11-24T07:01:49.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8
+  },
+  {
+   "id": "bcomp-secures-20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carb",
+   "title": "Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics",
+   "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/",
+   "summary": "Bcomp, a Fribourg-based CleanTech startup specialising in high-performance bio-based materials, has secured €20 million from the European Investment Bank (EIB) to build a high-volume manufacturing plant in the Romanian city of Timișoara and continue research and development in Fribourg. This EIB backing takes the form of €20 million in venture debt, supporting the company’s €47.6 […]",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics",
+     "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Bcomp , a Fribourg-based CleanTech startup specialising in high-performance bio-based materials, has secured €20 million from the European Investment Bank (EIB) to build a high-volume manufacturing plant in the Romanian city of Timișoara and continue research and development in Fribourg.",
+    "points": [
+     "This EIB backing takes the form of €20 million in venture debt, supporting the company’s €47.6 million investment programme to expand manufacturing capacity in Romania and further develop its R&D activities in Switzerland.",
+     "“Europe needs to turn technological innovation into industrial production if we are to strengthen our competitiveness and accelerate the green transition.",
+     "By supporting Bcomp in Romania and Switzerland, we are helping European innovation reach industrial scale and unlock new opportunities for sustainable growth,” said EIB Vice-President Ioannis Tsakiris .",
+     "Founded in 2011 by Christian Fischer and Julien Rion, Bcomp develops composite materials based primarily on flax fibres instead of conventional carbon fibre, glass fibre and plastics."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€20 million"
+     },
+     {
+      "key": "round",
+      "value": "Series C"
+     },
+     {
+      "key": "investors",
+      "value": "EGS Beteiligungen AG"
+     }
+    ]
+   },
+   "date": "2026-11-24T11:34:52.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7.2
+  },
+  {
+   "id": "intelligent-legal-solutions-secures-11m-series-a-to-expand-provision-platform",
+   "title": "Intelligent Legal Solutions secures $11M Series A to expand ProVision platform",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dVUzZYVUlNei1uVVdkTGl2TGFrM0kzcWFBejNCcWdjOXBGWFZ4RXlIX3I2emlzckZQY0hRTlMxbnc2Z0dnZGNXM0NOaEVnUjY2dXJKQlRGejVVZDc2THh2RlE3dTUwTjJ3ejFNcndCQVhoNmRZeUZkTnI1QVBmOEk5WXozREYwYnVWczMwUlIxRUwwSTF2RzZiOHYtRmtpNU9QUHFXVXo?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Intelligent Legal Solutions secures $11M Series A to expand ProVision platform",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dVUzZYVUlNei1uVVdkTGl2TGFrM0kzcWFBejNCcWdjOXBGWFZ4RXlIX3I2emlzckZQY0hRTlMxbnc2Z0dnZGNXM0NOaEVnUjY2dXJKQlRGejVVZDc2THh2RlE3dTUwTjJ3ejFNcndCQVhoNmRZeUZkTnI1QVBmOEk5WXozREYwYnVWczMwUlIxRUwwSTF2RzZiOHYtRmtpNU9QUHFXVXo?oc=5"
+    }
+   ],
+   "date": "2026-11-24T08:31:53.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
+  },
+  {
+   "id": "polish-foodtech-tasted-raises-6-5m-as-it-launches-in-los-angeles",
+   "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5"
+    }
+   ],
+   "date": "2026-11-24T09:08:24.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
+  },
+  {
+   "id": "ftse-100-giant-compass-confirms-plans-to-ditch-main-london-listing-for-new-york",
+   "title": "FTSE 100 giant Compass confirms plans to ditch main London listing for New York",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0NtdXIyOUhzN1o4aVlNdzc5ZEVvLUV6VThiZzVjTTcxZXRibTNOZEptNkh1ZVk1RWI3RGlCT3ZIZ2g2LVZTMGdrYmlIWEViUEJXSmhaekVZTGtLcXM4LWpQYWVGQkN2Wk13TmJlX29Ldk43eHVFeS03TzVyb19QUGU2WUhYRHR5bXV6TGtrSmhNbHJQWXNfdFpEWTdSU25xTEMtTlF3?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "FTSE 100 giant Compass confirms plans to ditch main London listing for New York",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0NtdXIyOUhzN1o4aVlNdzc5ZEVvLUV6VThiZzVjTTcxZXRibTNOZEptNkh1ZVk1RWI3RGlCT3ZIZ2g2LVZTMGdrYmlIWEViUEJXSmhaekVZTGtLcXM4LWpQYWVGQkN2Wk13TmJlX29Ldk43eHVFeS03TzVyb19QUGU2WUhYRHR5bXV6TGtrSmhNbHJQWXNfdFpEWTdSU25xTEMtTlF3?oc=5"
+    }
+   ],
+   "date": "2026-11-24T07:56:53.000Z",
+   "categories": [
+    "M&A & IPOs"
+   ],
+   "score": 7
+  },
+  {
+   "id": "how-much-do-you-know-about-your-ai-agents",
+   "title": "How much do you know about your AI agents?",
+   "url": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "How much do you know about your AI agents?",
+     "url": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/"
+    }
+   ],
+   "date": "2026-11-25T09:00:46.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 6.9
+  },
+  {
+   "id": "uk-sovereign-ai-fund-and-nssif-invest-in-defence-startup-agon",
+   "title": "UK Sovereign AI Fund and NSSIF invest in defence startup Agon",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0VudnRlUmc1VE5yLVRseWhWU3hVV0EwdEJkTC1IdVo1aDEzbDFQS1VjblpTRTZiS2ltUlgtcVJvR01kZ3Mza1pfNWQ2eHNZelpYVXdfZndYU0JqWWNDbkZOOXRhRVlqSmxFb1ZMamtUem5nZ2RvODdEWWxLamxQd2ZKalY3NDNuSnVvaW5OX3ZSRHJpS2c?oc=5",
+   "summary": "",
+   "sources": [
+    "ADS Advance"
+   ],
+   "articles": [
+    {
+     "source": "ADS Advance",
+     "title": "UK Sovereign AI Fund and NSSIF invest in defence startup Agon",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0VudnRlUmc1VE5yLVRseWhWU3hVV0EwdEJkTC1IdVo1aDEzbDFQS1VjblpTRTZiS2ltUlgtcVJvR01kZ3Mza1pfNWQ2eHNZelpYVXdfZndYU0JqWWNDbkZOOXRhRVlqSmxFb1ZMamtUem5nZ2RvODdEWWxLamxQd2ZKalY3NDNuSnVvaW5OX3ZSRHJpS2c?oc=5"
+    }
+   ],
+   "date": "2026-11-24T15:15:00.000Z",
+   "categories": [
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 6.5
+  },
+  {
+   "id": "why-europe-s-sovereignty-debate-is-heading-to-luxembourg-this-march",
+   "title": "Why Europe’s sovereignty debate is heading to Luxembourg this March",
+   "url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Why Europe’s sovereignty debate is heading to Luxembourg this March",
+     "url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/"
+    }
+   ],
+   "date": "2026-11-24T14:29:19.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 6.4
+  },
+  {
+   "id": "uk-spinout-tagomics-raises-13m-for-a-blood-based-drug-safety-test",
+   "title": "UK spinout Tagomics raises $13M for a blood-based drug safety test",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2E2bjlCVlhDUVExSE1LQzFidzRMSU1jTDhVTjUyU2g2XzdUZzJmcUlJYU9nSzFLLWFSQW0yRTJfMVRkbFJ2bXlaRnhoN1ZwRG42ckluUmEwTzZvZXFVNEUzU1RhbkRJS1J3bmFlbVM1T0tiaXg5OE1rMTRHeG02X0kzV3dOM3Fsc3QyNFRwaw?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech Funding News"
+   ],
+   "articles": [
+    {
+     "source": "Tech Funding News",
+     "title": "UK spinout Tagomics raises $13M for a blood-based drug safety test",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2E2bjlCVlhDUVExSE1LQzFidzRMSU1jTDhVTjUyU2g2XzdUZzJmcUlJYU9nSzFLLWFSQW0yRTJfMVRkbFJ2bXlaRnhoN1ZwRG42ckluUmEwTzZvZXFVNEUzU1RhbkRJS1J3bmFlbVM1T0tiaXg5OE1rMTRHeG02X0kzV3dOM3Fsc3QyNFRwaw?oc=5"
+    }
+   ],
+   "date": "2026-11-24T10:36:06.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6.1
+  },
+  {
+   "id": "uk-financial-regulator-seeks-to-set-expectations-for-agentic-ai",
+   "title": "UK financial regulator seeks to set expectations for agentic AI",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQURDX0RzbE1GVkp4T0RzRzlXSmJCcU9Ec3h4ajNhenVjSFJ3VzFreFJ3eWh6R19rbXI5U2dZLUswcGNZdXluSG5xZVJsT183SjE4RTRZZ3hrdVpTeU1EVGNEemFMa1YyRmVZTDBhSWZWbW16Wk45eDdKX05lYzFtNk1wQVpycnZLc0t3Zm9KWE12SmROVEFSSEUzeTBCVTZlLW8tTHV4YlpYckNhS2RkVTF2YnJQbF9aRXkwdURxaHkwVllJT2o3WXYyRDZLdXJLc3VDRHk3QW5OdkMwemZ5WElZNHTSAeQBQVVfeXFMT0FEQ19Ec2xNRlZKeE9Ec0c5V0piQnFPRHN4eGozYXp1Y0hSd1cxa3hSd3loekdfa21yOVNnWS1LMHBjWXV5bkhucWVSbE9fN0oxOEU0WWd4a3VaU3lNRFRjRHphTGtWMkZlWUwwYUlmVm1telpOOXg3Sl9OZWMxbTZNcEFacnJ2S3NLd2ZvSlhNdkpkTlRBUkhFM3kwQlU2ZS1vLUx1eGJaWHJDYUtkZFUxdmJyUGxfWkV5MHVEcWh5MFZZSU9qN1l2MkQ2S3VyS3N1Q0R5N0FuTnZDMHpmeVhJWTR0?oc=5",
+   "summary": "",
+   "sources": [
+    "The Economic Times"
+   ],
+   "articles": [
+    {
+     "source": "The Economic Times",
+     "title": "UK financial regulator seeks to set expectations for agentic AI",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQURDX0RzbE1GVkp4T0RzRzlXSmJCcU9Ec3h4ajNhenVjSFJ3VzFreFJ3eWh6R19rbXI5U2dZLUswcGNZdXluSG5xZVJsT183SjE4RTRZZ3hrdVpTeU1EVGNEemFMa1YyRmVZTDBhSWZWbW16Wk45eDdKX05lYzFtNk1wQVpycnZLc0t3Zm9KWE12SmROVEFSSEUzeTBCVTZlLW8tTHV4YlpYckNhS2RkVTF2YnJQbF9aRXkwdURxaHkwVllJT2o3WXYyRDZLdXJLc3VDRHk3QW5OdkMwemZ5WElZNHTSAeQBQVVfeXFMT0FEQ19Ec2xNRlZKeE9Ec0c5V0piQnFPRHN4eGozYXp1Y0hSd1cxa3hSd3loekdfa21yOVNnWS1LMHBjWXV5bkhucWVSbE9fN0oxOEU0WWd4a3VaU3lNRFRjRHphTGtWMkZlWUwwYUlmVm1telpOOXg3Sl9OZWMxbTZNcEFacnJ2S3NLd2ZvSlhNdkpkTlRBUkhFM3kwQlU2ZS1vLUx1eGJaWHJDYUtkZFUxdmJyUGxfWkV5MHVEcWh5MFZZSU9qN1l2MkQ2S3VyS3N1Q0R5N0FuTnZDMHpmeVhJWTR0?oc=5"
+    }
+   ],
+   "date": "2026-11-24T08:52:00.000Z",
+   "categories": [
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 6
+  },
+  {
+   "id": "anthropic-backer-jaan-tallinn-backs-sequent",
+   "title": "Anthropic backer Jaan Tallinn backs Sequent",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZenNxa1RHdHlyVWJfUUJzcFlCRHh4dDYxM3BSak9uWUNZS3otb3pGemlFSnZJZFFrd20yWjdraUZKOHpPNkhYc2NDd1RsTVhLWkZvX012TGxDZGYyNHRuTl9vRTdRbXZkZEVoTk5IdzFIQ2p3TF9ETmJTMA?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Anthropic backer Jaan Tallinn backs Sequent",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZenNxa1RHdHlyVWJfUUJzcFlCRHh4dDYxM3BSak9uWUNZS3otb3pGemlFSnZJZFFrd20yWjdraUZKOHpPNkhYc2NDd1RsTVhLWkZvX012TGxDZGYyNHRuTl9vRTdRbXZkZEVoTk5IdzFIQ2p3TF9ETmJTMA?oc=5"
+    }
+   ],
+   "date": "2026-11-25T08:25:04.000Z",
+   "categories": [],
+   "score": 5.9
+  },
+  {
+   "id": "pronto-ventures-launches-in-turin-to-accelerate-startup-growth-across-europe",
+   "title": "Pronto Ventures launches in Turin to accelerate startup growth across Europe",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm1zZG9WeDlIYml5S21hcXhBOV85RVY0X1lHRklwcFMzSmZ6ZzJzMS1SNklGR0k1Y0o5QVZ1SVk3MkZrNUJHQU9ISmR2SXYwcTZCQVloUm04cUJUdll6azBycmhaSnp3V0xST05fLXo1ZXNzd09OUk1wMS14SGlmSk1RU2Z4UUxnN2VkVS1SUUNUNXBtdkhrWXNSSFZHdnVRRWxJeEI1TQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Pronto Ventures launches in Turin to accelerate startup growth across Europe",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm1zZG9WeDlIYml5S21hcXhBOV85RVY0X1lHRklwcFMzSmZ6ZzJzMS1SNklGR0k1Y0o5QVZ1SVk3MkZrNUJHQU9ISmR2SXYwcTZCQVloUm04cUJUdll6azBycmhaSnp3V0xST05fLXo1ZXNzd09OUk1wMS14SGlmSk1RU2Z4UUxnN2VkVS1SUUNUNXBtdkhrWXNSSFZHdnVRRWxJeEI1TQ?oc=5"
+    }
+   ],
+   "date": "2026-11-25T08:40:29.000Z",
+   "categories": [],
+   "score": 5.9
+  },
+  {
+   "id": "arken-labs-launches-to-bring-ai-driven-automation-to-physical-infrastructure",
+   "title": "Arken Labs launches to bring AI-driven automation to physical infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGtCNDhBNUJOVzBlQmRlQjdHb1NYT0pCNkVFVGR1QmtvYnd3RkRFYkk0VnN0SUZ4ZEdDcDY1TS1FSUVSX0NESGlRbUprdDJ5d3A0R1lMNzFUMEQxb2xUbWxQMDdFS1ROTkg5Y1VXbWgwQzREU2xoakNSVHF5RHV5N2x2LXNYSksxdGtGblFqYldOSHRXYjhsQkQtY1V0VGdGZWRhN0VqTQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Arken Labs launches to bring AI-driven automation to physical infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGtCNDhBNUJOVzBlQmRlQjdHb1NYT0pCNkVFVGR1QmtvYnd3RkRFYkk0VnN0SUZ4ZEdDcDY1TS1FSUVSX0NESGlRbUprdDJ5d3A0R1lMNzFUMEQxb2xUbWxQMDdFS1ROTkg5Y1VXbWgwQzREU2xoakNSVHF5RHV5N2x2LXNYSksxdGtGblFqYldOSHRXYjhsQkQtY1V0VGdGZWRhN0VqTQ?oc=5"
+    }
+   ],
+   "date": "2026-11-24T14:53:47.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 5.4
+  },
+  {
+   "id": "spanish-startup-stark-future-becomes-europe-s-1st-electric-motorcycle-unicorn",
+   "title": "Spanish startup Stark Future becomes Europe's 1st electric motorcycle unicorn",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3RENFRySHRUelkwWG9qdVNsVU54cUNjWU5tZXZrOXFCRTd1ZUxCSG5IaXpMSlJIdFNvdm0zb0c4Qm1xZU1ja1A0LXJvY29xR2g3bG8zdngzaHctT0FaSGp0THBHSjROVDNnTFEyNFBwbGNmLTJOTTVRTFdhcHZrYnBYM2ZKZXNTMFpjRG9yTzdaejJRc0tDcTdPcGJFUXVXNFBoaXdRMW5GOUtoNnA0dEN5N2lIa05UWFozaFp1UHdZdw?oc=5",
+   "summary": "",
+   "sources": [
+    "NewsBytes"
+   ],
+   "articles": [
+    {
+     "source": "NewsBytes",
+     "title": "Spanish startup Stark Future becomes Europe's 1st electric motorcycle unicorn",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3RENFRySHRUelkwWG9qdVNsVU54cUNjWU5tZXZrOXFCRTd1ZUxCSG5IaXpMSlJIdFNvdm0zb0c4Qm1xZU1ja1A0LXJvY29xR2g3bG8zdngzaHctT0FaSGp0THBHSjROVDNnTFEyNFBwbGNmLTJOTTVRTFdhcHZrYnBYM2ZKZXNTMFpjRG9yTzdaejJRc0tDcTdPcGJFUXVXNFBoaXdRMW5GOUtoNnA0dEN5N2lIa05UWFozaFp1UHdZdw?oc=5"
+    }
+   ],
+   "date": "2026-11-24T14:25:00.000Z",
+   "categories": [
+    "Unicorns & scale-ups"
+   ],
+   "score": 5.4
+  },
+  {
+   "id": "google-snaps-up-king-s-cross-office-as-ai-giants-expand-london-footprint",
+   "title": "Google snaps up King’s Cross office as AI giants expand London footprint",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHRNS0UyNG5fblhDYVgtUFVyX0lGcmRxeVpjbGZIRkdlOG5KdjNBZm9JZEZCaC1uVWliMHpQXzh5TVZuVjFJMkhELUMwOS1EeERSOC1UT3V5OTVpVkp0bHc0cm8yRDdfXzBjaEk3ODVXd3F6cDlRTVd3MHhScUJteWFMemJOU3BQdWV2MXBkZlI5X0pNTWF2T1BCSQ?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Google snaps up King’s Cross office as AI giants expand London footprint",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHRNS0UyNG5fblhDYVgtUFVyX0lGcmRxeVpjbGZIRkdlOG5KdjNBZm9JZEZCaC1uVWliMHpQXzh5TVZuVjFJMkhELUMwOS1EeERSOC1UT3V5OTVpVkp0bHc0cm8yRDdfXzBjaEk3ODVXd3F6cDlRTVd3MHhScUJteWFMemJOU3BQdWV2MXBkZlI5X0pNTWF2T1BCSQ?oc=5"
+    }
+   ],
+   "date": "2026-11-24T12:48:40.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 5.3
+  },
+  {
+   "id": "build-back-or-partner-how-fortum-is-investing-in-the-future-of-energy",
+   "title": "Build, back or partner: how Fortum is investing in the future of energy",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3diNnpLb3ozRUp0MTBRSGxaNHJuLV9qMHJ1Ym1waGhINDRqc0pxb3gxRjhSYk5FWUc3QlN5bm1KakN0dS1XYmJEMHZjektFR0lqNExadHM1bUJOMWoxSm1lYmV5a3JISXp1bFpHZWc3TXQtNHNRcDNrNGliYUU3azlaMG84WS1JU0NucWh4aGYwSWo4RjRIWEYtTENPZw?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Build, back or partner: how Fortum is investing in the future of energy",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3diNnpLb3ozRUp0MTBRSGxaNHJuLV9qMHJ1Ym1waGhINDRqc0pxb3gxRjhSYk5FWUc3QlN5bm1KakN0dS1XYmJEMHZjektFR0lqNExadHM1bUJOMWoxSm1lYmV5a3JISXp1bFpHZWc3TXQtNHNRcDNrNGliYUU3azlaMG84WS1JU0NucWh4aGYwSWo4RjRIWEYtTENPZw?oc=5"
+    }
+   ],
+   "date": "2026-11-25T09:30:00.000Z",
+   "categories": [],
+   "score": 5
+  },
+  {
+   "id": "national-express-owner-faces-uk-slump-ahead-of-london-stock-exchange-exit",
+   "title": "National Express owner faces UK slump ahead of London Stock Exchange exit",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmNpbEU2NTlFNG1BZlc1bWtCVVVBek1HdkhpQ2pvY19kcklGM1ZSb0Nxa216MHlEU0Q5aUVSSlVkYndPdS1SLUV0MHRpcXFvNkJmbmF3VVRFNWRGdUNjZktYc3VEWEFNRUQta1oyVy1PWjV0N2N0QTZicXhtMklfSW9sNWhpdWZZUHpndHZBTzZ5QQ?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "National Express owner faces UK slump ahead of London Stock Exchange exit",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmNpbEU2NTlFNG1BZlc1bWtCVVVBek1HdkhpQ2pvY19kcklGM1ZSb0Nxa216MHlEU0Q5aUVSSlVkYndPdS1SLUV0MHRpcXFvNkJmbmF3VVRFNWRGdUNjZktYc3VEWEFNRUQta1oyVy1PWjV0N2N0QTZicXhtMklfSW9sNWhpdWZZUHpndHZBTzZ5QQ?oc=5"
+    }
+   ],
+   "date": "2026-11-25T07:42:40.000Z",
+   "categories": [],
+   "score": 4.8
+  },
+  {
+   "id": "anthropic-backed-startup-aims-to-give-europe-an-ai-edge-against-consulting-giant",
+   "title": "Anthropic-backed startup aims to give Europe an AI edge against consulting giants",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQblB4LTVkSmZJMkpCNXQtcXJiTFk2aGR3aEMxUzF1Snpmbm5NdHp5dHhobXFoczUwN1VsVDJpc0YyRWxZdjRQdjYtNEh1NWY0b1lYajBtYmZqU1ZOTnFnNktkT2lHY3p0RHBjcjlReFhVYmRrMjEtRFJhQml1ZnRZaU45TkxYcDRKemk4cURscjhBX1o3SEJWUzlHb1l2TkpfMjNyMnVOMHRLeHdWaHhnLXl2UE9GUzRfcTI2Zmt2LXJ0NFc3WVpBZWhaaEg0VkdjZnY1UXlB?oc=5",
+   "summary": "",
+   "sources": [
+    "Luxembourg Times"
+   ],
+   "articles": [
+    {
+     "source": "Luxembourg Times",
+     "title": "Anthropic-backed startup aims to give Europe an AI edge against consulting giants",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQblB4LTVkSmZJMkpCNXQtcXJiTFk2aGR3aEMxUzF1Snpmbm5NdHp5dHhobXFoczUwN1VsVDJpc0YyRWxZdjRQdjYtNEh1NWY0b1lYajBtYmZqU1ZOTnFnNktkT2lHY3p0RHBjcjlReFhVYmRrMjEtRFJhQml1ZnRZaU45TkxYcDRKemk4cURscjhBX1o3SEJWUzlHb1l2TkpfMjNyMnVOMHRLeHdWaHhnLXl2UE9GUzRfcTI2Zmt2LXJ0NFc3WVpBZWhaaEg0VkdjZnY1UXlB?oc=5"
+    }
+   ],
+   "date": "2026-11-24T18:33:35.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 4.7
+  },
+  {
+   "id": "25-biotech-startups-to-watch-according-to-vcs",
+   "title": "25 biotech startups to watch, according to VCs",
+   "url": "https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "25 biotech startups to watch, according to VCs",
+     "url": "https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/"
+    }
+   ],
+   "date": "2026-11-25T05:00:47.000Z",
+   "categories": [],
+   "score": 4.6
+  },
+  {
+   "id": "exclusive-starling-veteran-to-take-over-as-ceo",
+   "title": "Exclusive: Starling veteran to take over as CEO",
+   "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Exclusive: Starling veteran to take over as CEO",
+     "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/"
+    }
+   ],
+   "date": "2026-11-24T11:00:37.000Z",
+   "categories": [
+    "People"
+   ],
+   "score": 4.4
+  },
+  {
+   "id": "uk-active-business-numbers-back-above-2019-level-after-three-year-fall",
+   "title": "UK active business numbers back above 2019 level after three-year fall",
+   "url": "https://www.uktech.news/news/uk-active-business-numbers-back-above-2019-level-after-three-year-fall-20261124",
+   "summary": "The number of active businesses in the UK has reached 2,889,575, back above its 2019 level after falling in 2022, 2023 and 2024, according to The UK Business Health Map. The UK Business Health Map is a new interactive resource created by 365 Finance. The SME lender has analysed the Office for National Statistics’ data […]",
+   "sources": [
+    "UKTN"
+   ],
+   "articles": [
+    {
+     "source": "UKTN",
+     "title": "UK active business numbers back above 2019 level after three-year fall",
+     "url": "https://www.uktech.news/news/uk-active-business-numbers-back-above-2019-level-after-three-year-fall-20261124"
+    }
+   ],
+   "brief": {
+    "essentiel": "The number of active businesses in the UK has reached 2,889,575, back above its 2019 level after falling in 2022, 2023 and 2024, according to The UK Business Health Map .",
+    "points": [
+     "The UK Business Health Map is a new interactive resource created by 365 Finance.",
+     "The SME lender has analysed the Office for National Statistics’ data on business demography, business openings and closures covering the past decade, including the latest data released on 19 November 2026.",
+     "In visualising vast data sets, the resource provides insight into the health of the UK’s private sector, including how many businesses are opening and closing in different parts of the country, and how this varies by industry.",
+     "The map will be updated each time ONS publishes new figures, providing entrepreneurs and leaders with up-to-date information to help in decisions about where to start and scale their businesses."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-24T14:43:32.000Z",
+   "categories": [],
+   "score": 4.4
+  },
+  {
+   "id": "cybersecurity-startups-mapped-108-companies-guarding-europe-s-digital-frontline",
+   "title": "Cybersecurity startups mapped: 108 companies guarding Europe's digital frontline",
+   "url": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Cybersecurity startups mapped: 108 companies guarding Europe's digital frontline",
+     "url": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/"
+    }
+   ],
+   "date": "2026-11-24T05:00:22.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai",
+   "title": "UK gov invests in defense startup making virtual training ground for AI",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckZqY1ExZWVNUHNLRTRvdnM1cWZ3bGFqX2NCYjFnTFZ6eHRHTy1NMjFuOEVVX3dheUxULTRDZEt0U1FUd0hTS185M0FEWEZkajZ1bUdULUxwWHFTazFlMVpzVFN2SEFCNWhveVRTdnJfbERMX01QdnRoemdELWxGdjhBcnhjZ0E0SjBoSTBVaWxXWWhfYWQ0bnp0ZFZSdk9jd3pWaENVNldvdHVmQXFuZWwwdWJ6MEh6WjdDN0haZ0JtRHZDLVdJ?oc=5",
+   "summary": "",
+   "sources": [
+    "The Register"
+   ],
+   "articles": [
+    {
+     "source": "The Register",
+     "title": "UK gov invests in defense startup making virtual training ground for AI",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckZqY1ExZWVNUHNLRTRvdnM1cWZ3bGFqX2NCYjFnTFZ6eHRHTy1NMjFuOEVVX3dheUxULTRDZEt0U1FUd0hTS185M0FEWEZkajZ1bUdULUxwWHFTazFlMVpzVFN2SEFCNWhveVRTdnJfbERMX01QdnRoemdELWxGdjhBcnhjZ0E0SjBoSTBVaWxXWWhfYWQ0bnp0ZFZSdk9jd3pWaENVNldvdHVmQXFuZWwwdWJ6MEh6WjdDN0haZ0JtRHZDLVdJ?oc=5"
+    }
+   ],
+   "date": "2026-11-24T09:16:00.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 4
+  },
+  {
+   "id": "europe-s-wealthy-show-stronger-alternatives-interest",
+   "title": "Europe's Wealthy Show Stronger Alternatives Interest",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0ZteDJwWWJVSS1iS3dRME1EdGRDZ1VpT0QzVG1oTENoR1owMDVhVk5pdkJPenpwbFNDeHRrQkVqNVl4OG1TcWxITE80N1Z5NUh3OWp1Mm9oNHNmMXgtWk1fa1ZUYWRlQ2d1LUJWb01Idm93Z3dmbjBkUTZMTVRqcldlamJDczdILVpMcW5VYVlfUjQ3UjN3TFlB?oc=5",
+   "summary": "",
+   "sources": [
+    "Wisevoter"
+   ],
+   "articles": [
+    {
+     "source": "Wisevoter",
+     "title": "Europe's Wealthy Show Stronger Alternatives Interest",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0ZteDJwWWJVSS1iS3dRME1EdGRDZ1VpT0QzVG1oTENoR1owMDVhVk5pdkJPenpwbFNDeHRrQkVqNVl4OG1TcWxITE80N1Z5NUh3OWp1Mm9oNHNmMXgtWk1fa1ZUYWRlQ2d1LUJWb01Idm93Z3dmbjBkUTZMTVRqcldlamJDczdILVpMcW5VYVlfUjQ3UjN3TFlB?oc=5"
+    }
+   ],
+   "date": "2026-11-25T08:42:58.000Z",
+   "categories": [],
+   "score": 3.9
+  },
+  {
+   "id": "ascory-bank-tag",
+   "title": "Ascory Bank Tag",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tcE5XbTI3cFZySEJ6MkVNUHpUdUdyMU9QUkNWT3dFTWVGY2ZiRW9JdGhLbFd3QjNhSHhWeUM3Q2pkWEFoSzNV?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Ascory Bank Tag",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tcE5XbTI3cFZySEJ6MkVNUHpUdUdyMU9QUkNWT3dFTWVGY2ZiRW9JdGhLbFd3QjNhSHhWeUM3Q2pkWEFoSzNV?oc=5"
+    }
+   ],
+   "date": "2026-11-24T16:04:26.000Z",
+   "categories": [],
+   "score": 3.5
+  },
+  {
+   "id": "adyen-s-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-be",
+   "title": "Adyen’s co-founder Pieter van der Does to retire as Co-CEO; Ingo Uytdehaage to become sole CEO",
+   "url": "https://www.eu-startups.com/2026/11/adyens-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-become-sole-ceo/",
+   "summary": "Pieter van der Does, co-founder and Co-CEO of Dutch Fintech Adyen, is stepping down from his executive role after 20 years at the helm of one of Europe’s most prominent technology companies. In an announcement on 23 November 2026, marking Adyen’s 20th anniversary, the company said van der Does will retire on 31 December 2026, […]",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Adyen’s co-founder Pieter van der Does to retire as Co-CEO; Ingo Uytdehaage to become sole CEO",
+     "url": "https://www.eu-startups.com/2026/11/adyens-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-become-sole-ceo/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Pieter van der Does, co-founder and Co-CEO of Dutch Fintech Adyen , is stepping down from his executive role after 20 years at the helm of one of Europe’s most prominent technology companies.",
+    "points": [
+     "In an announcement on 23 November 2026, marking Adyen’s 20th anniversary, the company said van der Does will retire on 31 December 2026, and Ingo Uytdehaage, Co-CEO since 2023, will become sole CEO “ After 20 years, this is the right moment for me to step down on a positive note and with a very good feeling.",
+     "Ingo and I have worked very closely together as Co-CEOs, and now we have completed the transition ,” said van der Does , co-founder and co-CEO of Adyen.",
+     "During Q3 2026, the company reported net revenue of €738.1 million, a 23% year-on-year increase, while processed volume climbed 30% year-on-year to €451.1 billion.",
+     "Adyen has been my life’s work, and I’m incredibly proud of what our teams and customers have built together over the past two decades."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-24T06:27:55.000Z",
+   "categories": [
+    "People"
+   ],
+   "score": 3
+  },
+  {
+   "id": "opinion-separate-the-hype-from-reality-in-china-s-robotics-race",
+   "title": "OPINION: Separate the hype from reality in China’s robotics race",
+   "url": "https://www.eu-startups.com/2026/11/opinion-separate-the-hype-from-reality-in-chinas-robotics-race/",
+   "summary": "Let’s start with the obvious; most of what you’ve seen of Chinese robots is not real. If you’re like me, your Instagram feed is full of humanoids doing backflipS or folding the laundry. The conclusion is either that China has solved robotics and we (Europe) are finished, or that they have adopted everything and we […]",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "OPINION: Separate the hype from reality in China’s robotics race",
+     "url": "https://www.eu-startups.com/2026/11/opinion-separate-the-hype-from-reality-in-chinas-robotics-race/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Let’s start with the obvious; most of what you’ve seen of Chinese robots is not real.",
+    "points": [
+     "If you’re like me, your Instagram feed is full of humanoids doing backflipS or folding the laundry.",
+     "The conclusion is either that China has solved robotics and we (Europe) are finished, or that they have adopted everything and we are just behind.",
+     "In August, six of us from Extantia visited around fifteen companies across Shanghai, Hangzhou and Beijing, then walked the floor of the World Robot Conference with its 300 exhibitors.",
+     "Roughly 75% went to research institutes, universities and schools."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-24T14:50:34.000Z",
+   "categories": [],
+   "score": 2.4
+  },
+  {
+   "id": "why-many-european-biotechs-license-their-science-instead-of-scaling-it",
+   "title": "Why many European biotechs license their science instead of scaling it",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSklQdU9UcFBQb0d3elNHRFNSYjFWWmdoc3hMZkd4U0lmZi0wV2R6NXFvZ1oyWXdydkRQY1Y4Q09OUmFIT19aUWpPTU1VR1NINmhyd2l5SS1HdFh2VVdubUpHd29lMHZ2cWU5NGN2di1hemZONWswYnBTbFVvRmI3d3h3T05wMGF1NUNJTkJQamllMHo2djdLd29HUklLdWZyYUo5WnFRNjBOQWpaV0pnSy1GMERCZTZTZXc?oc=5",
+   "summary": "",
+   "sources": [
+    "MarketScale"
+   ],
+   "articles": [
+    {
+     "source": "MarketScale",
+     "title": "Why many European biotechs license their science instead of scaling it",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSklQdU9UcFBQb0d3elNHRFNSYjFWWmdoc3hMZkd4U0lmZi0wV2R6NXFvZ1oyWXdydkRQY1Y4Q09OUmFIT19aUWpPTU1VR1NINmhyd2l5SS1HdFh2VVdubUpHd29lMHZ2cWU5NGN2di1hemZONWswYnBTbFVvRmI3d3h3T05wMGF1NUNJTkJQamllMHo2djdLd29HUklLdWZyYUo5WnFRNjBOQWpaV0pnSy1GMERCZTZTZXc?oc=5"
+    }
+   ],
+   "date": "2026-11-24T12:11:00.000Z",
+   "categories": [],
+   "score": 2.2
+  },
+  {
+   "id": "unitary-vs-national-patent-belgium-a-2026-route-guide-for-startups",
+   "title": "Unitary vs National Patent Belgium: A 2026 Route Guide for Startups",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnFCajJxNDFNanpUYWV4Y2hIWXBTS0prd2F2MXB3bzRhYk9obmpuTzJnMldZUk1ONnk1RFB0bFNQLWhvaWo5ZHNVYVIzX0NaWkNEYmJzbk1pRFo1RlhnaU5UMklOMTV6OVVCNHU3Z1N2dWY4U3RMRkNmMGRnRXJWZkxVeXJxcGJFWkdRRDVXOVlCdTUyVVpr?oc=5",
+   "summary": "",
+   "sources": [
+    "Global Advisory Experts"
+   ],
+   "articles": [
+    {
+     "source": "Global Advisory Experts",
+     "title": "Unitary vs National Patent Belgium: A 2026 Route Guide for Startups",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnFCajJxNDFNanpUYWV4Y2hIWXBTS0prd2F2MXB3bzRhYk9obmpuTzJnMldZUk1ONnk1RFB0bFNQLWhvaWo5ZHNVYVIzX0NaWkNEYmJzbk1pRFo1RlhnaU5UMklOMTV6OVVCNHU3Z1N2dWY4U3RMRkNmMGRnRXJWZkxVeXJxcGJFWkdRRDVXOVlCdTUyVVpr?oc=5"
+    }
+   ],
+   "date": "2026-11-24T07:13:48.000Z",
+   "categories": [],
+   "score": 2
+  }
+ ]
+}
