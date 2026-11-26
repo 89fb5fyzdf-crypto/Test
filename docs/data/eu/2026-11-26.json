@@ -1,10 +1,10 @@
 {
  "date": "2026-11-26",
- "generatedAt": "2026-11-26T18:14:29.789Z",
+ "generatedAt": "2026-11-26T21:21:34.617Z",
  "windowHours": 36,
  "counts": {
-  "articles": 31,
-  "raw": 53,
+  "articles": 27,
+  "raw": 46,
   "media": 15
  },
  "scope": "eu",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "source": "EU-Startups",
@@ -38,12 +38,12 @@
   {
    "source": "Google News · European unicorn valuation",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 30
+   "items": 31
   },
   {
    "source": "Sifted",
@@ -58,7 +58,7 @@
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 21
+   "items": 22
   },
   {
    "source": "TechCrunch Europe",
@@ -121,7 +121,7 @@
     "Funding",
     "Unicorns & scale-ups"
    ],
-   "score": 22.4
+   "score": 22.1
   },
   {
    "id": "eu-proposes-50bn-equity-fund-to-support-quantum-and-essential-sovereign-tech",
@@ -164,69 +164,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 18.4
-  },
-  {
-   "id": "aqura-systems-raises-2-1m-to-advance-ai-powered-fish-farm-monitoring",
-   "title": "Aqura Systems raises £2.1M to advance AI-powered fish farm monitoring",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmVnTzMxRlZFMjFIMkhpbkJOZmMzRjVwMjlLdDVSZFhhVUNoMEVFdXd2Tnd1a2lPTEROcHJDaHRDNnRFblZPc1dXN293WVhaXzN0bUF5OUYxa2QzVjhKSHhjRDVVMk0xN045czYyS3U5dXM2YnNxY2RpWEJ1NWhrMG54T2FXdFg2UFlTQmZKZkNoTUxhTE5zeHRrY1R2Zw?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu",
-    "EU-Startups"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Aqura Systems raises £2.1M to advance AI-powered fish farm monitoring",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmVnTzMxRlZFMjFIMkhpbkJOZmMzRjVwMjlLdDVSZFhhVUNoMEVFdXd2Tnd1a2lPTEROcHJDaHRDNnRFblZPc1dXN293WVhaXzN0bUF5OUYxa2QzVjhKSHhjRDVVMk0xN045czYyS3U5dXM2YnNxY2RpWEJ1NWhrMG54T2FXdFg2UFlTQmZKZkNoTUxhTE5zeHRrY1R2Zw?oc=5"
-    },
-    {
-     "source": "EU-Startups",
-     "title": "London-based Bound secures €45.68 million debt facility for its AI-powered FX risk management platform",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVJNam9KNDhmSkZBUW9CaExiR193WXZqQVdlUU53X3FfbU1sWVdPX3dlOUtwWE1XZFJQSXFsOFlydHJyQlkxSmVwMDl3d1dRQ0Vad213WEpwbzhRejFkV0tDSFItLWdTakxHQjdPSjRBaHhjYVpTSDZXSkNnT3oxRWN0dmhlQ0xjZEg1MHU2eWpHWHpvMkpmWkVJblY0WkFjZWRjRTlMLXd1OUxYTERWdllQNlRaR2R3NzM2WTZyR0NVZWFNUWk2U1k1YU1VUEdsTUlDMGZ3?oc=5"
-    }
-   ],
-   "date": "2026-11-25T06:17:36.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 16
-  },
-  {
-   "id": "permut-raises-3m-to-turn-conversational-ai-into-a-revenue-driver-for-brands",
-   "title": "Permut raises €3M to turn conversational AI into a revenue driver for brands",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejMtNEx6ZmhQc2Nyb1BpRHJLU0phYWM3M0xGS2VRUFlCLUg1UXhiN2NuMmVCaDg1ZFkwQnh2V0dBcWVqTmhoVHZhcEFyVFlVTFFBTE10c2JRWlU0RFVic0N6LWs3ZUVpZFA2a3dFY3BWWnUxejhPT0xmQ3d0WEtSR2pYNnpBeUVudE9ZeFZCOWNoUmVKT1pBblJxb04tQnFIaUFFSXZ3SDNJQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu",
-    "Retail Technology Innovation Hub",
-    "IT Brief UK"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Permut raises €3M to turn conversational AI into a revenue driver for brands",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejMtNEx6ZmhQc2Nyb1BpRHJLU0phYWM3M0xGS2VRUFlCLUg1UXhiN2NuMmVCaDg1ZFkwQnh2V0dBcWVqTmhoVHZhcEFyVFlVTFFBTE10c2JRWlU0RFVic0N6LWs3ZUVpZFA2a3dFY3BWWnUxejhPT0xmQ3d0WEtSR2pYNnpBeUVudE9ZeFZCOWNoUmVKT1pBblJxb04tQnFIaUFFSXZ3SDNJQQ?oc=5"
-    },
-    {
-     "source": "Retail Technology Innovation Hub",
-     "title": "Barcelona-based Permut raises €3 million seed round to expand into new European markets",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHhKbUU4SWl6c1prZTZMU1VoN0kwTFdzMl9Od3o3T1Y0cmQ0UjJGZFlrQkFLWEp2b21uZThYR2llLVN0dXU3UEZfM1lWVXVmM2sySlltdkZDUGM1QW5WdXowTzRRcjY2MHh3S0RXVjFMLUw5c3ZKWFljMWw3SExtOW9tM0R6cDZOWTNPcEJYMThDYXBXcGJ4UGMxbk9BblF1czdXaWV4VXpyUTNXenJhZ0FhRU12a0tzMkpMZHF1OUIxQmJnWFhkaFNuS1RwVTJXeXdxOA?oc=5"
-    },
-    {
-     "source": "IT Brief UK",
-     "title": "Permut raises EUR €3m seed round to expand in Europe",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQlIycWFibWhMMGplV2hic2Z5bW5HRzBfaXU5SjZfM2ZOU0g3OGotLUhGeW10UVhFWENaWXpEQzBkdHF2R3NkUXkzZDVobFpUS1VLY0p5aVhIOC1SR2dyTG50cmFTdzM0clp3cXE0SkZmTm5zeDVtQVdFNDZMU1lQMGJNNHdHZw?oc=5"
-    }
-   ],
-   "date": "2026-11-25T15:59:24.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 15.2
+   "score": 18.1
   },
   {
    "id": "watersense-raises-5-75m-to-build-europe-s-water-intelligence-infrastructure",
@@ -260,7 +198,63 @@
     "Funding",
     "AI"
    ],
-   "score": 15.2
+   "score": 15
+  },
+  {
+   "id": "permut-raises-3m-to-turn-conversational-ai-into-a-revenue-driver-for-brands",
+   "title": "Permut raises €3M to turn conversational AI into a revenue driver for brands",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejMtNEx6ZmhQc2Nyb1BpRHJLU0phYWM3M0xGS2VRUFlCLUg1UXhiN2NuMmVCaDg1ZFkwQnh2V0dBcWVqTmhoVHZhcEFyVFlVTFFBTE10c2JRWlU0RFVic0N6LWs3ZUVpZFA2a3dFY3BWWnUxejhPT0xmQ3d0WEtSR2pYNnpBeUVudE9ZeFZCOWNoUmVKT1pBblJxb04tQnFIaUFFSXZ3SDNJQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "IT Brief UK",
+    "Retail Technology Innovation Hub"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Permut raises €3M to turn conversational AI into a revenue driver for brands",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejMtNEx6ZmhQc2Nyb1BpRHJLU0phYWM3M0xGS2VRUFlCLUg1UXhiN2NuMmVCaDg1ZFkwQnh2V0dBcWVqTmhoVHZhcEFyVFlVTFFBTE10c2JRWlU0RFVic0N6LWs3ZUVpZFA2a3dFY3BWWnUxejhPT0xmQ3d0WEtSR2pYNnpBeUVudE9ZeFZCOWNoUmVKT1pBblJxb04tQnFIaUFFSXZ3SDNJQQ?oc=5"
+    },
+    {
+     "source": "IT Brief UK",
+     "title": "Permut raises EUR €3m seed round to expand in Europe",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQlIycWFibWhMMGplV2hic2Z5bW5HRzBfaXU5SjZfM2ZOU0g3OGotLUhGeW10UVhFWENaWXpEQzBkdHF2R3NkUXkzZDVobFpUS1VLY0p5aVhIOC1SR2dyTG50cmFTdzM0clp3cXE0SkZmTm5zeDVtQVdFNDZMU1lQMGJNNHdHZw?oc=5"
+    },
+    {
+     "source": "Retail Technology Innovation Hub",
+     "title": "Barcelona-based Permut raises €3 million seed round to expand into new European markets",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHhKbUU4SWl6c1prZTZMU1VoN0kwTFdzMl9Od3o3T1Y0cmQ0UjJGZFlrQkFLWEp2b21uZThYR2llLVN0dXU3UEZfM1lWVXVmM2sySlltdkZDUGM1QW5WdXowTzRRcjY2MHh3S0RXVjFMLUw5c3ZKWFljMWw3SExtOW9tM0R6cDZOWTNPcEJYMThDYXBXcGJ4UGMxbk9BblF1czdXaWV4VXpyUTNXenJhZ0FhRU12a0tzMkpMZHF1OUIxQmJnWFhkaFNuS1RwVTJXeXdxOA?oc=5"
+    }
+   ],
+   "date": "2026-11-25T15:59:24.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 14.9
+  },
+  {
+   "id": "payhawk-backer-eleven-secures-57m-first-close-for-fund-iv",
+   "title": "Payhawk backer Eleven secures €57M first close for Fund IV",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWxqek84bDA5NXVndncxR080U0R3c0hFQjhpY0tpUkFzXzRQbVVmTWtFTi1LX1dMbXQ0TzZkTWR1UlFTeXo0dmh1WUFFb2thd0NNYkt1VEtUMzFTNVNySWxUaTg3YmVSdTdDSlFSX2QzWHloS2R6Y00yaFpSQWhKSUVkcGtFbUozVnFYNndlQ29yUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Payhawk backer Eleven secures €57M first close for Fund IV",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWxqek84bDA5NXVndncxR080U0R3c0hFQjhpY0tpUkFzXzRQbVVmTWtFTi1LX1dMbXQ0TzZkTWR1UlFTeXo0dmh1WUFFb2thd0NNYkt1VEtUMzFTNVNySWxUaTg3YmVSdTdDSlFSX2QzWHloS2R6Y00yaFpSQWhKSUVkcGtFbUozVnFYNndlQ29yUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-25T09:54:11.000Z",
+   "categories": [
+    "Funding",
+    "Policy & ecosystem"
+   ],
+   "score": 13
   },
   {
    "id": "eu-inc-is-in-crisis-but-1m-backed-shuttle-isn-t-waiting-for-europe-to-fix-cross-",
@@ -288,28 +282,6 @@
     "Funding",
     "Policy & ecosystem"
    ],
-   "score": 13.2
-  },
-  {
-   "id": "payhawk-backer-eleven-secures-57m-first-close-for-fund-iv",
-   "title": "Payhawk backer Eleven secures €57M first close for Fund IV",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWxqek84bDA5NXVndncxR080U0R3c0hFQjhpY0tpUkFzXzRQbVVmTWtFTi1LX1dMbXQ0TzZkTWR1UlFTeXo0dmh1WUFFb2thd0NNYkt1VEtUMzFTNVNySWxUaTg3YmVSdTdDSlFSX2QzWHloS2R6Y00yaFpSQWhKSUVkcGtFbUozVnFYNndlQ29yUQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Payhawk backer Eleven secures €57M first close for Fund IV",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWxqek84bDA5NXVndncxR080U0R3c0hFQjhpY0tpUkFzXzRQbVVmTWtFTi1LX1dMbXQ0TzZkTWR1UlFTeXo0dmh1WUFFb2thd0NNYkt1VEtUMzFTNVNySWxUaTg3YmVSdTdDSlFSX2QzWHloS2R6Y00yaFpSQWhKSUVkcGtFbUozVnFYNndlQ29yUQ?oc=5"
-    }
-   ],
-   "date": "2026-11-25T09:54:11.000Z",
-   "categories": [
-    "Funding",
-    "Policy & ecosystem"
-   ],
    "score": 13
   },
   {
@@ -332,7 +304,7 @@
     "Funding",
     "AI"
    ],
-   "score": 10.3
+   "score": 10
   },
   {
    "id": "yc-backed-elbic-raises-2-7-million-to-keep-european-customer-calls-off-us-server",
@@ -358,27 +330,6 @@
    "score": 10
   },
   {
-   "id": "general-catalyst-backs-17-year-old-austrian-s-quant-trading-startup",
-   "title": "General Catalyst backs 17-year-old Austrian's quant trading startup",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdPTU9jcWF6OC1uajdENXNuLWNSdHpoeDlDbzViQmRkZkIwY01wUThud05sNWVyNmZrQ2pjUlJkSU15blJzVWk0cGl2MHZIdXl1RGF1c25BMzc5UFlLc291bEEzQkxNaW53NE5rckF5OVc4ZmpzZTE0TGM0T1YzRnpUcGh1bW1TR1N1SlE1RXdYbmctenh5RlhB?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "General Catalyst backs 17-year-old Austrian's quant trading startup",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdPTU9jcWF6OC1uajdENXNuLWNSdHpoeDlDbzViQmRkZkIwY01wUThud05sNWVyNmZrQ2pjUlJkSU15blJzVWk0cGl2MHZIdXl1RGF1c25BMzc5UFlLc291bEEzQkxNaW53NE5rckF5OVc4ZmpzZTE0TGM0T1YzRnpUcGh1bW1TR1N1SlE1RXdYbmctenh5RlhB?oc=5"
-    }
-   ],
-   "date": "2026-11-26T09:39:48.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 9.3
-  },
-  {
    "id": "polyai-s-ex-machine-learning-chief-raises-20m-for-new-robotics-startup",
    "title": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
    "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
@@ -401,9 +352,9 @@
    "score": 9
   },
   {
-   "id": "ark-capture-solutions-secures-5-4m-to-scale-its-all-electric-carbon-capture-tech",
-   "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5",
+   "id": "general-catalyst-backs-17-year-old-austrian-s-quant-trading-startup",
+   "title": "General Catalyst backs 17-year-old Austrian's quant trading startup",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdPTU9jcWF6OC1uajdENXNuLWNSdHpoeDlDbzViQmRkZkIwY01wUThud05sNWVyNmZrQ2pjUlJkSU15blJzVWk0cGl2MHZIdXl1RGF1c25BMzc5UFlLc291bEEzQkxNaW53NE5rckF5OVc4ZmpzZTE0TGM0T1YzRnpUcGh1bW1TR1N1SlE1RXdYbmctenh5RlhB?oc=5",
    "summary": "",
    "sources": [
     "Tech.eu"
@@ -411,20 +362,20 @@
    "articles": [
     {
      "source": "Tech.eu",
-     "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5"
+     "title": "General Catalyst backs 17-year-old Austrian's quant trading startup",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdPTU9jcWF6OC1uajdENXNuLWNSdHpoeDlDbzViQmRkZkIwY01wUThud05sNWVyNmZrQ2pjUlJkSU15blJzVWk0cGl2MHZIdXl1RGF1c25BMzc5UFlLc291bEEzQkxNaW53NE5rckF5OVc4ZmpzZTE0TGM0T1YzRnpUcGh1bW1TR1N1SlE1RXdYbmctenh5RlhB?oc=5"
     }
    ],
-   "date": "2026-11-26T08:24:47.000Z",
+   "date": "2026-11-26T09:39:48.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 8.2
+   "score": 9
   },
   {
-   "id": "anthropic-backer-jaan-tallinn-backs-sequent",
-   "title": "Anthropic backer Jaan Tallinn backs Sequent",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZenNxa1RHdHlyVWJfUUJzcFlCRHh4dDYxM3BSak9uWUNZS3otb3pGemlFSnZJZFFrd20yWjdraUZKOHpPNkhYc2NDd1RsTVhLWkZvX012TGxDZGYyNHRuTl9vRTdRbXZkZEVoTk5IdzFIQ2p3TF9ETmJTMA?oc=5",
+   "id": "aqura-systems-raises-2-1m-to-advance-ai-powered-fish-farm-monitoring",
+   "title": "Aqura Systems raises £2.1M to advance AI-powered fish farm monitoring",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmVnTzMxRlZFMjFIMkhpbkJOZmMzRjVwMjlLdDVSZFhhVUNoMEVFdXd2Tnd1a2lPTEROcHJDaHRDNnRFblZPc1dXN293WVhaXzN0bUF5OUYxa2QzVjhKSHhjRDVVMk0xN045czYyS3U5dXM2YnNxY2RpWEJ1NWhrMG54T2FXdFg2UFlTQmZKZkNoTUxhTE5zeHRrY1R2Zw?oc=5",
    "summary": "",
    "sources": [
     "Tech.eu"
@@ -432,15 +383,16 @@
    "articles": [
     {
      "source": "Tech.eu",
-     "title": "Anthropic backer Jaan Tallinn backs Sequent",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZenNxa1RHdHlyVWJfUUJzcFlCRHh4dDYxM3BSak9uWUNZS3otb3pGemlFSnZJZFFrd20yWjdraUZKOHpPNkhYc2NDd1RsTVhLWkZvX012TGxDZGYyNHRuTl9vRTdRbXZkZEVoTk5IdzFIQ2p3TF9ETmJTMA?oc=5"
+     "title": "Aqura Systems raises £2.1M to advance AI-powered fish farm monitoring",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmVnTzMxRlZFMjFIMkhpbkJOZmMzRjVwMjlLdDVSZFhhVUNoMEVFdXd2Tnd1a2lPTEROcHJDaHRDNnRFblZPc1dXN293WVhaXzN0bUF5OUYxa2QzVjhKSHhjRDVVMk0xN045czYyS3U5dXM2YnNxY2RpWEJ1NWhrMG54T2FXdFg2UFlTQmZKZkNoTUxhTE5zeHRrY1R2Zw?oc=5"
     }
    ],
-   "date": "2026-11-25T08:00:27.000Z",
+   "date": "2026-11-25T12:14:10.000Z",
    "categories": [
-    "Funding"
+    "Funding",
+    "AI"
    ],
-   "score": 8
+   "score": 9
   },
   {
    "id": "berlin-s-ankerkern-raises-a-six-figure-euro-sum-to-bring-slow-ai-to-midsize-firm",
@@ -465,6 +417,27 @@
    "score": 8
   },
   {
+   "id": "ark-capture-solutions-secures-5-4m-to-scale-its-all-electric-carbon-capture-tech",
+   "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5"
+    }
+   ],
+   "date": "2026-11-26T08:24:47.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7.9
+  },
+  {
    "id": "exclusive-starforge-raises-6-6m-to-build-nuclear-fusion-reactors-at-scale",
    "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
    "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
@@ -483,7 +456,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 7.9
+   "score": 7.6
   },
   {
    "id": "warsaw-water-monitoring-start-up-raises-5-75-million",
@@ -503,27 +476,6 @@
    "date": "2026-11-26T08:58:30.000Z",
    "categories": [
     "Funding"
-   ],
-   "score": 7.2
-  },
-  {
-   "id": "national-express-owner-faces-uk-slump-ahead-of-london-stock-exchange-exit",
-   "title": "National Express owner faces UK slump ahead of London Stock Exchange exit",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmNpbEU2NTlFNG1BZlc1bWtCVVVBek1HdkhpQ2pvY19kcklGM1ZSb0Nxa216MHlEU0Q5aUVSSlVkYndPdS1SLUV0MHRpcXFvNkJmbmF3VVRFNWRGdUNjZktYc3VEWEFNRUQta1oyVy1PWjV0N2N0QTZicXhtMklfSW9sNWhpdWZZUHpndHZBTzZ5QQ?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "National Express owner faces UK slump ahead of London Stock Exchange exit",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmNpbEU2NTlFNG1BZlc1bWtCVVVBek1HdkhpQ2pvY19kcklGM1ZSb0Nxa216MHlEU0Q5aUVSSlVkYndPdS1SLUV0MHRpcXFvNkJmbmF3VVRFNWRGdUNjZktYc3VEWEFNRUQta1oyVy1PWjV0N2N0QTZicXhtMklfSW9sNWhpdWZZUHpndHZBTzZ5QQ?oc=5"
-    }
-   ],
-   "date": "2026-11-25T07:42:40.000Z",
-   "categories": [
-    "M&A & IPOs"
    ],
    "score": 7
   },
@@ -546,7 +498,7 @@
    "categories": [
     "Policy & ecosystem"
    ],
-   "score": 6.9
+   "score": 6.6
   },
   {
    "id": "monzo-cofounder-tom-blomfield-leaves-anthropic-after-less-than-six-months-report",
@@ -574,7 +526,7 @@
    "categories": [
     "People"
    ],
-   "score": 6.9
+   "score": 6.6
   },
   {
    "id": "proxima-fusion-ceo-calls-out-short-termism-amid-ai-boom",
@@ -596,7 +548,7 @@
     "AI",
     "People"
    ],
-   "score": 6.9
+   "score": 6.6
   },
   {
    "id": "what-separates-ai-features-that-pay-off-from-expensive-demos",
@@ -617,26 +569,26 @@
    "categories": [
     "AI"
    ],
-   "score": 6.5
+   "score": 6.2
   },
   {
-   "id": "pronto-ventures-launches-in-turin-to-accelerate-startup-growth-across-europe",
-   "title": "Pronto Ventures launches in Turin to accelerate startup growth across Europe",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm1zZG9WeDlIYml5S21hcXhBOV85RVY0X1lHRklwcFMzSmZ6ZzJzMS1SNklGR0k1Y0o5QVZ1SVk3MkZrNUJHQU9ISmR2SXYwcTZCQVloUm04cUJUdll6azBycmhaSnp3V0xST05fLXo1ZXNzd09OUk1wMS14SGlmSk1RU2Z4UUxnN2VkVS1SUUNUNXBtdkhrWXNSSFZHdnVRRWxJeEI1TQ?oc=5",
+   "id": "ukrainian-british-startup-pai-defence-raises-5-million-to-expand-drone-detection",
+   "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5",
    "summary": "",
    "sources": [
-    "Tech.eu"
+    "Мілітарний"
    ],
    "articles": [
     {
-     "source": "Tech.eu",
-     "title": "Pronto Ventures launches in Turin to accelerate startup growth across Europe",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm1zZG9WeDlIYml5S21hcXhBOV85RVY0X1lHRklwcFMzSmZ6ZzJzMS1SNklGR0k1Y0o5QVZ1SVk3MkZrNUJHQU9ISmR2SXYwcTZCQVloUm04cUJUdll6azBycmhaSnp3V0xST05fLXo1ZXNzd09OUk1wMS14SGlmSk1RU2Z4UUxnN2VkVS1SUUNUNXBtdkhrWXNSSFZHdnVRRWxJeEI1TQ?oc=5"
+     "source": "Мілітарний",
+     "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5"
     }
    ],
-   "date": "2026-11-25T08:44:17.000Z",
+   "date": "2026-11-25T13:21:31.000Z",
    "categories": [
-    "Policy & ecosystem"
+    "Funding"
    ],
    "score": 6
   },
@@ -662,27 +614,6 @@
    "score": 6
   },
   {
-   "id": "ukrainian-british-startup-pai-defence-raises-5-million-to-expand-drone-detection",
-   "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5",
-   "summary": "",
-   "sources": [
-    "Мілітарний"
-   ],
-   "articles": [
-    {
-     "source": "Мілітарний",
-     "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5"
-    }
-   ],
-   "date": "2026-11-25T13:21:31.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 6
-  },
-  {
    "id": "europe-s-4-4-trillion-startup-ecosystem-targets-global-growth-at-expand-north-st",
    "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5",
@@ -701,28 +632,7 @@
    "categories": [
     "Policy & ecosystem"
    ],
-   "score": 5.5
-  },
-  {
-   "id": "how-much-do-you-know-about-your-ai-agents",
-   "title": "How much do you know about your AI agents?",
-   "url": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "How much do you know about your AI agents?",
-     "url": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/"
-    }
-   ],
-   "date": "2026-11-25T09:00:46.000Z",
-   "categories": [
-    "AI"
-   ],
-   "score": 5
+   "score": 5.2
   },
   {
    "id": "top-london-investors-call-for-stamp-duty-axe-to-stem-ftse-exodus",
@@ -762,7 +672,7 @@
    ],
    "date": "2026-11-26T05:00:35.000Z",
    "categories": [],
-   "score": 3.9
+   "score": 3.6
   },
   {
    "id": "top-strategic-communications-companies-for-startups-in-the-uk",
