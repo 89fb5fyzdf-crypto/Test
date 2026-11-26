@@ -1,0 +1,411 @@
+{
+ "updatedAt": "2026-11-26T15:48:12.460Z",
+ "lang": "fr",
+ "days": 9,
+ "rates": {
+  "EUR": 1,
+  "USD": 0.92,
+  "GBP": 1.17,
+  "CHF": 1.05,
+  "SEK": 0.087,
+  "NOK": 0.085,
+  "DKK": 0.134
+ },
+ "rounds": [
+  {
+   "company": "Korben",
+   "title": "KORBEN lève 10,2 millions d’euros pour piloter des robots de service de différentes marques",
+   "url": "https://www.frenchweb.fr/korben-leve-10-2-millions-d-euros-pour-piloter-des-robots-de-service-de-differentes-marques/900000072?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "date": "2026-11-26T09:18:16.000Z",
+   "day": "2026-11-26",
+   "amount": "10,2 millions d’euros",
+   "currency": "EUR",
+   "amountM": 10.2,
+   "amountEur": 10.2,
+   "round": "Seed",
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "KORBEN lève 10,2 millions d’euros pour piloter des robots de service de différentes marques",
+     "url": "https://www.frenchweb.fr/korben-leve-10-2-millions-d-euros-pour-piloter-des-robots-de-service-de-differentes-marques/900000072?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    },
+    {
+     "source": "Maddyness",
+     "title": "Korben lève 10 millions d’euros pour devenir le «cerveau» européen de la robotique",
+     "url": "https://www.maddyness.com/2026/11/26/korben-leve-10-millions-deuros-pour-devenir-le-cerveau-europeen-de-la-robotique/"
+    },
+    {
+     "source": "J'aime les startups",
+     "title": "Korben lève 10,2 millions d’euros en seed pour développer sa plateforme logicielle de robots de service",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94amh5NkRndjVWN0xFMXVhZGF4VC1ITHlWNDBxb2hkM0Z3LVV5UmtQVmVUaE9MdWI5M0ZXS09lUS1Sd3BwR25YaHZfcXVTOGJvcC1HeXk5U0pGTVVmLVRqOGlkLXFjRVdGUVo0?oc=5"
+    },
+    {
+     "source": "Ouillade",
+     "title": "Perpignan, Montpellier, Pékin, Tokyo/ Start-Up : Lucas Goumarre lève 10,2M€ pour une robotique de service souveraine",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGRxRmV1d1Boc29xWFdUcUVoSERCNnNMUWxrOVNSa09ZeHZXbHZocHcydkhMck8zN0tlYXE1WVJVM1EwLWk5c21aTXRnV2NocXFCOHF6dVVZbmFGSnpxdERhTE54dE1UMFdJMmd4M0JhbXo5UFR6R0VfakpEMEU5ZmViN1g2NjBVZFh1Z3ZBaVh0cGl2Q2xveG1hZS1Hd2ZDVy1VWmhCT2Q1VDlYVmFseW4zZEdtQkg3TnF1YnFSQWFIbGtDNmlLZHdHdGJ2TzRMdjFfUzlfX1VHeWM?oc=5"
+    }
+   ],
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/d5576f5d3b6f079aeea6b5803c6eb981842d133b573f06b02f0294dfdd92ad60.png"
+  },
+  {
+   "company": "VirtualBrain",
+   "title": "VirtualBrain lève 4 millions d’euros pour sa plateforme d’IA dédiée aux cabinets de conseil",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUxtNTUwQi1NcHF1U3V0MVNmbm1SczZVSm9vZHdueDJKaGROVGtkZ3k0bjVETWpEaEZ5MVZGMTEyWmdYdllJWWstTzlyWE4zeVZ4cUNhSEFoeFBVNUpUYUNiRW05OEk3ejZqaFR0RS02WGpoNHFDWjNESFJjUGRTNXRBX2hadGNPc1E?oc=5",
+   "date": "2026-11-24T10:45:38.000Z",
+   "day": "2026-11-24",
+   "amount": "4 millions d’euros",
+   "currency": "EUR",
+   "amountM": 4,
+   "amountEur": 4,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "articles": [
+    {
+     "source": "J'aime les startups",
+     "title": "VirtualBrain lève 4 millions d’euros pour sa plateforme d’IA dédiée aux cabinets de conseil",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUxtNTUwQi1NcHF1U3V0MVNmbm1SczZVSm9vZHdueDJKaGROVGtkZ3k0bjVETWpEaEZ5MVZGMTEyWmdYdllJWWstTzlyWE4zeVZ4cUNhSEFoeFBVNUpUYUNiRW05OEk3ejZqaFR0RS02WGpoNHFDWjNESFJjUGRTNXRBX2hadGNPc1E?oc=5"
+    }
+   ]
+  },
+  {
+   "company": null,
+   "title": "Main Sequence mène une levée de fonds de 9,5 M$ AU pour la jeune pousse australienne d’IA P3 State",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlFHbEZXeWpuZFc3TW1IVmJLdDR0LThpRGMtTHNNWXZnOHZKTlVxZEdUSDJFcDZyTU90cnAwX0JFUHpjQTB1MkVfUE1GaDhXOFVtUHVjWWhCUnp3MVU1U2hUV2c5ZHJNZGtSdnRKb3JnTnVBSHJtSGdycnc0dmRjQTUzRUg1SlVoSFBuMF83OHNpU25pZDdv?oc=5",
+   "date": "2026-11-23T18:46:03.000Z",
+   "day": "2026-11-23",
+   "amount": "9,5 M$",
+   "currency": "USD",
+   "amountM": 9.5,
+   "amountEur": 8.74,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "articles": [
+    {
+     "source": "Unite.AI",
+     "title": "Main Sequence mène une levée de fonds de 9,5 M$ AU pour la jeune pousse australienne d’IA P3 State",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlFHbEZXeWpuZFc3TW1IVmJLdDR0LThpRGMtTHNNWXZnOHZKTlVxZEdUSDJFcDZyTU90cnAwX0JFUHpjQTB1MkVfUE1GaDhXOFVtUHVjWWhCUnp3MVU1U2hUV2c5ZHJNZGtSdnRKb3JnTnVBSHJtSGdycnc0dmRjQTUzRUg1SlVoSFBuMF83OHNpU25pZDdv?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Embo",
+   "title": "La start-up d’IA pour la robotique Embo lève 110 millions de dollars lors d’un tour d’amorçage mené par A16z",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1dhZVZTX2ZySmUtX3ZXWmFQUGxZNlZCdVRXcHVSVnpZYWFvcGIyWHVCX05XNjcxajZhVFg4NzhubVBGb3hhR1ZQRDRkeFBidGNSenhtaDJPLUhPSGptOTFzeDRFWnEyLUpZVHJuVWNoUkFBNzdGN1ZkOHdDNkdHb1JGc2V5OHR4NDFEVTFLRm4?oc=5",
+   "date": "2026-11-23T11:04:58.000Z",
+   "day": "2026-11-23",
+   "amount": "110 millions de dollars",
+   "currency": "USD",
+   "amountM": 110,
+   "amountEur": 101.2,
+   "round": "Seed",
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "articles": [
+    {
+     "source": "Unite.AI",
+     "title": "La start-up d’IA pour la robotique Embo lève 110 millions de dollars lors d’un tour d’amorçage mené par A16z",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1dhZVZTX2ZySmUtX3ZXWmFQUGxZNlZCdVRXcHVSVnpZYWFvcGIyWHVCX05XNjcxajZhVFg4NzhubVBGb3hhR1ZQRDRkeFBidGNSenhtaDJPLUhPSGptOTFzeDRFWnEyLUpZVHJuVWNoUkFBNzdGN1ZkOHdDNkdHb1JGc2V5OHR4NDFEVTFLRm4?oc=5"
+    },
+    {
+     "source": "Brief IA",
+     "title": "Hoplite lève 5,5 millions de dollars pour ses agents IA",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWHRfdjJNZW9TaENqdUI1YmhETEpYVi0wQkpabjVsU2xFRGJVcGZrU3JTdk1WVjJHSk9wZU1ZbW81Qm9KSlNDTGRFdVBsc2U2MUFiZUZTS0lmeFFBeTB0VGtkX2hmcExoQXdFZ05xaHNja1lYUFduRzBFZ1BtQVczYVZuTlN0NUNMWUM0QUJsOA?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Mistral",
+   "title": "Deutsche Telekom investit environ 110 millions de dollars dans la startup française d'intelligence artificielle Mistral AI.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oLVlpTXVnQi1PTXI4OTdkeC1XbzFSd3E5Z0x0NVoyZkFIOUpoMFdBN3c4bjlJb2hiY2stUTc2SDNWa3lRaTFZZWFnamstVXFtNmZueW9mTXdxQzMzbHEyZFBYUmN2Njg5czFuS1Z0aTdIZDR5WEJFVjFKM25lTFE?oc=5",
+   "date": "2026-11-19T07:19:31.000Z",
+   "day": "2026-11-19",
+   "amount": "110 millions de dollars",
+   "currency": "USD",
+   "amountM": 110,
+   "amountEur": 101.2,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "articles": [
+    {
+     "source": "Quartz en Français",
+     "title": "Deutsche Telekom investit environ 110 millions de dollars dans la startup française d'intelligence artificielle Mistral AI.",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oLVlpTXVnQi1PTXI4OTdkeC1XbzFSd3E5Z0x0NVoyZkFIOUpoMFdBN3c4bjlJb2hiY2stUTc2SDNWa3lRaTFZZWFnamstVXFtNmZueW9mTXdxQzMzbHEyZFBYUmN2Njg5czFuS1Z0aTdIZDR5WEJFVjFKM25lTFE?oc=5"
+    },
+    {
+     "source": "Boursorama",
+     "title": "Deutsche Telekom investit 100 millions d'euros dans la société française Mistral AI",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbTRZRDVpTXRLakJpelJndHJtNFk2am9za01nckFiM2ljcjFWY2J0RFVNVHpSWFduSmlWRm9QM0hWd3J6dlZ1djFac0RkVm11VmhKc1IySzRfOEEtSXQxVWJwZVdYNjduUUNfMkpsaDZ1QnppckZiZ2dzV2RBdEhHRmNra2cxaXpGS1lVeHcyb2c0S08xYnpoT25BbDVzdE1CWWZGOHNkeG1EZWdkTDhrR0FubTUwU0E4SnRSbU9FTEZXdkczUTJpY1hqUUZ1clJOb05zX2U4YzY3dVBYV01zY0ZJMklMQnQ3ZVM2UFhfZHktYlBtaEw2TdIB-AFBVV95cUxNbTRZRDVpTXRLakJpelJndHJtNFk2am9za01nckFiM2ljcjFWY2J0RFVNVHpSWFduSmlWRm9QM0hWd3J6dlZ1djFac0RkVm11VmhKc1IySzRfOEEtSXQxVWJwZVdYNjduUUNfMkpsaDZ1QnppckZiZ2dzV2RBdEhHRmNra2cxaXpGS1lVeHcyb2c0S08xYnpoT25BbDVzdE1CWWZGOHNkeG1EZWdkTDhrR0FubTUwU0E4SnRSbU9FTEZXdkczUTJpY1hqUUZ1clJOb05zX2U4YzY3dVBYV01zY0ZJMklMQnQ3ZVM2UFhfZHktYlBtaEw2TQ?oc=5"
+    },
+    {
+     "source": "ChannelNews",
+     "title": "Deutsche Telekom investit 100 M€ dans Mistral",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdVVFTkxySmhaYnNuaGEza2NkLVBMaFRTMDZQN3dEZ1VyZGFQNXlya0V4MzVVYkFTNU9rYkFUclFyMk5ZTkVvZndIeUd3ZmYzOFdJSDRjTFNua2JnbEVOS29VelNQTVl4SEVielRab2VOajd0c2htMUZNeVpWR0JxY2dONFM2QQ?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "Deutsche Telekom investit 100 millions d'euros dans la société française Mistral AI",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiU2lWVnNhakVZcmhoZzZ1QUNNQkR2VnNzeExtQWY4Q09VT1o3eXpuZ3I3M0Vuak12RHNjRWYwVG5vYXhLLVFkZ3ZNbmZISFR1MWctaHhXRWhoVmFoTTdfYlNjVkllT05reGNNLUdkS2loeENINHVj?oc=5"
+    },
+    {
+     "source": "Business AM",
+     "title": "Deutsche Telekom investit 100 millions d'euros dans la start-up française spécialisée dans l'IA, Mistral",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0RCT0NHMF9EQThZdmtVNDZ5YUpGREJBNXI1Tm1OaWNBbC1iNEg4djhIMlh5dGZZUm9OSUI4Vy1pTlZ1bms1T3RuaTREeEo3RTZUZEhNNlN2RlJiOW5ST0hhaVJVQjg1SUpjLVJ1dE9vc3BMVm9oZGpTNGJESHlZSDBxOUFwdTRvS0xuNjlZT1pSQ0pvbFc1ZEc2Q1Y5YU9pLVhsc0VWc2RUbGxFenNTNGFDV0ZmV3hGX2ZBY0hOTXc0ZmRlS2c?oc=5"
+    },
+    {
+     "source": "Zonebourse Suisse",
+     "title": "Deutsche Telekom investit 100 millions d’euros dans la start-up française Mistral AI",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSGhBeGJicWhGWDA4SVBkalh2UDgzcjNzXzZ4T0prR2wxZ2MydE5YZDBOcFRRRFFzY1lwM1dBN3F2MEY2SWJvWFROcEEwbGUyNktYd2dzTHNQT3VDc19ITXRFTFZGcV9jbXhaWE5MSFZ0NVRnZzI2QnM4RjRzUGV0eGFhR3RYY2laZTg4ZHQyQlFlSXpSOExQRWoxREJ0VV9pdExUem1CWFYwZVhXZzVfemhCdGFuVkRqQnVMWFk1aE5ndWhTUEY4aEFPTkV3SzhZZlV1N1kyUkd3Nk4zLXc?oc=5"
+    },
+    {
+     "source": "BFM",
+     "title": "Deutsche Telekom investit 100 millions d'euros dans Mistral, champion européen de l'IA, première étape d'un \"futur partenariat stratégique\" souverain",
+     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMzFZb05PZFUyTnNPNDFfcWgtRHF6YnZENlpWXzJPTk5Ka21hSV9fTHloUU9Vd0hodDh0clZKZkxjSnIwOFRWb0NfZlVBRG5tU0t6UkdsdW9mZ3FQQlRUS2dtSjItYkhocUxkMERNXzRUZEN4YVBobC0yNzlGWnZrVkJjZEY0d1N1V2FiVVlJdFNpSnpkYkRuMHFuTW5nSlR4TXdmZ3MzTlc4ck84NE9IVzBUSmpub2NscTJHQ1VmTG5UeXpYVmVSWDRFR2RBLTBwbncwd2FOSUw1ZUlUYU90M0dqRWQweXZvWlhTOEhxdWFQTFQxc1pxaFhQYXpVam1tb2kxcHNqWV9WbkpQbG5ONVVBYW9Pc21Demp6OWl2NU85c1Z1YW5DeDVERmlKaTlGT3FDLWdXS1hDWnNQMnhqUg?oc=5"
+    },
+    {
+     "source": "Rhône FM",
+     "title": "Deutsche Telekom investit 100 millions d'euros dans Mistral",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEJJbF9PSXZ0WGZFdEl3ZWJHV3BQNW9jamJxaUJ5d1RlUGt6SkE5aXoyT05CRGtPd1dwZ1U2MEJGMkV6UnBmQlczbEVvWTBES2hfUDNSdndYWXo5SkdFU2pUZXNLWmY0RmI5UVdDbFkwUDN0bzlpQnAxQ2p4RW43QW96NmF3WWJVUmlsZjlpTG5scjFVa1JZcGFaVDM?oc=5"
+    },
+    {
+     "source": "FrenchWeb",
+     "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
+     "url": "https://www.frenchweb.fr/breaking-news/deutsche-telekom-investit-100-millions-d-euros-dans-mistral-et-vise-l-industrie-allemande/71be0e22-73c5-4208-b9ec-90033141d1cb?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news"
+    },
+    {
+     "source": "Frenchweb.fr",
+     "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUHV5Z3VobUl5bU11T3NkdGR0dlBkbUFmMVNSVE5KS0dvRExoMGVrRVlUZ3JNeXAwa29vN0E5N2hqcEJjZWJSZlJYVUdzX0ZfMDBtOUtiMlIteV80UklIck9IcWRTR2VnYnJKY01MYVNSN01XOXlpSlRhT0h4UjJ3YzFZY0FscU0wak5oYnJTLWRKVDE4Vm1WVVc4bUktSzhXb0ZNc2IxSlMtZnpGeTlTLUlXNTBmXzQ1bS13ZFhjcWJtSWpUYUdNa1hucmNhZGRRcDcyUktGYldFZ3ZaUFk5eVV5bkxEQ0JrVDFDbnpmSGlHWGd4RXNKdw?oc=5"
+    },
+    {
+     "source": "Brief IA",
+     "title": "Mistral reçoit 100 millions d’euros de Deutsche Telekom",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gb2hUYzlyelBCeXNhRU9pYzk1SlRjT0d0V1RzY0dmZjQ3LVN2alVMUHpPYjhta01qSk9YeFhsdHduTXI5aW5ncm10M2MzekM4b2dnQ1M1NFFSSVpMYm5JYmR5c0poWkZSTHVnR3RfcUw?oc=5"
+    },
+    {
+     "source": "Traders Union",
+     "title": "Laurent Segnis : Deutsche Telekom investit 100 millions d’euros dans Mistral et amorce un partenariat stratégique européen",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmVLcjFvQmg2UExVRmRQNFRSbkJoQ3NpS29NRHU5M2d1WFNvVGZrbUlQalh0MW5hUUVpYkpfM2tHN2NhZkU1RXgyUlp4LWEzaS1jN1dJYzRQem9qRHc4Mk9JdFh2TFc0VUxMWFIyWVhGbHZ3UmsyNFV4MTZzNkc5ZEJOM3VUTUFJVGVIaER5bFdkc3VHN3dUbnRQZ0R3Z3M3UGc?oc=5"
+    },
+    {
+     "source": "Foro3D",
+     "title": "Deutsche Telekom investit 100 millions dans Mistral AI pour une IA souveraine",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1hpWS0zdDF3OFAwU0hoN0NXZ1k3cGZ6Q2NiZk9keXkyb2w1Y1pYSUF4ZWJhRjRQejNYNVAtbFRCZURHQk1xMnNzVW05aU1oOUZvZ1NjYURhakdmYnB2MGloWGkyMjFrbW9GeUs2aXRPc05FUjNxaXpsTUpzRGprTWFOR1JCaERRWEFSLXVQSG10NE1wajYtYzdYLUozSm5JR2FDNG43WVZNb0xlNmVaWQ?oc=5"
+    },
+    {
+     "source": "lefilia.fr",
+     "title": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFZIOXNrMGk1LXlJRi1QMUlGcURLNVRmdUFCaWUxZXlYYVdJdkxaSzdYc3UybVMtOGo0WE1vYjFZS2d1MHJOZDlld3pybkNJRkFzYXR0MFl1RUdmZ1NtSmxya0IyMzA5RWRhSnBQdl8xT3pJanhFSHFybEc4WTY4ZnkxNzlHb19kMDJ0YVhSR0FVNTNzQ2J3X1NRNDNhMnI0UkxUcDVJTFNyWTY3cVhtb19JdDhpbzFEek9KdzI3QzlLVGRDR0hz?oc=5"
+    },
+    {
+     "source": "quasa.io",
+     "title": "Mistral reçoit 100 M€ de Deutsche Telekom, sans offre commune pour l’instant",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnVJaUN6TTdFQkItOEhadmJySGZiOXhRYUx4QVJ0TF9OWlFvMTdoVC1jTHZPV2JKQjh2eERuRmtYVnNTa1JUOEVKbnc0eHhsT3Q5bTVNNk1pc0pmVlpGMFd2bjJoeTZtcXhTSFFtamtTQlkzUG11ZDJsTWlZa1pPQUJwRk1ndmtaelNnTlJLQ0JyNGVsanQ2UDhrNlZMSTB0RWc?oc=5"
+    }
+   ],
+   "image": "https://www.frenchweb.fr/breaking-news/images/r23/ai.jpg"
+  },
+  {
+   "company": "Stryx AI",
+   "title": "Défense : le fondateur de Brevo lève 7,7 millions d'euros avec la holding de Jacques Veyrat pour sa startup anti-drones",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WSUhhQkZwTUNkNEtLYzhSakRKQUgtSWVzcEZ5U1I3TW5EVXVWQjVvblh0enpWVEVHMm0yZFAzTTE4TklZZTdwdjBVQ3o?oc=5",
+   "date": "2026-11-19T05:00:24.000Z",
+   "day": "2026-11-19",
+   "amount": "7,7 millions d'euros",
+   "currency": "EUR",
+   "amountM": 7.7,
+   "amountEur": 7.7,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Défense : le fondateur de Brevo lève 7,7 millions d'euros avec la holding de Jacques Veyrat pour sa startup anti-drones",
+     "url": "https://www.maddyness.com/2026/11/19/stryx-ai/"
+    },
+    {
+     "source": "Maddyness",
+     "title": "Défense : le fondateur de Brevo lève 7,7 millions d'euros avec la holding de Jacques Veyrat pour sa startup anti-drones",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WSUhhQkZwTUNkNEtLYzhSakRKQUgtSWVzcEZ5U1I3TW5EVXVWQjVvblh0enpWVEVHMm0yZFAzTTE4TklZZTdwdjBVQ3o?oc=5"
+    },
+    {
+     "source": "Mediavenir",
+     "title": "Le fondateur de Brevo se lance dans la défense : sa startup anti-drones Stryx AI lève 7,7 millions d’euros",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDNBOFkxcWJrbkh0YjhCeGJ1cW95amFRRUlTV0FvcGtfeWk3X2wwTEY3U1RGZk9DUlk3eHVHa3JHLWZqU1JFZ2EtU3Vza25Zb1NUR3h4Vlg4NVplcFA5UnNxZXZKSDYtOV9mSTJ4YkNRZTRYcFAybkU2UHRyNmwybTBQa2I1V2JxSnBhYUlvNUJab1F5YXluczFjMFowcmszbG1ZRVd1RVNBMHZKa3dYLVROMjI2Z1N3d0d2YU9Xb0w2MGlGR3Uycg?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Genesis AI",
+   "title": "GENESIS AI lève 425 millions d’euros pour déployer ses robots en usine",
+   "url": "https://www.frenchweb.fr/genesis-ai-leve-425-millions-d-euros-pour-deployer-ses-robots-en-usine/900000051?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "date": "2026-11-17T13:59:01.000Z",
+   "day": "2026-11-18",
+   "amount": "425 millions d’euros",
+   "currency": "EUR",
+   "amountM": 425,
+   "amountEur": 425,
+   "round": "Series A",
+   "valuation": "3,5 milliards",
+   "investors": "Nvidia, Samsung et Zoom",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "GENESIS AI lève 425 millions d’euros pour déployer ses robots en usine",
+     "url": "https://www.frenchweb.fr/genesis-ai-leve-425-millions-d-euros-pour-deployer-ses-robots-en-usine/900000051?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    },
+    {
+     "source": "Maddyness",
+     "title": "Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom",
+     "url": "https://www.maddyness.com/2026/11/17/robotique-genesis-ai-boucle-une-serie-a-dun-demi-milliard-de-dollars-aupres-de-nvidia-samsung-et-zoom/"
+    },
+    {
+     "source": "lefilia.fr",
+     "title": "Robotique : Genesis AI boucle une série A d’un demi-milliard de dollars auprès de Nvidia, Samsung et Zoom",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0RxQ01pMkp6dEQxMzBCeFJneE82MkdQLThWQ1VZYTVhSGhmekhaeEc1U2RXYTFGMGNlWWxSSWFfU0xtal9pX2JYM3UyQjJTOThtVUE0SmtXNGJLVlU0eFh4Q3Y1N3FEZjY2Qlg0Tl9xZk5qb1lVZlF3QU1EVHR6V1BLYlplY1pEcUZrbzFBQ1ZfajVITm1uRlZzaXZSLXNpdEJySWwtZ3RwMnZxU0ZUQkNhUE5OSnhqc3JmZjh3R1hEWndMdmhsdktOSDNXUEZHeTRKQ2NiQ2I?oc=5"
+    },
+    {
+     "source": "WanSquare",
+     "title": "Genesis AI lève 500 millions de dollars en série A pour ses robots de pointe",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHAzbVVNWFpZUU1RTHp3STlrcmpSZFFfVjZla05PZ0hpam5nOE9XejNMOGhKYkxaTGp0QkROVlMxZlAwSkJ2d2dndDkzN2VPRFZtWmFNQzVnNk1wVWZTS0hJQnA0bnQtMUVuSU9kQVp6SjR1ejRCWE1yTGFmNjZHTE1oVXJLbTNDOVpKVWJZbUtvdkdWVF9aQnBWb25lb3BuenlIMlpjVi1PaUlvVkVCdXZNR0w5dw?oc=5"
+    },
+    {
+     "source": "Les Echos",
+     "title": "Genesis AI boucle une levée de plus de 450 M€",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFJ3c3RJV2Z3Y0JsdWVfT3pLeU9tQWZlSFc2V3ZQR2hmYzZlZFVYYmo3bGlzYkFCQ0RILXhQSHFHeS1NQzA1S1FKMGJaMTBQZUZNVnoybmE2LWY4alU5TW1YQS1peVNEd2FjOEtYYk9nWUh2VFBlRGNJTHJ1MlBCY0pxNGxXZ1dZRmhoUUF6WjdQRkc0endOU2hyaGZIMzlXaEppRi1UOWpQWHNLYTM5VA?oc=5"
+    },
+    {
+     "source": "Boursorama",
+     "title": "Le fabricant français de robots Genesis lève 500 millions de dollars, avec une valorisation de 3,5 milliards d",
+     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPbFZpbkVmb0NnVmRnaDZSQzNKMkxfdGZ5bjZOZUFzMUVkdDd4eU5abjNlRHVMemQwaWstMWx2LS1JenRWSmZZdjNMZ0Fmdm1Qd0NTYlloQkU3NU83dGVid25tcUgxUndab3VhMENRZTRic3I0bHJLMTJkNHdXVm5CcmRXUnZuVXJETXlfVndFMTZUVXlaLTV0cEZvMjJoeTl3NFpLWVVMcGk3ZWpXWktpUU9GWkl0TXpfMHp5WW1iNHdxYTFGd0lUSlFvZ3ZlWEI0c20tNVNmQmNnYWtJamRSR0xMV2xCaHZGdElPM1VuMUxQV20tblpPQnpxVF9BLWltWVI2M2dIbWJEbk1hZGVHNnM3ZTVhMkxIQ1ZZYkFaSDRDV01vMW440gGnAkFVX3lxTE9sVmluRWZvQ2dWZGdoNlJDM0oyTF90ZnluNk5lQXMxRWR0N3h5TlpuM2VEdUx6ZDBpay0xbHYtLUl6dFZKZll2M0xnQWZ2bVB3Q1NiWWhCRTc1Tzd0ZWJ3bm1xSDFSd1pvdWEwQ1FlNGJzcjRscksxMmQ0d1dWbkJyZFdSdm5VckRNeV9Wd0UxNlRVeVotNXRwRm8yMmh5OXc0WktZVUxwaTdlaldaS2lRT0ZaSXRNel8wenlZbWI0d3FhMUZ3SVRKUW9ndmVYQjRzbS01U2ZCY2dha0lqZFJHTExXbEJodkZ0SU8zVW4xTFBXbS1uWk9CenFUX0EtaW1ZUjYzZ0htYkRuTWFkZUc2czdlNWEyTEhDVlliQVpINENXTW8xbjg?oc=5"
+    },
+    {
+     "source": "Zonebourse",
+     "title": "Genesis AI lève plus de 450 millions d'euros",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZl9xV3EzY1N3ZExNakZ5UlNNTkRCQ3ZpdWRUcXlYblBCc3FzcmhROFBFajlWNVBDdldhTjl6X25NRkhiOVRGWFZjc2lMUjlVbFNEaFRwZHhGdHNrZHFuLUxuakw5MDg2UllPRzIxaXBITEtnTDB6ZGhPTmVSV29tUXVhZm5EVF9PUkxfZEUwRW01LVFsYVRNZ3l0aVdUVGJ5OXl1dlFoUzI?oc=5"
+    },
+    {
+     "source": "Génération NT",
+     "title": "Genesis AI lève 500 millions de dollars pour ses robots à gants connectés",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWluOWQtcDNIWG5LQ0gtcTE3ODk1XzZjN1BQUjJLVjZhZGhTNXRQY2ljZWdkU3lHeE94dWNlcVhELUdhajhHVVNPZ0M3T0xWT3Awd3hNenJKY0FDOVZ5YUZFZVFKNUlBQXEwYUlGTXM0RTJ0aTdSYkZBNzBjQUFhTFlwWXZWTzVWVVHSAY8BQVVfeXFMTk1IMHUyQWtzems3ZTZGN21lVzFSTU1GWHhwelhSUDJ6R2VvZldsc243WXIyck4weHhBcnpJUmdfYWpodE00Z2xCaHNyYVljTVVqYTdNcEtHM1I5N0p5cVhVNEo4WWFLWmt3NG1YWi1pNEE5TUZjdlZYOXJReV9LMk1VUE1iemRQQmJJZmRtYjg?oc=5"
+    }
+   ],
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/6e55224a07ca6dd92077eef0947f81cb33f8df212f41f799d4cad68c5695bf8f.webp"
+  },
+  {
+   "company": "Speeral",
+   "title": "Speeral lève 2,5 millions d’euros pour automatiser la revente des stocks dormants",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcG1HTTQ2SGVCWTM0c2Z2VkM0WEV6a2RlbXdsY2NnaXJfRGxPTGJWN1A4dkRkSlMyU1UwRXlFYUI0cVFMeGVNYnRaREVXeWtXMGtFZkVWb1ctQnU2X3k2cDBqZTBlNjdJcUlSMzVtTlMySW5KSzFXNmpvdWtqY0REMy1lZFUwQjFOZkNCNA?oc=5",
+   "date": "2026-11-17T10:15:06.000Z",
+   "day": "2026-11-18",
+   "amount": "2,5 millions d’euros",
+   "currency": "EUR",
+   "amountM": 2.5,
+   "amountEur": 2.5,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "articles": [
+    {
+     "source": "J'aime les startups",
+     "title": "Speeral lève 2,5 millions d’euros pour automatiser la revente des stocks dormants",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcG1HTTQ2SGVCWTM0c2Z2VkM0WEV6a2RlbXdsY2NnaXJfRGxPTGJWN1A4dkRkSlMyU1UwRXlFYUI0cVFMeGVNYnRaREVXeWtXMGtFZkVWb1ctQnU2X3k2cDBqZTBlNjdJcUlSMzVtTlMySW5KSzFXNmpvdWtqY0REMy1lZFUwQjFOZkNCNA?oc=5"
+    }
+   ]
+  },
+  {
+   "company": null,
+   "title": "Trois anciens de H COMPANY lèvent 25,5 millions d’euros pour REMANENCE",
+   "url": "https://www.frenchweb.fr/trois-anciens-de-h-company-levent-25-5-millions-d-euros-pour-remanence/900000050?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "date": "2026-11-17T09:59:04.000Z",
+   "day": "2026-11-18",
+   "amount": "25,5 millions d’euros",
+   "currency": "EUR",
+   "amountM": 25.5,
+   "amountEur": 25.5,
+   "round": "Seed",
+   "valuation": null,
+   "investors": "EQT VENTURES et FIRSTMARK",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Trois anciens de H COMPANY lèvent 25,5 millions d’euros pour REMANENCE",
+     "url": "https://www.frenchweb.fr/trois-anciens-de-h-company-levent-25-5-millions-d-euros-pour-remanence/900000050?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    },
+    {
+     "source": "Maddyness",
+     "title": "IA : des anciens de H Company lancent leur startup avec une levée de fonds de 30 millions de dollars",
+     "url": "https://www.maddyness.com/2026/11/17/ia-des-anciens-de-h-company-lancent-leur-startup-avec-une-levee-de-fonds-de-30-millions-de-dollars/"
+    },
+    {
+     "source": "ActuIA",
+     "title": "Remanence lève 30 millions de dollars pour entraîner des modèles sur les traces d'agents",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSkNna3ppOUc0Z3h2NzNxeDhNUlRDS3Nhb05oMEk2di1mWU1BRGdiZHNLc1JFQVdmT1lYTjE1MlFYQWZac0FkZDVCSzdHVWgxbkZscnMzZV9UN240Q0NoazFvUV9GdkE5cHRtb3YxVlRiTC14X0dCTHhOWkRCUlhxU0wtcmZuX2ktWVRkRktFV2d1UjJzcGRsVlM2UU5yQ05PRFI0bjB1U00tcDEzejRRWlBBOFFHLS0teWFLTl9B?oc=5"
+    },
+    {
+     "source": "Brief IA",
+     "title": "Remanence obtient 30 millions de dollars pour former l’IA en entreprise",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamVDSnFDcXhObGdkWUNORFNubC1yeTZ3bkN5QWQ1UXFidXZFbXZkREt0UnZYSEdxdGxaUkdHYnB5MDBsTnJxc3NVd3k3aFhWOU5UREJhQnZUbFJPcmVaNm9zSUVOWGdNZHV5Yjk5Njg0eVUybVRqeXdfXzhINlZUQVNsZjFzQ1Z1TnB4cjJqSmhMLUpQR3BVU19GZUp5czJsdGpOXw?oc=5"
+    }
+   ],
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/c6f1c2a691066903b92bf506329c2ccff49fad3f2c19d16af7b49b324a257844.webp"
+  }
+ ]
+}

@@ -1,15 +1,211 @@
 {
-  "_doc": "European Tech : thèmes en anglais (affichés tels quels). 'geo' : zone couverte (filtre des médias généralistes). 'events' : thèmes qui signalent un événement unique (levée, rachat). 'funding' : thème des levées de fonds.",
-  "geo": ["europe", "european", "\\buk\\b", "brit", "london", "england", "scotland", "ireland", "dublin", "germany", "german", "berlin", "munich", "netherlands", "dutch", "amsterdam", "sweden", "swedish", "stockholm", "norway", "oslo", "denmark", "copenhagen", "finland", "helsinki", "spain", "spanish", "madrid", "barcelona", "portugal", "lisbon", "italy", "italian", "milan", "switzerland", "swiss", "zurich", "austria", "vienna", "belgium", "brussels", "estonia", "tallinn", "lithuania", "vilnius", "poland", "warsaw", "czech", "prague", "nordic"],
-  "events": ["Funding", "M&A & IPOs"],
+  "_doc": "European Tech : thèmes en anglais (affichés tels quels). 'geo' : zone couverte (filtre des médias généralistes). 'events' : thèmes qui signalent un événement unique (levée, rachat). 'funding' : thème des levées de fonds. 'noise' : titres écartés d'office (listes de cadeaux, guides pratiques, contenus sponsorisés…).",
+  "geo": [
+    "europe",
+    "european",
+    "\\buk\\b",
+    "brit",
+    "london",
+    "england",
+    "scotland",
+    "ireland",
+    "dublin",
+    "germany",
+    "german",
+    "berlin",
+    "munich",
+    "netherlands",
+    "dutch",
+    "amsterdam",
+    "sweden",
+    "swedish",
+    "stockholm",
+    "norway",
+    "oslo",
+    "denmark",
+    "copenhagen",
+    "finland",
+    "helsinki",
+    "spain",
+    "spanish",
+    "madrid",
+    "barcelona",
+    "portugal",
+    "lisbon",
+    "italy",
+    "italian",
+    "milan",
+    "switzerland",
+    "swiss",
+    "zurich",
+    "austria",
+    "vienna",
+    "belgium",
+    "brussels",
+    "estonia",
+    "tallinn",
+    "lithuania",
+    "vilnius",
+    "poland",
+    "warsaw",
+    "czech",
+    "prague",
+    "nordic"
+  ],
+  "events": [
+    "Funding",
+    "M&A & IPOs"
+  ],
   "funding": "Funding",
   "categories": {
-    "Funding": { "weight": 4, "patterns": ["\\braises?\\b", "\\braised\\b", "secures?", "lands \\$", "bags", "funding round", "series [a-f]\\b", "\\bseed\\b", "pre-seed", "[€$£]\\s?\\d+(\\.\\d+)?\\s?(m|mn|bn|million|billion)\\b", "mega.?round", "growth round"], "exclude": ["without raising"] },
-    "M&A & IPOs": { "weight": 4, "patterns": ["acquires?", "acquired", "acquisition", "\\bbuys\\b", "takeover", "merger", "\\bipo\\b", "listing", "goes public", "float", "snapped up"] },
-    "Unicorns & scale-ups": { "weight": 3, "patterns": ["unicorn", "decacorn", "scale-?up", "valuation", "valued at", "\\b\\d+(\\.\\d+)?\\s?bn valuation"] },
-    "AI": { "weight": 2, "patterns": ["\\bai\\b", "artificial intelligence", "\\bllm", "generative", "agentic", "foundation model"] },
-    "Policy & ecosystem": { "weight": 2, "patterns": ["government", "regulat", "\\beu\\b", "european commission", "brussels", "chancellor", "\\btax\\b", "visa", "sovereign", "policy", "\\bvc\\b", "fund (launch|close)", "new fund"] },
-    "Trouble": { "weight": 2, "patterns": ["layoffs?", "lays off", "job cuts", "administration", "insolven", "bankrupt", "shuts down", "collapse", "winds down"] },
-    "People": { "weight": 1, "patterns": ["appoints?", "hires", "\\bceo\\b", "steps down", "joins as", "new chief"] }
-  }
+    "Funding": {
+      "weight": 4,
+      "patterns": [
+        "\\braises?\\b",
+        "\\braised\\b",
+        "secures?",
+        "lands \\$",
+        "bags",
+        "funding round",
+        "series [a-f]\\b",
+        "\\bseed\\b",
+        "pre-seed",
+        "[€$£]\\s?\\d+(\\.\\d+)?\\s?(m|mn|bn|million|billion)\\b",
+        "mega.?round",
+        "growth round",
+        "\\bbacks\\b",
+        "backed by",
+        "invests? in",
+        "investment from",
+        "growth equity"
+      ],
+      "exclude": [
+        "without raising"
+      ]
+    },
+    "M&A & IPOs": {
+      "weight": 4,
+      "patterns": [
+        "acquires?",
+        "acquired",
+        "acquisition",
+        "\\bbuys\\b",
+        "takeover",
+        "merger",
+        "\\bipo\\b",
+        "listing",
+        "goes public",
+        "float",
+        "snapped up",
+        "takes control",
+        "stake in",
+        "sells? (its|a) stake",
+        "exit"
+      ]
+    },
+    "Unicorns & scale-ups": {
+      "weight": 3,
+      "patterns": [
+        "unicorn",
+        "decacorn",
+        "scale-?up",
+        "valuation",
+        "valued at",
+        "\\b\\d+(\\.\\d+)?\\s?bn valuation"
+      ]
+    },
+    "AI": {
+      "weight": 2,
+      "patterns": [
+        "\\bai\\b",
+        "artificial intelligence",
+        "\\bllm",
+        "generative",
+        "agentic",
+        "foundation model"
+      ]
+    },
+    "Policy & ecosystem": {
+      "weight": 2,
+      "patterns": [
+        "government",
+        "regulat",
+        "\\beu\\b",
+        "european commission",
+        "brussels",
+        "chancellor",
+        "\\btax\\b",
+        "visa",
+        "sovereign",
+        "policy",
+        "\\bvc\\b",
+        "fund (launch|close)",
+        "new fund",
+        "sovereign",
+        "must protect",
+        "stamp duty",
+        "\\bact\\b",
+        "commission",
+        "ventures launches",
+        "launches in",
+        "ecosystem",
+        "\\bfund\\b"
+      ]
+    },
+    "Trouble": {
+      "weight": 2,
+      "patterns": [
+        "layoffs?",
+        "lays off",
+        "job cuts",
+        "administration",
+        "insolven",
+        "bankrupt",
+        "shuts down",
+        "collapse",
+        "winds down"
+      ]
+    },
+    "People": {
+      "weight": 1,
+      "patterns": [
+        "appoints?",
+        "hires",
+        "\\bceo\\b",
+        "steps down",
+        "joins as",
+        "new chief",
+        "leaves",
+        "departs",
+        "cofounder",
+        "co-founder",
+        "steps up",
+        "joins"
+      ]
+    }
+  },
+  "noise": [
+    "christmas gifts?",
+    "gift guide",
+    "black friday",
+    "cyber monday",
+    "deal of the day",
+    "\\bchecklist\\b",
+    "\\bhow to\\b",
+    "webinar",
+    "register now",
+    "sponsored",
+    "partner content",
+    "award for journalism",
+    "introducing the",
+    "\\bpodcast\\b",
+    "newsletter",
+    "top \\d+ .*companies for",
+    "for founders$",
+    "jobs? board",
+    "we.re hiring",
+    "smart cities",
+    "horoscope",
+    "\\bsport"
+  ]
 }

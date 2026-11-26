@@ -1,5 +1,5 @@
 {
-  "_doc": "Chaque catégorie a des motifs (expressions régulières, insensibles à la casse) et un poids. Le score d'un article = somme des poids des catégories trouvées + poids de la source + bonus si plusieurs médias couvrent le même sujet. 'exclude' : expressions à ignorer avant de chercher les motifs (ex. « sans levée de fonds »).",
+  "_doc": "Chaque catégorie a des motifs (expressions régulières, insensibles à la casse) et un poids. Le score d'un article = somme des poids des catégories trouvées + poids de la source + bonus si plusieurs médias couvrent le même sujet. 'exclude' : expressions à ignorer avant de chercher les motifs (ex. « sans levée de fonds »). 'noise' : titres écartés d'office (consommation, épargne, événements, sport…).",
   "france": [
     "french ?tech",
     "fran[cç]ais",
@@ -26,7 +26,12 @@
         "m€",
         "\\bfunding\\b",
         "raises? [€$]",
-        "\\braises\\b"
+        "\\braises\\b",
+        "l[eè]ve(nt)? des fonds",
+        "prend une participation",
+        "entre au capital",
+        "tour de financement",
+        "financement de \\d"
       ],
       "exclude": [
         "sans (aucune )?lev[ée]e de fonds",
@@ -50,7 +55,13 @@
         "dans le giron",
         "reprise par",
         "repris par",
-        "\\breprend\\b"
+        "\\breprend\\b",
+        "prend le contrôle",
+        "\\brachat\\b",
+        "\\bcède\\b",
+        "cession",
+        "met la main sur",
+        "s.offre"
       ]
     },
     "Licornes & scale-ups": {
@@ -90,7 +101,17 @@
         "vivatech",
         "france 2030",
         "cr[ée]dit d'imp[oô]t",
-        "\\bcir\\b"
+        "\\bcir\\b",
+        "union européenne",
+        "fonds souverain",
+        "présidentielle",
+        "\\bsénat",
+        "ministère",
+        "projet de loi",
+        "\\bloi \\w",
+        "france digitale",
+        "souveraineté",
+        "souverain"
       ]
     },
     "Difficultés": {
@@ -114,8 +135,56 @@
         "nomination",
         "rejoint",
         "\\bceo\\b",
-        "directeur g[ée]n[ée]ral"
+        "directeur g[ée]n[ée]ral",
+        "quitte",
+        "départ de",
+        "cofondateur",
+        "co-fondateur",
+        "prend la tête",
+        "succède"
       ]
     }
-  }
+  },
+  "noise": [
+    "livret a",
+    "épargne",
+    "placement à",
+    "compte rémunéré",
+    "taux d.intérêt",
+    "\\bforfait",
+    "black friday",
+    "cyber monday",
+    "bons? plans?",
+    "code promo",
+    "\\bpromo\\b",
+    "soldes",
+    "horoscope",
+    "ski alpin",
+    "coupe du monde",
+    "\\bsports?\\b",
+    "météo",
+    "crédit immobilier",
+    "\\bimmobilier\\b",
+    "retraite",
+    "webinaire",
+    "webinar",
+    "ouvre les candidatures",
+    "appel à candidatures",
+    "inscriptions? ouvertes",
+    "punchlines",
+    "journée type",
+    "la journée pour",
+    "masterclass",
+    "\\breplay\\b",
+    "sponsoris",
+    "publi-?(rédactionnel|reportage)",
+    "offre d.emploi",
+    "top \\d+ actions",
+    "cac 40",
+    "bourse de paris",
+    "\\bgrève",
+    "faits? divers",
+    "recette",
+    "jeu concours"
+  ]
 }

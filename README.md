@@ -18,12 +18,18 @@ Site en ligne : https://89fb5fyzdf-crypto.github.io/Test/
 
 Toute modification de `config/`, `scripts/` ou `docs/` sur `main` relance une collecte et republie le site.
 
+## Page Funding
+
+Le bouton « Funding » sous le titre affiche le suivi des levées de fonds de l'édition choisie (France ou Europe) : période (7, 30 ou 90 jours), tri par date ou par montant, filtre par tour (Seed, Series A…), recherche par entreprise ou investisseur, et total levé.
+
+La base `funding.json` (dans `docs/data/` et `docs/data/eu/`) est reconstruite à chaque collecte par `scripts/funding.mjs` à partir de tous les jours conservés : sujet du thème « levées de fonds » avec un montant identifiable, entreprise repérée dans le titre, même levée vue plusieurs fois fusionnée, synthèses et analyses écartées. Les montants en dollars ou en livres sont convertis en euros à des taux fixes approximatifs pour les totaux ; les fonds d'investissement sont listés mais pas comptés dans le total. Reconstruction manuelle : `node scripts/funding.mjs [--scope eu]`.
+
 ## Personnalisation
 
 - European Tech : `config/sources-eu.json` (sources anglophones, surtout britanniques ; `exclude` écarte la France ; `amountBoost` fait monter les mega levées) et `config/keywords-eu.json` (thèmes en anglais). Données dans `docs/data/eu/`.
 
 - `config/sources.json` : flux RSS (`focus: true` = média 100 % startups FR, tous ses articles sont gardés) et recherches Google News (texte simple, ou `{ "query", "label", "weight" }`).
-- `config/keywords.json` : thèmes, mots-clés (expressions régulières), expressions à ignorer (`exclude`) et poids.
+- `config/keywords.json` : thèmes, mots-clés (expressions régulières), expressions à ignorer (`exclude`), poids, et `noise` (titres écartés d'office : épargne, promotions, événements…). Un sujet sans thème, repris par un seul article et ne venant pas d'un média spécialisé est aussi écarté.
 - `docs/topo.svg` : motif de courbes de niveau du fond (généré, répétable).
 
 ## En local

@@ -6,7 +6,8 @@ const SCOPES = {
   fr: { base: 'data/', name: 'French Tech', lang: 'fr' },
   eu: { base: 'data/eu/', name: 'European Tech', lang: 'en' },
 };
-const state = { scope: 'fr', days: [], day: null, cats: new Set(), q: '' };
+const state = { scope: 'fr', view: 'briefing', days: [], day: null, cats: new Set(), q: '',
+  funding: null, f: { period: 30, sort: 'date', round: '', q: '' } };
 const LOCALE = 'en-GB';
 
 // Libellés de l'interface pour les thèmes des données French Tech (en français dans les données).
@@ -45,14 +46,16 @@ async function getJSON(url) {
   return r.json();
 }
 
-// L'adresse ne garde que l'édition (#eu pour European Tech) : le site s'ouvre toujours sur le
-// jour le plus récent. Une ancienne adresse avec une date (#2026-11-18) est ignorée pour la date.
+// L'adresse ne garde que l'édition et la vue (#eu, #funding, #eu-funding) : le site s'ouvre
+// toujours sur le jour le plus récent. Une ancienne adresse avec une date est ignorée pour la date.
 function readHash() {
-  const m = location.hash.slice(1).match(/^(eu|fr)?/);
-  return { scope: m && m[1] ? m[1] : null };
+  const h = location.hash.slice(1);
+  const m = h.match(/^(eu|fr)?/);
+  return { scope: m && m[1] ? m[1] : null, view: /funding/.test(h) ? 'funding' : 'briefing' };
 }
 function writeHash() {
-  history.replaceState(null, '', state.scope === 'eu' ? '#eu' : location.pathname + location.search);
+  const parts = [state.scope === 'eu' ? 'eu' : '', state.view === 'funding' ? 'funding' : ''].filter(Boolean);
+  history.replaceState(null, '', parts.length ? `#${parts.join('-')}` : location.pathname + location.search);
 }
 // Date du jour à Paris (AAAA-MM-JJ), pour afficher « Today » seulement si c'est vraiment aujourd'hui.
 const parisToday = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Paris' }).format(new Date());
@@ -62,6 +65,9 @@ async function init() {
   let saved = null;
   try { saved = localStorage.getItem('scope'); } catch {}
   state.scope = fromHash.scope || (saved === 'eu' ? 'eu' : 'fr');
+  state.view = fromHash.view;
+  document.documentElement.dataset.view = state.view;
+  $('#funding').hidden = state.view !== 'funding';
   paintScope(false);
 
   $('#day').onchange = (e) => loadDay(e.target.value);
@@ -78,6 +84,7 @@ async function init() {
   sheet.addEventListener('click', (e) => { if (e.target === sheet) sheet.close(); }); // clic hors de la fenêtre
   sheet.addEventListener('close', () => document.body.classList.remove('locked'));
   window.addEventListener('resize', () => paintScope(false));
+  setupFunding();
 
   // Onglet resté ouvert ou page restaurée depuis le cache : si une veille plus récente existe
   // et qu'on regardait la plus récente, on passe à la nouvelle.
@@ -87,12 +94,14 @@ async function init() {
       const latest = (await getJSON(`${SCOPES[state.scope].base}index.json`)).days[0]?.date;
       const wasLatest = !state.day || state.day.date === state.days[0]?.date;
       if (latest && latest !== state.days[0]?.date && wasLatest) await loadScope();
+      if (state.view === 'funding') { await loadFunding(); renderFunding(); }
     } catch {}
   };
   document.addEventListener('visibilitychange', refresh);
   window.addEventListener('pageshow', (e) => { if (e.persisted) refresh(); });
 
   await loadScope();
+  if (state.view === 'funding') { await loadFunding(); renderFunding(); }
 }
 
 // preferredDate : seulement lors d'un changement d'édition (on reste sur le jour consulté) ;
@@ -123,6 +132,7 @@ async function switchScope(scope) {
   main.classList.add('swap-out');
   await new Promise((r) => setTimeout(r, 220));
   await loadScope(keepDate);
+  if (state.view === 'funding') { await loadFunding(); renderFunding(); }
   main.classList.remove('swap-out');
   main.classList.add('swap-in');
   setTimeout(() => main.classList.remove('swap-in'), 650);
@@ -139,12 +149,14 @@ function paintScope(animate) {
   const active = seg.querySelector(`[data-scope="${state.scope}"]`);
   seg.style.setProperty('--x', `${active.offsetLeft}px`);
   seg.style.setProperty('--w', `${active.offsetWidth}px`);
+  paintSegs(animate);
   const name = SCOPES[state.scope].name;
   document.title = `Radar · ${name}`;
   const h1 = document.querySelector('h1');
   // « The essentials of » mot à mot, puis le nom de l'édition d'un seul tenant (dégradé continu).
-  h1.innerHTML = ['The', 'essentials', 'of'].map((w, i) => `<span class="w" style="--i:${i}">${w}</span>`).join(' ')
-    + ` <span class="w scope-word" style="--i:3">${esc(name)}.</span>`;
+  const lead = state.view === 'funding' ? ['Funding', 'in'] : ['The', 'essentials', 'of'];
+  h1.innerHTML = lead.map((w, i) => `<span class="w" style="--i:${i}">${w}</span>`).join(' ')
+    + ` <span class="w scope-word" style="--i:${lead.length}">${esc(name)}.</span>`;
   if (animate) { h1.classList.remove('retitle'); void h1.offsetWidth; h1.classList.add('retitle'); }
 }
 
@@ -177,7 +189,7 @@ function renderStatic() {
   const media = new Set(d.items.flatMap((i) => i.sources)).size;
   const funding = d.items.filter((i) => i.categories.some(isFunding)).length;
   $('#eyebrow').textContent = (d.date === parisToday() ? 'Today, ' : '') + fmtLong(d.date);
-  $('#summary').innerHTML = `<b>${plural(d.items.length, 'story', 'stories')}</b>, including ${plural(funding, 'funding round')}, from ${plural(media, 'outlet')}.`;
+  if (state.view !== 'funding') $('#summary').innerHTML = `<b>${plural(d.items.length, 'story', 'stories')}</b>, including ${plural(funding, 'funding round')}, from ${plural(media, 'outlet')}.`;
 
   const counts = {};
   d.items.forEach((i) => i.categories.forEach((c) => (counts[c] = (counts[c] || 0) + 1)));
@@ -302,6 +314,129 @@ function openSheet(i) {
   sheet.showModal();
   sheet.querySelector('.sheet-scroll').scrollTop = 0;
   $('#close').focus();
+}
+
+// ---------- Funding ----------
+// Suivi des levées de fonds de l'édition : période, tri, filtre par tour, recherche, total.
+const CUR = { EUR: '€', USD: '$', GBP: '£' };
+function fmtMoney(m, cur = 'EUR') {
+  const sym = CUR[cur] || '';
+  const suf = CUR[cur] ? '' : ` ${cur}`;
+  const n = (x) => x.toLocaleString(LOCALE, { maximumFractionDigits: x < 100 ? 1 : 0 });
+  const v = m >= 1000 ? `${n(m / 1000)}B` : m >= 1 ? `${n(m)}M` : `${n(m * 1000)}K`;
+  return `${sym}${v}${suf}`;
+}
+const fmtShort = (iso) => new Date(iso).toLocaleDateString(LOCALE, { day: 'numeric', month: 'short' });
+const ROUND_ORDER = ['Pre-seed', 'Seed', 'Series A', 'Series B', 'Series C', 'Series D+', 'Growth'];
+
+// Pastilles des sélecteurs (vue, période, tri) : position et largeur du bouton actif.
+function paintSegs(animate) {
+  document.querySelectorAll('.seg').forEach((seg) => {
+    seg.classList.toggle('no-anim', !animate);
+    const active = seg.querySelector('[aria-selected="true"]');
+    if (!active) return;
+    seg.style.setProperty('--x', `${active.offsetLeft}px`);
+    seg.style.setProperty('--w', `${active.offsetWidth}px`);
+  });
+}
+function select(seg, btn) {
+  seg.querySelectorAll('[role="tab"]').forEach((b) => b.setAttribute('aria-selected', b === btn));
+  paintSegs(true);
+}
+
+function setupFunding() {
+  const view = $('#view');
+  view.querySelectorAll('[data-view]').forEach((b) => (b.onclick = () => setView(b.dataset.view)));
+  view.querySelectorAll('[data-view]').forEach((b) => b.setAttribute('aria-selected', b.dataset.view === state.view));
+  $('#period').querySelectorAll('button').forEach((b) => (b.onclick = () => { state.f.period = Number(b.dataset.period); select($('#period'), b); renderFunding(); }));
+  $('#sort').querySelectorAll('button').forEach((b) => (b.onclick = () => { state.f.sort = b.dataset.sort; select($('#sort'), b); renderFunding(); }));
+  $('#fq').oninput = (e) => { state.f.q = e.target.value.trim().toLowerCase(); renderFunding(); };
+  paintSegs(false);
+}
+
+// Bascule Briefing ↔ Funding, avec la même transition que le changement d'édition.
+async function setView(view) {
+  if (view === state.view) return;
+  const main = document.querySelector('main');
+  state.view = view;
+  select($('#view'), $(`[data-view="${view}"]`));
+  main.style.setProperty('--dir', view === 'funding' ? 1 : -1);
+  main.classList.add('swap-out');
+  const ready = view === 'funding' ? loadFunding() : Promise.resolve();
+  await new Promise((r) => setTimeout(r, 220));
+  await ready;
+  document.documentElement.dataset.view = view;
+  $('#funding').hidden = view !== 'funding';
+  paintScope(false);
+  if (view === 'funding') renderFunding();
+  else if (state.day) renderStatic();
+  writeHash();
+  main.classList.remove('swap-out');
+  main.classList.add('swap-in');
+  setTimeout(() => main.classList.remove('swap-in'), 650);
+}
+
+async function loadFunding() {
+  try { state.funding = await getJSON(`${SCOPES[state.scope].base}funding.json`); }
+  catch { state.funding = { rounds: [] }; }
+}
+
+function renderFunding() {
+  writeHash();
+  const all = state.funding?.rounds || [];
+  const since = Date.now() - state.f.period * 864e5;
+  const inPeriod = all.filter((r) => new Date(r.date) >= since);
+  // Filtres par tour : seulement ceux présents sur la période.
+  const present = ROUND_ORDER.filter((x) => inPeriod.some((r) => r.round === x && r.kind !== 'fund'));
+  const hasFunds = inPeriod.some((r) => r.kind === 'fund');
+  if (state.f.round && !present.includes(state.f.round) && !(state.f.round === 'fund' && hasFunds)) state.f.round = '';
+  $('#fchips').innerHTML = [['', 'All rounds'], ...present.map((x) => [x, x]), ...(hasFunds ? [['fund', 'VC funds']] : [])]
+    .map(([v, label]) => `<button class="chip glass" aria-pressed="${state.f.round === v}" data-round="${esc(v)}">${esc(label)}</button>`).join('');
+  $('#fchips').querySelectorAll('.chip').forEach((b) => (b.onclick = () => { state.f.round = b.dataset.round; renderFunding(); }));
+
+  const q = state.f.q;
+  const list = inPeriod.filter((r) =>
+    (!state.f.round || (state.f.round === 'fund' ? r.kind === 'fund' : r.round === state.f.round && r.kind !== 'fund')) &&
+    (!q || `${r.company || ''} ${r.title} ${r.investors || ''} ${r.articles.map((a) => a.title).join(' ')}`.toLowerCase().includes(q)))
+    .sort((a, b) => state.f.sort === 'amount' ? b.amountEur - a.amountEur : new Date(b.date) - new Date(a.date));
+
+  // Total : levées annoncées par des entreprises (hors fonds d'investissement et rumeurs).
+  const counted = list.filter((r) => r.kind !== 'fund' && r.status !== 'talks');
+  const total = counted.reduce((s, r) => s + r.amountEur, 0);
+  const largest = [...counted].sort((a, b) => b.amountEur - a.amountEur)[0];
+  const span = { 7: 'week', 30: '30 days', 90: '90 days' }[state.f.period];
+  $('#summary').innerHTML = counted.length
+    ? `<b>${fmtMoney(total)}</b> raised across ${plural(counted.length, 'round')} in the last ${span}.`
+      + (largest ? ` Largest: ${esc(largest.company || 'one company')}, ${fmtMoney(largest.amountM ?? largest.amountEur, largest.currency)}.` : '')
+    : `No funding rounds detected in the last ${span}.`;
+
+  $('#flist').innerHTML = list.length ? `<div class="group pane">${list.map(fundingRow).join('')}</div>`
+    : `<p class="empty">${all.length ? 'No rounds match these filters.' : 'The funding tracker fills up as the news is collected, four times a day.'}</p>`;
+}
+
+function fundingRow(r) {
+  const lang = SCOPES[state.scope].lang;
+  const amount = fmtMoney(r.amountM ?? r.amountEur, r.currency);
+  const approx = r.currency !== 'EUR' ? `≈ ${fmtMoney(r.amountEur)}` : '';
+  const tags = [
+    r.kind === 'fund' ? '<span class="tag fund">VC fund</span>' : r.round ? `<span class="tag round">${esc(r.round)}</span>` : '',
+    r.status === 'talks' ? '<span class="tag talks">In talks</span>' : '',
+  ].join('');
+  const meta = [
+    `<span>${fmtShort(r.date)}</span>`,
+    r.valuation ? `<span class="dot"></span><span>Valuation <b>${esc(r.valuation)}</b></span>` : '',
+    r.investors ? `<span class="dot"></span><span>With <b lang="${lang}">${esc(r.investors)}</b></span>` : '',
+  ].join('');
+  const many = r.articles.length > 1;
+  return `<article class="frow${r.kind === 'fund' ? ' is-fund' : ''}${r.status === 'talks' ? ' is-talks' : ''}">
+    <div class="f-main">
+      ${r.company ? `<div class="f-head"><span class="f-name">${esc(r.company)}</span>${tags}</div>` : (tags ? `<div class="f-head">${tags}</div>` : '')}
+      <a class="f-title" href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener" lang="${lang}">${esc(r.title)}</a>
+      <div class="f-meta">${meta}</div>
+    </div>
+    <div class="f-amt"><b>${amount}</b>${approx ? `<small>${approx}</small>` : ''}</div>
+    ${many ? `<details class="articles"><summary>All ${r.articles.length} articles ${ICON_CHEVRON}</summary>${articleList(r.articles)}</details>` : ''}
+  </article>`;
 }
 
 // Bouton clair / sombre (sombre par défaut). Le choix est mémorisé dans ce navigateur.

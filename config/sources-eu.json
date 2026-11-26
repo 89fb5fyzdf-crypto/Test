@@ -1,5 +1,5 @@
 {
-  "_doc": "European Tech : sources internationales en anglais (surtout britanniques). focus=true : média 100 % tech européenne. 'exclude' écarte les sujets français (couverts par la page French Tech). 'amountBoost' fait monter les plus grosses levées. Les recherches Google News ont focus=false : le titre doit mentionner l'Europe, le Royaume-Uni ou une ville européenne (sinon on récupère des startups américaines).",
+  "_doc": "European Tech : sources internationales en anglais (surtout britanniques). focus=true : média 100 % tech européenne. 'exclude' écarte les sujets français (couverts par la page French Tech). 'amountBoost' fait monter les plus grosses levées. Les recherches Google News ont focus=false : le titre doit mentionner l'Europe, le Royaume-Uni ou une ville européenne (sinon on récupère des startups américaines). 'coverageWeight' : poids du nombre de médias (réduit ici pour que le montant d'une levée compte davantage).",
   "lang": "en",
   "googleNewsEdition": "hl=en-GB&gl=GB&ceid=GB:en",
   "amountBoost": true,
@@ -110,5 +110,6 @@
       "weight": 2,
       "focus": false
     }
-  ]
+  ],
+  "coverageWeight": 2
 }

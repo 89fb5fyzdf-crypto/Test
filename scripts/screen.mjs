@@ -39,6 +39,8 @@ const GN = sources.googleNewsEdition || 'hl=fr&gl=FR&ceid=FR:fr';
 const franceRe = new RegExp((keywords.geo || keywords.france).join('|'), 'i');
 // Sujets à écarter (European Tech : tout ce qui concerne la France).
 const excludeRe = sources.exclude?.length ? new RegExp(sources.exclude.join('|'), 'i') : null;
+// Bruit à écarter d'office (promotions, épargne, événements, listes de cadeaux…), sur le titre.
+const noiseRe = keywords.noise?.length ? new RegExp(keywords.noise.join('|'), 'i') : null;
 const categories = Object.entries(keywords.categories).map(([name, c]) => {
   const re = new RegExp(c.patterns.join('|'), 'i');
   const ex = c.exclude?.length ? new RegExp(c.exclude.join('|'), 'gi') : null;
@@ -258,6 +260,7 @@ const fresh = raw
   .filter((it) => it.date && !isNaN(it.date) && it.date >= since && it.date <= new Date(now.getTime() + 3600e3))
   .filter((it) => it.focus || franceRe.test(`${it.title} ${it.summary}`)) // média généraliste : sujet de la zone uniquement
   .filter((it) => !excludeRe || !excludeRe.test(`${it.title} ${it.summary}`))
+  .filter((it) => !noiseRe || !noiseRe.test(it.title))
   .map((it) => {
     const text = `${it.title} ${it.summary}`;
     // Les résumés (écrits normalement) confirment les noms propres des titres en « Title Case ».
@@ -412,8 +415,10 @@ function buildBrief(members, cats) {
 // Plus la levée est grosse, plus le sujet monte (European Tech : priorité aux mega levées).
 function amountBonus(members) {
   const m = Math.max(0, ...members.map((x) => millions(`${x.title} ${x.summary}`)));
-  return m >= 1000 ? 7 : m >= 250 ? 6 : m >= 100 ? 5 : m >= 50 ? 3 : m >= 20 ? 1 : 0;
+  return m >= 1000 ? 11 : m >= 250 ? 9 : m >= 100 ? 7 : m >= 50 ? 4 : m >= 20 ? 2 : 0;
 }
+// Poids du nombre de médias (European Tech : réduit, pour que le montant compte davantage).
+const COVERAGE = sources.coverageWeight ?? 3;
 const items = groups.map(({ members, _c }) => {
   const lead = members[0];
   const sourcesList = [...new Set(members.map((m) => m.source))];
@@ -424,7 +429,7 @@ const items = groups.map(({ members, _c }) => {
   const score =
     cats.reduce((s, c) => s + c.weight, 0) +
     Math.max(...members.map((m) => m.sourceWeight)) +
-    Math.min(sourcesList.length - 1, 5) * 3 + // plusieurs médias = sujet important
+    Math.min(sourcesList.length - 1, 5) * COVERAGE + // plusieurs médias = sujet important
     (franceRe.test(text) ? 1 : 0) +
     Math.max(0, 2 - ageH / 12) +
     (sources.amountBoost ? amountBonus(members) : 0);
@@ -445,41 +450,53 @@ const items = groups.map(({ members, _c }) => {
     date: date.toISOString(),
     categories: cats.map((c) => c.name),
     score: Math.round(score * 10) / 10,
+    _keep: cats.length > 0 || members.length > 1 || members.some((m) => m.focus && !m.via),
   };
-}).sort((a, b) => b.score - a.score);
+})
+  // Sans thème, un seul article et pas d'un média spécialisé : hors sujet (économie générale,
+  // consommation, faits divers ramenés par Google News…).
+  .filter((it) => it._keep)
+  .map(({ _keep, ...it }) => it)
+  .sort((a, b) => b.score - a.score);
 
-// ---------- images manquantes ----------
-// Pour les sujets à la une, on va chercher l'image de
-// partage (og:image) sur la page d'un des articles. Les liens Google News ne mènent pas
-// directement à l'article : ils sont ignorés.
-async function ogImage(url) {
+// ---------- images et descriptions manquantes ----------
+// Pour les sujets affichés (à la une et les plus relayés), on lit la page d'un des articles :
+// image de partage (og:image) et description (og:description). Les liens Google News ne mènent
+// pas directement à l'article : ils sont ignorés.
+async function pageMeta(url) {
   try {
     const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; FrenchTechScreener/1.0)', Accept: 'text/html' }, redirect: 'follow', signal: AbortSignal.timeout(8000) });
-    if (!res.ok || !/html/i.test(res.headers.get('content-type') || '')) return '';
+    if (!res.ok || !/html/i.test(res.headers.get('content-type') || '')) return {};
     const html = (await res.text()).slice(0, 300000);
-    const m = html.match(/<meta[^>]+(?:property|name)=["'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["'][^>]*>/i);
-    const c = m && m[0].match(/content=["']([^"']+)["']/i);
-    if (!c) return '';
-    const img = new URL(decode(c[1]), res.url).href;
-    return /^https:\/\//.test(img) ? img : '';
-  } catch { return ''; }
+    const meta = (names) => {
+      const m = html.match(new RegExp(`<meta[^>]+(?:property|name)=["'](?:${names})["'][^>]*>`, 'i'));
+      const c = m && m[0].match(/content=["']([^"']+)["']/i);
+      return c ? decode(c[1]).trim() : '';
+    };
+    const img = meta('og:image(?::secure_url)?|twitter:image(?::src)?');
+    const image = img ? new URL(img, res.url).href : '';
+    return { image: /^https:\/\//.test(image) ? image : '', description: cleanText(stripHtml(meta('og:description|twitter:description|description'))) };
+  } catch { return {}; }
 }
-const shown = new Set(items.slice(0, 8)); // les 5 sujets à la une (+ marge)
-const needImage = [...shown].filter((i) => !i.image);
-let found = 0;
+const mostCovered = items.slice(5).sort((a, b) => b.articles.length - a.articles.length || b.score - a.score).slice(0, 10);
+const shown = [...new Set([...items.slice(0, 8), ...mostCovered])];
+const needMeta = shown.filter((i) => !i.image || (!i.summary && !i.brief));
+let found = 0, described = 0;
 if (!args.fixtures) {
-  const queue = [...needImage];
+  const queue = [...needMeta];
   await Promise.all(Array.from({ length: 6 }, async () => {
     while (queue.length) {
       const it = queue.shift();
       for (const a of it.articles.filter((x) => !/news\.google\./.test(x.url)).slice(0, 3)) {
-        const img = await ogImage(a.url);
-        if (img) { it.image = img; found++; break; }
+        const meta = await pageMeta(a.url);
+        if (!it.image && meta.image) { it.image = meta.image; found++; }
+        if (!it.summary && !it.brief && meta.description?.length >= 60) { it.summary = meta.description.slice(0, 400); described++; }
+        if (it.image && (it.summary || it.brief)) break;
       }
     }
   }));
 }
-console.log(`Images : ${items.filter((i) => i.image).length}/${items.length} sujets (dont ${found} trouvées sur les pages des articles)`);
+console.log(`Images : ${items.filter((i) => i.image).length}/${items.length} sujets (dont ${found} trouvées sur les pages) · ${described} descriptions ajoutées`);
 
 // ---------- écriture ----------
 await mkdir(DATA_DIR, { recursive: true });
@@ -504,6 +521,11 @@ for (const f of files.slice(0, KEEP_DAYS)) {
   index.push({ date: d.date, articles: d.items.length, top: d.items[0]?.title });
 }
 await writeFile(path.join(DATA_DIR, 'index.json'), JSON.stringify({ updatedAt: now.toISOString(), days: index }, null, 1));
+
+// Base des levées de fonds (page Funding), reconstruite à partir de tous les jours conservés.
+const { buildFunding } = await import('./funding.mjs');
+const funding = await buildFunding(DATA_DIR, LANG, SCOPE === 'fr' ? { excludeCompaniesFrom: path.join(DATA_DIR, 'eu') } : {});
+console.log(`Levées de fonds : ${funding.rounds.length} sur ${funding.days} jours`);
 
 const failed = report.filter((r) => !r.ok);
 console.log(`[${SCOPE} ${runDate}] ${raw.length} articles collectés → ${fresh.length} récents et pertinents → ${items.length} sujets`);

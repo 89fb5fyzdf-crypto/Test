@@ -59,9 +59,14 @@
       </div>
       <h1>The essentials of French Tech.</h1>
       <p id="summary" class="lede" aria-live="polite"></p>
+      <div class="seg view-tabs" id="view" role="tablist" aria-label="View">
+        <span class="seg-thumb" aria-hidden="true"></span>
+        <button type="button" role="tab" data-view="briefing" aria-selected="true">Briefing</button>
+        <button type="button" role="tab" data-view="funding" aria-selected="false">Funding</button>
+      </div>
     </section>
 
-    <div class="controls">
+    <div class="controls briefing-only">
       <label class="search glass">
         <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.5"/><path d="m10.5 10.5 3 3"/></svg>
         <input id="q" type="search" placeholder="Search" aria-label="Search for a startup or an investor">
@@ -69,8 +74,34 @@
       <div id="chips" class="chips" aria-label="Filter by topic"></div>
     </div>
 
-    <section id="top" class="top"></section>
-    <section id="list"></section>
+    <section id="top" class="top briefing-only"></section>
+    <section id="list" class="briefing-only"></section>
+
+    <!-- Suivi des levées de fonds de l'édition choisie -->
+    <section id="funding" class="funding" hidden>
+      <div class="f-controls">
+        <div class="f-row">
+          <div class="seg" id="period" role="tablist" aria-label="Period">
+            <span class="seg-thumb" aria-hidden="true"></span>
+            <button type="button" role="tab" data-period="7">7 days</button>
+            <button type="button" role="tab" data-period="30" aria-selected="true">30 days</button>
+            <button type="button" role="tab" data-period="90">90 days</button>
+          </div>
+          <div class="seg" id="sort" role="tablist" aria-label="Sort">
+            <span class="seg-thumb" aria-hidden="true"></span>
+            <button type="button" role="tab" data-sort="date" aria-selected="true">Latest</button>
+            <button type="button" role="tab" data-sort="amount">Largest</button>
+          </div>
+        </div>
+        <label class="search glass">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.5"/><path d="m10.5 10.5 3 3"/></svg>
+          <input id="fq" type="search" placeholder="Search a company or an investor" aria-label="Search a company or an investor">
+        </label>
+        <div id="fchips" class="chips" aria-label="Filter by round"></div>
+      </div>
+      <div id="flist"></div>
+      <p class="f-note">Rounds are detected automatically in the news, so a few may be missed or misread. Amounts in other currencies are converted to euros at fixed approximate rates (≈) for totals and sorting. Funds raised by investors are listed but not counted in totals.</p>
+    </section>
 
     <section class="about pane">
       <details>

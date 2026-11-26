@@ -1,0 +1,1462 @@
+{
+ "updatedAt": "2026-11-26T15:48:12.389Z",
+ "lang": "en",
+ "days": 9,
+ "rates": {
+  "EUR": 1,
+  "USD": 0.92,
+  "GBP": 1.17,
+  "CHF": 1.05,
+  "SEK": 0.087,
+  "NOK": 0.085,
+  "DKK": 0.134
+ },
+ "rounds": [
+  {
+   "company": "Audun",
+   "title": "Audun raises $3M to modernise debt collection with AI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0EzTWJLcGtpTXdJOVJOYWc1MnpTX3BNUlFERm42cEM3cEN4c2htbVF4UW1oNVNsZGRuOVR3ZDNvSHV5cExUUTNZVXVpSjRjRHFBRWsxUnphakswT2pHWmNSVWxiNnpEdG5XdHhUanpyeTBqSmVRb3lmbFdMaEtaNmI5UmRwWTA?oc=5",
+   "date": "2026-11-26T09:15:30.000Z",
+   "day": "2026-11-26",
+   "amount": "$3M",
+   "currency": "USD",
+   "amountM": 3,
+   "amountEur": 2.76,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Audun raises $3M to modernise debt collection with AI",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0EzTWJLcGtpTXdJOVJOYWc1MnpTX3BNUlFERm42cEM3cEN4c2htbVF4UW1oNVNsZGRuOVR3ZDNvSHV5cExUUTNZVXVpSjRjRHFBRWsxUnphakswT2pHWmNSVWxiNnpEdG5XdHhUanpyeTBqSmVRb3lmbFdMaEtaNmI5UmRwWTA?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "WaterSense",
+   "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmNsM1ctOFFVTWJxYlRLQW5FWHRhR2ExanVMR0Z4dHFFMEpQVzR5MEZfeDVNaXVINUZxSTY5Vm0xaVZ6UkJodENOOUlLMlF0eGRYWWlTcWl5UDlZYnljajR4TmFia3EzUnBVVXBHSk1uNGJpcXpRY0hIbnIzT2lLQTdYR1A1R3BFM0p4VXJ0dVJNdl9TRVlsV0o2emRuRkplTDNLaGJDVQ?oc=5",
+   "date": "2026-11-26T08:32:22.000Z",
+   "day": "2026-11-26",
+   "amount": "€5.75M",
+   "currency": "EUR",
+   "amountM": 5.75,
+   "amountEur": 5.75,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmNsM1ctOFFVTWJxYlRLQW5FWHRhR2ExanVMR0Z4dHFFMEpQVzR5MEZfeDVNaXVINUZxSTY5Vm0xaVZ6UkJodENOOUlLMlF0eGRYWWlTcWl5UDlZYnljajR4TmFia3EzUnBVVXBHSk1uNGJpcXpRY0hIbnIzT2lLQTdYR1A1R3BFM0p4VXJ0dVJNdl9TRVlsV0o2emRuRkplTDNLaGJDVQ?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Warsaw-based WaterSense secures €5.75 million to build and scale water intelligence infrastructure across Europe",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGFCam14Yl82T2wxb25TcTFIS0dFaGxHWXJoaFlOdzV5UElPWTB2SVRaZHhkWlZ4anEwUllXMkMwSnE4MVZzaHZfMkp5c3RKVTVBcG9CQmg0SC1DS2VGc0ZpelJZak1udXdkU2N2ZEZjOHc1U3Q3OVNzZHhaVFRUbUJYSlFTb3BfVG5HN0ktbjRuV3kxU01vNDcwODFpS3ZYck1odVlvOV9FNElwUlVlMTVZLV9HTTNPSElSdEFmQ1hZaVFJZkQxNVY1anBWZmoyMkhKMEM0XzhDb0c3djFPT0txMA?oc=5"
+    },
+    {
+     "source": "Wisevoter",
+     "title": "Warsaw Water-Monitoring Start-Up Raises €5.75 Million",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNloxVzF4WW9sT014aWdNbzlZOERtM2d4aFZNbWhTREFkNFl1cHFPaWRCYTV3TmV3M3F6V1p2dVFUdEZxNW9xYWVleS0wNzlVTURsSE9xTXNEOEM4b1Rvdy15b0UwbXNpTEZucmYyS1VkcnpRbVJDLUc4M0ZIOEYwVElwR3FRY19ZVlhmMDhaa3pMTXdoOXVUUWVB?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "ARK Capture Solutions",
+   "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5",
+   "date": "2026-11-26T08:22:37.000Z",
+   "day": "2026-11-26",
+   "amount": "€5.4M",
+   "currency": "EUR",
+   "amountM": 5.4,
+   "amountEur": 5.4,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Starforge",
+   "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
+   "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
+   "date": "2026-11-26T05:00:51.000Z",
+   "day": "2026-11-26",
+   "amount": "€6.6m",
+   "currency": "EUR",
+   "amountM": 6.6,
+   "amountEur": 6.6,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
+     "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/"
+    }
+   ]
+  },
+  {
+   "company": null,
+   "title": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
+   "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
+   "date": "2026-11-25T15:00:17.000Z",
+   "day": "2026-11-25",
+   "amount": "$20m",
+   "currency": "USD",
+   "amountM": 20,
+   "amountEur": 18.4,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
+     "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/"
+    }
+   ]
+  },
+  {
+   "company": "Plural",
+   "title": "Plural raises €1bn to back Europe’s frontier technology founders",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmZhcUZScFVrM0hJRFhCbHZjT2dHalBCMFdzdzJ5dFZpTWNBNE1BWHc1alNsdHBBRGUtajdLeGpYSnNZdVdpbk9uT0pzQy1IQVlTQks4UFNEQ25mMGFuOXUxdmxPeDgzZ3VTMzNYdlBIRXRuZUVJYVFqUVMxWlJfUk9IQQ?oc=5",
+   "date": "2026-11-25T11:16:19.000Z",
+   "day": "2026-11-25",
+   "amount": "€1bn",
+   "currency": "EUR",
+   "amountM": 1000,
+   "amountEur": 1000,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "fund",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Business Matters",
+     "title": "Plural raises €1bn to back Europe’s frontier technology founders",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmZhcUZScFVrM0hJRFhCbHZjT2dHalBCMFdzdzJ5dFZpTWNBNE1BWHc1alNsdHBBRGUtajdLeGpYSnNZdVdpbk9uT0pzQy1IQVlTQks4UFNEQ25mMGFuOXUxdmxPeDgzZ3VTMzNYdlBIRXRuZUVJYVFqUVMxWlJfUk9IQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "company": null,
+   "title": "Payhawk backer Eleven secures €57M first close for Fund IV",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWxqek84bDA5NXVndncxR080U0R3c0hFQjhpY0tpUkFzXzRQbVVmTWtFTi1LX1dMbXQ0TzZkTWR1UlFTeXo0dmh1WUFFb2thd0NNYkt1VEtUMzFTNVNySWxUaTg3YmVSdTdDSlFSX2QzWHloS2R6Y00yaFpSQWhKSUVkcGtFbUozVnFYNndlQ29yUQ?oc=5",
+   "date": "2026-11-25T09:54:11.000Z",
+   "day": "2026-11-25",
+   "amount": "€57M",
+   "currency": "EUR",
+   "amountM": 57,
+   "amountEur": 57,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "fund",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Payhawk backer Eleven secures €57M first close for Fund IV",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWxqek84bDA5NXVndncxR080U0R3c0hFQjhpY0tpUkFzXzRQbVVmTWtFTi1LX1dMbXQ0TzZkTWR1UlFTeXo0dmh1WUFFb2thd0NNYkt1VEtUMzFTNVNySWxUaTg3YmVSdTdDSlFSX2QzWHloS2R6Y00yaFpSQWhKSUVkcGtFbUozVnFYNndlQ29yUQ?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "elbic",
+   "title": "YC-backed elbic raises €2.7 million to keep European customer calls off US servers with sovereign voice AI",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObUJnRkd2Q0dCTXY2Q1NMOWhmUGtqcVNZOFJxVWtrRVlLMmNCV0NySEx6WndVbVJUTnpRTk1Gbk9udUM5LV94d1Z2bHRHc3pNU0lxVlgzUmI5S3pVR1pYNE5jWUpCUlllNng1U0lRcEJDdGVfQ3ZzQXFzZHBSd2h1RWU3bmhDYWNXUi1BQjRJUGNmbkhfcWFDc1ZVMEpBMFYyUlhFUlphRzNuUk85amVyTFpoSTh1Q29vdktKcFg4anYzQlR1QS1kck43cjBocWFYaW9EUkxhQXF3T1E?oc=5",
+   "date": "2026-11-25T09:27:53.000Z",
+   "day": "2026-11-25",
+   "amount": "€2.7 million",
+   "currency": "EUR",
+   "amountM": 2.7,
+   "amountEur": 2.7,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "YC-backed elbic raises €2.7 million to keep European customer calls off US servers with sovereign voice AI",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObUJnRkd2Q0dCTXY2Q1NMOWhmUGtqcVNZOFJxVWtrRVlLMmNCV0NySEx6WndVbVJUTnpRTk1Gbk9udUM5LV94d1Z2bHRHc3pNU0lxVlgzUmI5S3pVR1pYNE5jWUpCUlllNng1U0lRcEJDdGVfQ3ZzQXFzZHBSd2h1RWU3bmhDYWNXUi1BQjRJUGNmbkhfcWFDc1ZVMEpBMFYyUlhFUlphRzNuUk85amVyTFpoSTh1Q29vdktKcFg4anYzQlR1QS1kck43cjBocWFYaW9EUkxhQXF3T1E?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Permut",
+   "title": "Permut raises €3M to turn conversational AI into a revenue driver for brands",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejMtNEx6ZmhQc2Nyb1BpRHJLU0phYWM3M0xGS2VRUFlCLUg1UXhiN2NuMmVCaDg1ZFkwQnh2V0dBcWVqTmhoVHZhcEFyVFlVTFFBTE10c2JRWlU0RFVic0N6LWs3ZUVpZFA2a3dFY3BWWnUxejhPT0xmQ3d0WEtSR2pYNnpBeUVudE9ZeFZCOWNoUmVKT1pBblJxb04tQnFIaUFFSXZ3SDNJQQ?oc=5",
+   "date": "2026-11-25T06:43:28.000Z",
+   "day": "2026-11-25",
+   "amount": "€3M",
+   "currency": "EUR",
+   "amountM": 3,
+   "amountEur": 3,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Permut raises €3M to turn conversational AI into a revenue driver for brands",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejMtNEx6ZmhQc2Nyb1BpRHJLU0phYWM3M0xGS2VRUFlCLUg1UXhiN2NuMmVCaDg1ZFkwQnh2V0dBcWVqTmhoVHZhcEFyVFlVTFFBTE10c2JRWlU0RFVic0N6LWs3ZUVpZFA2a3dFY3BWWnUxejhPT0xmQ3d0WEtSR2pYNnpBeUVudE9ZeFZCOWNoUmVKT1pBblJxb04tQnFIaUFFSXZ3SDNJQQ?oc=5"
+    },
+    {
+     "source": "www.trendingtopics.eu",
+     "title": "Barcelona’s Permut Raises €3 Million for AI Agents That Help Online Shops Sell",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOelVrRGhqZi1GbnU2ZTBYcF9IT005aF92emVRTk9YR0dyUzJyZGJYbS1XbHRQQ2pndzdxQ3UxUnZveDdzYWpfbk9sWmVfNkVUZVBMVWJZLVVkM2xCeEhpVmU3c3ZTVWM2TEFnQUo0ckhrZExSei1NNTU5Y29PaC1PT3ZB?oc=5"
+    },
+    {
+     "source": "Retail Technology Innovation Hub",
+     "title": "Barcelona-based Permut raises €3 million seed round to expand into new European markets",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHhKbUU4SWl6c1prZTZMU1VoN0kwTFdzMl9Od3o3T1Y0cmQ0UjJGZFlrQkFLWEp2b21uZThYR2llLVN0dXU3UEZfM1lWVXVmM2sySlltdkZDUGM1QW5WdXowTzRRcjY2MHh3S0RXVjFMLUw5c3ZKWFljMWw3SExtOW9tM0R6cDZOWTNPcEJYMThDYXBXcGJ4UGMxbk9BblF1czdXaWV4VXpyUTNXenJhZ0FhRU12a0tzMkpMZHF1OUIxQmJnWFhkaFNuS1RwVTJXeXdxOA?oc=5"
+    },
+    {
+     "source": "IT Brief UK",
+     "title": "Permut raises EUR €3m seed round to expand in Europe",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQlIycWFibWhMMGplV2hic2Z5bW5HRzBfaXU5SjZfM2ZOU0g3OGotLUhGeW10UVhFWENaWXpEQzBkdHF2R3NkUXkzZDVobFpUS1VLY0p5aVhIOC1SR2dyTG50cmFTdzM0clp3cXE0SkZmTm5zeDVtQVdFNDZMU1lQMGJNNHdHZw?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Aqura Systems",
+   "title": "Aqura Systems raises £2.1M to advance AI-powered fish farm monitoring",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmVnTzMxRlZFMjFIMkhpbkJOZmMzRjVwMjlLdDVSZFhhVUNoMEVFdXd2Tnd1a2lPTEROcHJDaHRDNnRFblZPc1dXN293WVhaXzN0bUF5OUYxa2QzVjhKSHhjRDVVMk0xN045czYyS3U5dXM2YnNxY2RpWEJ1NWhrMG54T2FXdFg2UFlTQmZKZkNoTUxhTE5zeHRrY1R2Zw?oc=5",
+   "date": "2026-11-25T06:17:36.000Z",
+   "day": "2026-11-25",
+   "amount": "£2.1M",
+   "currency": "GBP",
+   "amountM": 2.1,
+   "amountEur": 2.46,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Aqura Systems raises £2.1M to advance AI-powered fish farm monitoring",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmVnTzMxRlZFMjFIMkhpbkJOZmMzRjVwMjlLdDVSZFhhVUNoMEVFdXd2Tnd1a2lPTEROcHJDaHRDNnRFblZPc1dXN293WVhaXzN0bUF5OUYxa2QzVjhKSHhjRDVVMk0xN045czYyS3U5dXM2YnNxY2RpWEJ1NWhrMG54T2FXdFg2UFlTQmZKZkNoTUxhTE5zeHRrY1R2Zw?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London-based Bound secures €45.68 million debt facility for its AI-powered FX risk management platform",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVJNam9KNDhmSkZBUW9CaExiR193WXZqQVdlUU53X3FfbU1sWVdPX3dlOUtwWE1XZFJQSXFsOFlydHJyQlkxSmVwMDl3d1dRQ0Vad213WEpwbzhRejFkV0tDSFItLWdTakxHQjdPSjRBaHhjYVpTSDZXSkNnT3oxRWN0dmhlQ0xjZEg1MHU2eWpHWHpvMkpmWkVJblY0WkFjZWRjRTlMLXd1OUxYTERWdllQNlRaR2R3NzM2WTZyR0NVZWFNUWk2U1k1YU1VUEdsTUlDMGZ3?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Pliant",
+   "title": "Pliant secures over €200M in debt financing to scale European payments business",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhPN0Z5b3Z5SmlDZ3pwZ0g4eDZtMDJsQTlYOUIyVFhBZUR1WTJPQW40dEtPQlBCMXVQREUyZFpsbjg0QVZ5cHpRdTlLZGJsYXJPNlI0VVF6YTRkQTBpWXVsSlhhYjBnaUpER2hORGlUZThpOGxKOFVJLUFDc01oME14eDNNNmFuN2QyTThzUG5TR0NyX2FpcElWMy1aczZLUU81R25VcDBQMjJjTUE?oc=5",
+   "date": "2026-11-24T12:20:53.000Z",
+   "day": "2026-11-25",
+   "amount": "€200M",
+   "currency": "EUR",
+   "amountM": 200,
+   "amountEur": 200,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Pliant secures over €200M in debt financing to scale European payments business",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhPN0Z5b3Z5SmlDZ3pwZ0g4eDZtMDJsQTlYOUIyVFhBZUR1WTJPQW40dEtPQlBCMXVQREUyZFpsbjg0QVZ5cHpRdTlLZGJsYXJPNlI0VVF6YTRkQTBpWXVsSlhhYjBnaUpER2hORGlUZThpOGxKOFVJLUFDc01oME14eDNNNmFuN2QyTThzUG5TR0NyX2FpcElWMy1aczZLUU81R25VcDBQMjJjTUE?oc=5"
+    },
+    {
+     "source": "FF News",
+     "title": "Pliant Secures €200 Million Debt Financing to Scale European B2B Payment Solutions",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejBYUENXemVMTmlPNGQ1QTRKVm9XY2FzQzdLS1dfS2lBYjZQZzVaRzZtUE1ZTm5JWm96elBaZHZYTDg1TnFLeDhTNjdYcl91RGxIMGd5cldLazBJSXFTTjVHVmx2ZlByeHA1djYxT3otVnZOdFljZlFVcjlwSjdRMmJHbl9GLWlzOFFwbFBiTTg5MXVzNVdRUzRKb0pGOVA0bTUtOW5BUWwyWTJSZTNuenhsYw?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Bcomp",
+   "title": "Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics",
+   "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/",
+   "date": "2026-11-24T11:34:52.000Z",
+   "day": "2026-11-24",
+   "amount": "€20 million",
+   "currency": "EUR",
+   "amountM": 20,
+   "amountEur": 20,
+   "round": "Series C",
+   "valuation": null,
+   "investors": "EGS Beteiligungen AG",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics",
+     "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/"
+    }
+   ]
+  },
+  {
+   "company": "Trustly",
+   "title": "Trustly completes $60M funding raise",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSWpoWW0tQUxBUUVJcWZwZnJSZzJxcXJubFNJVFhmdXA2Y3lMQkhFM3JfdkhZOW1uLXQ1Q2lRbmtVejFaNGVtanlZZ2RNUmVIUmNJUGNnaTA0a0E2cXp6c21vN3dvZURab01yWXpLNXo?oc=5",
+   "date": "2026-11-24T11:19:32.000Z",
+   "day": "2026-11-24",
+   "amount": "$60M",
+   "currency": "USD",
+   "amountM": 60,
+   "amountEur": 55.2,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Trustly completes $60M funding raise",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSWpoWW0tQUxBUUVJcWZwZnJSZzJxcXJubFNJVFhmdXA2Y3lMQkhFM3JfdkhZOW1uLXQ1Q2lRbmtVejFaNGVtanlZZ2RNUmVIUmNJUGNnaTA0a0E2cXp6c21vN3dvZURab01yWXpLNXo?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Tagomics",
+   "title": "UK spinout Tagomics raises $13M for a blood-based drug safety test",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2E2bjlCVlhDUVExSE1LQzFidzRMSU1jTDhVTjUyU2g2XzdUZzJmcUlJYU9nSzFLLWFSQW0yRTJfMVRkbFJ2bXlaRnhoN1ZwRG42ckluUmEwTzZvZXFVNEUzU1RhbkRJS1J3bmFlbVM1T0tiaXg5OE1rMTRHeG02X0kzV3dOM3Fsc3QyNFRwaw?oc=5",
+   "date": "2026-11-24T10:36:06.000Z",
+   "day": "2026-11-25",
+   "amount": "$13M",
+   "currency": "USD",
+   "amountM": 13,
+   "amountEur": 11.96,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech Funding News",
+     "title": "UK spinout Tagomics raises $13M for a blood-based drug safety test",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2E2bjlCVlhDUVExSE1LQzFidzRMSU1jTDhVTjUyU2g2XzdUZzJmcUlJYU9nSzFLLWFSQW0yRTJfMVRkbFJ2bXlaRnhoN1ZwRG42ckluUmEwTzZvZXFVNEUzU1RhbkRJS1J3bmFlbVM1T0tiaXg5OE1rMTRHeG02X0kzV3dOM3Fsc3QyNFRwaw?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Reversa",
+   "title": "Reversa raises €750K to automate regulatory processes with AI agents",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnJaWGpmQ2J3WDNZZ1cxSEw2OVZNbUs0SWhGdkFILXNuU3NoZklNVV9fNG5LcFpvTjFqa3dDS0VCR3RxRm5FdC02SGFjdDVmVUNNdl9fcGpydDlfMXJSa2dFbWdXXy0xZHBJNVFLUmVkVFRJYW01bnJPc0RjYzRTYjhMeVdQV0lpaWh5UEJaRVJabVpkMTVBVUZpalZhUTg?oc=5",
+   "date": "2026-11-24T10:01:24.000Z",
+   "day": "2026-11-24",
+   "amount": "€750K",
+   "currency": "EUR",
+   "amountM": 0.75,
+   "amountEur": 0.75,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Reversa raises €750K to automate regulatory processes with AI agents",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnJaWGpmQ2J3WDNZZ1cxSEw2OVZNbUs0SWhGdkFILXNuU3NoZklNVV9fNG5LcFpvTjFqa3dDS0VCR3RxRm5FdC02SGFjdDVmVUNNdl9fcGpydDlfMXJSa2dFbWdXXy0xZHBJNVFLUmVkVFRJYW01bnJPc0RjYzRTYjhMeVdQV0lpaWh5UEJaRVJabVpkMTVBVUZpalZhUTg?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Tasted",
+   "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5",
+   "date": "2026-11-24T09:08:24.000Z",
+   "day": "2026-11-24",
+   "amount": "$6.5M",
+   "currency": "USD",
+   "amountM": 6.5,
+   "amountEur": 5.98,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjFzLVZNaGdYY0dGd01yZVgxSWJqMkdpYUM1TWlJWkRvMnhTb09ZbE5BYnA1M1ktSlZhRmdpMExoMm5PREJWazhScHZWS25YZ2MzZVRxaC1USTZwdW50TWhzMjNYUHZpME5iMzdCelk0Q2RMWDBWbEZRUGNTbWR2UEtQYzh3OXNOZjg3QjExREMweVllVFE?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Intelligent Legal Solutions",
+   "title": "Intelligent Legal Solutions secures $11M Series A to expand ProVision platform",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dVUzZYVUlNei1uVVdkTGl2TGFrM0kzcWFBejNCcWdjOXBGWFZ4RXlIX3I2emlzckZQY0hRTlMxbnc2Z0dnZGNXM0NOaEVnUjY2dXJKQlRGejVVZDc2THh2RlE3dTUwTjJ3ejFNcndCQVhoNmRZeUZkTnI1QVBmOEk5WXozREYwYnVWczMwUlIxRUwwSTF2RzZiOHYtRmtpNU9QUHFXVXo?oc=5",
+   "date": "2026-11-24T08:31:53.000Z",
+   "day": "2026-11-24",
+   "amount": "$11M",
+   "currency": "USD",
+   "amountM": 11,
+   "amountEur": 10.12,
+   "round": "Series A",
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Intelligent Legal Solutions secures $11M Series A to expand ProVision platform",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2dVUzZYVUlNei1uVVdkTGl2TGFrM0kzcWFBejNCcWdjOXBGWFZ4RXlIX3I2emlzckZQY0hRTlMxbnc2Z0dnZGNXM0NOaEVnUjY2dXJKQlRGejVVZDc2THh2RlE3dTUwTjJ3ejFNcndCQVhoNmRZeUZkTnI1QVBmOEk5WXozREYwYnVWczMwUlIxRUwwSTF2RzZiOHYtRmtpNU9QUHFXVXo?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Pai",
+   "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5",
+   "date": "2026-11-24T07:01:49.000Z",
+   "day": "2026-11-24",
+   "amount": "$5 Million",
+   "currency": "USD",
+   "amountM": 5,
+   "amountEur": 4.6,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Nordic and Ukrainian investors back Pai Defence with $5M to tackle frontline drone threats",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3d6SjFWTW1NaXoxd0xIN1ItSnh5bDNJWDN1bWwwcWk1YXgxczZST1VsZzV2NnhrSGtzMzRZMmsxbHAxTWhNTzZBeE9pNzUwV1lTWDAxcmFhQzRoQVFhTEU3YjBEck9faEFBU0U3ZFlQMDZtTzRsNFh4aUl5QWVqVXNKR0xDcHpDemNGTzM0V3hWcm9oaGtpVUpmVWpWSzFPMWFyQUtRS1FRbE9Sa1laVzVuenI2NXZH?oc=5"
+    },
+    {
+     "source": "Мілітарний",
+     "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5"
+    },
+    {
+     "source": "The Recursive",
+     "title": "British-Ukrainian Pai Defence Raises a Pre-Seed Round",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGI5aFFISkVPZm5lV2ZicWR1Y0xFRm52eGdkYWxxU0N3Um5nRjdHRUlBSjItVkVHNDdCeHlleVVtdEk2a2ktWERnTjRrRUFRVUxETzNweFUzUDJyZkRRUkhBU1VscmdKNy0tUFlYX1l5MmpLdU4tVk9VVE1tb1JrdWxJZE5SSW1TTzlnVF9YN1VBSEdhZUI0Slh6TUZMRlNLakt5SGg4QWtHeWw2ZjYxdjhn?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Playbook",
+   "title": "Playbook raises €8M to help pharma companies keep AI agents compliant",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVNNeDFhcGh2clpTdU55SWU1ZE1TRnJERF9GdTFsaURtZEJJOUtJSlBacUJIVE02S24wb3ZYT0E0QmRJNURHMnJMa19iRjQwZk5leGk1SXppTU5vQl9RSGJ2Q1BJLU4zZ2lGMlZPOUkzaVNFaDZDeWhmaU9rbklmX0hsMmxrZ2twbWtHWHV4ZFpwRGNMMXJ0WE9lZjEwa0Qy?oc=5",
+   "date": "2026-11-23T15:40:56.000Z",
+   "day": "2026-11-23",
+   "amount": "€8M",
+   "currency": "EUR",
+   "amountM": 8,
+   "amountEur": 8,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "German startup Playbook secures €8 million to help pharma companies deploy AI safely",
+     "url": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "Playbook raises €8M to help pharma companies keep AI agents compliant",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVNNeDFhcGh2clpTdU55SWU1ZE1TRnJERF9GdTFsaURtZEJJOUtJSlBacUJIVE02S24wb3ZYT0E0QmRJNURHMnJMa19iRjQwZk5leGk1SXppTU5vQl9RSGJ2Q1BJLU4zZ2lGMlZPOUkzaVNFaDZDeWhmaU9rbklmX0hsMmxrZ2twbWtHWHV4ZFpwRGNMMXJ0WE9lZjEwa0Qy?oc=5"
+    }
+   ],
+   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-bar-23-300x169.png"
+  },
+  {
+   "company": "Oxford University",
+   "title": "BBB invests £43M in Oxford University spinout backer",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1JpX0pTUU9pdy1xVkI4OUl5czN1ZDZwVmhXMW5rUnVUVnBhMVR2c0R1SU5XQkh1NEg1SV9XOHNoOVFiOElZZEgtRVpYR0xzbWYyWDZIMGxVbU04REIwc1d6aDM3UFB6YmZvUEZ5NWVIamNteEdPZy1iTWRYa2hQakZrRy1Bbmly?oc=5",
+   "date": "2026-11-23T11:58:40.000Z",
+   "day": "2026-11-24",
+   "amount": "£43M",
+   "currency": "GBP",
+   "amountM": 43,
+   "amountEur": 50.31,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "BBB invests £43M in Oxford University spinout backer",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1JpX0pTUU9pdy1xVkI4OUl5czN1ZDZwVmhXMW5rUnVUVnBhMVR2c0R1SU5XQkh1NEg1SV9XOHNoOVFiOElZZEgtRVpYR0xzbWYyWDZIMGxVbU04REIwc1d6aDM3UFB6YmZvUEZ5NWVIamNteEdPZy1iTWRYa2hQakZrRy1Bbmly?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Theseus Robotics",
+   "title": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US",
+   "url": "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/",
+   "date": "2026-11-23T11:15:57.000Z",
+   "day": "2026-11-23",
+   "amount": "€455k",
+   "currency": "EUR",
+   "amountM": 0.455,
+   "amountEur": 0.46,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US",
+     "url": "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTZUaGpsSnF1d0lVZjZ4ankwc2lRSU5hU1NtM0RaSDVYVmNMdHJoVlJyM29Ubi00bldPNHk3UFljSGRfdER5NS02Y2xSdFYxNktmVWxkTG9pNEtrVk9QRkFiSG1YYzNhRFh4TkdFQWNueDJOWUxlV0x3LThxMEpLQl9wZ3NjSHV1YUd0NHBxMFNnOG45dDJNYmdXdW9xeDFuZTdGdnNNQ1hEN0FWZFhRNFhFbkQySU9jMXZObzJTTUgyUU5w?oc=5"
+    }
+   ],
+   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/Funding-comparison-300x169.png"
+  },
+  {
+   "company": "Acorda",
+   "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclRpM05acE9pM19CSHJhRTVJVzNLcC1UaGJLMWVtaXRCOERqSE1GM0FZdHBYWGtRc3NqNmMwSHJ5bFdBTmU2U1d2ZlQ2Mk80VlAwUFhrZWZhMURXa2JILWFiRC1YTlFYZVhZTFlySXM1cWJHeWFYT1JVcVcteURwLWUxbkJNRDVSSVNmd2pvT1I0dlhEaFoxYjZTYUlTeEtzN3cxNFNqUnpadnFzTHJBUVFtcWNNbHIya2hYc0lKc09zaURLN2o2VzhSbw?oc=5",
+   "date": "2026-11-23T10:31:19.000Z",
+   "day": "2026-11-24",
+   "amount": "€2.15 million",
+   "currency": "EUR",
+   "amountM": 2.15,
+   "amountEur": 2.15,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclRpM05acE9pM19CSHJhRTVJVzNLcC1UaGJLMWVtaXRCOERqSE1GM0FZdHBYWGtRc3NqNmMwSHJ5bFdBTmU2U1d2ZlQ2Mk80VlAwUFhrZWZhMURXa2JILWFiRC1YTlFYZVhZTFlySXM1cWJHeWFYT1JVcVcteURwLWUxbkJNRDVSSVNmd2pvT1I0dlhEaFoxYjZTYUlTeEtzN3cxNFNqUnpadnFzTHJBUVFtcWNNbHIya2hYc0lKc09zaURLN2o2VzhSbw?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "coprod",
+   "title": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVIzVHZ6a3JnWFhZWXV4MzVOOURYTEQyNGEyeHFyYV9NRlgyTnJTenRvSlZ3NC1FbXRMcUY0ZXhUV0w5bnJEQ243bWFqYzdNcm9qTkRwLWtJZUFueF9GdTZ5QjVhR3dOenkyYnhDcHBKZUZYcTBIU2dPRndDUGFRbzU4aXdVOUZuRlV1TDdjRkRSRkh5a2JHYWNVbW95Yko3aG9WdVZ3bjZHV1VpUmg3OVA0TjN2UUM3VUpEZ082UXM?oc=5",
+   "date": "2026-11-23T09:00:00.000Z",
+   "day": "2026-11-23",
+   "amount": "$6M",
+   "currency": "USD",
+   "amountM": 6,
+   "amountEur": 5.52,
+   "round": "Pre-seed",
+   "valuation": null,
+   "investors": "Founderful and PROTOTYPE",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVIzVHZ6a3JnWFhZWXV4MzVOOURYTEQyNGEyeHFyYV9NRlgyTnJTenRvSlZ3NC1FbXRMcUY0ZXhUV0w5bnJEQ243bWFqYzdNcm9qTkRwLWtJZUFueF9GdTZ5QjVhR3dOenkyYnhDcHBKZUZYcTBIU2dPRndDUGFRbzU4aXdVOUZuRlV1TDdjRkRSRkh5a2JHYWNVbW95Yko3aG9WdVZ3bjZHV1VpUmg3OVA0TjN2UUM3VUpEZ082UXM?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and physical AI hardware",
+     "url": "https://www.eu-startups.com/2026/11/swiss-startup-coprod-raises-e5-45-million-to-solve-integration-hell-in-robotics-and-physical-ai-hardware/"
+    },
+    {
+     "source": "ChannelLife UK",
+     "title": "Swiss robotics startup coprod raises USD $6 million",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjlGZ3dBNUZ2em9uNDlxWEJ3RXF0MTNrQ3lyMGFTMjZRS2QzR3NOemtSOGFUcGU3VGN2UlA2aU1NY3VkVWFtQ2oxTUZvakEtZV80bzQ3b0ZUeHBTSS0zRlFscTAwTkx3Sk1QYzF2WWZrTi1mdjhfaEdQMDhDbVJ4ZXJmcURXaWYxbXc?oc=5"
+    },
+    {
+     "source": "Dealroom",
+     "title": "Swiss robotics startup coprod raises $6M to fix hardware's \"integration hell",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSGdWbnVkbVE4ZTFuaXFuZ1paN05FZlk3MnFGQXY3U0pEOGJCOHBYTW9xcTh4S3Jmbkcwd0c2cEFfMWt3MTlvanNpYzdFVFgwY3Q4blYydEVqYlFUZDV0NFo0WllvUjM5aS1LSDlUV0xYVFpRaWRUeGd5VmlpbHBJTURSQ3J6ZHdFdUdTcFo0QWtXbEo1RGhXX00zdW5XT3ZOUDViX3hlOWVYTzhV?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Agon",
+   "title": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+   "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
+   "date": "2026-11-23T07:10:27.000Z",
+   "day": "2026-11-23",
+   "amount": "$70m",
+   "currency": "USD",
+   "amountM": 70,
+   "amountEur": 64.4,
+   "round": "Series A",
+   "valuation": "€411.3 m",
+   "investors": "Northzone and Lakestar",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "Unicorns & scale-ups",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+     "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "Defence startup Agon raises $70M, with UK's SovAI and NSSIF investing",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnFVUk14WjFPdldJYkpuMXRkQVU4YVk2TzlRdlFvejY1azZCLVo4TVhiUTFkd1hQVXNmOWw0cF9FUC1Yb2pIWjZ2N1BCaUNlWXMtMXhmMldyeEs3VXo1azBJMXdQMFBUcHVpZzg2RXptbmZDTnpVSFJ4bUFNRjFZZjR0dlF1NDZiMTgyekZCNkxURVRDR1BxWg?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure",
+     "url": "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/"
+    },
+    {
+     "source": "Tech Funding News",
+     "title": "Agon raises $70M at $450M valuation led by Northzone to build Europe’s defence AI lab",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWFCWnphTXhVNVFIUzdPQjcxNFhQMy11TlVFRXd3eW1ENjZxUTF5enNuVVhkM1p1QmhmMkNWeVpQbG02UlcwcWVrcHVvZnVUQkM4RWpOTnpOMDE0WXFUMENEcXZXclF6Y24tSDdGVDBDd2MwTXotcGNTV2pJeUFTU0loZlk1ZmtPQkJNRnhxblp2ZmQ0OHNXZmVPNUQwTGRkZ3BHUzVUVXRYMm5BV1lFRQ?oc=5"
+    },
+    {
+     "source": "The Economic Times",
+     "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbEF2MXFqMDFzRFB6ZjZfNHcwN2UwcUxGdlo2TTRqdjd0aFpmNkJ0Wk5CR19RVGRIMl94UFVuRE1adktfVWNvS0g3SFhpbGpDV3VVeHIxLXN2S3d3bURHbDhCVGNwOVVocmZWNEZ0RWQ0bWljVU4zT1BYdjcyRU82RV9PMFlzLUxKdDVKcHlfQjA2aWFlbHFqZkVyeUc5dVVNRVg1RGhsdHBneTRDQkhnMk1QakFHLUw1RVlKcWE3ZWZKV29RX2pnakJ6S1NJM2FjdWJoMWxrTVBTMFB3aWpoZzZFLVZLX0RGVkxn0gHwAUFVX3lxTE8zaDk1ZWIyOVhpY09sdjRmbDlKbWdFa2EyZGVyQURjbndzZUtIc2tjNjJEUFRoMmJrQ1FseWI3WXI2Z1RLeEd4RG9GRE1kc1FJdUxNV1ZBa042UkdTQlJ5WEhmdG9QTjc0Vjd4cF95SGxpQlQzUDgya24tblJRQThBR2dWR09mOHRuaHppZDFyajN2NjhIa3AxRW9LQlFGancxQVgzU0U5VFV3RzVDcGNOaUoxQWpoODhDNGFfMkZ5R0xpNElQN1RKaUJBdkpBZUlFd1p4cDhNN1VreDBWZlo3c1Bvb19GemRBYUdwRXQ5Uw?oc=5"
+    },
+    {
+     "source": "MLQ.ai",
+     "title": "London defense AI startup Agon raises $70 million at a $450 million valuation",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnRXZnFianQzakFTS1d0MGhrYWlhV3BscktVUE15eWx6WmVmWG85OEZCbDJaVHBaMkxaMlBfd09LMTgzSjZOZXp6R3BkaURreUh6bWZGWTF6NVRYSG9STWo4allfc2tLamhUNWh3ejIybmNYZklaeGR0SjVNd3NrQ0ZQbFhqN1hOMDhjbkpuWWZDTExOaHVQbzdESHE?oc=5"
+    },
+    {
+     "source": "AFP.com",
+     "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdklnd1V0aWVfS0xTUkdiM0FXak1LR2czTG5vYXA2OGFQendfaFRza0hpR1djaDlaX3Z6a0VQSkRtZjBwd0RCR3Y5UW5BRC1UbVcwM0F6UHZoZlg4UWY5S0RwMmhKak02OXVDMDNtWGdUT01UZTl5WTlWWW1YR09HdWpVb1ZZNVlIM1pVcXdPVThCQzRtWHpDTWpobHQzWFRrLTJ6dnBVYzhJUi0wZ0ZmdQ?oc=5"
+    },
+    {
+     "source": "AI Insider",
+     "title": "European Defense AI Company Agon Raises $70M in Series A Funding to Develop Autonomous Systems Technology",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbV9pVVJjcDRtZkFpdzlRWmRZekdESlNIS2M4Y294bjl1Y3Q0Y2F1U0hEbk9IUGlCUmROdEJjWlgwaEdoc0hwZWt2aXJTNzQzS3B3V2Y0cnNoUm45czJrT01zX2pfdUF1aGtBU0dheUpGYWZXZmZhdGJ0a3dhalgySlA2RlEwMk9qRHhfWEd3amRIWkxaaUF5V0ZUM2RNRUsxdE5MYWhiUVpvRm9lLTJ2a1IwN3RfZlVtQ3p4aklrT3hid192ZVd1UnRieGc4bldZNkpId2ZQTkhndw?oc=5"
+    },
+    {
+     "source": "Traders Union",
+     "title": "UK defense AI startup Agon raises $70 million in Series A funding",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmV1dW12cHJDdUxzcEt4MldHU2VfMDc0REJVZGJzMy1tVmtoQ180ZlhlVm5SY0R2SW5ydTVGbXp5bGNyYUVYWFhjMkxWVVlTc2NxN3pEdFkwOUFkbGdUMGZ6STdYQ3B0WlN1RXNMUGxkTXJpQUdUMWR5M1BKQXJoUDc5T1BiaXRORWNPVzFNdU94bDQ?oc=5"
+    },
+    {
+     "source": "Pulse 2.0",
+     "title": "Agon Raises $70 Million At $450 Million Valuation To Build European Defense AI Infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFZ0ZlhUUi1kbFNIMWVJSnd4Q2l2V243cTdaT0lpZ2RjOWU0R0s0RWVZVl85Q3p1eDF0cmtvdFpWV19tX1lQTDhxbTFIVllrNjZ4cGpIRDJodjM4ZHZLdTdMMWZUUHU1d2NEMUc0dTlBU001VlU4bmNCQ1VVOEVvbFJFLS1wclhqaUtCQ3VTZDVhOHdKbVEyLTF3eWs2MjNMazJyZlB2UTlMOUVGd3F5Yg?oc=5"
+    },
+    {
+     "source": "The Next Web",
+     "title": "UK defence startup Agon raises $70M to simulate the battlefield",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTW5saFRQQTlFRWo0MUsyM2V1ZG16Y1ZsYTliRXA0WG03VF8wM0w3b2tXTFpUVEZsYzliNXhHTUE5aHJibmxjS3BzVnhNSTF3eDdWNnY1R0tpRTRvN0RRcmZCNi1sOHJHSUdtb1VQS1JrSV9aVFE?oc=5"
+    },
+    {
+     "source": "Crypto Briefing",
+     "title": "UK government backs Agon Dynamics in $70 million round for AI defense training",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVE0zVFBBZ3ZxVVBnUm8tdGNkOXFhcWRnYU02amZPMi13ME8zMTJ6LUJLVkJzN1FzNG9MTU5iVzZiZ0F6X3RZcjB4X3ZfZGRLNUNUY21FU1MxY252eWR1MlZjc1V6UWxEd1NMa2gzeE84NEtva1E4UzlfR0w?oc=5"
+    },
+    {
+     "source": "City AM",
+     "title": "Government backs British defence AI startup in $70m funding round",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONGNDYXhzS2o5TmNTRF95X2phS2l6c3hlZDNRYjBHcFRtNXNfb0FYci1wTTVzVFI3Q0c4UDNJSjBEbldTNFhOWmNzNlF1cFFJekIzVENOTlVIUE9yN3F2ckxoTk5uUm1GNWtyaEtMV19paG5qT2E0V08yN1R5dkZ0THVzRUdSWjZWMFR1V0prYnlBQQ?oc=5"
+    }
+   ],
+   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-23T190722.858.jpg"
+  },
+  {
+   "company": "Monzo",
+   "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+   "url": "https://sifted.eu/articles/acorda-pre-seed/",
+   "date": "2026-11-23T05:00:46.000Z",
+   "day": "2026-11-23",
+   "amount": "£1.8m",
+   "currency": "GBP",
+   "amountM": 1.8,
+   "amountEur": 2.11,
+   "round": "Pre-seed",
+   "valuation": null,
+   "investors": "Concept Ventures",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "Unicorns & scale-ups",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+     "url": "https://sifted.eu/articles/acorda-pre-seed/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "Former Monzo scam prevention team raises £1.8M for Acorda to help banks fight fraud with better data",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2RlVUZRMjNlWEV1UkNTc2hUemV6bURjNUEtQ1hKdXB0TkdNcWVHajRLeVRBMzhONjgzMjJRcjMyRTNIWkwwRHBSRnY4aEx6WUY1MWlZeW9KR3hZQmFvbnQteGY5MUNRN1p1akpnYVZRaTI3ZHRYQm8zdFVHZE5fR0drYWFiTXV2Y2pyTGswWnJzRC1lbU5tZjM0dWFIYkZQWVZFMjhmUlkyOTM2blJUT0JscG5TdXg4R0ZWcnlrMmphdEdPNFI4?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+     "url": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/"
+    }
+   ],
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=1024,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/20161103/1795188124888.jpeg"
+  },
+  {
+   "company": "Hoplite",
+   "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
+   "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
+   "date": "2026-11-20T13:00:51.000Z",
+   "day": "2026-11-20",
+   "amount": "$5.5m",
+   "currency": "USD",
+   "amountM": 5.5,
+   "amountEur": 5.06,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
+     "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "AI startup founded by two Irish YC alumni gets backing from Stripe's Collison brothers",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXpNUVdWeEVnNUhIYms1NmtPNy1JSnRXaW9JX0NtOVZsWkpNNlZhR0lWc3BpVkg4SGUtbll3b3FrLTFIb1FlMkdad1BldS1XT2gta2pGV0ZKT0lOeWVBWHRaUEFYSEY1UGx1NnlkMVJ3VzZIQlQ0dURncnNjRFZKREVxc2dScExtU0pWZVdEeVVPS3RpV0pUTDlFUUtjV1hleXViNGV6QUdMeV9tRnc?oc=5"
+    }
+   ],
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=656,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/20123002/Screenshot-2026-11-20-at-13.29.41.png"
+  },
+  {
+   "company": "Ranketta",
+   "title": "Czech AI Startup Ranketta Raises €1M, Acquires Phemly",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3lWWVFyekJUQTBaS0YtSjJpa29UTFFOX0pQWkRUakltQlFOUmt1RWs1elRKNkZmQ09KNEplLV9adC1FTGFkdjUzREZrWFFEcml6aE00U3lubUtUNDFNTnB4c1hDckJRRG9qc25ycE5HQ3d0MXVtRExqWUUyRG1QWTY4Z0RTUDNPT1BSY0xIOVA0Y2d3TlYtTGVDV05faVdJREV3?oc=5",
+   "date": "2026-11-20T12:50:52.000Z",
+   "day": "2026-11-20",
+   "amount": "€1M",
+   "currency": "EUR",
+   "amountM": 1,
+   "amountEur": 1,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "M&A & IPOs",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "The Recursive",
+     "title": "Czech AI Startup Ranketta Raises €1M, Acquires Phemly",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3lWWVFyekJUQTBaS0YtSjJpa29UTFFOX0pQWkRUakltQlFOUmt1RWs1elRKNkZmQ09KNEplLV9adC1FTGFkdjUzREZrWFFEcml6aE00U3lubUtUNDFNTnB4c1hDckJRRG9qc25ycE5HQ3d0MXVtRExqWUUyRG1QWTY4Z0RTUDNPT1BSY0xIOVA0Y2d3TlYtTGVDV05faVdJREV3?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Archer",
+   "title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+   "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
+   "date": "2026-11-20T12:41:53.000Z",
+   "day": "2026-11-21",
+   "amount": "€9.1 million",
+   "currency": "EUR",
+   "amountM": 9.1,
+   "amountEur": 9.1,
+   "round": "Series A",
+   "valuation": null,
+   "investors": "Volition Capital",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+     "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/"
+    }
+   ]
+  },
+  {
+   "company": "Wilco",
+   "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5",
+   "date": "2026-11-20T09:56:25.000Z",
+   "day": "2026-11-20",
+   "amount": "€2.5 million",
+   "currency": "EUR",
+   "amountM": 2.5,
+   "amountEur": 2.5,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2FadTI2Z21RR2VWTC05c21tRl81OGZFWERDejh4WTM3dFN5TERxbFJXZU80U2J5SFRncF9WeC1OQlcyMmR6clI0al9kX3lxdzRBQTRTSXV2N05jenhTNTZGeGlnYTl2bERZZVI2UUZkY0xaMExiUkFpWHVBTnE4emxRQXN0SHJnanZrckh3SkNTRjNDTDFPQTRtWklzc0pTWW9VeG5OSkVqSEtDbUxEQnoyc0hVblItUkljTmRIVGt1Qm5PYmZ2MVAwVkxmZw?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Gradyent",
+   "title": "Dutch startup Gradyent lands €20 million EIB loan to expand digital twin technology across Europe's heating networks",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUNpSUdNejdDSXdJODJVXy1zMW42MXZMQ21BUFVoazVpSi1rN1UxQ05rMkdlOGJmY19MTy1xX0p3a2VzTVp3RkVYMlJ1cUVveWs1cWxmbDNxQm9SVmZMbUpKaHZLUllMMGk4OXZ5cDBSYTA2T3ZiQTluRUR6RFNKMXJsODB0MG1CWERZV0Y5N25XMWk3X2dwR0toSjYzdUlKQ0FvYVhoY0lxU2FHQkdfeEppZF92RzRLVEgtcFNFX3B3eGVYWmliOXBJZjJYb3U4T2FkS0hreGxIejlYMVk0QlVpQ1RpTU0?oc=5",
+   "date": "2026-11-20T07:41:14.000Z",
+   "day": "2026-11-20",
+   "amount": "€20 million",
+   "currency": "EUR",
+   "amountM": 20,
+   "amountEur": 20,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Dutch startup Gradyent lands €20 million EIB loan to expand digital twin technology across Europe's heating networks",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUNpSUdNejdDSXdJODJVXy1zMW42MXZMQ21BUFVoazVpSi1rN1UxQ05rMkdlOGJmY19MTy1xX0p3a2VzTVp3RkVYMlJ1cUVveWs1cWxmbDNxQm9SVmZMbUpKaHZLUllMMGk4OXZ5cDBSYTA2T3ZiQTluRUR6RFNKMXJsODB0MG1CWERZV0Y5N25XMWk3X2dwR0toSjYzdUlKQ0FvYVhoY0lxU2FHQkdfeEppZF92RzRLVEgtcFNFX3B3eGVYWmliOXBJZjJYb3U4T2FkS0hreGxIejlYMVk0QlVpQ1RpTU0?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Elysian Aircraft",
+   "title": "Dutch aerospace startup Elysian Aircraft raises over €12 million",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlpiTTlaeGc3RmR4OUJxSkw1NjlJUzdQSG5vOVZOd1ExdkZqZ0poS0JxemdVUjZpclNaZE5ISTZpWFdWNUlTZFNjbkM4V3MwQnpsUzA5SmdPV2llblpZTi1PbHd6dFFjOUhyaEF6Y0dydndyVW8yTUlEZDRubHBxZTJHZjVGbnMtQlktbW5nVHpPQUlMNFllckN6dnBPZVJu?oc=5",
+   "date": "2026-11-20T05:00:00.000Z",
+   "day": "2026-11-20",
+   "amount": "€12 million",
+   "currency": "EUR",
+   "amountM": 12,
+   "amountEur": 12,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Evertiq",
+     "title": "Dutch aerospace startup Elysian Aircraft raises over €12 million",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlpiTTlaeGc3RmR4OUJxSkw1NjlJUzdQSG5vOVZOd1ExdkZqZ0poS0JxemdVUjZpclNaZE5ISTZpWFdWNUlTZFNjbkM4V3MwQnpsUzA5SmdPV2llblpZTi1PbHd6dFFjOUhyaEF6Y0dydndyVW8yTUlEZDRubHBxZTJHZjVGbnMtQlktbW5nVHpPQUlMNFllckN6dnBPZVJu?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Gotmoves",
+   "title": "Evia Tech (t/a Gotmoves) secures £2 million Seed investment from Mercia Ventures, Herbert, Cerebrum Tech and angel investors – UK Tech Investment News by Deal Lite",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORVdQWE05d2NtMXVmUTFfekJZbUdiZmZ0aVI4UTh5X0dTMWs2SERkYkR3Q3FEeGJSX1MwenRoal8yLUVNQW1HTmp3NDhQR1gzSTYtbklGWWFJellNbDZRVmZJNWJaUTJhQV9sN1FCMTlDUE9pWXlmSUxrOHA2TUhYRnJzVi1acVA2eGhJQVNxNmFicmxmXzlLRHdKUGJPS2w5TzlobGN5TUZmRmg5OHN3dm9JX3FKdjdiWE5COUNOaFRBVm41Mm1zb1JEeTdmWENGNmprVnRURGp5bk1SUEZDekJ0ZzZxZ3ZqUkxwOTItZVE?oc=5",
+   "date": "2026-11-19T18:41:48.000Z",
+   "day": "2026-11-20",
+   "amount": "£2 million",
+   "currency": "GBP",
+   "amountM": 2,
+   "amountEur": 2.34,
+   "round": "Seed",
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "UK Tech Investment News",
+     "title": "Evia Tech (t/a Gotmoves) secures £2 million Seed investment from Mercia Ventures, Herbert, Cerebrum Tech and angel investors – UK Tech Investment News by Deal Lite",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORVdQWE05d2NtMXVmUTFfekJZbUdiZmZ0aVI4UTh5X0dTMWs2SERkYkR3Q3FEeGJSX1MwenRoal8yLUVNQW1HTmp3NDhQR1gzSTYtbklGWWFJellNbDZRVmZJNWJaUTJhQV9sN1FCMTlDUE9pWXlmSUxrOHA2TUhYRnJzVi1acVA2eGhJQVNxNmFicmxmXzlLRHdKUGJPS2w5TzlobGN5TUZmRmg5OHN3dm9JX3FKdjdiWE5COUNOaFRBVm41Mm1zb1JEeTdmWENGNmprVnRURGp5bk1SUEZDekJ0ZzZxZ3ZqUkxwOTItZVE?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Vetaion",
+   "title": "Munich-based Vetaion raises €5.7 million to automate control cabinet manufacturing with AI and robotics",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWlBDbVdFdjllRHRtRkEweE5nUmN0bXVnSmN6V2JsMFBGelJMU0ZIVFQwUXRySU9SdjhmQUd4MjgxelJQdFh3Zy1jd0pLZWkxaGY2aE1uYlNZN0JLZjg3UFpXQ05ZZlBzYTJOc2NCd2ZneGFULWd1eDdKeE04cjg2T0pabU5VdGZ6cWVqZ1ZJYmNmRkhnelcwX1A0SG5XU21rYi1Dc0dSMmNrYXRSQ1R4MnplU2RHeldRcWFBZTFSVm9MekdOSzFnbWg3SU05QkI5Z1AzMmQ1Yw?oc=5",
+   "date": "2026-11-19T11:54:27.000Z",
+   "day": "2026-11-19",
+   "amount": "€5.7 million",
+   "currency": "EUR",
+   "amountM": 5.7,
+   "amountEur": 5.7,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Munich-based Vetaion raises €5.7 million to automate control cabinet manufacturing with AI and robotics",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWlBDbVdFdjllRHRtRkEweE5nUmN0bXVnSmN6V2JsMFBGelJMU0ZIVFQwUXRySU9SdjhmQUd4MjgxelJQdFh3Zy1jd0pLZWkxaGY2aE1uYlNZN0JLZjg3UFpXQ05ZZlBzYTJOc2NCd2ZneGFULWd1eDdKeE04cjg2T0pabU5VdGZ6cWVqZ1ZJYmNmRkhnelcwX1A0SG5XU21rYi1Dc0dSMmNrYXRSQ1R4MnplU2RHeldRcWFBZTFSVm9MekdOSzFnbWg3SU05QkI5Z1AzMmQ1Yw?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Austrian Investor",
+   "title": "First Circle Capital: Austrian Investor Raises $26 Million for African Fintechs",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmhSZzA2dlc4MnpTaF9YOUZ3cDNxNEc4U3hKVUpLaWJWcFlxU2plbWM0cEdEdnpKajlwUVByN3laY1J0MlpUSjF5YUN3aEJJSWZJQVp0VUpGX1dHT0sxbWthNDQtel9DSEFtai11V190UGdVdklrOVVBRG1kQmthd21MaTFTYXhtN0NYcl9OOGU3NmZndC0tT01aZVZ3Zw?oc=5",
+   "date": "2026-11-19T10:41:31.000Z",
+   "day": "2026-11-19",
+   "amount": "$26 Million",
+   "currency": "USD",
+   "amountM": 26,
+   "amountEur": 23.92,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "www.trendingtopics.eu",
+     "title": "First Circle Capital: Austrian Investor Raises $26 Million for African Fintechs",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmhSZzA2dlc4MnpTaF9YOUZ3cDNxNEc4U3hKVUpLaWJWcFlxU2plbWM0cEdEdnpKajlwUVByN3laY1J0MlpUSjF5YUN3aEJJSWZJQVp0VUpGX1dHT0sxbWthNDQtel9DSEFtai11V190UGdVdklrOVVBRG1kQmthd21MaTFTYXhtN0NYcl9OOGU3NmZndC0tT01aZVZ3Zw?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Wilgot",
+   "title": "Wilgot raises $3M in seed funding to help brands get recommended by AI",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUXNFMUF3Y1loMklfRF9VdW5yWkJWVzJyRDVqaDBvTW90RkUxd3dQczBhcGlnQVJuTlNyTDV6dzdWVXFBVGlVeHdtNFhyTDgtZnlVUGxfMU1kcEIwSW95MWZ5WV9rZWdDRTRjdzA1cnk3TUEtOXc3aW91WUdYdXQ1c0ZCWEl2cEs4OFBQYUJXVEpuVjllcksyTzZTc2hlZw?oc=5",
+   "date": "2026-11-19T09:00:28.000Z",
+   "day": "2026-11-19",
+   "amount": "$3M",
+   "currency": "USD",
+   "amountM": 3,
+   "amountEur": 2.76,
+   "round": "Seed",
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Wilgot raises $3M in seed funding to help brands get recommended by AI",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUXNFMUF3Y1loMklfRF9VdW5yWkJWVzJyRDVqaDBvTW90RkUxd3dQczBhcGlnQVJuTlNyTDV6dzdWVXFBVGlVeHdtNFhyTDgtZnlVUGxfMU1kcEIwSW95MWZ5WV9rZWdDRTRjdzA1cnk3TUEtOXc3aW91WUdYdXQ1c0ZCWEl2cEs4OFBQYUJXVEpuVjllcksyTzZTc2hlZw?oc=5"
+    },
+    {
+     "source": "Retail Technology Innovation Hub",
+     "title": "Swedish agentic commerce startup Wilgot secures $3 million in seed funding round led by Industrifonden",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUtGR3FvVkppWTdGU25qbmZHM0pFamhkeFd0TWpDRTdoVS00VjRtdThCQmY4VWdVempyX3ZfVDNLY3JEdi1lSGNoSHhQUEFWSGhjdzAwaUpfeHBDSVZUdk1kN2toZDVXcnlPRlRVbjRwakVxZGVUVzRvTVNRemQ4WjdMenl1clI5dWE1WHJ3U1JhT2Fnc2lOT28yUXhEVmFuQjVxLWxBbmpZYjVIRG5IWGhUWWZ5ODNVTUU2cENlNWhJN3lWbDJiZEFKQW43SnliWWpiN2dma3VfTlUyUHJhVEhKVDN1QUlv?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "LATO",
+   "title": "LATO secures $4.7M to automate customer and expert interviews with AI",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1hYZ1lYVHBJYzBlWjJhb0RDNEsxYXBwbE9pNkNUMkNQbWxTdk1uRmo3YURxQ0xELWhYSG5xWVVvUUt6YWlJeWJoenJQUzZ6OXAyMkxORkZmWWNjTlpibEhsUG5HRWd2Zm5aM2pkTEVYcDlKRUN6Z2xzZU9WNHpzRXpZN1c4cDduQk1zUkE1THptVURMQU5kRWYwYw?oc=5",
+   "date": "2026-11-19T08:20:58.000Z",
+   "day": "2026-11-19",
+   "amount": "$4.7M",
+   "currency": "USD",
+   "amountM": 4.7,
+   "amountEur": 4.32,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "LATO secures $4.7M to automate customer and expert interviews with AI",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1hYZ1lYVHBJYzBlWjJhb0RDNEsxYXBwbE9pNkNUMkNQbWxTdk1uRmo3YURxQ0xELWhYSG5xWVVvUUt6YWlJeWJoenJQUzZ6OXAyMkxORkZmWWNjTlpibEhsUG5HRWd2Zm5aM2pkTEVYcDlKRUN6Z2xzZU9WNHpzRXpZN1c4cDduQk1zUkE1THptVURMQU5kRWYwYw?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Noah",
+   "title": "Noah raises €800K to help companies unlock their AI potential",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmtmUzJtMlRYRWhnLTBzTTFieWtRTmxZaW1xOVhLTEtWMkRSR0o1ZF9DSlo5ZjVjOVJzb0UzR25GYi1MWUhGajVIR2t6cUE2bWRTd2UwS3hIWWd2TDlrNXlONXdzZ0RzRjFFaGZ4ZWJiekRLbGxlWGNCdkFJMFVSYlZiRE1YR19NdWVwLW9OOWxnOWwtWlE?oc=5",
+   "date": "2026-11-19T07:45:59.000Z",
+   "day": "2026-11-19",
+   "amount": "€800K",
+   "currency": "EUR",
+   "amountM": 0.8,
+   "amountEur": 0.8,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Noah raises €800K to help companies unlock their AI potential",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmtmUzJtMlRYRWhnLTBzTTFieWtRTmxZaW1xOVhLTEtWMkRSR0o1ZF9DSlo5ZjVjOVJzb0UzR25GYi1MWUhGajVIR2t6cUE2bWRTd2UwS3hIWWd2TDlrNXlONXdzZ0RzRjFFaGZ4ZWJiekRLbGxlWGNCdkFJMFVSYlZiRE1YR19NdWVwLW9OOWxnOWwtWlE?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "IntelliProve",
+   "title": "IntelliProve raises €2.7M to bring health monitoring from smartphones to humanoid robots",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbndnbkdXOFk1WUVtY3czUnhTZHh5cjhENHhtTGVPZXVCbFA2MjRvVkRkdWVRMWtYeExwVWNxbFRNLTdITHprNjVsVFhSNnZpbkNEb2RmcFhYMXlxczZ6cDVaaGgzc1A2MTgwNGJfdWtteXVmQmRfN0pZYVhfRDZ5VFFTLU5JWVpLbnFnRlpIbEFUblJHTzV4VVVqenFFOWh1eUoxaHBwaVpVdHJHZFVLMDJNUHNxNTRU?oc=5",
+   "date": "2026-11-19T07:00:37.000Z",
+   "day": "2026-11-19",
+   "amount": "€2.7M",
+   "currency": "EUR",
+   "amountM": 2.7,
+   "amountEur": 2.7,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "IntelliProve raises €2.7M to bring health monitoring from smartphones to humanoid robots",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbndnbkdXOFk1WUVtY3czUnhTZHh5cjhENHhtTGVPZXVCbFA2MjRvVkRkdWVRMWtYeExwVWNxbFRNLTdITHprNjVsVFhSNnZpbkNEb2RmcFhYMXlxczZ6cDVaaGgzc1A2MTgwNGJfdWtteXVmQmRfN0pZYVhfRDZ5VFFTLU5JWVpLbnFnRlpIbEFUblJHTzV4VVVqenFFOWh1eUoxaHBwaVpVdHJHZFVLMDJNUHNxNTRU?oc=5"
+    }
+   ]
+  },
+  {
+   "company": null,
+   "title": "The other Staniszewski brother just raised $4.7m – and Paul Graham is a backer",
+   "url": "https://sifted.eu/articles/lato-seed-round/",
+   "date": "2026-11-19T05:00:14.000Z",
+   "day": "2026-11-19",
+   "amount": "$4.7m",
+   "currency": "USD",
+   "amountM": 4.7,
+   "amountEur": 4.32,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "The other Staniszewski brother just raised $4.7m – and Paul Graham is a backer",
+     "url": "https://sifted.eu/articles/lato-seed-round/"
+    }
+   ]
+  },
+  {
+   "company": "Boltz",
+   "title": "London-based Boltz raises $110M Series A",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvc2lVbjcyc3IwaWV1TWN1LXRYTDhWdzhyMU82QUpDNmtveGVQQ3RseGhWTVNERmJ3aXNuLUFFSXV1cEFFak5yWjlya1FZS1M2b2RUeVI3NC1ObWVxbUhaUUt0RzU2OE5LdjhYZF9icDM3czJ5RXc?oc=5",
+   "date": "2026-11-18T20:47:57.000Z",
+   "day": "2026-11-19",
+   "amount": "$110M",
+   "currency": "USD",
+   "amountM": 110,
+   "amountEur": 101.2,
+   "round": "Series A",
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "London-based Boltz raises $110M Series A",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvc2lVbjcyc3IwaWV1TWN1LXRYTDhWdzhyMU82QUpDNmtveGVQQ3RseGhWTVNERmJ3aXNuLUFFSXV1cEFFak5yWjlya1FZS1M2b2RUeVI3NC1ObWVxbUhaUUt0RzU2OE5LdjhYZF9icDM3czJ5RXc?oc=5"
+    },
+    {
+     "source": "Law360",
+     "title": "London-Based AI Legal Startup Alecto Raises $20M",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGR6RG1qeF93S3JSTTR1YTJ3Z3RLcEtteHM2LVdKM0hKT1VUMEd5TFBONU90Q2Y5M2toUjNZeFg0UWlVekRUcl9sckRtNmxNT3doSlZjZm5ReDRrQzQ5T3dCQlpKUFVxNFpHOGktXzFZLURGSzdHNHZrbXdpV05rX2FxNDAzVjRmWmtoZTJ4UVPSAVZBVV95cUxOVk80SGp5WFdEMnZHSi0wd3lQYnVxU3FTRm1tamVIaE5LMmFSSTk2MGpUOFlTbk9wVDM1Q0hLQVp4eVlYNzZJcE9fQkt6cVFFQmJHVFhHdw?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London-based Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb2NBSV9oWVB1cUgtNWdNLUEtS0RxdTRRTDBQSFQyOEcxZXZfUW1UTU0wUE8wVHdHeG9pNFhuNjRORU1aU2JrUjlodVZhRU9jdlFsTTZCYmFjR0xnd1kzcmFfQzYyQ3pWOFJGZ2hQUlhrczBSeGxfTk9vY1ZZN19lWjhWc3pFNFdvc0RMWU5LN2hFdm92TGswSGJONmlkQnBxTkpNeVpFaWxoTXRJWUFNeEQ1NXRwZGh3RFRLMjhBVGFlN1FGQXJQRzJVMkJsa1F5R3Rn?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Ireland Disseqt AI",
+   "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
+   "url": "https://www.eu-startups.com/2026/11/irelands-disseqt-ai-raises-e7-3-million-to-safely-deploy-ai-agents/",
+   "date": "2026-11-18T15:09:19.000Z",
+   "day": "2026-11-18",
+   "amount": "€7.3 million",
+   "currency": "EUR",
+   "amountM": 7.3,
+   "amountEur": 7.3,
+   "round": null,
+   "valuation": null,
+   "investors": "Sure Valley Ventures",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
+     "url": "https://www.eu-startups.com/2026/11/irelands-disseqt-ai-raises-e7-3-million-to-safely-deploy-ai-agents/"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNak1LVkNWUlZGb01RVlNhaHhxd2FuN19rdU5hUGtBTDZIT0dHbTdjTkduTGNfUFhFWjJxbkxMU29WaEJ0TW5ISzZleWJGdmtqeW8tVmI0TFZQcGh3SVVWbks4QzlocGEyT0NNTmM4VGRSOHR1clIwLTdNVFdXUjRPUF9hZ2FEYlc3LUt2WnNMNDZVVXpLSm9Ld1ZyM0Q3YkNCcHgzSzBB?oc=5"
+    }
+   ],
+   "image": "http://www.eu-startups.com/wp-content/uploads/2026/11/chart-bar-9-1-300x169.png"
+  },
+  {
+   "company": "each::labs",
+   "title": "each::labs bags $7M to make generative media production faster and cheaper",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmdETVVIRmtrVGV6SVdVVmJFMzR5TktOb2ZIZ09Vbm8xaFJfZEdwQ045VkM3OEE1WVowS1U3QVFuVnp6WEhWeDlaeDFaODRZLU43MzdsTV91ZEdkenRSUmU4WGxqa1hhZ1FLVjNsUm1zR2xFbFZUSExuQ3M5dXYtSjBkWlRaeVlTR0twV2xnMlZibnFlNWhBN0RUUUh3emox?oc=5",
+   "date": "2026-11-18T13:00:54.000Z",
+   "day": "2026-11-18",
+   "amount": "$7M",
+   "currency": "USD",
+   "amountM": 7,
+   "amountEur": 6.44,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "each::labs bags $7M to make generative media production faster and cheaper",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmdETVVIRmtrVGV6SVdVVmJFMzR5TktOb2ZIZ09Vbm8xaFJfZEdwQ045VkM3OEE1WVowS1U3QVFuVnp6WEhWeDlaeDFaODRZLU43MzdsTV91ZEdkenRSUmU4WGxqa1hhZ1FLVjNsUm1zR2xFbFZUSExuQ3M5dXYtSjBkWlRaeVlTR0twV2xnMlZibnFlNWhBN0RUUUh3emox?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Dcubed",
+   "title": "Dcubed raises €27.2M Series A+ to scale space deployment and power systems",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTROUndUb2tCUGgwQTA0TFRjMF9SVWRtLXlIN2NWaDBtUXFic1U4R0xfSXRsb0dRRGhJTnU1bEt1dGUyNTctOV9JTXRySDg1VWdYVHo5dXV6c0VhRDdRRTdyeFdwQVdRSGJMLTJoc2s3Q1A2NG0weXVxV2pvejVhNkVBU2lxZDhfSkVJZFUxdk5aRkZUaGhXdl9ZcUtscHloa0JFSQ?oc=5",
+   "date": "2026-11-18T12:10:23.000Z",
+   "day": "2026-11-19",
+   "amount": "€27.2M",
+   "currency": "EUR",
+   "amountM": 27.2,
+   "amountEur": 27.2,
+   "round": "Series A",
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Dcubed raises €27.2M Series A+ to scale space deployment and power systems",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTROUndUb2tCUGgwQTA0TFRjMF9SVWRtLXlIN2NWaDBtUXFic1U4R0xfSXRsb0dRRGhJTnU1bEt1dGUyNTctOV9JTXRySDg1VWdYVHo5dXV6c0VhRDdRRTdyeFdwQVdRSGJMLTJoc2s3Q1A2NG0weXVxV2pvejVhNkVBU2lxZDhfSkVJZFUxdk5aRkZUaGhXdl9ZcUtscHloa0JFSQ?oc=5"
+    }
+   ]
+  },
+  {
+   "company": null,
+   "title": "Meatable co-founder’s new firm Iconic raises €9.1 million to build AI operating system for large capital projects",
+   "url": "https://www.eu-startups.com/2026/11/meatable-co-founders-new-firm-iconic-raises-e9-1-million-to-build-ai-operating-system-for-large-capital-projects/",
+   "date": "2026-11-18T07:23:37.000Z",
+   "day": "2026-11-18",
+   "amount": "€9.1 million",
+   "currency": "EUR",
+   "amountM": 9.1,
+   "amountEur": 9.1,
+   "round": "Seed",
+   "valuation": null,
+   "investors": "Bridford Group, Common Magic, Graduate Ventures, NP-Hard, and Tiny VC",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Meatable co-founder’s new firm Iconic raises €9.1 million to build AI operating system for large capital projects",
+     "url": "https://www.eu-startups.com/2026/11/meatable-co-founders-new-firm-iconic-raises-e9-1-million-to-build-ai-operating-system-for-large-capital-projects/"
+    },
+    {
+     "source": "TechRound",
+     "title": "Gravity Co Brings Total Funding To £8m As It Expands Across London: An Interview With CEO and Co-Founder, Riccardo Tessaro",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kSEZ0RGZ6dXBueF9pYkhSZUNabFdwUFRSdjBnQlNJb2Z0dW50RUdzR1V6djhRdC10RFdaam5fcHhmRXpQeHI3bWZJSnMydUF1S0ZvV3BFLWlzV21z?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "CloudBackend",
+   "title": "CloudBackend raises €6.6M in round led by Carl-Henric Svanberg’s family office",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGRqSkNaTENyYWRrVkw0eGJSbmhHLVRuak45WHNOY1RiU2VCLXdQSnBzT2g2RzhYakpTeEtVOFlKVGtPWnhQRVFEeWdQbS1OM3otM3YtTjJkaGxPN3RTZG4zS3V5M3lxQURZSm9xU2lWYk1FUFcwTmwzRTRXWldrVjh5V3E2NHpKMkZielhCYVJJS3BydEdBRjQ0d0wtN0lFWWwyQVdJWjQ5UQ?oc=5",
+   "date": "2026-11-18T06:50:02.000Z",
+   "day": "2026-11-18",
+   "amount": "€6.6M",
+   "currency": "EUR",
+   "amountM": 6.6,
+   "amountEur": 6.6,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "CloudBackend raises €6.6M in round led by Carl-Henric Svanberg’s family office",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGRqSkNaTENyYWRrVkw0eGJSbmhHLVRuak45WHNOY1RiU2VCLXdQSnBzT2g2RzhYakpTeEtVOFlKVGtPWnhQRVFEeWdQbS1OM3otM3YtTjJkaGxPN3RTZG4zS3V5M3lxQURZSm9xU2lWYk1FUFcwTmwzRTRXWldrVjh5V3E2NHpKMkZielhCYVJJS3BydEdBRjQ0d0wtN0lFWWwyQVdJWjQ5UQ?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Perry AI",
+   "title": "Perry AI secures $2.2M to automate legal work across private capital",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmVhV18yQXZXaTlLUGZoT0lsZVBsdkh3NExVNEd2N3kxR2paeFR0Z0R1b05WTGtCTW9WbW9uV19qUzBuRjJvTGh5VEVLR09BbWJiWVdZRzBuRFpfUlM2ek9YcjBEWndEQkFlaTRYc3gtWldxbFdhS0U5ZUY1dGI3WU1DdC1wY0lxZ0l0M200RGNhNXRrM1FUMTNn?oc=5",
+   "date": "2026-11-18T06:42:52.000Z",
+   "day": "2026-11-18",
+   "amount": "$2.2M",
+   "currency": "USD",
+   "amountM": 2.2,
+   "amountEur": 2.02,
+   "round": "Seed",
+   "valuation": null,
+   "investors": "Haatch",
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Perry AI secures $2.2M to automate legal work across private capital",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmVhV18yQXZXaTlLUGZoT0lsZVBsdkh3NExVNEd2N3kxR2paeFR0Z0R1b05WTGtCTW9WbW9uV19qUzBuRjJvTGh5VEVLR09BbWJiWVdZRzBuRFpfUlM2ek9YcjBEWndEQkFlaTRYc3gtWldxbFdhS0U5ZUY1dGI3WU1DdC1wY0lxZ0l0M200RGNhNXRrM1FUMTNn?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "London’s Perry AI raises €2 million to bring AI-powered legal intelligence to private capital funds",
+     "url": "https://www.eu-startups.com/2026/11/londons-perry-ai-raises-e2-million-to-bring-ai-powered-legal-intelligence-to-private-capital-funds/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "Good Heat secures €2M to expand industrial heat battery solutions across Europe",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtLUC1ZeGJ4Vjg0c0llSEhva1BKWGJlX1JheXk4eVNDTzFoemQ2eDVvWE5oUXVwdGZKNFQ0M1VvOWtobVgtZTlNX2ZwMTNJdDE5aUg0MlNMSk1KbWt3c19IdG9WZWRuMGtYZkZKY1RVcExGRFV0U1FiLUhmbVNodjlpLXVjSU1ydFFlZDhCcVZlYVdSZHBUSmg2MjZJYnY5MUhGU0lTTnI1OXh1TXc?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Amsterdam’s Good Heat raises €2 million to replace industrial gas-fired steam boilers with heat batteries",
+     "url": "https://www.eu-startups.com/2026/11/amsterdams-good-heat-raises-e2-million-to-replace-industrial-gas-fired-steam-boilers-with-heat-batteries/"
+    }
+   ],
+   "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-24T142447.324.jpg"
+  },
+  {
+   "company": "Isomorphic Labs",
+   "title": "Sequoia and Greenoaks lead massive $5BN Series C funding round in Isomorphic Labs",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGxYbFA3d0dfRXlUWTFRNW12Sl9zb3FhZmM2dklQdFR6d1VRVTlfWE51alhXUHFycWJFcmNUUGtjN0h4V0I4cjd2aFExbUthV1BWemQ3YnBBRk03eW5GMllOUDEycWh4M2lMX1ZYMGs0SDhJdUxjZGxmRkRxUUtpOXdqYTRReXo1X0hnVmhDbUFpNDQ5d3hfcTBxcl85aWhGZjdnY2hrcWduNXdx?oc=5",
+   "date": "2026-11-17T13:11:29.000Z",
+   "day": "2026-11-18",
+   "amount": "$5BN",
+   "currency": "USD",
+   "amountM": 5000,
+   "amountEur": 4600,
+   "round": "Series C",
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Sequoia and Greenoaks lead massive $5BN Series C funding round in Isomorphic Labs",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGxYbFA3d0dfRXlUWTFRNW12Sl9zb3FhZmM2dklQdFR6d1VRVTlfWE51alhXUHFycWJFcmNUUGtjN0h4V0I4cjd2aFExbUthV1BWemQ3YnBBRk03eW5GMllOUDEycWh4M2lMX1ZYMGs0SDhJdUxjZGxmRkRxUUtpOXdqYTRReXo1X0hnVmhDbUFpNDQ5d3hfcTBxcl85aWhGZjdnY2hrcWduNXdx?oc=5"
+    }
+   ]
+  }
+ ]
+}
