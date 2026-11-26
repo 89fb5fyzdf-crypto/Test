@@ -1,11 +1,11 @@
 {
  "date": "2026-11-26",
- "generatedAt": "2026-11-26T15:49:21.660Z",
+ "generatedAt": "2026-11-26T18:14:27.563Z",
  "windowHours": 36,
  "counts": {
   "articles": 60,
   "raw": 106,
-  "media": 45
+  "media": 46
  },
  "scope": "fr",
  "lang": "fr",
@@ -33,27 +33,27 @@
   {
    "source": "Google News · Bpifrance startup",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "source": "Google News · licorne française",
    "ok": true,
-   "items": 11
+   "items": 13
   },
   {
    "source": "Google News · Mistral AI",
    "ok": true,
-   "items": 28
+   "items": 29
   },
   {
    "source": "Google News · startup française levée de fonds",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "source": "Google News · Station F",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "source": "Journal du Net",
@@ -63,7 +63,7 @@
   {
    "source": "L'Usine Digitale",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "source": "Les Echos (start-up)",
@@ -92,53 +92,6 @@
   }
  ],
  "items": [
-  {
-   "id": "presidentielle-2027-france-digitale-veut-un-ministere-des-technologies-et-faire-",
-   "title": "Présidentielle 2027 : FRANCE DIGITALE veut un ministère des Technologies et faire de l’État un premier client des startups",
-   "url": "https://www.frenchweb.fr/presidentielle-2027-france-digitale-veut-un-ministere-des-technologies-et-faire-de-l-etat-un-premier-client-des-startups/900000071?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-   "summary": "L’association, représentante des fonds d'investissement et startups de la tech soumet 24 propositions aux candidats à l’Élysée. Elle défend un investissement de long terme dans les technologies stratégiques, une préférence européenne dans la commande publique et la mobilisation de l’épargne pour financer la croissance des entreprises.",
-   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/d34e5e8025aebead827892688dd140bc982b0f3c6df16f2ec34bfbd91d5eaddd.webp",
-   "sources": [
-    "FrenchWeb",
-    "Maddyness",
-    "Les Echos",
-    "frenchweb.fr"
-   ],
-   "articles": [
-    {
-     "source": "FrenchWeb",
-     "title": "Présidentielle 2027 : FRANCE DIGITALE veut un ministère des Technologies et faire de l’État un premier client des startups",
-     "url": "https://www.frenchweb.fr/presidentielle-2027-france-digitale-veut-un-ministere-des-technologies-et-faire-de-l-etat-un-premier-client-des-startups/900000071?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
-    },
-    {
-     "source": "Maddyness",
-     "title": "Présidentielle 2027 : France Digitale dévoile 24 propositions pour le prochain quinquennat",
-     "url": "https://www.maddyness.com/2026/11/25/presidentielle-2027-france-digitale-devoile-24-propositions-pour-le-prochain-quinquennat/"
-    },
-    {
-     "source": "Les Echos",
-     "title": "« La tech doit s'imposer dans la campagne présidentielle » : les 24 propositions de France Digitale",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSFRNUjRBbWZ2OXk4TDhmWFQzTUxwWjRMd213MVdmaEtGc19BeWJXeTRMQ2ZjMk0xWjhhVHVxM19qOENoMEQ0TTZHd3dJanFoUGx6RkFheVk2YkZTMkZCWjJfT19zd2h2cElEaGpOT3lMME1yeGpuMl9venBINjJESHhoeUtuSTVFdmk1eDhmNjEzTkhnM25LS2RGXy1RVnhzelBpa192VEJWUmxLYmFocXJNNEQtLW9ESEpER2VOcFNGSHczMDhlZ3BFeVNPZmYyVlN1M2VFYmMtM29S?oc=5"
-    },
-    {
-     "source": "frenchweb.fr",
-     "title": "Présidentielle 2027 : FRANCE DIGITALE veut un ministère des Technologies et faire de l’État un premier client des startups",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEJJRUV2UWhzTUlET0lPODRranpyeENMMFpXb0dXUnZpQUdUUEpMT01sREJoRk5WQVRBclh3NE1OYVNKSFZZcDFHeVZCM0s1RExSRm1DelhTRVhzNWUxUENTeWZTNVRCMEJsX2ltYzFjN1dXNF9BM190czRGQ1hIMHl1bnZONmJ0bk1ZWllNRTlKb0JaRkRyRFhjR0gyY1dCc2ZQRXUyNmFqeDB1c1pwOWthU05ENjgzbmNCYkFsd3ZzNWdOYUZnempyLVdneVdoYjlTd2ZwNWF3RjhBdWhzSXg0eU1xdW05al9z?oc=5"
-    }
-   ],
-   "brief": {
-    "essentiel": "L’association, représentante des fonds d'investissement et startups de la tech soumet 24 propositions aux candidats à l’Élysée.",
-    "points": [
-     "Elle défend un investissement de long terme dans les technologies stratégiques, une préférence européenne dans la commande publique et la mobilisation de l’épargne pour financer la croissance des entreprises."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-25T05:00:08.000Z",
-   "categories": [
-    "Politique & écosystème"
-   ],
-   "score": 16.4
-  },
   {
    "id": "korben-leve-10-2-millions-d-euros-pour-piloter-des-robots-de-service-de-differen",
    "title": "KORBEN lève 10,2 millions d’euros pour piloter des robots de service de différentes marques",
@@ -188,7 +141,48 @@
    "categories": [
     "Levées de fonds"
    ],
-   "score": 14.7
+   "score": 14.5
+  },
+  {
+   "id": "presidentielle-2027-france-digitale-veut-un-ministere-des-technologies-et-faire-",
+   "title": "Présidentielle 2027 : FRANCE DIGITALE veut un ministère des Technologies et faire de l’État un premier client des startups",
+   "url": "https://www.frenchweb.fr/presidentielle-2027-france-digitale-veut-un-ministere-des-technologies-et-faire-de-l-etat-un-premier-client-des-startups/900000071?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "L’association, représentante des fonds d'investissement et startups de la tech soumet 24 propositions aux candidats à l’Élysée. Elle défend un investissement de long terme dans les technologies stratégiques, une préférence européenne dans la commande publique et la mobilisation de l’épargne pour financer la croissance des entreprises.",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/d34e5e8025aebead827892688dd140bc982b0f3c6df16f2ec34bfbd91d5eaddd.webp",
+   "sources": [
+    "FrenchWeb",
+    "Maddyness",
+    "frenchweb.fr"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Présidentielle 2027 : FRANCE DIGITALE veut un ministère des Technologies et faire de l’État un premier client des startups",
+     "url": "https://www.frenchweb.fr/presidentielle-2027-france-digitale-veut-un-ministere-des-technologies-et-faire-de-l-etat-un-premier-client-des-startups/900000071?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    },
+    {
+     "source": "Maddyness",
+     "title": "Présidentielle 2027 : France Digitale dévoile 24 propositions pour le prochain quinquennat",
+     "url": "https://www.maddyness.com/2026/11/25/presidentielle-2027-france-digitale-devoile-24-propositions-pour-le-prochain-quinquennat/"
+    },
+    {
+     "source": "frenchweb.fr",
+     "title": "Présidentielle 2027 : FRANCE DIGITALE veut un ministère des Technologies et faire de l’État un premier client des startups",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEJJRUV2UWhzTUlET0lPODRranpyeENMMFpXb0dXUnZpQUdUUEpMT01sREJoRk5WQVRBclh3NE1OYVNKSFZZcDFHeVZCM0s1RExSRm1DelhTRVhzNWUxUENTeWZTNVRCMEJsX2ltYzFjN1dXNF9BM190czRGQ1hIMHl1bnZONmJ0bk1ZWllNRTlKb0JaRkRyRFhjR0gyY1dCc2ZQRXUyNmFqeDB1c1pwOWthU05ENjgzbmNCYkFsd3ZzNWdOYUZnempyLVdneVdoYjlTd2ZwNWF3RjhBdWhzSXg0eU1xdW05al9z?oc=5"
+    }
+   ],
+   "brief": {
+    "essentiel": "L’association, représentante des fonds d'investissement et startups de la tech soumet 24 propositions aux candidats à l’Élysée.",
+    "points": [
+     "Elle défend un investissement de long terme dans les technologies stratégiques, une préférence européenne dans la commande publique et la mobilisation de l’épargne pour financer la croissance des entreprises."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-25T12:28:44.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 13.2
   },
   {
    "id": "bnp-paribas-prend-le-controle-de-mucho-nee-au-sein-du-startup-studio-321founded",
@@ -224,7 +218,7 @@
    "categories": [
     "Rachats & IPO"
    ],
-   "score": 11.7
+   "score": 11.5
   },
   {
    "id": "mistral-recoit-100-m-de-deutsche-telekom-sans-offre-commune-pour-l-instant",
@@ -247,7 +241,7 @@
     "Rachats & IPO",
     "IA"
    ],
-   "score": 11.2
+   "score": 11
   },
   {
    "id": "rennes-vingt-et-une-langues-au-guichet-l-intelligence-artificielle-saura-t-elle-",
@@ -275,7 +269,7 @@
     "IA",
     "Politique & écosystème"
    ],
-   "score": 10.9
+   "score": 10.7
   },
   {
    "id": "exclusif-french-tech-une-greentech-en-redressement-judiciaire-un-serial-entrepre",
@@ -297,7 +291,7 @@
     "Politique & écosystème",
     "Difficultés"
    ],
-   "score": 10.4
+   "score": 10.2
   },
   {
    "id": "nous-allons-nous-specialiser-sur-trois-marches-de-niche-et-y-obtenir-une-place-d",
@@ -318,7 +312,7 @@
    "categories": [
     "Rachats & IPO"
    ],
-   "score": 9.6
+   "score": 9.4
   },
   {
    "id": "perpignan-montpellier-pekin-tokyo-start-up-lucas-goumarre-leve-10-2m-pour-une-ro",
@@ -340,35 +334,7 @@
     "Levées de fonds",
     "Politique & écosystème"
    ],
-   "score": 9.5
-  },
-  {
-   "id": "arthur-mensch-yann-lecun-eleonore-crespo-decouvrez-les-100-personnalites-francai",
-   "title": "Arthur Mensch, Yann LeCun, Eléonore Crespo… : découvrez les 100 personnalités françaises de l’IA",
-   "url": "https://www.maddyness.com/2026/11/25/arthur-mensch-yann-lecun-eleonore-crespo-decouvrez-les-100-personnalites-francaises-de-lia/",
-   "summary": "Maddyness présente son palmarès des 100 personnalités françaises de l’IA. Entrepreneurs, investisseurs, chercheurs... Qui sont-elles ?",
-   "image": "https://www.maddyness.com/app/uploads/2026/11/Top-100-IA-scaled.jpg",
-   "sources": [
-    "Maddyness",
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Maddyness",
-     "title": "Arthur Mensch, Yann LeCun, Eléonore Crespo… : découvrez les 100 personnalités françaises de l’IA",
-     "url": "https://www.maddyness.com/2026/11/25/arthur-mensch-yann-lecun-eleonore-crespo-decouvrez-les-100-personnalites-francaises-de-lia/"
-    },
-    {
-     "source": "Les Echos",
-     "title": "Les DM de Charlie : Arthur Mensch, le « protégé gâté » de Macron ?",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnFoSTdIVFBMNW9LcjA5VFBnc1VKR2ZQQTVfUm8wek9yWWhIUEJjSkVuNThILUxwYmhsQWxJbUZldFNHcnF1U0NqOW05aDU4R0l1ZWFlZy1kZkFvMXE4MDZNeFpUSElVOHFqejFNeVl4N0Fja3QzQXdZN3I3VEh3aW9TZkJ3Y1MxVUd3bVh3MFlwU3o4U3pNcU9IQmt5RWk1WmNCek9zSTgyeTN0RWVkTW9oam9oamNiRnpPNTdPZmRVaHFyREE?oc=5"
-    }
-   ],
-   "date": "2026-11-25T06:00:35.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 9.2
+   "score": 9.3
   },
   {
    "id": "la-french-tech-grand-paris-met-ses-pepites-ia-en-vitrine",
@@ -390,50 +356,7 @@
     "IA",
     "Politique & écosystème"
    ],
-   "score": 8.6
-  },
-  {
-   "id": "french-tech-un-seul-sujet-au-c-ur-des-discussions-l-intelligence-artificielle",
-   "title": "French Tech : un seul sujet au cœur des discussions, l’intelligence artificielle",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0Z2SWljbk4tOUR4aF84amdhVHozOG5OLVBwT2JKcjJQd0RGYnZ5V1hTV0JERklzaDJqWVoxblB0MFZwTWFOam9Halk2UTZ5SmtsaElraTI0aVhlUTVTaGREclhmUzdUXzZXbEhRRnVBaDF6YlJhNmRIV19RWHJxbGlLMHYtVlRpZ0xBbmNWQ2ZMbi1sY0N1elBwbjE3YmU4Mk1PUE0tSE1ubWhaakh1dVpEY1Q1VXI0ZXNHU1AyMXJlZw?oc=5",
-   "summary": "",
-   "sources": [
-    "Sud Ouest"
-   ],
-   "articles": [
-    {
-     "source": "Sud Ouest",
-     "title": "French Tech : un seul sujet au cœur des discussions, l’intelligence artificielle",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0Z2SWljbk4tOUR4aF84amdhVHozOG5OLVBwT2JKcjJQd0RGYnZ5V1hTV0JERklzaDJqWVoxblB0MFZwTWFOam9Halk2UTZ5SmtsaElraTI0aVhlUTVTaGREclhmUzdUXzZXbEhRRnVBaDF6YlJhNmRIV19RWHJxbGlLMHYtVlRpZ0xBbmNWQ2ZMbi1sY0N1elBwbjE3YmU4Mk1PUE0tSE1ubWhaakh1dVpEY1Q1VXI0ZXNHU1AyMXJlZw?oc=5"
-    }
-   ],
-   "date": "2026-11-26T05:00:00.000Z",
-   "categories": [
-    "IA",
-    "Politique & écosystème"
-   ],
-   "score": 8.1
-  },
-  {
-   "id": "c-est-l-aboutissement-de-quatre-ans-de-negociations-comment-le-gouvernement-a-ar",
-   "title": "« C'est l'aboutissement de quatre ans de négociations » : comment le gouvernement a arraché l'installation de BYD en France",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUWNzUmt4TWttRS1jZGp6aUREYTVUUUZjbGUtbWdwMjFUZFFZQ0ZSOWlYZDIwYndHNEk0N0RpX2RMaGQ2U3FaejZKU0tCcjZBSDV5NDFmbjRlbjB4eG1EQzl2LWRvV2lxTEFHdDdBenQyTW50ZFNWdTZNSW55Q1pELXpNZmZxYjRpSkxjbDhQLWRXX0dNamZ2UE9PcG5iUDM5YXlZbWZpSFE0MFpmUWVYNWxNbl9UMzZtampjSEpSR3o2dGN4VEV2VzFrTkN5NlYzN2JQcHFfWVlmbTBPa0FoZjZxZWFLSzhSdGd5eWo2Zm1kWWFJQjYwX0RfSHZNZFYyQURiMFRQQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "« C'est l'aboutissement de quatre ans de négociations » : comment le gouvernement a arraché l'installation de BYD en France",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUWNzUmt4TWttRS1jZGp6aUREYTVUUUZjbGUtbWdwMjFUZFFZQ0ZSOWlYZDIwYndHNEk0N0RpX2RMaGQ2U3FaejZKU0tCcjZBSDV5NDFmbjRlbjB4eG1EQzl2LWRvV2lxTEFHdDdBenQyTW50ZFNWdTZNSW55Q1pELXpNZmZxYjRpSkxjbDhQLWRXX0dNamZ2UE9PcG5iUDM5YXlZbWZpSFE0MFpmUWVYNWxNbl9UMzZtampjSEpSR3o2dGN4VEV2VzFrTkN5NlYzN2JQcHFfWVlmbTBPa0FoZjZxZWFLSzhSdGd5eWo2Zm1kWWFJQjYwX0RfSHZNZFYyQURiMFRQQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-26T05:30:09.000Z",
-   "categories": [
-    "Politique & écosystème"
-   ],
-   "score": 8.1
+   "score": 8.4
   },
   {
    "id": "pour-proteger-les-auteurs-la-france-s-apprete-a-se-tirer-une-balle-dans-le-pied",
@@ -466,6 +389,49 @@
    "score": 8
   },
   {
+   "id": "french-tech-un-seul-sujet-au-c-ur-des-discussions-l-intelligence-artificielle",
+   "title": "French Tech : un seul sujet au cœur des discussions, l’intelligence artificielle",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0Z2SWljbk4tOUR4aF84amdhVHozOG5OLVBwT2JKcjJQd0RGYnZ5V1hTV0JERklzaDJqWVoxblB0MFZwTWFOam9Halk2UTZ5SmtsaElraTI0aVhlUTVTaGREclhmUzdUXzZXbEhRRnVBaDF6YlJhNmRIV19RWHJxbGlLMHYtVlRpZ0xBbmNWQ2ZMbi1sY0N1elBwbjE3YmU4Mk1PUE0tSE1ubWhaakh1dVpEY1Q1VXI0ZXNHU1AyMXJlZw?oc=5",
+   "summary": "",
+   "sources": [
+    "Sud Ouest"
+   ],
+   "articles": [
+    {
+     "source": "Sud Ouest",
+     "title": "French Tech : un seul sujet au cœur des discussions, l’intelligence artificielle",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0Z2SWljbk4tOUR4aF84amdhVHozOG5OLVBwT2JKcjJQd0RGYnZ5V1hTV0JERklzaDJqWVoxblB0MFZwTWFOam9Halk2UTZ5SmtsaElraTI0aVhlUTVTaGREclhmUzdUXzZXbEhRRnVBaDF6YlJhNmRIV19RWHJxbGlLMHYtVlRpZ0xBbmNWQ2ZMbi1sY0N1elBwbjE3YmU4Mk1PUE0tSE1ubWhaakh1dVpEY1Q1VXI0ZXNHU1AyMXJlZw?oc=5"
+    }
+   ],
+   "date": "2026-11-26T05:00:00.000Z",
+   "categories": [
+    "IA",
+    "Politique & écosystème"
+   ],
+   "score": 7.9
+  },
+  {
+   "id": "c-est-l-aboutissement-de-quatre-ans-de-negociations-comment-le-gouvernement-a-ar",
+   "title": "« C'est l'aboutissement de quatre ans de négociations » : comment le gouvernement a arraché l'installation de BYD en France",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUWNzUmt4TWttRS1jZGp6aUREYTVUUUZjbGUtbWdwMjFUZFFZQ0ZSOWlYZDIwYndHNEk0N0RpX2RMaGQ2U3FaejZKU0tCcjZBSDV5NDFmbjRlbjB4eG1EQzl2LWRvV2lxTEFHdDdBenQyTW50ZFNWdTZNSW55Q1pELXpNZmZxYjRpSkxjbDhQLWRXX0dNamZ2UE9PcG5iUDM5YXlZbWZpSFE0MFpmUWVYNWxNbl9UMzZtampjSEpSR3o2dGN4VEV2VzFrTkN5NlYzN2JQcHFfWVlmbTBPa0FoZjZxZWFLSzhSdGd5eWo2Zm1kWWFJQjYwX0RfSHZNZFYyQURiMFRQQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "« C'est l'aboutissement de quatre ans de négociations » : comment le gouvernement a arraché l'installation de BYD en France",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUWNzUmt4TWttRS1jZGp6aUREYTVUUUZjbGUtbWdwMjFUZFFZQ0ZSOWlYZDIwYndHNEk0N0RpX2RMaGQ2U3FaejZKU0tCcjZBSDV5NDFmbjRlbjB4eG1EQzl2LWRvV2lxTEFHdDdBenQyTW50ZFNWdTZNSW55Q1pELXpNZmZxYjRpSkxjbDhQLWRXX0dNamZ2UE9PcG5iUDM5YXlZbWZpSFE0MFpmUWVYNWxNbl9UMzZtampjSEpSR3o2dGN4VEV2VzFrTkN5NlYzN2JQcHFfWVlmbTBPa0FoZjZxZWFLSzhSdGd5eWo2Zm1kWWFJQjYwX0RfSHZNZFYyQURiMFRQQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-26T05:30:09.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 7.9
+  },
+  {
    "id": "mistral-large-4-repere-une-voiture-rouge-sur-une-photo-aerienne-en-deux-zooms",
    "title": "Mistral Large 4 repère une voiture rouge sur une photo aérienne en deux zooms",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmN3c1lhcndGaGhTX3I1QjQ2ZU9QVnZfVWJPRElJS3g3SHVjZ0U4bmtlM1ZRVEVDbEc1UXZpVVlKdmI1TERxaGl3RG5jN2M2ODFSOFRvUVpGVENMTWd6eUVseGZEejZnY3llTl82TkI4R2NTcWtIaVFJNktyaEdUWUY4SjdYeWY3RU5INUNhWk54Q1ROMkE4?oc=5",
@@ -490,7 +456,7 @@
    "categories": [
     "IA"
    ],
-   "score": 7.9
+   "score": 7.7
   },
   {
    "id": "le-gouvernement-monte-au-creneau-pour-defendre-le-cir",
@@ -511,7 +477,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 7.6
+   "score": 7.4
   },
   {
    "id": "manger-du-moisi-c-est-grave-quand-les-reponses-de-l-ia-embolisent-les-centres-an",
@@ -538,7 +504,7 @@
    "categories": [
     "IA"
    ],
-   "score": 7.5
+   "score": 7.3
   },
   {
    "id": "byd-negocie-le-rachat-de-l-usine-ineos-automotive-de-hambach-en-moselle",
@@ -565,7 +531,7 @@
    "categories": [
     "Rachats & IPO"
    ],
-   "score": 7.4
+   "score": 7.2
   },
   {
    "id": "les-senateurs-lr-proposent-de-reduire-de-20-les-heures-diffusees-par-france-tele",
@@ -592,7 +558,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 7.4
+   "score": 7.2
   },
   {
    "id": "apres-la-loi-le-meur-louer-un-logement-est-devenu-un-probleme-de-donnees",
@@ -612,33 +578,6 @@
    "date": "2026-11-26T08:00:18.000Z",
    "categories": [
     "Politique & écosystème"
-   ],
-   "score": 7.3
-  },
-  {
-   "id": "j-ai-compris-trois-mots-quand-jensen-huang-humiliait-publiquement-le-francais-ar",
-   "title": "« J’ai compris trois mots » : quand Jensen Huang humiliait publiquement le Français Arthur Mensch, patron de Mistral AI",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdTV5emE0Rmd3VjhlVlVjNW5rTmd4WHFGcUxWamdLT0RUS3luQ3g3WmhSWDl3Z0JrdEtOSGdDanZtTURMdGVYVnBYNjVDcTRkZElZVGFOZ0szbUdtaERqd3FySUZxWENjNS1iSGZzVHpkaFFfT0VDOWlrdzdfUFc1NWNqQXFKVVdNclIyR3JVSnZaTzJoWmt5UVY4UXdjZUVoWENZRU1lYklNNUs4N1hiLWRqZGk5VHh6MHN1akktVUYyU3pVX01ZRWJXN0pXQXZ2eklHU0s3SVM2NXdwSVNNNGsyUWZHQ3lUbkI3aEd2YTlfSmdRcFJKRUMxQWlrOFNSb3dCM1BEVlpsRWxXVWRqcVNtZ3pKeVRr?oc=5",
-   "summary": "",
-   "sources": [
-    "Le Parisien",
-    "Radio France"
-   ],
-   "articles": [
-    {
-     "source": "Le Parisien",
-     "title": "« J’ai compris trois mots » : quand Jensen Huang humiliait publiquement le Français Arthur Mensch, patron de Mistral AI",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdTV5emE0Rmd3VjhlVlVjNW5rTmd4WHFGcUxWamdLT0RUS3luQ3g3WmhSWDl3Z0JrdEtOSGdDanZtTURMdGVYVnBYNjVDcTRkZElZVGFOZ0szbUdtaERqd3FySUZxWENjNS1iSGZzVHpkaFFfT0VDOWlrdzdfUFc1NWNqQXFKVVdNclIyR3JVSnZaTzJoWmt5UVY4UXdjZUVoWENZRU1lYklNNUs4N1hiLWRqZGk5VHh6MHN1akktVUYyU3pVX01ZRWJXN0pXQXZ2eklHU0s3SVM2NXdwSVNNNGsyUWZHQ3lUbkI3aEd2YTlfSmdRcFJKRUMxQWlrOFNSb3dCM1BEVlpsRWxXVWRqcVNtZ3pKeVRr?oc=5"
-    },
-    {
-     "source": "Radio France",
-     "title": "Jensen Huang ou le mythe de l'entrepreneur",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUtkekMtQVdvbzFhbDdUUTlzWkNjbUh1dlQ1alo4UU9FZlFyT3JFVHpzWHdmeENmY3ptdWM2Ym5pbk5BZTVNdkxlTmpWTXRDV2wwYlJkNzVnR0o0NWhMV0tGSFRQNm9FNG5VVGxQeG1CaU5WXzJZcWJOUlk3T3p2ZDBsT28xV2xsZlllQVlVSmFabGtsTUVwS3hWc2RCZS1STTRnTnVJN2RkNTBFZHQzNmxTNFZRQW5KTHc?oc=5"
-    }
-   ],
-   "date": "2026-11-25T07:52:00.000Z",
-   "categories": [
-    "IA"
    ],
    "score": 7.1
   },
@@ -673,7 +612,55 @@
    },
    "date": "2026-11-25T11:18:56.000Z",
    "categories": [],
-   "score": 7.1
+   "score": 7
+  },
+  {
+   "id": "te-torturer-pour-te-faire-grandir-le-pdg-de-nvidia-jensen-huang-accuse-de-manage",
+   "title": "« Te torturer pour te faire grandir » : le PDG de Nvidia, Jensen Huang, accusé de management brutal par le New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQLUozYU5UOVdiVVBBVVhSektPU1BudWtIeE9xUnRYWDR5NG5tdURGeUZQWXo5WEpPcUx6SzdrU3BVU0pFVklWLXhscUhzWTBYMEphT3lQTGpaTTJFSjJSUm53eUtZSG90ckozS0FhRjNXYXl1NDBHTlFvLUQxZlVPdUdPRDRlZGNwajhZcVlPM2ZlS0U1UDFaT0M5Qld3ejJKTzdlNzZpTVZCZThDU0NJVi1QR2VyZHJxYnVZMVVLM3RIRWZfLVNOQWIyd2cyU2p1SkN1V3AtdUN4bEVmTHh5Z1RDbkxvQ0J2WUtsLXgwcmtzZG1qc29MOGxYQlpRemlmV3ZVZjFLS0hVM191NDZWc0FWLXl3alFhdmR3?oc=5",
+   "summary": "",
+   "sources": [
+    "Le Parisien",
+    "Radio France"
+   ],
+   "articles": [
+    {
+     "source": "Le Parisien",
+     "title": "« Te torturer pour te faire grandir » : le PDG de Nvidia, Jensen Huang, accusé de management brutal par le New York Times",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQLUozYU5UOVdiVVBBVVhSektPU1BudWtIeE9xUnRYWDR5NG5tdURGeUZQWXo5WEpPcUx6SzdrU3BVU0pFVklWLXhscUhzWTBYMEphT3lQTGpaTTJFSjJSUm53eUtZSG90ckozS0FhRjNXYXl1NDBHTlFvLUQxZlVPdUdPRDRlZGNwajhZcVlPM2ZlS0U1UDFaT0M5Qld3ejJKTzdlNzZpTVZCZThDU0NJVi1QR2VyZHJxYnVZMVVLM3RIRWZfLVNOQWIyd2cyU2p1SkN1V3AtdUN4bEVmTHh5Z1RDbkxvQ0J2WUtsLXgwcmtzZG1qc29MOGxYQlpRemlmV3ZVZjFLS0hVM191NDZWc0FWLXl3alFhdmR3?oc=5"
+    },
+    {
+     "source": "Radio France",
+     "title": "Jensen Huang ou le mythe de l'entrepreneur",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUtkekMtQVdvbzFhbDdUUTlzWkNjbUh1dlQ1alo4UU9FZlFyT3JFVHpzWHdmeENmY3ptdWM2Ym5pbk5BZTVNdkxlTmpWTXRDV2wwYlJkNzVnR0o0NWhMV0tGSFRQNm9FNG5VVGxQeG1CaU5WXzJZcWJOUlk3T3p2ZDBsT28xV2xsZlllQVlVSmFabGtsTUVwS3hWc2RCZS1STTRnTnVJN2RkNTBFZHQzNmxTNFZRQW5KTHc?oc=5"
+    }
+   ],
+   "date": "2026-11-25T07:52:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 7
+  },
+  {
+   "id": "french-tech-l-innovation-sort-des-labos-pour-aller-a-la-rencontre-des-jeunes",
+   "title": "French Tech - L'innovation sort des labos pour aller à la rencontre des jeunes",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVNmR19yaFVkdHBDeFlyTldhQm50S0NNeGtSWHhKV2ttNi1CbkJ2SHZGMm1BX0U0TTJ6NGJuX1Rjalg1WWZjVGxkbXdNTXhjcnNuZ201QWx2OUZoaHpIN1ZPWFZVMWZIQ3BFdXltTzFwR0pIWXM3UzhremlaSUZ0Z3l0bWkxeW45aXpaeEJLeW5YdS13aGMzdmFGenY5RmFYd1VGUTNDNENaM3diNjRFZVdQRQ?oc=5",
+   "summary": "",
+   "sources": [
+    "PresseLib"
+   ],
+   "articles": [
+    {
+     "source": "PresseLib",
+     "title": "French Tech - L'innovation sort des labos pour aller à la rencontre des jeunes",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVNmR19yaFVkdHBDeFlyTldhQm50S0NNeGtSWHhKV2ttNi1CbkJ2SHZGMm1BX0U0TTJ6NGJuX1Rjalg1WWZjVGxkbXdNTXhjcnNuZ201QWx2OUZoaHpIN1ZPWFZVMWZIQ3BFdXltTzFwR0pIWXM3UzhremlaSUZ0Z3l0bWkxeW45aXpaeEJLeW5YdS13aGMzdmFGenY5RmFYd1VGUTNDNENaM3diNjRFZVdQRQ?oc=5"
+    }
+   ],
+   "date": "2026-11-26T18:08:58.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 7
   },
   {
    "id": "minimaxxx-friperie-dj-sets-designers-la-cantine-x-la-french-tech-nantes-nantes-5",
@@ -694,7 +681,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 6.9
+   "score": 6.7
   },
   {
    "id": "la-sante-au-coeur-des-interrogations-de-la-french-tech-normandie",
@@ -715,7 +702,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 6.8
+   "score": 6.6
   },
   {
    "id": "action-logement-rejoint-la-demarche-je-choisis-la-french-tech",
@@ -737,7 +724,7 @@
     "Politique & écosystème",
     "Talents & nominations"
    ],
-   "score": 6.8
+   "score": 6.6
   },
   {
    "id": "amundi-prend-une-participation-minoritaire-au-capital-d-emergence",
@@ -758,7 +745,7 @@
    "categories": [
     "Levées de fonds"
    ],
-   "score": 6.6
+   "score": 6.4
   },
   {
    "id": "cette-petite-station-francaise-est-la-moins-chere-d-europe-pour-skier",
@@ -779,7 +766,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 6.5
+   "score": 6.3
   },
   {
    "id": "french-tech-pompe-cardiaque-corwave-franchit-une-nouvelle-etape-26-11",
@@ -800,28 +787,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 6.3
-  },
-  {
-   "id": "lalie-la-licorne-et-les-droles-de-maisons-paris-date-horaires-tarifs",
-   "title": "Lalie la licorne et les drôles de maisons Paris : date, horaires, tarifs",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWJoYWVWbzJKdU5vUHptMG5MZjNobVh1NllQTGVRaTVvb0hfZWliTnlOVnI0STI2amlBLVVzajJoZTd1T1E3ckdrUlZxb3JPY1M0ZVpzQTJFS3RKa1NHamdGU1VWTzgxVXdGY1JhLUpYX2JFNEE5TjVJZWE1Z2xNeEdjajBQcEhHTUxZb0RwOGg?oc=5",
-   "summary": "",
-   "sources": [
-    "jds.fr"
-   ],
-   "articles": [
-    {
-     "source": "jds.fr",
-     "title": "Lalie la licorne et les drôles de maisons Paris : date, horaires, tarifs",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWJoYWVWbzJKdU5vUHptMG5MZjNobVh1NllQTGVRaTVvb0hfZWliTnlOVnI0STI2amlBLVVzajJoZTd1T1E3ckdrUlZxb3JPY1M0ZVpzQTJFS3RKa1NHamdGU1VWTzgxVXdGY1JhLUpYX2JFNEE5TjVJZWE1Z2xNeEdjajBQcEhHTUxZb0RwOGg?oc=5"
-    }
-   ],
-   "date": "2026-11-26T06:17:49.000Z",
-   "categories": [
-    "Licornes & scale-ups"
-   ],
-   "score": 6.2
+   "score": 6.1
   },
   {
    "id": "l-union-europeenne-veut-creer-un-fonds-souverain-de-50-milliards-d-euros-pour-se",
@@ -845,25 +811,46 @@
    "score": 6
   },
   {
-   "id": "levee-de-fonds-a-l-international-des-start-up-une-nouvelle-ere-pour-l-ecosysteme",
-   "title": "Levée de fonds à l’international des start-up : une nouvelle ère pour l’écosystème algérien",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3V4MmF1TU5JVHdYbEhiNHM4SC1jWU4tQ3ZaLUlwamdLUE9DY3JoZTR0TWR4VlBaTzV4YUxndHFPamhvUm5fYUlkNFJDTElIM1l2QmROYmlVNFJ6VGZITVAwbWNDTFJiRy1hU3VLVUY2Z01ZOFVXZjVVbnM3X1RRZWtYSjg4SUt2SlF2MGk3NWw2TmVSWElpY1JvaFdTUFUzUzJwbkZ3MlNGLVBYTnJTa1NVWGxMaG1zcGlKMHRXYjVlRXFLT2c4RnZUR2s2TExo?oc=5",
+   "id": "lalie-la-licorne-et-les-droles-de-maisons-paris-date-horaires-tarifs",
+   "title": "Lalie la licorne et les drôles de maisons Paris : date, horaires, tarifs",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWJoYWVWbzJKdU5vUHptMG5MZjNobVh1NllQTGVRaTVvb0hfZWliTnlOVnI0STI2amlBLVVzajJoZTd1T1E3ckdrUlZxb3JPY1M0ZVpzQTJFS3RKa1NHamdGU1VWTzgxVXdGY1JhLUpYX2JFNEE5TjVJZWE1Z2xNeEdjajBQcEhHTUxZb0RwOGg?oc=5",
    "summary": "",
    "sources": [
-    "El Moudjahid"
+    "jds.fr"
    ],
    "articles": [
     {
-     "source": "El Moudjahid",
-     "title": "Levée de fonds à l’international des start-up : une nouvelle ère pour l’écosystème algérien",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3V4MmF1TU5JVHdYbEhiNHM4SC1jWU4tQ3ZaLUlwamdLUE9DY3JoZTR0TWR4VlBaTzV4YUxndHFPamhvUm5fYUlkNFJDTElIM1l2QmROYmlVNFJ6VGZITVAwbWNDTFJiRy1hU3VLVUY2Z01ZOFVXZjVVbnM3X1RRZWtYSjg4SUt2SlF2MGk3NWw2TmVSWElpY1JvaFdTUFUzUzJwbkZ3MlNGLVBYTnJTa1NVWGxMaG1zcGlKMHRXYjVlRXFLT2c4RnZUR2s2TExo?oc=5"
+     "source": "jds.fr",
+     "title": "Lalie la licorne et les drôles de maisons Paris : date, horaires, tarifs",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWJoYWVWbzJKdU5vUHptMG5MZjNobVh1NllQTGVRaTVvb0hfZWliTnlOVnI0STI2amlBLVVzajJoZTd1T1E3ckdrUlZxb3JPY1M0ZVpzQTJFS3RKa1NHamdGU1VWTzgxVXdGY1JhLUpYX2JFNEE5TjVJZWE1Z2xNeEdjajBQcEhHTUxZb0RwOGg?oc=5"
     }
    ],
-   "date": "2026-11-26T02:16:02.000Z",
+   "date": "2026-11-26T06:17:49.000Z",
    "categories": [
-    "Levées de fonds"
+    "Licornes & scale-ups"
    ],
-   "score": 5.9
+   "score": 6
+  },
+  {
+   "id": "victimes-des-essais-nucleaires-le-gouvernement-fait-volte-face-sur-leur-indemnis",
+   "title": "Victimes des essais nucléaires : le gouvernement fait volte-face sur leur indemnisation",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3FZZm1KeHlGdjVWTVAxOVRjZHVZLWJPMU1ydnFaeEtPYkozSGNkdVVYa2hLQ2RaS1NkZlB3cktqbXRVSXpyQzJOZThBYUpnWmpKU0NOT3FUZ3k0UVRMR1Q4ZW1ObTdsb1M4N2ViMHlRWE52TWRVcVFUWHdFZ0gzQkN0aVpTUzZySFF0akRRVjNMQlAyRUh3ZEE5d1BrVFQ2azZYVkN6NUZ6ZWlT?oc=5",
+   "summary": "",
+   "sources": [
+    "Reporterre, le média de l'écologie"
+   ],
+   "articles": [
+    {
+     "source": "Reporterre, le média de l'écologie",
+     "title": "Victimes des essais nucléaires : le gouvernement fait volte-face sur leur indemnisation",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3FZZm1KeHlGdjVWTVAxOVRjZHVZLWJPMU1ydnFaeEtPYkozSGNkdVVYa2hLQ2RaS1NkZlB3cktqbXRVSXpyQzJOZThBYUpnWmpKU0NOT3FUZ3k0UVRMR1Q4ZW1ObTdsb1M4N2ViMHlRWE52TWRVcVFUWHdFZ0gzQkN0aVpTUzZySFF0akRRVjNMQlAyRUh3ZEE5d1BrVFQ2azZYVkN6NUZ6ZWlT?oc=5"
+    }
+   ],
+   "date": "2026-11-26T13:23:00.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5.6
   },
   {
    "id": "jeremy-caussade-dans-lemission-french-tech-sur-bfm-business-aura-aero",
@@ -884,7 +871,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 5.8
+   "score": 5.6
   },
   {
    "id": "comment-reussir-sa-tresse-licorne",
@@ -905,7 +892,7 @@
    "categories": [
     "Licornes & scale-ups"
    ],
-   "score": 5.6
+   "score": 5.4
   },
   {
    "id": "chatgpt-claude-gemini-et-mistral-compares-sur-les-prix-en-france",
@@ -926,7 +913,7 @@
    "categories": [
     "IA"
    ],
-   "score": 5.5
+   "score": 5.3
   },
   {
    "id": "bpifrance-garantit-un-credit-pour-une-centrale-solaire-et-des-lignes-electriques",
@@ -947,49 +934,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 5.1
-  },
-  {
-   "id": "easyvista-lance-une-offre-souveraine-pour-les-secteurs-sensibles-avec-outscale-e",
-   "title": "EasyVista lance une offre souveraine pour les secteurs sensibles avec Outscale et s’appuie sur Atos pour la déployer",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQRElrMWcwUkpwSlEzY3NZUnNjS2pmUVJXZUpuSHlkNVA5Ukg5MXhuTlBaazBkWmt2MWZlWjRKRmNVeHBJR2lIV01rZnMxRGxibEtueEhCb0JWcHJ4VVg0end0T1E2ZFZ6V1hwSnFGQWw3NzhmWm54RVc4WHFzZkZZSXFRMnlxWDl3ZWZfOGpIRm1abjJMWHlfN0dKNTJjY0hYQ1pwT3NlTURYM29mYm5wcTdobVVLREZpSGlBTzZTWTNHZmhaakptc2hlam5Tb2FULVktS1N6VHlheFBpOXlSTmZGTTh0RzlGdEItaDRCTDRVMEVwdS1UV1U4aUMyeWZhQVpMNFg2ak5fSFBtZHBEeHowLVFLV3YtVmc?oc=5",
-   "summary": "",
-   "sources": [
-    "L'Usine Digitale"
-   ],
-   "articles": [
-    {
-     "source": "L'Usine Digitale",
-     "title": "EasyVista lance une offre souveraine pour les secteurs sensibles avec Outscale et s’appuie sur Atos pour la déployer",
-     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQRElrMWcwUkpwSlEzY3NZUnNjS2pmUVJXZUpuSHlkNVA5Ukg5MXhuTlBaazBkWmt2MWZlWjRKRmNVeHBJR2lIV01rZnMxRGxibEtueEhCb0JWcHJ4VVg0end0T1E2ZFZ6V1hwSnFGQWw3NzhmWm54RVc4WHFzZkZZSXFRMnlxWDl3ZWZfOGpIRm1abjJMWHlfN0dKNTJjY0hYQ1pwT3NlTURYM29mYm5wcTdobVVLREZpSGlBTzZTWTNHZmhaakptc2hlam5Tb2FULVktS1N6VHlheFBpOXlSTmZGTTh0RzlGdEItaDRCTDRVMEVwdS1UV1U4aUMyeWZhQVpMNFg2ak5fSFBtZHBEeHowLVFLV3YtVmc?oc=5"
-    }
-   ],
-   "date": "2026-11-26T05:00:00.000Z",
-   "categories": [
-    "Politique & écosystème"
-   ],
-   "score": 5.1
-  },
-  {
-   "id": "plf-2027-le-senat-vote-un-nouvel-allegement-fiscal-pour-les-chaines-tv",
-   "title": "PLF 2027 : le Sénat vote un nouvel allègement fiscal pour les chaînes TV",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcEYzTE0xamU2V0tCWFh5a1ZqLWwwTUFmSXhfVnpvTVo0Ung5ZGNtV0lSUHRyWUVPRGxUZU1iYWxrMndKaG5VMkdqTTVkWjJHYUVFZG81UlBiVEZGQUFWSjdVT200UHdaWm5uSWxpUlpoSlRKekxRNzUzamFsdk9SRnN0ZmlOanVHcVQ5Z0E4aXNZdw?oc=5",
-   "summary": "",
-   "sources": [
-    "CB News"
-   ],
-   "articles": [
-    {
-     "source": "CB News",
-     "title": "PLF 2027 : le Sénat vote un nouvel allègement fiscal pour les chaînes TV",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcEYzTE0xamU2V0tCWFh5a1ZqLWwwTUFmSXhfVnpvTVo0Ung5ZGNtV0lSUHRyWUVPRGxUZU1iYWxrMndKaG5VMkdqTTVkWjJHYUVFZG81UlBiVEZGQUFWSjdVT200UHdaWm5uSWxpUlpoSlRKekxRNzUzamFsdk9SRnN0ZmlOanVHcVQ5Z0E4aXNZdw?oc=5"
-    }
-   ],
-   "date": "2026-11-26T04:50:02.000Z",
-   "categories": [
-    "Politique & écosystème"
-   ],
-   "score": 5.1
+   "score": 5
   },
   {
    "id": "qluster-leve-des-fonds-pour-developper-un-ordinateur-quantique-photonique",
@@ -1009,27 +954,6 @@
    "date": "2026-11-25T13:42:48.000Z",
    "categories": [
     "Levées de fonds"
-   ],
-   "score": 5
-  },
-  {
-   "id": "les-start-up-de-l-x-tres-presentes-au-demo-day-ip-paris-a-station-f",
-   "title": "Les start-up de l’X, très présentes, au Demo Day IP Paris à Station F",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUpvaDRHbWpkV0lVeWVYZTJHUzJyaHo2SkV3Z2tZN1R4T2ZqWWxGQXpSSVFuendzRXBtVk9HNnlIT2ZyRHEtdzVtb0kyWVQ1b0NHVjRMQlNEUlMwVXlaNHM3UHNqRG5yNTVIblRibUVneWhZd0U5NjZxWEtCXy02OVNLRGlsLUtxMm1fRDI5LXptRVNZYmVNNWVTbEhSd01MTm1LZg?oc=5",
-   "summary": "",
-   "sources": [
-    "École polytechnique"
-   ],
-   "articles": [
-    {
-     "source": "École polytechnique",
-     "title": "Les start-up de l’X, très présentes, au Demo Day IP Paris à Station F",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUpvaDRHbWpkV0lVeWVYZTJHUzJyaHo2SkV3Z2tZN1R4T2ZqWWxGQXpSSVFuendzRXBtVk9HNnlIT2ZyRHEtdzVtb0kyWVQ1b0NHVjRMQlNEUlMwVXlaNHM3UHNqRG5yNTVIblRibUVneWhZd0U5NjZxWEtCXy02OVNLRGlsLUtxMm1fRDI5LXptRVNZYmVNNWVTbEhSd01MTm1LZg?oc=5"
-    }
-   ],
-   "date": "2026-11-25T09:11:37.000Z",
-   "categories": [
-    "Politique & écosystème"
    ],
    "score": 5
   },
@@ -1072,6 +996,27 @@
    "date": "2026-11-25T10:45:00.000Z",
    "categories": [
     "Rachats & IPO"
+   ],
+   "score": 5
+  },
+  {
+   "id": "les-start-up-de-l-x-tres-presentes-au-demo-day-ip-paris-a-station-f",
+   "title": "Les start-up de l’X, très présentes, au Demo Day IP Paris à Station F",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUpvaDRHbWpkV0lVeWVYZTJHUzJyaHo2SkV3Z2tZN1R4T2ZqWWxGQXpSSVFuendzRXBtVk9HNnlIT2ZyRHEtdzVtb0kyWVQ1b0NHVjRMQlNEUlMwVXlaNHM3UHNqRG5yNTVIblRibUVneWhZd0U5NjZxWEtCXy02OVNLRGlsLUtxMm1fRDI5LXptRVNZYmVNNWVTbEhSd01MTm1LZg?oc=5",
+   "summary": "",
+   "sources": [
+    "École polytechnique"
+   ],
+   "articles": [
+    {
+     "source": "École polytechnique",
+     "title": "Les start-up de l’X, très présentes, au Demo Day IP Paris à Station F",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUpvaDRHbWpkV0lVeWVYZTJHUzJyaHo2SkV3Z2tZN1R4T2ZqWWxGQXpSSVFuendzRXBtVk9HNnlIT2ZyRHEtdzVtb0kyWVQ1b0NHVjRMQlNEUlMwVXlaNHM3UHNqRG5yNTVIblRibUVneWhZd0U5NjZxWEtCXy02OVNLRGlsLUtxMm1fRDI5LXptRVNZYmVNNWVTbEhSd01MTm1LZg?oc=5"
+    }
+   ],
+   "date": "2026-11-25T09:11:37.000Z",
+   "categories": [
+    "Politique & écosystème"
    ],
    "score": 5
   },
@@ -1130,6 +1075,69 @@
    "score": 5
   },
   {
+   "id": "le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-",
+   "title": "Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORlgzRWZ5UndEb3JKS1R1ZXIzN0dybU1fOGJ5RU9IMElMdVVpLXY0UnFQTkZHR2ttVmJwVkw5RmhSWUp1V2xmT1FMbW02TE5sS3JoX2huNjJkYlJYaElvUWotWnlmSHp4LXJtWG9XUnhGeVF2cVVIRXdmMndxYUV6UE1IbGVKZzdhdUlGNHNqUE1iM0l6aG8yczV2V1RIbUdPbFdacEdfZ25UWlBZOEkwXzYtNDgxdGRqRnZ2SFVqRDlaR00wSWxVRk1fcm1CSW5IN0xia0VIa1F1dTYyeUpyaXE3VDdOblJiaG5VbGJFWHEwR1lIcDNzMzROUXdpMktya0E?oc=5",
+   "summary": "",
+   "sources": [
+    "Le Monde.fr"
+   ],
+   "articles": [
+    {
+     "source": "Le Monde.fr",
+     "title": "Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORlgzRWZ5UndEb3JKS1R1ZXIzN0dybU1fOGJ5RU9IMElMdVVpLXY0UnFQTkZHR2ttVmJwVkw5RmhSWUp1V2xmT1FMbW02TE5sS3JoX2huNjJkYlJYaElvUWotWnlmSHp4LXJtWG9XUnhGeVF2cVVIRXdmMndxYUV6UE1IbGVKZzdhdUlGNHNqUE1iM0l6aG8yczV2V1RIbUdPbFdacEdfZ25UWlBZOEkwXzYtNDgxdGRqRnZ2SFVqRDlaR00wSWxVRk1fcm1CSW5IN0xia0VIa1F1dTYyeUpyaXE3VDdOblJiaG5VbGJFWHEwR1lIcDNzMzROUXdpMktya0E?oc=5"
+    }
+   ],
+   "date": "2026-11-26T17:35:04.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.9
+  },
+  {
+   "id": "elle-s-immisce-sur-tout-le-territoire-des-petites-mairies-jusqu-aux-metropoles-c",
+   "title": "Elle s’immisce sur tout le territoire, des petites mairies jusqu’aux métropoles : comment l’IA conquiert progressivement le secteur public",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOVFTQ2JBZVRnNVpRQ29ESF9PZEhXVUNxSm0zd1JaaGZTVHZmYjYxM0tqaTdtbjJoNW0zR3JSSnVTSnkzXzMxZU9uSlFEcXJMRlVTZm5pd25RRVZZWDdmaENjVGo1U0s3aXJyUVd0ZWZlSkh4c01MVndTX1ZQT1ozb3lxZ3BKanZqRnZmT21mamtJazhfZy1FTTFidjAzRUxFWVRxYTlQSEo2MWE5RU5sQkZFeUpEOEVVUURGY2VFS3lkMWQxS1NqRnJZRWpacnNQbzFlb19KZFFTdUJOWjBscWtJSG1BUjRfZk16XzIzRUg3Y1NDUWRRdDVhSzdnWEpFR0p4RUlvLVdFSkVlVXBmNzcybmhEQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "L'Usine Digitale"
+   ],
+   "articles": [
+    {
+     "source": "L'Usine Digitale",
+     "title": "Elle s’immisce sur tout le territoire, des petites mairies jusqu’aux métropoles : comment l’IA conquiert progressivement le secteur public",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOVFTQ2JBZVRnNVpRQ29ESF9PZEhXVUNxSm0zd1JaaGZTVHZmYjYxM0tqaTdtbjJoNW0zR3JSSnVTSnkzXzMxZU9uSlFEcXJMRlVTZm5pd25RRVZZWDdmaENjVGo1U0s3aXJyUVd0ZWZlSkh4c01MVndTX1ZQT1ozb3lxZ3BKanZqRnZmT21mamtJazhfZy1FTTFidjAzRUxFWVRxYTlQSEo2MWE5RU5sQkZFeUpEOEVVUURGY2VFS3lkMWQxS1NqRnJZRWpacnNQbzFlb19KZFFTdUJOWjBscWtJSG1BUjRfZk16XzIzRUg3Y1NDUWRRdDVhSzdnWEpFR0p4RUlvLVdFSkVlVXBmNzcybmhEQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-26T16:47:06.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.9
+  },
+  {
+   "id": "plf-2027-le-senat-vote-un-nouvel-allegement-fiscal-pour-les-chaines-tv",
+   "title": "PLF 2027 : le Sénat vote un nouvel allègement fiscal pour les chaînes TV",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcEYzTE0xamU2V0tCWFh5a1ZqLWwwTUFmSXhfVnpvTVo0Ung5ZGNtV0lSUHRyWUVPRGxUZU1iYWxrMndKaG5VMkdqTTVkWjJHYUVFZG81UlBiVEZGQUFWSjdVT200UHdaWm5uSWxpUlpoSlRKekxRNzUzamFsdk9SRnN0ZmlOanVHcVQ5Z0E4aXNZdw?oc=5",
+   "summary": "",
+   "sources": [
+    "CB News"
+   ],
+   "articles": [
+    {
+     "source": "CB News",
+     "title": "PLF 2027 : le Sénat vote un nouvel allègement fiscal pour les chaînes TV",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcEYzTE0xamU2V0tCWFh5a1ZqLWwwTUFmSXhfVnpvTVo0Ung5ZGNtV0lSUHRyWUVPRGxUZU1iYWxrMndKaG5VMkdqTTVkWjJHYUVFZG81UlBiVEZGQUFWSjdVT200UHdaWm5uSWxpUlpoSlRKekxRNzUzamFsdk9SRnN0ZmlOanVHcVQ5Z0E4aXNZdw?oc=5"
+    }
+   ],
+   "date": "2026-11-26T04:50:02.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 4.9
+  },
+  {
    "id": "intelligence-artificielle-l-ambition-publique-se-heurte-au-recul-des-credits",
    "title": "Intelligence artificielle: L’ambition publique se heurte au recul des crédits",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcTRRa0kyblo4R1FBTm9SaWF1bVE0ZENtNFJDZllUY29XcEhjdGxaNzZickFQUFZ4U3ZkMDVIUnRSdHo2V09sR1FkdW40UlVHWGlzQ0dBazZZTmJBa1BudWVTamxsSk5aUHNwR1Y0ZXJJaUNPakZYYldHQVVzNjc4N3NMZ2NhVlotZEdYZC1nSktkd2RWTnBnWVpfWDlCUERCNFFiZHB2T1V3RzhKbEZkTFFiYmRjVzQ?oc=5",
@@ -1148,7 +1156,28 @@
    "categories": [
     "IA"
    ],
-   "score": 4.9
+   "score": 4.7
+  },
+  {
+   "id": "oise-partenariat-entre-l-adico-et-l-arnia-pour-deployer-une-intelligence-artific",
+   "title": "Oise : partenariat entre l’Adico et l’ARNia pour déployer une intelligence artificielle auprès des collectivités",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOc2owSUhhOXBrano5emRQYVFFOFhZXzRhRGpzU3hMbThRWW1aSHN2ZDdFSXFSVjZ5UFh2aDhaWjRxMmIwMW1kSEp2VmJTbHJqSlJoay1QcmxpaWtXdjk4N2pRbUhzUTFYc1d3ZHgxZlh5Z1Fmb0otQ3hpM2x0WFdZOHhTVUpEbkRTODd1ZVFkbnVMaU9BbVFmdW44UlhiZ1NpcUVzVDBPT2k1aEw0Mk5CUDhjbmFwUVpNSXBJOEo0dDdRQWhZTXNnckh2OWFZUGtQVElraHpFVy05MUt0TXFPOVJDV1R5ZTNZcjdhVFl5S3d2MTZna1Z3d2FqVVdEZ0ZoLW13WkVOM0NyUzZ6U2hfV2tyRDRvbVdrcmo0?oc=5",
+   "summary": "",
+   "sources": [
+    "L'Usine Nouvelle"
+   ],
+   "articles": [
+    {
+     "source": "L'Usine Nouvelle",
+     "title": "Oise : partenariat entre l’Adico et l’ARNia pour déployer une intelligence artificielle auprès des collectivités",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOc2owSUhhOXBrano5emRQYVFFOFhZXzRhRGpzU3hMbThRWW1aSHN2ZDdFSXFSVjZ5UFh2aDhaWjRxMmIwMW1kSEp2VmJTbHJqSlJoay1QcmxpaWtXdjk4N2pRbUhzUTFYc1d3ZHgxZlh5Z1Fmb0otQ3hpM2x0WFdZOHhTVUpEbkRTODd1ZVFkbnVMaU9BbVFmdW44UlhiZ1NpcUVzVDBPT2k1aEw0Mk5CUDhjbmFwUVpNSXBJOEo0dDdRQWhZTXNnckh2OWFZUGtQVElraHpFVy05MUt0TXFPOVJDV1R5ZTNZcjdhVFl5S3d2MTZna1Z3d2FqVVdEZ0ZoLW13WkVOM0NyUzZ6U2hfV2tyRDRvbVdrcmo0?oc=5"
+    }
+   ],
+   "date": "2026-11-26T12:53:32.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.6
   },
   {
    "id": "google-ai-overviews-ne-serait-pas-le-principal-responsable-de-la-chute-du-trafic",
@@ -1177,7 +1206,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.8
+   "score": 4.6
   },
   {
    "id": "ia-pour-tous-le-credit-agricole-lance-son-grand-chantier-en-interne-et-bientot-p",
@@ -1198,7 +1227,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.6
+   "score": 4.4
   },
   {
    "id": "deployer-mistral-le-chat-pro-et-api-ue-face-au-cloud-act",
@@ -1219,7 +1248,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.5
+   "score": 4.3
   },
   {
    "id": "a-la-recherche-de-la-prochaine-licorne",
@@ -1240,7 +1269,7 @@
    "categories": [
     "Licornes & scale-ups"
    ],
-   "score": 4.4
+   "score": 4.2
   },
   {
    "id": "la-banque-des-territoires-finance-des-assistants-d-ia-par-metier-coconstruits-su",
@@ -1261,7 +1290,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.4
+   "score": 4.2
   },
   {
    "id": "commande-par-qr-code-au-restaurant-l-histoire-d-obypay",
@@ -1280,49 +1309,7 @@
    ],
    "date": "2026-11-26T07:53:00.000Z",
    "categories": [],
-   "score": 4.3
-  },
-  {
-   "id": "sillage-l-outil-ia-qui-revolutionne-la-prospection-b2b-en-analysant-les-reseaux-",
-   "title": "Sillage, l’outil IA qui révolutionne la prospection B2B en analysant les réseaux sociaux",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzVjRhdVpsM2hlTGhFNUJ3LWcxQmxxQlVZamRnWHpWMXl1QmktOXU3RmdJcTdfWTlLbEdYT1IwWkRpdFB6VWJsaDhSeUFONGZEM0tiM3Q0WTlhNUhTR3hOWXdlbDBJdjMtekJTTnV4MFA?oc=5",
-   "summary": "",
-   "sources": [
-    "https://horticulture-abadie-pyrenees.com/"
-   ],
-   "articles": [
-    {
-     "source": "https://horticulture-abadie-pyrenees.com/",
-     "title": "Sillage, l’outil IA qui révolutionne la prospection B2B en analysant les réseaux sociaux",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzVjRhdVpsM2hlTGhFNUJ3LWcxQmxxQlVZamRnWHpWMXl1QmktOXU3RmdJcTdfWTlLbEdYT1IwWkRpdFB6VWJsaDhSeUFONGZEM0tiM3Q0WTlhNUhTR3hOWXdlbDBJdjMtekJTTnV4MFA?oc=5"
-    }
-   ],
-   "date": "2026-11-26T06:37:49.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 4.2
-  },
-  {
-   "id": "startups-a-chacun-son-modele-de-reussite-pourquoi-la-croissance-durable-supplant",
-   "title": "« Startups : à chacun son modèle de réussite » : pourquoi la croissance durable supplante la course aux licornes ?",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXhuNHppRGliOVdJcm5pVERfdGd0TEI5ZG1UcGRqWnlaZm5JNE9LdVYteFV0WFk0WTJyYUFkZjBiOFNRRVFaY1hyaFJDb0wxNFRYQjZzOHZWb2ZWMWU3cm82NGJLd05tUnZPZXlYemRvVGZTY3cya0hIUFJOTnRHWFFXbG0tMGpKT2RYWkRCU0dXNC1NZ1BERG5hV2pWVkhYajk5R2x5V21FUGFheWpXeGx2Njg3OUw5Qm02QnJVRnhLck9qdExLTDNCdTFUX2dDalFZdE1LTUZXeXdL?oc=5",
-   "summary": "",
-   "sources": [
-    "Bpifrance"
-   ],
-   "articles": [
-    {
-     "source": "Bpifrance",
-     "title": "« Startups : à chacun son modèle de réussite » : pourquoi la croissance durable supplante la course aux licornes ?",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXhuNHppRGliOVdJcm5pVERfdGd0TEI5ZG1UcGRqWnlaZm5JNE9LdVYteFV0WFk0WTJyYUFkZjBiOFNRRVFaY1hyaFJDb0wxNFRYQjZzOHZWb2ZWMWU3cm82NGJLd05tUnZPZXlYemRvVGZTY3cya0hIUFJOTnRHWFFXbG0tMGpKT2RYWkRCU0dXNC1NZ1BERG5hV2pWVkhYajk5R2x5V21FUGFheWpXeGx2Njg3OUw5Qm02QnJVRnhLck9qdExLTDNCdTFUX2dDalFZdE1LTUZXeXdL?oc=5"
-    }
-   ],
-   "date": "2026-11-25T09:55:38.000Z",
-   "categories": [
-    "Licornes & scale-ups"
-   ],
-   "score": 4
+   "score": 4.1
   },
   {
    "id": "apres-appnexus-xandr-et-scope3-paul-antoine-strullu-se-lance-dans-la-pub-pour-le",
@@ -1354,6 +1341,27 @@
    "score": 4
   },
   {
+   "id": "startups-a-chacun-son-modele-de-reussite-pourquoi-la-croissance-durable-supplant",
+   "title": "« Startups : à chacun son modèle de réussite » : pourquoi la croissance durable supplante la course aux licornes ?",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXhuNHppRGliOVdJcm5pVERfdGd0TEI5ZG1UcGRqWnlaZm5JNE9LdVYteFV0WFk0WTJyYUFkZjBiOFNRRVFaY1hyaFJDb0wxNFRYQjZzOHZWb2ZWMWU3cm82NGJLd05tUnZPZXlYemRvVGZTY3cya0hIUFJOTnRHWFFXbG0tMGpKT2RYWkRCU0dXNC1NZ1BERG5hV2pWVkhYajk5R2x5V21FUGFheWpXeGx2Njg3OUw5Qm02QnJVRnhLck9qdExLTDNCdTFUX2dDalFZdE1LTUZXeXdL?oc=5",
+   "summary": "",
+   "sources": [
+    "Bpifrance"
+   ],
+   "articles": [
+    {
+     "source": "Bpifrance",
+     "title": "« Startups : à chacun son modèle de réussite » : pourquoi la croissance durable supplante la course aux licornes ?",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXhuNHppRGliOVdJcm5pVERfdGd0TEI5ZG1UcGRqWnlaZm5JNE9LdVYteFV0WFk0WTJyYUFkZjBiOFNRRVFaY1hyaFJDb0wxNFRYQjZzOHZWb2ZWMWU3cm82NGJLd05tUnZPZXlYemRvVGZTY3cya0hIUFJOTnRHWFFXbG0tMGpKT2RYWkRCU0dXNC1NZ1BERG5hV2pWVkhYajk5R2x5V21FUGFheWpXeGx2Njg3OUw5Qm02QnJVRnhLck9qdExLTDNCdTFUX2dDalFZdE1LTUZXeXdL?oc=5"
+    }
+   ],
+   "date": "2026-11-25T09:55:38.000Z",
+   "categories": [
+    "Licornes & scale-ups"
+   ],
+   "score": 4
+  },
+  {
    "id": "ia-les-medias-et-la-communication-en-quete-d-un-nouveau-modele-economique-et-int",
    "title": "IA : les médias et la communication en quête d’un nouveau modèle économique et intellectuel",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcU9xYklQQWRvUXJCRC11WmYtaExUYV9lS2x5al9vN2owS2RjOEl0YjA1a2dNakxsSDRrQXFaRUdqQnVUREJqWi1fM2haNnRNWmJMcDJBemVCd3pXa0hfeXptbEZBTnlVOFhJNnp4WW5JZy05cG8zcU5zWmY1ekx3S05yTjh5VVhoVTU5aU9NUWhWU0lvZXFRNnFKQmhvUEMzOHUw?oc=5",
@@ -1372,7 +1380,7 @@
    "categories": [
     "IA"
    ],
-   "score": 3.3
+   "score": 3.1
   },
   {
    "id": "chez-nous-il-n-y-a-pas-de-risque-l-idee-recue-qui-coute-cher-aux-start-up",
@@ -1451,27 +1459,6 @@
     }
    ],
    "date": "2026-11-25T12:30:23.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3
-  },
-  {
-   "id": "le-succes-des-ia-chinoises-aupres-des-entreprises-met-les-leaders-anthropic-et-o",
-   "title": "Le succès des IA chinoises auprès des entreprises met les leaders Anthropic et OpenAI sous pression",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUXJjLTNrRG9WeFZsTE4zX0hCN2VaeFphamNheVRXeVB1NTFYazRUZG1lQ0paTTZNbG13NFpHRDBpMkp0eE9sZGx0NldvcVFrbnVVYk5KeHZYOGdHUmpoQTBrcUtpQWtMYTMzZDEyNFhJRVVTZG1BY1pkakRONERrRU1BbmxYVEZXZ3pOMDhYMTNSbW5XLThGaXAyM0xTUlZxODBPbVBaVmdOLW9YT2NiU1VPcGV2V2hIVndNQ2N3eXFzNXRwYjE3VHhscGxHWFFPSnFjeGxXZEZ0UFVRMTV3UXhYbXQxdUtkN20tdy1SVUdSUU9KX3EyVUExMVQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Le Monde.fr"
-   ],
-   "articles": [
-    {
-     "source": "Le Monde.fr",
-     "title": "Le succès des IA chinoises auprès des entreprises met les leaders Anthropic et OpenAI sous pression",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUXJjLTNrRG9WeFZsTE4zX0hCN2VaeFphamNheVRXeVB1NTFYazRUZG1lQ0paTTZNbG13NFpHRDBpMkp0eE9sZGx0NldvcVFrbnVVYk5KeHZYOGdHUmpoQTBrcUtpQWtMYTMzZDEyNFhJRVVTZG1BY1pkakRONERrRU1BbmxYVEZXZ3pOMDhYMTNSbW5XLThGaXAyM0xTUlZxODBPbVBaVmdOLW9YT2NiU1VPcGV2V2hIVndNQ2N3eXFzNXRwYjE3VHhscGxHWFFPSnFjeGxXZEZ0UFVRMTV3UXhYbXQxdUtkN20tdy1SVUdSUU9KX3EyVUExMVQ?oc=5"
-    }
-   ],
-   "date": "2026-11-25T05:30:01.000Z",
    "categories": [
     "IA"
    ],
