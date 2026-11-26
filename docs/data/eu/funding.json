@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T15:48:12.389Z",
+ "updatedAt": "2026-11-26T15:49:29.450Z",
  "lang": "en",
  "days": 9,
  "rates": {
@@ -16,7 +16,7 @@
    "company": "Audun",
    "title": "Audun raises $3M to modernise debt collection with AI",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0EzTWJLcGtpTXdJOVJOYWc1MnpTX3BNUlFERm42cEM3cEN4c2htbVF4UW1oNVNsZGRuOVR3ZDNvSHV5cExUUTNZVXVpSjRjRHFBRWsxUnphakswT2pHWmNSVWxiNnpEdG5XdHhUanpyeTBqSmVRb3lmbFdMaEtaNmI5UmRwWTA?oc=5",
-   "date": "2026-11-26T09:15:30.000Z",
+   "date": "2026-11-26T09:19:45.000Z",
    "day": "2026-11-26",
    "amount": "$3M",
    "currency": "USD",
@@ -55,7 +55,8 @@
    "kind": "company",
    "status": "announced",
    "categories": [
-    "Funding"
+    "Funding",
+    "AI"
    ],
    "articles": [
     {
@@ -65,7 +66,7 @@
     },
     {
      "source": "EU-Startups",
-     "title": "Warsaw-based WaterSense secures €5.75 million to build and scale water intelligence infrastructure across Europe",
+     "title": "Warsaw-based WaterSense secures €5.75 million to make sense of Europe’s water using AI and satellite data",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGFCam14Yl82T2wxb25TcTFIS0dFaGxHWXJoaFlOdzV5UElPWTB2SVRaZHhkWlZ4anEwUllXMkMwSnE4MVZzaHZfMkp5c3RKVTVBcG9CQmg0SC1DS2VGc0ZpelJZak1udXdkU2N2ZEZjOHc1U3Q3OVNzZHhaVFRUbUJYSlFTb3BfVG5HN0ktbjRuV3kxU01vNDcwODFpS3ZYck1odVlvOV9FNElwUlVlMTVZLV9HTTNPSElSdEFmQ1hZaVFJZkQxNVY1anBWZmoyMkhKMEM0XzhDb0c3djFPT0txMA?oc=5"
     },
     {
@@ -79,7 +80,7 @@
    "company": "ARK Capture Solutions",
    "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5",
-   "date": "2026-11-26T08:22:37.000Z",
+   "date": "2026-11-26T08:24:47.000Z",
    "day": "2026-11-26",
    "amount": "€5.4M",
    "currency": "EUR",
@@ -137,7 +138,7 @@
    "currency": "USD",
    "amountM": 20,
    "amountEur": 18.4,
-   "round": null,
+   "round": "Pre-seed",
    "valuation": null,
    "investors": null,
    "kind": "company",
@@ -151,7 +152,8 @@
      "title": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
      "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/"
     }
-   ]
+   ],
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=1400,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/24161303/Copy-of-Team_photo_with_artist_Lute.jpeg"
   },
   {
    "company": "Plural",
@@ -529,6 +531,11 @@
      "source": "The Recursive",
      "title": "British-Ukrainian Pai Defence Raises a Pre-Seed Round",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGI5aFFISkVPZm5lV2ZicWR1Y0xFRm52eGdkYWxxU0N3Um5nRjdHRUlBSjItVkVHNDdCeHlleVVtdEk2a2ktWERnTjRrRUFRVUxETzNweFUzUDJyZkRRUkhBU1VscmdKNy0tUFlYX1l5MmpLdU4tVk9VVE1tb1JrdWxJZE5SSW1TTzlnVF9YN1VBSEdhZUI0Slh6TUZMRlNLakt5SGg4QWtHeWw2ZjYxdjhn?oc=5"
+    },
+    {
+     "source": "Kyiv Post",
+     "title": "Norway’s Gardar Leads $5M Round for Himera, a Ukrainian Maker of Jamming-Resistant Military Radios",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHNOdXFBMmxINFFtLUlNcWhsQkFQNGJUVzFzbFJnRy1rWUVoZUcwbGYxVHYwSlhDQnhaQjBleUxQNWVYMjVVcG9YQQ?oc=5"
     }
    ]
   },
