@@ -1,11 +1,11 @@
 {
  "date": "2026-11-26",
- "generatedAt": "2026-11-26T09:41:23.745Z",
+ "generatedAt": "2026-11-26T13:50:12.785Z",
  "windowHours": 36,
  "counts": {
-  "articles": 38,
-  "raw": 55,
-  "media": 16
+  "articles": 45,
+  "raw": 61,
+  "media": 18
  },
  "scope": "eu",
  "lang": "en",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "source": "EU-Startups",
@@ -23,17 +23,17 @@
   {
    "source": "Financial Times",
    "ok": true,
-   "items": 5
+   "items": 3
   },
   {
    "source": "Google News · Europe scaleup mega round billion",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 30
+   "items": 44
   },
   {
    "source": "Google News · European unicorn valuation",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 54
+   "items": 31
   },
   {
    "source": "Sifted",
@@ -110,7 +110,7 @@
     "Funding",
     "AI"
    ],
-   "score": 20.9
+   "score": 20.5
   },
   {
    "id": "eu-unveils-quantum-act-with-plans-for-50bn-fund-to-boost-sovereign-tech",
@@ -138,29 +138,30 @@
     "Funding",
     "Policy & ecosystem"
    ],
-   "score": 20.4
+   "score": 20
   },
   {
-   "id": "eu-proposes-50bn-equity-fund-to-support-quantum-and-essential-sovereign-tech",
-   "title": "EU proposes €50BN equity fund to support quantum and essential sovereign tech",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzVhYk5McU1QakpFTWlaQXNMaVpvQUZqWndKc2h1OW9kcXJYMTVEbjhfdHdFTG0tQlBqb3ZES0RrTGhOR2lTQ01ETkdxcjhVTnRQRzIwb3RmUXlidWNCN3g0c1NtbjBiXy1CUkFaSEFlSWtrWmY2Zm9CMjRyNlRMcllET3otemFZTEZ5OTgycXZUT0hSMEtEZ1dlZ2hGMWw3Ukc2NGpBY3kwZmF4UFp3SVMwdw?oc=5",
+   "id": "elevenlabs-in-talks-to-raise-funding-at-33bn-valuation-reports-say",
+   "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+   "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
    "summary": "",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=975,quality=75,fit=cover,format=auto/wp-content/uploads/2026/02/04150650/251222_Eleven-Labs3655-v1-1-e1770217781484.jpg",
    "sources": [
-    "Tech.eu"
+    "Sifted"
    ],
    "articles": [
     {
-     "source": "Tech.eu",
-     "title": "EU proposes €50BN equity fund to support quantum and essential sovereign tech",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzVhYk5McU1QakpFTWlaQXNMaVpvQUZqWndKc2h1OW9kcXJYMTVEbjhfdHdFTG0tQlBqb3ZES0RrTGhOR2lTQ01ETkdxcjhVTnRQRzIwb3RmUXlidWNCN3g0c1NtbjBiXy1CUkFaSEFlSWtrWmY2Zm9CMjRyNlRMcllET3otemFZTEZ5OTgycXZUT0hSMEtEZ1dlZ2hGMWw3Ukc2NGpBY3kwZmF4UFp3SVMwdw?oc=5"
+     "source": "Sifted",
+     "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+     "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/"
     }
    ],
-   "date": "2026-11-25T12:09:24.000Z",
+   "date": "2026-11-26T10:48:32.000Z",
    "categories": [
     "Funding",
-    "Policy & ecosystem"
+    "Unicorns & scale-ups"
    ],
-   "score": 16.2
+   "score": 18.7
   },
   {
    "id": "aqura-systems-raises-2-1m-to-advance-ai-powered-fish-farm-monitoring",
@@ -188,7 +189,50 @@
     "Funding",
     "AI"
    ],
-   "score": 16.2
+   "score": 16
+  },
+  {
+   "id": "eu-proposes-50bn-equity-fund-to-support-quantum-and-essential-sovereign-tech",
+   "title": "EU proposes €50BN equity fund to support quantum and essential sovereign tech",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzVhYk5McU1QakpFTWlaQXNMaVpvQUZqWndKc2h1OW9kcXJYMTVEbjhfdHdFTG0tQlBqb3ZES0RrTGhOR2lTQ01ETkdxcjhVTnRQRzIwb3RmUXlidWNCN3g0c1NtbjBiXy1CUkFaSEFlSWtrWmY2Zm9CMjRyNlRMcllET3otemFZTEZ5OTgycXZUT0hSMEtEZ1dlZ2hGMWw3Ukc2NGpBY3kwZmF4UFp3SVMwdw?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "EU proposes €50BN equity fund to support quantum and essential sovereign tech",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzVhYk5McU1QakpFTWlaQXNMaVpvQUZqWndKc2h1OW9kcXJYMTVEbjhfdHdFTG0tQlBqb3ZES0RrTGhOR2lTQ01ETkdxcjhVTnRQRzIwb3RmUXlidWNCN3g0c1NtbjBiXy1CUkFaSEFlSWtrWmY2Zm9CMjRyNlRMcllET3otemFZTEZ5OTgycXZUT0hSMEtEZ1dlZ2hGMWw3Ukc2NGpBY3kwZmF4UFp3SVMwdw?oc=5"
+    }
+   ],
+   "date": "2026-11-25T12:09:24.000Z",
+   "categories": [
+    "Funding",
+    "Policy & ecosystem"
+   ],
+   "score": 16
+  },
+  {
+   "id": "europe-has-10-billion-for-startups-does-it-have-a-market-for-them",
+   "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUpmNVUzT081QzBEdEtNVzJmZHA3UWJ3bFBMdWVQdDBFWWxYNWxiWlNBcS1PbVJwa2ItMGo2ZUtRVGFhMXFsQmc2UGpsYUlTSW95N1dTTV9xQXJwSjZ5UzZ0b1Y0TU01Wkl4WEZFSWlfR1I0TFNoNC1mWlZocWxYYzJpaXVzYXlIanV3Nnp5cjZZRFU4MGplQ2ZZOVJtQVFtcUpsM2tSYkhNX202U1JkZHJHVkU?oc=5",
+   "summary": "",
+   "sources": [
+    "EU Reporter"
+   ],
+   "articles": [
+    {
+     "source": "EU Reporter",
+     "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUpmNVUzT081QzBEdEtNVzJmZHA3UWJ3bFBMdWVQdDBFWWxYNWxiWlNBcS1PbVJwa2ItMGo2ZUtRVGFhMXFsQmc2UGpsYUlTSW95N1dTTV9xQXJwSjZ5UzZ0b1Y0TU01Wkl4WEZFSWlfR1I0TFNoNC1mWlZocWxYYzJpaXVzYXlIanV3Nnp5cjZZRFU4MGplQ2ZZOVJtQVFtcUpsM2tSYkhNX202U1JkZHJHVkU?oc=5"
+    }
+   ],
+   "date": "2026-11-26T10:35:33.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 14.7
   },
   {
    "id": "eu-inc-is-in-crisis-but-1m-backed-shuttle-isn-t-waiting-for-europe-to-fix-cross-",
@@ -216,24 +260,24 @@
     "Funding",
     "Policy & ecosystem"
    ],
-   "score": 14.9
+   "score": 14.6
   },
   {
-   "id": "europe-has-10-billion-for-startups-does-it-have-a-market-for-them",
-   "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTlCZ0VGckQ0c1JxcEZFME0yOFlNWXRhc3hZZFZFaEJHc042bXhSN2ZkNFJvQ25takthSGRLaVFwQjg1YlFLUGwtREhYVE1OUm5JYU10NTJNbFlZQ3ZyYmVBWG0yWVFKdXpxQWRTajl1anNzWmgyRmRob0pKNUNaTzF1SEMzX0J3aExDRmpDXy1WSDlfa04zVkROZW9OWHZRd0VvQkZ2N1FhbkcxY1BYOFQ5WQ?oc=5",
+   "id": "plural-raises-1bn-to-back-europe-s-frontier-technology-founders",
+   "title": "Plural raises €1bn to back Europe’s frontier technology founders",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmZhcUZScFVrM0hJRFhCbHZjT2dHalBCMFdzdzJ5dFZpTWNBNE1BWHc1alNsdHBBRGUtajdLeGpYSnNZdVdpbk9uT0pzQy1IQVlTQks4UFNEQ25mMGFuOXUxdmxPeDgzZ3VTMzNYdlBIRXRuZUVJYVFqUVMxWlJfUk9IQQ?oc=5",
    "summary": "",
    "sources": [
-    "EU Reporter"
+    "Business Matters"
    ],
    "articles": [
     {
-     "source": "EU Reporter",
-     "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTlCZ0VGckQ0c1JxcEZFME0yOFlNWXRhc3hZZFZFaEJHc042bXhSN2ZkNFJvQ25takthSGRLaVFwQjg1YlFLUGwtREhYVE1OUm5JYU10NTJNbFlZQ3ZyYmVBWG0yWVFKdXpxQWRTajl1anNzWmgyRmRob0pKNUNaTzF1SEMzX0J3aExDRmpDXy1WSDlfa04zVkROZW9OWHZRd0VvQkZ2N1FhbkcxY1BYOFQ5WQ?oc=5"
+     "source": "Business Matters",
+     "title": "Plural raises €1bn to back Europe’s frontier technology founders",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmZhcUZScFVrM0hJRFhCbHZjT2dHalBCMFdzdzJ5dFZpTWNBNE1BWHc1alNsdHBBRGUtajdLeGpYSnNZdVdpbk9uT0pzQy1IQVlTQks4UFNEQ25mMGFuOXUxdmxPeDgzZ3VTMzNYdlBIRXRuZUVJYVFqUVMxWlJfUk9IQQ?oc=5"
     }
    ],
-   "date": "2026-11-24T22:39:56.000Z",
+   "date": "2026-11-25T11:16:19.000Z",
    "categories": [
     "Funding"
    ],
@@ -264,7 +308,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 12.9
+   "score": 12.6
   },
   {
    "id": "audun-raises-3m-to-modernise-debt-collection-with-ai",
@@ -286,7 +330,7 @@
     "Funding",
     "AI"
    ],
-   "score": 11
+   "score": 10.6
   },
   {
    "id": "payhawk-backer-eleven-secures-57m-first-close-for-fund-iv",
@@ -333,6 +377,28 @@
    "score": 10
   },
   {
+   "id": "gravity-co-brings-total-funding-to-8m-as-it-expands-across-london-an-interview-w",
+   "title": "Gravity Co Brings Total Funding To £8m As It Expands Across London: An Interview With CEO and Co-Founder, Riccardo Tessaro",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kSEZ0RGZ6dXBueF9pYkhSZUNabFdwUFRSdjBnQlNJb2Z0dW50RUdzR1V6djhRdC10RFdaam5fcHhmRXpQeHI3bWZJSnMydUF1S0ZvV3BFLWlzV21z?oc=5",
+   "summary": "",
+   "sources": [
+    "TechRound"
+   ],
+   "articles": [
+    {
+     "source": "TechRound",
+     "title": "Gravity Co Brings Total Funding To £8m As It Expands Across London: An Interview With CEO and Co-Founder, Riccardo Tessaro",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kSEZ0RGZ6dXBueF9pYkhSZUNabFdwUFRSdjBnQlNJb2Z0dW50RUdzR1V6djhRdC10RFdaam5fcHhmRXpQeHI3bWZJSnMydUF1S0ZvV3BFLWlzV21z?oc=5"
+    }
+   ],
+   "date": "2026-11-26T10:40:28.000Z",
+   "categories": [
+    "Funding",
+    "People"
+   ],
+   "score": 8.7
+  },
+  {
    "id": "ark-capture-solutions-secures-5-4m-to-scale-its-all-electric-carbon-capture-tech",
    "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5",
@@ -351,7 +417,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 8.9
+   "score": 8.5
   },
   {
    "id": "exclusive-starforge-raises-6-6m-to-build-nuclear-fusion-reactors-at-scale",
@@ -372,7 +438,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 8.6
+   "score": 8.3
   },
   {
    "id": "polyai-s-ex-machine-learning-chief-raises-20m-for-new-robotics-startup",
@@ -393,29 +459,28 @@
    "categories": [
     "Funding"
    ],
-   "score": 8.4
+   "score": 8.1
   },
   {
-   "id": "berlin-s-ankerkern-raises-a-six-figure-euro-sum-to-bring-slow-ai-to-midsize-firm",
-   "title": "Berlin’s ankerkern Raises a Six-Figure Euro Sum to Bring ‘Slow AI’ to Midsize Firms",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4VXhTWFJHMFRXU2VlVDMxTk92VTF3emhDRE9WWThCU0wwSlZGd2JlYlJVX0xNLUhrRDJybmJsN2NjWndXbjFsSjM1ZmZIR0I5emhzUmNNLUFuQjU4UjNabnVnVzVaOEhuRm16TTlSbG5Fa3lsSFJxVQ?oc=5",
+   "id": "munich-s-fintavo-raises-pre-seed-to-finance-veterinary-care",
+   "title": "Munich's fintavo raises pre-seed to finance veterinary care",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTVqT3luU2VKOFhVOGxhVmJCanBaNXdqRmJEeWlWSDVSb3VtREp1YU1fTDdNbVJkQkpkZVQ5eTNkbWp3WnI3aW1uOXI0d21HTlpfUVVfX3ZjWkZibmdFWE1MUUl5RU83SFUtUUxFMmhFazFjNC1ZZUY4V2IwTlEtYkoxQXpGbms5dTJEMC1ETEgxcXJhSnV6Wg?oc=5",
    "summary": "",
    "sources": [
-    "www.trendingtopics.eu"
+    "Dealroom"
    ],
    "articles": [
     {
-     "source": "www.trendingtopics.eu",
-     "title": "Berlin’s ankerkern Raises a Six-Figure Euro Sum to Bring ‘Slow AI’ to Midsize Firms",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4VXhTWFJHMFRXU2VlVDMxTk92VTF3emhDRE9WWThCU0wwSlZGd2JlYlJVX0xNLUhrRDJybmJsN2NjWndXbjFsSjM1ZmZIR0I5emhzUmNNLUFuQjU4UjNabnVnVzVaOEhuRm16TTlSbG5Fa3lsSFJxVQ?oc=5"
+     "source": "Dealroom",
+     "title": "Munich's fintavo raises pre-seed to finance veterinary care",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTVqT3luU2VKOFhVOGxhVmJCanBaNXdqRmJEeWlWSDVSb3VtREp1YU1fTDdNbVJkQkpkZVQ5eTNkbWp3WnI3aW1uOXI0d21HTlpfUVVfX3ZjWkZibmdFWE1MUUl5RU83SFUtUUxFMmhFazFjNC1ZZUY4V2IwTlEtYkoxQXpGbms5dTJEMC1ETEgxcXJhSnV6Wg?oc=5"
     }
    ],
-   "date": "2026-11-25T09:38:35.000Z",
+   "date": "2026-11-26T09:59:32.000Z",
    "categories": [
-    "Funding",
-    "AI"
+    "Funding"
    ],
-   "score": 8
+   "score": 7.7
   },
   {
    "id": "warsaw-water-monitoring-start-up-raises-5-75-million",
@@ -436,7 +501,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 7.9
+   "score": 7.6
   },
   {
    "id": "monzo-cofounder-tom-blomfield-leaves-anthropic-after-less-than-six-months-report",
@@ -459,9 +524,9 @@
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXFjMVhwZFNqNW43SFk3XzI5anBUWmZXQVBsa0RpOEZSYUNGeHVCT0tjU0M2SXBLcXh1OU5va19ZaFpjdFdhV1NySEttVC16d1VJU09ZRUZ2QmpONms0T25yS19OLUhuOWlmVGJobVduSGswam9xRU5BZU1xZUhRbE5kSW9EVUxVR2Q4TGpB?oc=5"
     }
    ],
-   "date": "2026-11-25T11:31:08.000Z",
+   "date": "2026-11-25T11:43:23.000Z",
    "categories": [],
-   "score": 7.6
+   "score": 7.3
   },
   {
    "id": "proxima-fusion-ceo-calls-out-short-termism-amid-ai-boom",
@@ -483,7 +548,7 @@
     "AI",
     "People"
    ],
-   "score": 7.6
+   "score": 7.3
   },
   {
    "id": "how-to-build-an-ai-native-vc-fund",
@@ -508,25 +573,25 @@
    "score": 7
   },
   {
-   "id": "ukrainian-british-startup-pai-defence-raises-5-million-to-expand-drone-detection",
-   "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5",
+   "id": "what-separates-ai-features-that-pay-off-from-expensive-demos",
+   "title": "What separates AI features that pay off from expensive demos",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREttNmJJNmtjclByS3NQSXhQYlAzQ0xGWnFfRkFmRGg2ak9rRGRLSUdFYW9ERkFMTjd2WEpUVnltZDdzdElBeDVIMmJ5ZDhJdmY3OWlOdnZqekFfYnNUekRWS2NpdnVUQTZHOFVlNWZVdlpGR1ZfOTdHUzNWSzNpQjNIRE9sX0dfdWVtZll1eGg1UQ?oc=5",
    "summary": "",
    "sources": [
-    "Мілітарний"
+    "Tech.eu"
    ],
    "articles": [
     {
-     "source": "Мілітарний",
-     "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5"
+     "source": "Tech.eu",
+     "title": "What separates AI features that pay off from expensive demos",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREttNmJJNmtjclByS3NQSXhQYlAzQ0xGWnFfRkFmRGg2ak9rRGRLSUdFYW9ERkFMTjd2WEpUVnltZDdzdElBeDVIMmJ5ZDhJdmY3OWlOdnZqekFfYnNUekRWS2NpdnVUQTZHOFVlNWZVdlpGR1ZfOTdHUzNWSzNpQjNIRE9sX0dfdWVtZll1eGg1UQ?oc=5"
     }
    ],
-   "date": "2026-11-25T13:21:31.000Z",
+   "date": "2026-11-26T11:38:40.000Z",
    "categories": [
-    "Funding"
+    "AI"
    ],
-   "score": 6.3
+   "score": 6.8
   },
   {
    "id": "uk-defence-autonomy-sme-raises-usd70m-in-series-a-funding-round",
@@ -547,7 +612,47 @@
    "categories": [
     "Funding"
    ],
-   "score": 6.1
+   "score": 6
+  },
+  {
+   "id": "ukrainian-british-startup-pai-defence-raises-5-million-to-expand-drone-detection",
+   "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5",
+   "summary": "",
+   "sources": [
+    "Мілітарний"
+   ],
+   "articles": [
+    {
+     "source": "Мілітарний",
+     "title": "Ukrainian-British Startup Pai Defence Raises $5 Million to Expand Drone Detection Network Along the Front Line",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlJ3bTA3dEdMVEgtOG8zREF1UXRmeHFXYmNvZldwemdFUV9LSzNxS2pPVUpTSmc5NzZHdFVIV05odGNJc2NOUlNuNXBXa0xmaDVkeWQ5MUwzaVZrMFZSOC1YRHFCX1lmdm14OEIycFM0UUgxOVBTT0FDM3ptWGlRQndmTHpqQU1QV3Z0d1lJNWd2WmI4MkR2SkUyVzQxYk55a2JLTGRyY1BUZGdPVC05VWUtZ200MGc2anFGRmQxTWRpajVTeDFiVFM3dnFnN3VJQUI3NmN3MDM?oc=5"
+    }
+   ],
+   "date": "2026-11-25T13:21:31.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "transportation-europe-s-10-most-funded-companies-in-h1-2026",
+   "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5"
+    }
+   ],
+   "date": "2026-11-26T12:00:16.000Z",
+   "categories": [],
+   "score": 5.8
   },
   {
    "id": "general-catalyst-backs-17-year-old-austrian-s-quant-trading-startup",
@@ -564,9 +669,9 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdPTU9jcWF6OC1uajdENXNuLWNSdHpoeDlDbzViQmRkZkIwY01wUThud05sNWVyNmZrQ2pjUlJkSU15blJzVWk0cGl2MHZIdXl1RGF1c25BMzc5UFlLc291bEEzQkxNaW53NE5rckF5OVc4ZmpzZTE0TGM0T1YzRnpUcGh1bW1TR1N1SlE1RXdYbmctenh5RlhB?oc=5"
     }
    ],
-   "date": "2026-11-26T09:34:48.000Z",
+   "date": "2026-11-26T10:02:37.000Z",
    "categories": [],
-   "score": 6
+   "score": 5.7
   },
   {
    "id": "from-10-000-to-6-million-connected-cars-the-bootstrapped-rise-of-lithuania-s-obd",
@@ -583,9 +688,9 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlFhQUhrZEp6dFVNQjl5cVJ3UVlPb2ZFMkhNVnZMaDZEbzFTelNJQ1JMRERTQ1A3QUduQnlBcXJ5UlpMVkZEN2pLZk1LOVlwQjVydm9VQkd5azl5YkhST19wX1dRLW1HMkFfN1F5RVVGMHlocVRKN0lsYXlUY0ZjZnZpSTl4VzdINkViVlA5eWRTdkZBWjFneUFiSFRpbjNJcXJFQUdDRQ?oc=5"
     }
    ],
-   "date": "2026-11-26T09:00:35.000Z",
+   "date": "2026-11-26T09:00:36.000Z",
    "categories": [],
-   "score": 5.9
+   "score": 5.6
   },
   {
    "id": "it-s-not-a-fair-fight-bolt-s-markus-villig-on-why-europe-must-protect-homegrown-",
@@ -604,7 +709,7 @@
    ],
    "date": "2026-11-26T05:00:25.000Z",
    "categories": [],
-   "score": 5.6
+   "score": 5.3
   },
   {
    "id": "how-much-do-you-know-about-your-ai-agents",
@@ -628,6 +733,25 @@
    "score": 5
   },
   {
+   "id": "introducing-the-skinner-shah-award-for-journalism",
+   "title": "Introducing the Skinner-Shah Award for Journalism",
+   "url": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Introducing the Skinner-Shah Award for Journalism",
+     "url": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/"
+    }
+   ],
+   "date": "2026-11-26T12:00:10.000Z",
+   "categories": [],
+   "score": 4.8
+  },
+  {
    "id": "meet-goldfish-the-kings-of-slush-aiming-to-take-on-apple",
    "title": "Meet Goldfish: The kings of Slush aiming to take on Apple",
    "url": "https://sifted.eu/articles/goldfish-slush-100-winners/",
@@ -644,64 +768,7 @@
    ],
    "date": "2026-11-26T05:00:35.000Z",
    "categories": [],
-   "score": 4.6
-  },
-  {
-   "id": "top-london-investors-call-for-stamp-duty-axe-to-stem-ftse-exodus",
-   "title": "Top London investors call for stamp duty axe to stem FTSE exodus",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmlPSmpZTzVlYUsyV2xNekoyaExBWEIyVnN1MnVralVfV2NKRGluZDEwVzNCM0FINUNIWGQ3QU4yYmpka0lvRDhCMFNIcmxhUEN2YTB1aDQ4b1cxQTVsSl9tZXo5cDkxYzJMU2RhLWZmSlU4QzRiN2I4dERpZ1V2a04yaEZBZzV1S1BjVnR0SHdyQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "Top London investors call for stamp duty axe to stem FTSE exodus",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmlPSmpZTzVlYUsyV2xNekoyaExBWEIyVnN1MnVralVfV2NKRGluZDEwVzNCM0FINUNIWGQ3QU4yYmpka0lvRDhCMFNIcmxhUEN2YTB1aDQ4b1cxQTVsSl9tZXo5cDkxYzJMU2RhLWZmSlU4QzRiN2I4dERpZ1V2a04yaEZBZzV1S1BjVnR0SHdyQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-26T05:00:00.000Z",
-   "categories": [],
-   "score": 4.6
-  },
-  {
-   "id": "natwest-bets-big-on-wealth-as-banks-battle-for-britain-s-affluent",
-   "title": "Natwest bets big on wealth as banks battle for Britain’s affluent",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2w0OUZFcXhqRE1IVVlRQi14VHd3MEZUak00WVNPUWFRQXZMYmpEcElGd1lWemNnWFNlVmlDUjktc1BnQkxoVkdET1lwWW5OQjlmdWRZTFJaZmluMEJLdGNQanNqX2V6b2Q5ZzI1Q2lxVXVldk5sZGlZWUctSTQtaTZ2ZC1KODhKNVNXOWNLZTR4Zw?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "Natwest bets big on wealth as banks battle for Britain’s affluent",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2w0OUZFcXhqRE1IVVlRQi14VHd3MEZUak00WVNPUWFRQXZMYmpEcElGd1lWemNnWFNlVmlDUjktc1BnQkxoVkdET1lwWW5OQjlmdWRZTFJaZmluMEJLdGNQanNqX2V6b2Q5ZzI1Q2lxVXVldk5sZGlZWUctSTQtaTZ2ZC1KODhKNVNXOWNLZTR4Zw?oc=5"
-    }
-   ],
-   "date": "2026-11-26T05:00:00.000Z",
-   "categories": [],
-   "score": 4.6
-  },
-  {
-   "id": "london-slips-in-global-smart-cities-index",
-   "title": "London slips in global ‘smart cities’ index",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CZU5XNzJzM25KWVB6QWVWbUJmaU1nRnlvaE8xMl9BdHdLWG5mSlpxODNoc3VWMGh4RWJJQWdWUTVTNHBwNGZScklKMm4zbjA5MWk4RURFUEoyam5FWU04cGtnc0VPTDkzeFZ3U2EtMVFFRnc?oc=5",
-   "summary": "",
-   "sources": [
-    "City AM"
-   ],
-   "articles": [
-    {
-     "source": "City AM",
-     "title": "London slips in global ‘smart cities’ index",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CZU5XNzJzM25KWVB6QWVWbUJmaU1nRnlvaE8xMl9BdHdLWG5mSlpxODNoc3VWMGh4RWJJQWdWUTVTNHBwNGZScklKMm4zbjA5MWk4RURFUEoyam5FWU04cGtnc0VPTDkzeFZ3U2EtMVFFRnc?oc=5"
-    }
-   ],
-   "date": "2026-11-26T00:01:00.000Z",
-   "categories": [],
-   "score": 4.2
+   "score": 4.3
   },
   {
    "id": "europe-must-do-whatever-it-takes-tech-founders-and-political-leaders-demand-deci",
@@ -720,7 +787,7 @@
    ],
    "date": "2026-11-25T11:09:13.000Z",
    "categories": [],
-   "score": 4.1
+   "score": 4
   },
   {
    "id": "pronto-ventures-launches-in-turin-to-accelerate-startup-growth-across-europe",
@@ -761,23 +828,80 @@
    "score": 4
   },
   {
-   "id": "europe-s-answer-to-delaware-is-coming-apart",
-   "title": "Europe’s Answer to Delaware is Coming Apart",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWh3Zk53dVIyN2FCVTRKazlsRGtPRjlnTDdGRzM0Z0JPOVFDZzMydE5EZjE1alNKRV94R2I2U3pmSmNxdUxndURNUzRxS29TUDFMZlMyRkpzT3BaTjBIdk4tZnV4eFUwRjVJenZzTDJ3YUE4M3hoTWgzcXJKeWZIelg3SUE3UnRKcTdHbnJBWElnalRJY09peFB4blc3a2QtUlFjeldPMXowZzllQjY4cDkxX2lUcWpZaHhreUhld1FMUQ?oc=5",
+   "id": "europe-s-4-4-trillion-startup-ecosystem-targets-global-growth-at-expand-north-st",
+   "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5",
    "summary": "",
    "sources": [
-    "Bloomberg.com"
+    "FF News"
    ],
    "articles": [
     {
-     "source": "Bloomberg.com",
-     "title": "Europe’s Answer to Delaware is Coming Apart",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWh3Zk53dVIyN2FCVTRKazlsRGtPRjlnTDdGRzM0Z0JPOVFDZzMydE5EZjE1alNKRV94R2I2U3pmSmNxdUxndURNUzRxS29TUDFMZlMyRkpzT3BaTjBIdk4tZnV4eFUwRjVJenZzTDJ3YUE4M3hoTWgzcXJKeWZIelg3SUE3UnRKcTdHbnJBWElnalRJY09peFB4blc3a2QtUlFjeldPMXowZzllQjY4cDkxX2lUcWpZaHhreUhld1FMUQ?oc=5"
+     "source": "FF News",
+     "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5"
     }
    ],
-   "date": "2026-11-26T09:03:06.000Z",
+   "date": "2026-11-26T12:08:02.000Z",
    "categories": [],
    "score": 3.9
+  },
+  {
+   "id": "natwest-bets-big-on-wealth-as-banks-battle-for-britain-s-affluent",
+   "title": "Natwest bets big on wealth as banks battle for Britain’s affluent",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2w0OUZFcXhqRE1IVVlRQi14VHd3MEZUak00WVNPUWFRQXZMYmpEcElGd1lWemNnWFNlVmlDUjktc1BnQkxoVkdET1lwWW5OQjlmdWRZTFJaZmluMEJLdGNQanNqX2V6b2Q5ZzI1Q2lxVXVldk5sZGlZWUctSTQtaTZ2ZC1KODhKNVNXOWNLZTR4Zw?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Natwest bets big on wealth as banks battle for Britain’s affluent",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2w0OUZFcXhqRE1IVVlRQi14VHd3MEZUak00WVNPUWFRQXZMYmpEcElGd1lWemNnWFNlVmlDUjktc1BnQkxoVkdET1lwWW5OQjlmdWRZTFJaZmluMEJLdGNQanNqX2V6b2Q5ZzI1Q2lxVXVldk5sZGlZWUctSTQtaTZ2ZC1KODhKNVNXOWNLZTR4Zw?oc=5"
+    }
+   ],
+   "date": "2026-11-25T19:36:53.000Z",
+   "categories": [],
+   "score": 3.5
+  },
+  {
+   "id": "london-slips-in-global-smart-cities-index",
+   "title": "London slips in global ‘smart cities’ index",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CZU5XNzJzM25KWVB6QWVWbUJmaU1nRnlvaE8xMl9BdHdLWG5mSlpxODNoc3VWMGh4RWJJQWdWUTVTNHBwNGZScklKMm4zbjA5MWk4RURFUEoyam5FWU04cGtnc0VPTDkzeFZ3U2EtMVFFRnc?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "London slips in global ‘smart cities’ index",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CZU5XNzJzM25KWVB6QWVWbUJmaU1nRnlvaE8xMl9BdHdLWG5mSlpxODNoc3VWMGh4RWJJQWdWUTVTNHBwNGZScklKMm4zbjA5MWk4RURFUEoyam5FWU04cGtnc0VPTDkzeFZ3U2EtMVFFRnc?oc=5"
+    }
+   ],
+   "date": "2026-11-25T17:10:15.000Z",
+   "categories": [],
+   "score": 3.3
+  },
+  {
+   "id": "top-london-investors-call-for-stamp-duty-axe-to-stem-ftse-exodus",
+   "title": "Top London investors call for stamp duty axe to stem FTSE exodus",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmlPSmpZTzVlYUsyV2xNekoyaExBWEIyVnN1MnVralVfV2NKRGluZDEwVzNCM0FINUNIWGQ3QU4yYmpka0lvRDhCMFNIcmxhUEN2YTB1aDQ4b1cxQTVsSl9tZXo5cDkxYzJMU2RhLWZmSlU4QzRiN2I4dERpZ1V2a04yaEZBZzV1S1BjVnR0SHdyQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "City AM"
+   ],
+   "articles": [
+    {
+     "source": "City AM",
+     "title": "Top London investors call for stamp duty axe to stem FTSE exodus",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmlPSmpZTzVlYUsyV2xNekoyaExBWEIyVnN1MnVralVfV2NKRGluZDEwVzNCM0FINUNIWGQ3QU4yYmpka0lvRDhCMFNIcmxhUEN2YTB1aDQ4b1cxQTVsSl9tZXo5cDkxYzJMU2RhLWZmSlU4QzRiN2I4dERpZ1V2a04yaEZBZzV1S1BjVnR0SHdyQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-25T17:55:20.000Z",
+   "categories": [],
+   "score": 3.3
   },
   {
    "id": "the-best-christmas-gifts-for-founders",
@@ -796,7 +920,7 @@
    ],
    "date": "2026-11-25T10:40:53.000Z",
    "categories": [],
-   "score": 3.1
+   "score": 3
   },
   {
    "id": "25-biotech-startups-to-watch-according-to-vcs",
@@ -814,25 +938,6 @@
     }
    ],
    "date": "2026-11-25T05:00:47.000Z",
-   "categories": [],
-   "score": 3
-  },
-  {
-   "id": "build-back-or-partner-how-fortum-is-investing-in-the-future-of-energy",
-   "title": "Build, back or partner: how Fortum is investing in the future of energy",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3diNnpLb3ozRUp0MTBRSGxaNHJuLV9qMHJ1Ym1waGhINDRqc0pxb3gxRjhSYk5FWUc3QlN5bm1KakN0dS1XYmJEMHZjektFR0lqNExadHM1bUJOMWoxSm1lYmV5a3JISXp1bFpHZWc3TXQtNHNRcDNrNGliYUU3azlaMG84WS1JU0NucWh4aGYwSWo4RjRIWEYtTENPZw?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Build, back or partner: how Fortum is investing in the future of energy",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3diNnpLb3ozRUp0MTBRSGxaNHJuLV9qMHJ1Ym1waGhINDRqc0pxb3gxRjhSYk5FWUc3QlN5bm1KakN0dS1XYmJEMHZjektFR0lqNExadHM1bUJOMWoxSm1lYmV5a3JISXp1bFpHZWc3TXQtNHNRcDNrNGliYUU3azlaMG84WS1JU0NucWh4aGYwSWo4RjRIWEYtTENPZw?oc=5"
-    }
-   ],
-   "date": "2026-11-25T09:30:41.000Z",
    "categories": [],
    "score": 3
   },
@@ -856,6 +961,25 @@
    "score": 3
   },
   {
+   "id": "build-back-or-partner-how-fortum-is-investing-in-the-future-of-energy",
+   "title": "Build, back or partner: how Fortum is investing in the future of energy",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3diNnpLb3ozRUp0MTBRSGxaNHJuLV9qMHJ1Ym1waGhINDRqc0pxb3gxRjhSYk5FWUc3QlN5bm1KakN0dS1XYmJEMHZjektFR0lqNExadHM1bUJOMWoxSm1lYmV5a3JISXp1bFpHZWc3TXQtNHNRcDNrNGliYUU3azlaMG84WS1JU0NucWh4aGYwSWo4RjRIWEYtTENPZw?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Build, back or partner: how Fortum is investing in the future of energy",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3diNnpLb3ozRUp0MTBRSGxaNHJuLV9qMHJ1Ym1waGhINDRqc0pxb3gxRjhSYk5FWUc3QlN5bm1KakN0dS1XYmJEMHZjektFR0lqNExadHM1bUJOMWoxSm1lYmV5a3JISXp1bFpHZWc3TXQtNHNRcDNrNGliYUU3azlaMG84WS1JU0NucWh4aGYwSWo4RjRIWEYtTENPZw?oc=5"
+    }
+   ],
+   "date": "2026-11-25T09:30:41.000Z",
+   "categories": [],
+   "score": 3
+  },
+  {
    "id": "expanding-a-startup-into-the-uk-a-digital-checklist",
    "title": "Expanding a Startup Into the UK: A Digital Checklist",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmMtV1pOQlFyTWxRQmR4anVGX2lzaC0zQjlIdVptelRZRjRoMTRGeTNkeDBtU1ZfVS1kZzZFMHdxVEFIZHhYejhuTXNBMmF1Q1BxQkVPVDdrMTRrclN4UmpZSFR5YkhEem1TeUJLOEYzQUtnV3g1a2dkbUdzSmZIQV9OZVFjbWVBUmVOa3pYM3NNaEdvWmpWUkVqbWNxZw?oc=5",
@@ -872,7 +996,7 @@
    ],
    "date": "2026-11-25T18:33:18.000Z",
    "categories": [],
-   "score": 2.7
+   "score": 2.4
   },
   {
    "id": "top-strategic-communications-companies-for-startups-in-the-uk",
@@ -891,7 +1015,26 @@
    ],
    "date": "2026-11-25T15:44:14.000Z",
    "categories": [],
-   "score": 2.5
+   "score": 2.2
+  },
+  {
+   "id": "europe-s-answer-to-delaware-is-coming-apart",
+   "title": "Europe’s Answer to Delaware is Coming Apart",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWh3Zk53dVIyN2FCVTRKazlsRGtPRjlnTDdGRzM0Z0JPOVFDZzMydE5EZjE1alNKRV94R2I2U3pmSmNxdUxndURNUzRxS29TUDFMZlMyRkpzT3BaTjBIdk4tZnV4eFUwRjVJenZzTDJ3YUE4M3hoTWgzcXJKeWZIelg3SUE3UnRKcTdHbnJBWElnalRJY09peFB4blc3a2QtUlFjeldPMXowZzllQjY4cDkxX2lUcWpZaHhreUhld1FMUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Bloomberg.com"
+   ],
+   "articles": [
+    {
+     "source": "Bloomberg.com",
+     "title": "Europe’s Answer to Delaware is Coming Apart",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWh3Zk53dVIyN2FCVTRKazlsRGtPRjlnTDdGRzM0Z0JPOVFDZzMydE5EZjE1alNKRV94R2I2U3pmSmNxdUxndURNUzRxS29TUDFMZlMyRkpzT3BaTjBIdk4tZnV4eFUwRjVJenZzTDJ3YUE4M3hoTWgzcXJKeWZIelg3SUE3UnRKcTdHbnJBWElnalRJY09peFB4blc3a2QtUlFjeldPMXowZzllQjY4cDkxX2lUcWpZaHhreUhld1FMUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-25T12:02:57.000Z",
+   "categories": [],
+   "score": 2
   }
  ]
 }
