@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-26T21:21:36.697Z",
+ "updatedAt": "2026-11-27T09:41:42.018Z",
  "lang": "en",
- "days": 9,
+ "days": 10,
  "rates": {
   "EUR": 1,
   "USD": 0.92,
@@ -12,6 +12,75 @@
   "DKK": 0.134
  },
  "rounds": [
+  {
+   "company": "Spctr",
+   "title": "Dutch startup SPCTR raises €2.8 million to bring real-time tumour margin assessment to cancer surgery",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamk4dkVsX1pjV3hKLVZNdS1sNnJJNEw0SmRfeGtYSG9USENMODVzTkRRTWJCZWxGdWxiMzNVM1pNNmd5bTlOVS1uV0Z1NVZhUDJtajdoWm9aYmR2alp0TFRmR08yRXpSanFTb19Qay1qOHlJa3JDSnplOU50MVptVFdYVVBqTjBmdVBHWFVCQzdlUHE3bEdFdVJObkg4S0F4OHY4UnEwdVFLQnRrRUlHcGFBb0VxeG9VRk1STzFienpFUC1HUW1WZDNINHBGNzZYTVNCRg?oc=5",
+   "date": "2026-11-27T08:31:52.000Z",
+   "day": "2026-11-27",
+   "amount": "€2.8 million",
+   "currency": "EUR",
+   "amountM": 2.8,
+   "amountEur": 2.8,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Dutch startup SPCTR raises €2.8 million to bring real-time tumour margin assessment to cancer surgery",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamk4dkVsX1pjV3hKLVZNdS1sNnJJNEw0SmRfeGtYSG9USENMODVzTkRRTWJCZWxGdWxiMzNVM1pNNmd5bTlOVS1uV0Z1NVZhUDJtajdoWm9aYmR2alp0TFRmR08yRXpSanFTb19Qay1qOHlJa3JDSnplOU50MVptVFdYVVBqTjBmdVBHWFVCQzdlUHE3bEdFdVJObkg4S0F4OHY4UnEwdVFLQnRrRUlHcGFBb0VxeG9VRk1STzFienpFUC1HUW1WZDNINHBGNzZYTVNCRg?oc=5"
+    },
+    {
+     "source": "FemTech World",
+     "title": "Dutch AI imaging startup SPCTR raises €2.8m",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGl1eDdVRmNkMDFTTFRfUUJyb0JwVHc4OHBNZ0NaZjRSenNhY25qdVFkdUNGQWJ5TFhCWm9PYURGanpZODBuVS1aaUpEZkNrVWIwTkhxOXBuMHUyU3hMS1doTllDdk5RWkMzOWg4ZkpSQXkxVGwtd0lIRU9Dc2xpbFJsWEo4N1dENGxIT3Qxa20?oc=5"
+    }
+   ]
+  },
+  {
+   "company": "Lampsy Health",
+   "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUF9SMGJsTHc0QWJoam5fNHQydkU3SzlqTC11MTJkM2dJbjBKMEp2dUZVRkhmYy1zSEZHdGlqeVNoNWtvMDR2U2gxZjYwUmNRbGxETGx2ckhSaXNzcC1GcXA5WEhRYkZHTGZ3c2loMzBUZ2hzYV8zWG5ZUDRBYWtIVVdzcDJUWGJVVkVuVjMwY0NaTjI4dXA0eW04NVNxc3F2Y0xOWUFJSnNPUQ?oc=5",
+   "date": "2026-11-27T07:24:37.000Z",
+   "day": "2026-11-27",
+   "amount": "€1.1M",
+   "currency": "EUR",
+   "amountM": 1.1,
+   "amountEur": 1.1,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUF9SMGJsTHc0QWJoam5fNHQydkU3SzlqTC11MTJkM2dJbjBKMEp2dUZVRkhmYy1zSEZHdGlqeVNoNWtvMDR2U2gxZjYwUmNRbGxETGx2ckhSaXNzcC1GcXA5WEhRYkZHTGZ3c2loMzBUZ2hzYV8zWG5ZUDRBYWtIVVdzcDJUWGJVVkVuVjMwY0NaTjI4dXA0eW04NVNxc3F2Y0xOWUFJSnNPUQ?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Lisbon's Lampsy Health raises €1.1 million for its AI bedside lamp that detects epileptic seizures during sleep",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXZxSVBBTGF3WEZBTzBWaERPcDlIb3ZIbFNIYXpfZGh5R0tmc19uSWJNenVSeFVVelJsRHFVSVpCZUtMaDQ1bXhLbnJUN3JGM2pQTWxILTd4ejcyNGY4NTZkenJzV3RoWDIteGJrTkI1Z21RMzBWcXhfWHU5Nnk1ZnpLblJNMGp4aWRTS3plRTZrWWkxOTJYYTdwVEoxMnUtWGlUOWJMS2d0WGQzMnc3OVo2QXdtMjk4NVVKWW5YOWFlcXNzRXY4SEl0TjZ0aHV3ejRxeDJWUktUakpCamRVaGRKRXJHTVpNVXAw?oc=5"
+    },
+    {
+     "source": "Dealroom",
+     "title": "Lampsy raises €1.1M to take its seizure-detecting lamp to Europe and UK",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDMtaTBQN2NMZnR6U1V5bkkxb3RCd0V0SnA0RzJiR1VGMUh6UVVpNUJRcTdEZFZOMUJmNUFGRTFzNWFmQmxkRXRfN0F2b2x2Xzg3VTh0MU9TSUxyb281QXhiTFVQalFnOGhjYVFNYk5iWUQ1UzF3MF9OcE5ReTlvT2R4Q3VPSlBKRGxpTzJDX05ndmpmT0hadk9ZWnJWTmRUY0VSX2RxWQ?oc=5"
+    }
+   ]
+  },
   {
    "company": "Audun",
    "title": "Audun raises $3M to modernise debt collection with AI",
@@ -131,7 +200,8 @@
      "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
      "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/"
     }
-   ]
+   ],
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/25154309/Team_Sitting-scaled.jpg"
   },
   {
    "company": null,
@@ -250,7 +320,7 @@
    "currency": "EUR",
    "amountM": 3,
    "amountEur": 3,
-   "round": null,
+   "round": "Seed",
    "valuation": null,
    "investors": null,
    "kind": "company",
@@ -536,6 +606,16 @@
      "source": "The Recursive",
      "title": "British-Ukrainian Pai Defence Raises a Pre-Seed Round",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGI5aFFISkVPZm5lV2ZicWR1Y0xFRm52eGdkYWxxU0N3Um5nRjdHRUlBSjItVkVHNDdCeHlleVVtdEk2a2ktWERnTjRrRUFRVUxETzNweFUzUDJyZkRRUkhBU1VscmdKNy0tUFlYX1l5MmpLdU4tVk9VVE1tb1JrdWxJZE5SSW1TTzlnVF9YN1VBSEdhZUI0Slh6TUZMRlNLakt5SGg4QWtHeWw2ZjYxdjhn?oc=5"
+    },
+    {
+     "source": "Kyiv Post",
+     "title": "Norway’s Gardar Leads $5M Round for Himera, a Ukrainian Maker of Jamming-Resistant Military Radios",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHNOdXFBMmxINFFtLUlNcWhsQkFQNGJUVzFzbFJnRy1rWUVoZUcwbGYxVHYwSlhDQnhaQjBleUxQNWVYMjVVcG9YQQ?oc=5"
+    },
+    {
+     "source": "Kyiv Post",
+     "title": "British-Ukrainian Defense Tech Startup Pai Defence Raises $5M for Drone Detection System",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DSlVJUEIxYlAxZDZIOEFoT0RpTXYyOW1FbTVwdzZHTjNzak8zM21PTjZHLVFHMlA3UlpFSWhvY1ozUVhyQ0hFN0h5UQ?oc=5"
     }
    ]
   },
@@ -786,6 +866,11 @@
      "source": "City AM",
      "title": "Government backs British defence AI startup in $70m funding round",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONGNDYXhzS2o5TmNTRF95X2phS2l6c3hlZDNRYjBHcFRtNXNfb0FYci1wTTVzVFI3Q0c4UDNJSjBEbldTNFhOWmNzNlF1cFFJekIzVENOTlVIUE9yN3F2ckxoTk5uUm1GNWtyaEtMV19paG5qT2E0V08yN1R5dkZ0THVzRUdSWjZWMFR1V0prYnlBQQ?oc=5"
+    },
+    {
+     "source": "AI Insider",
+     "title": "Agon Closes $70M Series A to Build Europe’s Defence AI Lab",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTNtc3dRRW9UOVlXbWYyYlVDQmhHeldPT1N4NklSaVVzTDJCdF9rNXhnUmk0QVdsajBzbFd3b0I3R3UtbzJja3FXQ3lIMlF3YnZTaG5zMHZqUXIwSjJpc2lKUnpoS0ExQ1UwRzQwSVFIMHhEQVFKZ1lnbFdWR3lxc2JIMmNMNjc5QUxMS195a1d2YXVMOV9lcTlB?oc=5"
     }
    ],
    "image": "https://www.eu-startups.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-23T190722.858.jpg"

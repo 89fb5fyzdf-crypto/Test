@@ -1,0 +1,666 @@
+{
+ "date": "2026-11-27",
+ "generatedAt": "2026-11-27T09:41:38.500Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 26,
+  "raw": 47,
+  "media": 12
+ },
+ "scope": "eu",
+ "lang": "en",
+ "sources": [
+  {
+   "source": "City AM",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "source": "EU-Startups",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Financial Times",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "source": "Google News · Europe scaleup mega round billion",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "source": "Google News · European startup raises Series",
+   "ok": true,
+   "items": 30
+  },
+  {
+   "source": "Google News · European unicorn valuation",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "Google News · UK startup raises funding round",
+   "ok": true,
+   "items": 53
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "Tech.eu",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Tech.eu (via Google News)",
+   "ok": true,
+   "items": 19
+  },
+  {
+   "source": "TechCrunch Europe",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "UKTN",
+   "ok": true,
+   "items": 10
+  }
+ ],
+ "items": [
+  {
+   "id": "elevenlabs-in-talks-to-raise-funding-at-33bn-valuation-reports-say",
+   "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+   "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+     "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/"
+    }
+   ],
+   "date": "2026-11-26T10:48:32.000Z",
+   "categories": [
+    "Funding",
+    "Unicorns & scale-ups"
+   ],
+   "score": 21.1
+  },
+  {
+   "id": "europe-has-10-billion-for-startups-does-it-have-a-market-for-them",
+   "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUpmNVUzT081QzBEdEtNVzJmZHA3UWJ3bFBMdWVQdDBFWWxYNWxiWlNBcS1PbVJwa2ItMGo2ZUtRVGFhMXFsQmc2UGpsYUlTSW95N1dTTV9xQXJwSjZ5UzZ0b1Y0TU01Wkl4WEZFSWlfR1I0TFNoNC1mWlZocWxYYzJpaXVzYXlIanV3Nnp5cjZZRFU4MGplQ2ZZOVJtQVFtcUpsM2tSYkhNX202U1JkZHJHVkU?oc=5",
+   "summary": "",
+   "sources": [
+    "EU Reporter"
+   ],
+   "articles": [
+    {
+     "source": "EU Reporter",
+     "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUpmNVUzT081QzBEdEtNVzJmZHA3UWJ3bFBMdWVQdDBFWWxYNWxiWlNBcS1PbVJwa2ItMGo2ZUtRVGFhMXFsQmc2UGpsYUlTSW95N1dTTV9xQXJwSjZ5UzZ0b1Y0TU01Wkl4WEZFSWlfR1I0TFNoNC1mWlZocWxYYzJpaXVzYXlIanV3Nnp5cjZZRFU4MGplQ2ZZOVJtQVFtcUpsM2tSYkhNX202U1JkZHJHVkU?oc=5"
+    }
+   ],
+   "date": "2026-11-26T11:00:45.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 17.1
+  },
+  {
+   "id": "lampsy-health-raises-1-1m-to-shine-a-light-on-undetected-night-time-seizures",
+   "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUF9SMGJsTHc0QWJoam5fNHQydkU3SzlqTC11MTJkM2dJbjBKMEp2dUZVRkhmYy1zSEZHdGlqeVNoNWtvMDR2U2gxZjYwUmNRbGxETGx2ckhSaXNzcC1GcXA5WEhRYkZHTGZ3c2loMzBUZ2hzYV8zWG5ZUDRBYWtIVVdzcDJUWGJVVkVuVjMwY0NaTjI4dXA0eW04NVNxc3F2Y0xOWUFJSnNPUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups",
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUF9SMGJsTHc0QWJoam5fNHQydkU3SzlqTC11MTJkM2dJbjBKMEp2dUZVRkhmYy1zSEZHdGlqeVNoNWtvMDR2U2gxZjYwUmNRbGxETGx2ckhSaXNzcC1GcXA5WEhRYkZHTGZ3c2loMzBUZ2hzYV8zWG5ZUDRBYWtIVVdzcDJUWGJVVkVuVjMwY0NaTjI4dXA0eW04NVNxc3F2Y0xOWUFJSnNPUQ?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Lisbon's Lampsy Health raises €1.1 million for its AI bedside lamp that detects epileptic seizures during sleep",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXZxSVBBTGF3WEZBTzBWaERPcDlIb3ZIbFNIYXpfZGh5R0tmc19uSWJNenVSeFVVelJsRHFVSVpCZUtMaDQ1bXhLbnJUN3JGM2pQTWxILTd4ejcyNGY4NTZkenJzV3RoWDIteGJrTkI1Z21RMzBWcXhfWHU5Nnk1ZnpLblJNMGp4aWRTS3plRTZrWWkxOTJYYTdwVEoxMnUtWGlUOWJMS2d0WGQzMnc3OVo2QXdtMjk4NVVKWW5YOWFlcXNzRXY4SEl0TjZ0aHV3ejRxeDJWUktUakpCamRVaGRKRXJHTVpNVXAw?oc=5"
+    },
+    {
+     "source": "Dealroom",
+     "title": "Lampsy raises €1.1M to take its seizure-detecting lamp to Europe and UK",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDMtaTBQN2NMZnR6U1V5bkkxb3RCd0V0SnA0RzJiR1VGMUh6UVVpNUJRcTdEZFZOMUJmNUFGRTFzNWFmQmxkRXRfN0F2b2x2Xzg3VTh0MU9TSUxyb281QXhiTFVQalFnOGhjYVFNYk5iWUQ1UzF3MF9OcE5ReTlvT2R4Q3VPSlBKRGxpTzJDX05ndmpmT0hadk9ZWnJWTmRUY0VSX2RxWQ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T07:24:37.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 15.9
+  },
+  {
+   "id": "watersense-raises-5-75m-to-build-europe-s-water-intelligence-infrastructure",
+   "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmNsM1ctOFFVTWJxYlRLQW5FWHRhR2ExanVMR0Z4dHFFMEpQVzR5MEZfeDVNaXVINUZxSTY5Vm0xaVZ6UkJodENOOUlLMlF0eGRYWWlTcWl5UDlZYnljajR4TmFia3EzUnBVVXBHSk1uNGJpcXpRY0hIbnIzT2lLQTdYR1A1R3BFM0p4VXJ0dVJNdl9TRVlsV0o2emRuRkplTDNLaGJDVQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups",
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmNsM1ctOFFVTWJxYlRLQW5FWHRhR2ExanVMR0Z4dHFFMEpQVzR5MEZfeDVNaXVINUZxSTY5Vm0xaVZ6UkJodENOOUlLMlF0eGRYWWlTcWl5UDlZYnljajR4TmFia3EzUnBVVXBHSk1uNGJpcXpRY0hIbnIzT2lLQTdYR1A1R3BFM0p4VXJ0dVJNdl9TRVlsV0o2emRuRkplTDNLaGJDVQ?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Warsaw-based WaterSense secures €5.75 million to make sense of Europe’s water using AI and satellite data",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGFCam14Yl82T2wxb25TcTFIS0dFaGxHWXJoaFlOdzV5UElPWTB2SVRaZHhkWlZ4anEwUllXMkMwSnE4MVZzaHZfMkp5c3RKVTVBcG9CQmg0SC1DS2VGc0ZpelJZak1udXdkU2N2ZEZjOHc1U3Q3OVNzZHhaVFRUbUJYSlFTb3BfVG5HN0ktbjRuV3kxU01vNDcwODFpS3ZYck1odVlvOV9FNElwUlVlMTVZLV9HTTNPSElSdEFmQ1hZaVFJZkQxNVY1anBWZmoyMkhKMEM0XzhDb0c3djFPT0txMA?oc=5"
+    },
+    {
+     "source": "Dealroom",
+     "title": "WaterSense raises €5.75M to monitor Europe's rivers",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdnJfRTRRcUNTVlBwOWFnVklKaDdzbjZDZ2doTnJoX3lWcDlQay1qZHRJSXdZTE5xOTRvLWZTbzZhWHVRbndZQW81NTlaMkIzVS1sWWhmaWZLWDZkend0TFdlQ2RZSTBLVDVpcWIxdVZWZm9vaVMtV1BQSmRoN3NLSFBpQVhCV2Vhdk9BTg?oc=5"
+    }
+   ],
+   "date": "2026-11-26T08:32:22.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 14
+  },
+  {
+   "id": "agon-closes-70m-series-a-to-build-europe-s-defence-ai-lab",
+   "title": "Agon Closes $70M Series A to Build Europe’s Defence AI Lab",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTNtc3dRRW9UOVlXbWYyYlVDQmhHeldPT1N4NklSaVVzTDJCdF9rNXhnUmk0QVdsajBzbFd3b0I3R3UtbzJja3FXQ3lIMlF3YnZTaG5zMHZqUXIwSjJpc2lKUnpoS0ExQ1UwRzQwSVFIMHhEQVFKZ1lnbFdWR3lxc2JIMmNMNjc5QUxMS195a1d2YXVMOV9lcTlB?oc=5",
+   "summary": "",
+   "sources": [
+    "AI Insider"
+   ],
+   "articles": [
+    {
+     "source": "AI Insider",
+     "title": "Agon Closes $70M Series A to Build Europe’s Defence AI Lab",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTNtc3dRRW9UOVlXbWYyYlVDQmhHeldPT1N4NklSaVVzTDJCdF9rNXhnUmk0QVdsajBzbFd3b0I3R3UtbzJja3FXQ3lIMlF3YnZTaG5zMHZqUXIwSjJpc2lKUnpoS0ExQ1UwRzQwSVFIMHhEQVFKZ1lnbFdWR3lxc2JIMmNMNjc5QUxMS195a1d2YXVMOV9lcTlB?oc=5"
+    }
+   ],
+   "date": "2026-11-27T09:00:03.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 13.9
+  },
+  {
+   "id": "eu-inc-is-in-crisis-but-1m-backed-shuttle-isn-t-waiting-for-europe-to-fix-cross-",
+   "title": "EU-INC is in crisis but $1M-backed Shuttle isn’t waiting for Europe to fix cross-border fundraising",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzJwS01iMzJ4elp1WG5sOXlkM3NDczdfQnBHc0ZqbmROQzdtNlEySmNZZHpSVnY4NDJZWlkweUc0a1FuY0RCMkRxUlhaMG1YUklCS0U4b1RVMFQxRWxzMTQ4ajNhOWp2am5XVFBuYVpaQ0xfeC1xb3ZkczBKUGhuMnBGTDhaMDJGOEdyekJUUzlLa0YwYXNqYVNRejMxR24zNlQwOG1UX0ZjVDdZUnZfNjhranNZMUhsUVYtU1EwWkhsckE?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu",
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "EU-INC is in crisis but $1M-backed Shuttle isn’t waiting for Europe to fix cross-border fundraising",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzJwS01iMzJ4elp1WG5sOXlkM3NDczdfQnBHc0ZqbmROQzdtNlEySmNZZHpSVnY4NDJZWlkweUc0a1FuY0RCMkRxUlhaMG1YUklCS0U4b1RVMFQxRWxzMTQ4ajNhOWp2am5XVFBuYVpaQ0xfeC1xb3ZkczBKUGhuMnBGTDhaMDJGOEdyekJUUzlLa0YwYXNqYVNRejMxR24zNlQwOG1UX0ZjVDdZUnZfNjhranNZMUhsUVYtU1EwWkhsckE?oc=5"
+    },
+    {
+     "source": "Dealroom",
+     "title": "Shuttle raises $1M to let startups raise capital across EU and UK",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTJnWG1tSXJ4QjFaQzBaYzNaaUxXbXFsX0JwOXY0cEVNb2I0YkMwV3lxZUdoNkpLWm1qVHFGbEZscU5hT2wtX0hFRzltM3NqeU1hUTZXbEZ2WmhCVjllMXFzMy1EQjZmVHRJc0lFM2tSVXlTSnNPTjJKMHdfb2RLbXo2MWJsR3Y5T2lFMGZVQUk5RnpIVWVjbWxTelgxWWM?oc=5"
+    }
+   ],
+   "date": "2026-11-26T07:08:58.000Z",
+   "categories": [
+    "Funding",
+    "Policy & ecosystem"
+   ],
+   "score": 12
+  },
+  {
+   "id": "dutch-startup-spctr-raises-2-8-million-to-bring-real-time-tumour-margin-assessme",
+   "title": "Dutch startup SPCTR raises €2.8 million to bring real-time tumour margin assessment to cancer surgery",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamk4dkVsX1pjV3hKLVZNdS1sNnJJNEw0SmRfeGtYSG9USENMODVzTkRRTWJCZWxGdWxiMzNVM1pNNmd5bTlOVS1uV0Z1NVZhUDJtajdoWm9aYmR2alp0TFRmR08yRXpSanFTb19Qay1qOHlJa3JDSnplOU50MVptVFdYVVBqTjBmdVBHWFVCQzdlUHE3bEdFdVJObkg4S0F4OHY4UnEwdVFLQnRrRUlHcGFBb0VxeG9VRk1STzFienpFUC1HUW1WZDNINHBGNzZYTVNCRg?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups",
+    "FemTech World"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Dutch startup SPCTR raises €2.8 million to bring real-time tumour margin assessment to cancer surgery",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamk4dkVsX1pjV3hKLVZNdS1sNnJJNEw0SmRfeGtYSG9USENMODVzTkRRTWJCZWxGdWxiMzNVM1pNNmd5bTlOVS1uV0Z1NVZhUDJtajdoWm9aYmR2alp0TFRmR08yRXpSanFTb19Qay1qOHlJa3JDSnplOU50MVptVFdYVVBqTjBmdVBHWFVCQzdlUHE3bEdFdVJObkg4S0F4OHY4UnEwdVFLQnRrRUlHcGFBb0VxeG9VRk1STzFienpFUC1HUW1WZDNINHBGNzZYTVNCRg?oc=5"
+    },
+    {
+     "source": "FemTech World",
+     "title": "Dutch AI imaging startup SPCTR raises €2.8m",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGl1eDdVRmNkMDFTTFRfUUJyb0JwVHc4OHBNZ0NaZjRSenNhY25qdVFkdUNGQWJ5TFhCWm9PYURGanpZODBuVS1aaUpEZkNrVWIwTkhxOXBuMHUyU3hMS1doTllDdk5RWkMzOWg4ZkpSQXkxVGwtd0lIRU9Dc2xpbFJsWEo4N1dENGxIT3Qxa20?oc=5"
+    }
+   ],
+   "date": "2026-11-27T08:31:52.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 11.9
+  },
+  {
+   "id": "never-say-never-us-fintech-giant-ramp-on-more-european-acquisitions",
+   "title": "'Never say never': US fintech giant Ramp on more European acquisitions",
+   "url": "https://sifted.eu/articles/ramp-europe-expansion-interview/",
+   "summary": "Sifted sat down with Jacob Wallenberg, Ramp’s vice president of international expansion, to find out what European rivals are up against.",
+   "image": "https://content.sifted.eu/wp-content/uploads/2026/11/26154900/af35631ada4239aeac5dc123cff42d020f5bd2af-512x512-1.webp",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "'Never say never': US fintech giant Ramp on more European acquisitions",
+     "url": "https://sifted.eu/articles/ramp-europe-expansion-interview/"
+    }
+   ],
+   "date": "2026-11-27T05:00:58.000Z",
+   "categories": [
+    "M&A & IPOs"
+   ],
+   "score": 9.6
+  },
+  {
+   "id": "audun-raises-3m-to-modernise-debt-collection-with-ai",
+   "title": "Audun raises $3M to modernise debt collection with AI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0EzTWJLcGtpTXdJOVJOYWc1MnpTX3BNUlFERm42cEM3cEN4c2htbVF4UW1oNVNsZGRuOVR3ZDNvSHV5cExUUTNZVXVpSjRjRHFBRWsxUnphakswT2pHWmNSVWxiNnpEdG5XdHhUanpyeTBqSmVRb3lmbFdMaEtaNmI5UmRwWTA?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Audun raises $3M to modernise debt collection with AI",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0EzTWJLcGtpTXdJOVJOYWc1MnpTX3BNUlFERm42cEM3cEN4c2htbVF4UW1oNVNsZGRuOVR3ZDNvSHV5cExUUTNZVXVpSjRjRHFBRWsxUnphakswT2pHWmNSVWxiNnpEdG5XdHhUanpyeTBqSmVRb3lmbFdMaEtaNmI5UmRwWTA?oc=5"
+    }
+   ],
+   "date": "2026-11-26T09:19:45.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 9
+  },
+  {
+   "id": "general-catalyst-backs-17-year-old-austrian-s-quant-trading-startup",
+   "title": "General Catalyst backs 17-year-old Austrian's quant trading startup",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdPTU9jcWF6OC1uajdENXNuLWNSdHpoeDlDbzViQmRkZkIwY01wUThud05sNWVyNmZrQ2pjUlJkSU15blJzVWk0cGl2MHZIdXl1RGF1c25BMzc5UFlLc291bEEzQkxNaW53NE5rckF5OVc4ZmpzZTE0TGM0T1YzRnpUcGh1bW1TR1N1SlE1RXdYbmctenh5RlhB?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "General Catalyst backs 17-year-old Austrian's quant trading startup",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdPTU9jcWF6OC1uajdENXNuLWNSdHpoeDlDbzViQmRkZkIwY01wUThud05sNWVyNmZrQ2pjUlJkSU15blJzVWk0cGl2MHZIdXl1RGF1c25BMzc5UFlLc291bEEzQkxNaW53NE5rckF5OVc4ZmpzZTE0TGM0T1YzRnpUcGh1bW1TR1N1SlE1RXdYbmctenh5RlhB?oc=5"
+    }
+   ],
+   "date": "2026-11-26T09:34:36.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8
+  },
+  {
+   "id": "uk-plant-based-protein-water-startup-nowhey-bags-fresh-funding-for-expansion",
+   "title": "UK Plant-Based Protein Water Startup Nowhey Bags Fresh Funding for Expansion",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWxPLXF6QUJnWWRXNHJ1LThfOUJXUGx2ZDRPWEFndlR3VHZUUTQ3a0NpYjVUTTJXM1B4b1o2Nk9mSjRURG02TGczZFRESS1tWXg0YnRrUzlRS0tmR0E0ZGVsOEVGQkpkWUlERV9RT2hTR19DQjVZMEJsM2swdDRVbHJLQ1Q2bk1ZOFY1dGwyQzRucktmRERETA?oc=5",
+   "summary": "",
+   "sources": [
+    "Green Queen Media"
+   ],
+   "articles": [
+    {
+     "source": "Green Queen Media",
+     "title": "UK Plant-Based Protein Water Startup Nowhey Bags Fresh Funding for Expansion",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWxPLXF6QUJnWWRXNHJ1LThfOUJXUGx2ZDRPWEFndlR3VHZUUTQ3a0NpYjVUTTJXM1B4b1o2Nk9mSjRURG02TGczZFRESS1tWXg0YnRrUzlRS0tmR0E0ZGVsOEVGQkpkWUlERV9RT2hTR19DQjVZMEJsM2swdDRVbHJLQ1Q2bk1ZOFY1dGwyQzRucktmRERETA?oc=5"
+    }
+   ],
+   "date": "2026-11-27T08:00:00.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7.9
+  },
+  {
+   "id": "british-ukrainian-defense-tech-startup-pai-defence-raises-5m-for-drone-detection",
+   "title": "British-Ukrainian Defense Tech Startup Pai Defence Raises $5M for Drone Detection System",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DSlVJUEIxYlAxZDZIOEFoT0RpTXYyOW1FbTVwdzZHTjNzak8zM21PTjZHLVFHMlA3UlpFSWhvY1ozUVhyQ0hFN0h5UQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Kyiv Post"
+   ],
+   "articles": [
+    {
+     "source": "Kyiv Post",
+     "title": "British-Ukrainian Defense Tech Startup Pai Defence Raises $5M for Drone Detection System",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DSlVJUEIxYlAxZDZIOEFoT0RpTXYyOW1FbTVwdzZHTjNzak8zM21PTjZHLVFHMlA3UlpFSWhvY1ozUVhyQ0hFN0h5UQ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T06:09:31.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7.7
+  },
+  {
+   "id": "we-re-not-migration-software-conduct-s-ceo-on-building-an-ai-operating-system-fo",
+   "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+   "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/",
+   "summary": "Conduct CEO JP Haas explains the SAP-backed startup’s business model and why he thinks enterprise IT teams will keep using its AI software after a migration.",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2025/09/17161716/Conduct_AI_Team_Landscape-scaled.jpg",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+     "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/"
+    }
+   ],
+   "date": "2026-11-27T05:00:27.000Z",
+   "categories": [
+    "AI",
+    "People"
+   ],
+   "score": 7.6
+  },
+  {
+   "id": "exclusive-starforge-raises-6-6m-to-build-nuclear-fusion-reactors-at-scale",
+   "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
+   "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
+   "summary": "The Munich-based startup was cofounded by Lilium and Commonwealth Fusion Systems alumni",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/25154309/Team_Sitting-scaled.jpg",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
+     "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/"
+    }
+   ],
+   "date": "2026-11-26T05:00:51.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
+  },
+  {
+   "id": "ark-capture-solutions-secures-5-4m-to-scale-its-all-electric-carbon-capture-tech",
+   "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5"
+    }
+   ],
+   "date": "2026-11-26T08:24:47.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
+  },
+  {
+   "id": "norway-s-gardar-leads-5m-round-for-himera-a-ukrainian-maker-of-jamming-resistant",
+   "title": "Norway’s Gardar Leads $5M Round for Himera, a Ukrainian Maker of Jamming-Resistant Military Radios",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHNOdXFBMmxINFFtLUlNcWhsQkFQNGJUVzFzbFJnRy1rWUVoZUcwbGYxVHYwSlhDQnhaQjBleUxQNWVYMjVVcG9YQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Kyiv Post"
+   ],
+   "articles": [
+    {
+     "source": "Kyiv Post",
+     "title": "Norway’s Gardar Leads $5M Round for Himera, a Ukrainian Maker of Jamming-Resistant Military Radios",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHNOdXFBMmxINFFtLUlNcWhsQkFQNGJUVzFzbFJnRy1rWUVoZUcwbGYxVHYwSlhDQnhaQjBleUxQNWVYMjVVcG9YQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-26T14:08:41.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6.4
+  },
+  {
+   "id": "it-s-not-a-fair-fight-bolt-s-markus-villig-on-why-europe-must-protect-homegrown-",
+   "title": "‘It’s not a fair fight’: Bolt’s Markus Villig on why Europe must protect homegrown tech",
+   "url": "https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "‘It’s not a fair fight’: Bolt’s Markus Villig on why Europe must protect homegrown tech",
+     "url": "https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/"
+    }
+   ],
+   "date": "2026-11-26T05:00:25.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 6
+  },
+  {
+   "id": "proxima-fusion-ceo-calls-out-short-termism-amid-ai-boom",
+   "title": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
+   "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
+     "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/"
+    }
+   ],
+   "date": "2026-11-26T05:00:01.000Z",
+   "categories": [
+    "AI",
+    "People"
+   ],
+   "score": 6
+  },
+  {
+   "id": "barcelona-based-permut-raises-3-million-seed-round-to-expand-into-new-european-m",
+   "title": "Barcelona-based Permut raises €3 million seed round to expand into new European markets",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHhKbUU4SWl6c1prZTZMU1VoN0kwTFdzMl9Od3o3T1Y0cmQ0UjJGZFlrQkFLWEp2b21uZThYR2llLVN0dXU3UEZfM1lWVXVmM2sySlltdkZDUGM1QW5WdXowTzRRcjY2MHh3S0RXVjFMLUw5c3ZKWFljMWw3SExtOW9tM0R6cDZOWTNPcEJYMThDYXBXcGJ4UGMxbk9BblF1czdXaWV4VXpyUTNXenJhZ0FhRU12a0tzMkpMZHF1OUIxQmJnWFhkaFNuS1RwVTJXeXdxOA?oc=5",
+   "summary": "",
+   "sources": [
+    "Retail Technology Innovation Hub"
+   ],
+   "articles": [
+    {
+     "source": "Retail Technology Innovation Hub",
+     "title": "Barcelona-based Permut raises €3 million seed round to expand into new European markets",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHhKbUU4SWl6c1prZTZMU1VoN0kwTFdzMl9Od3o3T1Y0cmQ0UjJGZFlrQkFLWEp2b21uZThYR2llLVN0dXU3UEZfM1lWVXVmM2sySlltdkZDUGM1QW5WdXowTzRRcjY2MHh3S0RXVjFMLUw5c3ZKWFljMWw3SExtOW9tM0R6cDZOWTNPcEJYMThDYXBXcGJ4UGMxbk9BblF1czdXaWV4VXpyUTNXenJhZ0FhRU12a0tzMkpMZHF1OUIxQmJnWFhkaFNuS1RwVTJXeXdxOA?oc=5"
+    }
+   ],
+   "date": "2026-11-26T05:20:32.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "warsaw-water-monitoring-start-up-raises-5-75-million",
+   "title": "Warsaw Water-Monitoring Start-Up Raises €5.75 Million",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNloxVzF4WW9sT014aWdNbzlZOERtM2d4aFZNbWhTREFkNFl1cHFPaWRCYTV3TmV3M3F6V1p2dVFUdEZxNW9xYWVleS0wNzlVTURsSE9xTXNEOEM4b1Rvdy15b0UwbXNpTEZucmYyS1VkcnpRbVJDLUc4M0ZIOEYwVElwR3FRY19ZVlhmMDhaa3pMTXdoOXVUUWVB?oc=5",
+   "summary": "",
+   "sources": [
+    "Wisevoter"
+   ],
+   "articles": [
+    {
+     "source": "Wisevoter",
+     "title": "Warsaw Water-Monitoring Start-Up Raises €5.75 Million",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNloxVzF4WW9sT014aWdNbzlZOERtM2d4aFZNbWhTREFkNFl1cHFPaWRCYTV3TmV3M3F6V1p2dVFUdEZxNW9xYWVleS0wNzlVTURsSE9xTXNEOEM4b1Rvdy15b0UwbXNpTEZucmYyS1VkcnpRbVJDLUc4M0ZIOEYwVElwR3FRY19ZVlhmMDhaa3pMTXdoOXVUUWVB?oc=5"
+    }
+   ],
+   "date": "2026-11-26T08:58:30.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "munich-s-fintavo-raises-pre-seed-to-finance-veterinary-care",
+   "title": "Munich's fintavo raises pre-seed to finance veterinary care",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTVqT3luU2VKOFhVOGxhVmJCanBaNXdqRmJEeWlWSDVSb3VtREp1YU1fTDdNbVJkQkpkZVQ5eTNkbWp3WnI3aW1uOXI0d21HTlpfUVVfX3ZjWkZibmdFWE1MUUl5RU83SFUtUUxFMmhFazFjNC1ZZUY4V2IwTlEtYkoxQXpGbms5dTJEMC1ETEgxcXJhSnV6Wg?oc=5",
+   "summary": "",
+   "sources": [
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Dealroom",
+     "title": "Munich's fintavo raises pre-seed to finance veterinary care",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTVqT3luU2VKOFhVOGxhVmJCanBaNXdqRmJEeWlWSDVSb3VtREp1YU1fTDdNbVJkQkpkZVQ5eTNkbWp3WnI3aW1uOXI0d21HTlpfUVVfX3ZjWkZibmdFWE1MUUl5RU83SFUtUUxFMmhFazFjNC1ZZUY4V2IwTlEtYkoxQXpGbms5dTJEMC1ETEgxcXJhSnV6Wg?oc=5"
+    }
+   ],
+   "date": "2026-11-26T09:59:32.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "what-separates-ai-features-that-pay-off-from-expensive-demos",
+   "title": "What separates AI features that pay off from expensive demos",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREttNmJJNmtjclByS3NQSXhQYlAzQ0xGWnFfRkFmRGg2ak9rRGRLSUdFYW9ERkFMTjd2WEpUVnltZDdzdElBeDVIMmJ5ZDhJdmY3OWlOdnZqekFfYnNUekRWS2NpdnVUQTZHOFVlNWZVdlpGR1ZfOTdHUzNWSzNpQjNIRE9sX0dfdWVtZll1eGg1UQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "What separates AI features that pay off from expensive demos",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREttNmJJNmtjclByS3NQSXhQYlAzQ0xGWnFfRkFmRGg2ak9rRGRLSUdFYW9ERkFMTjd2WEpUVnltZDdzdElBeDVIMmJ5ZDhJdmY3OWlOdnZqekFfYnNUekRWS2NpdnVUQTZHOFVlNWZVdlpGR1ZfOTdHUzNWSzNpQjNIRE9sX0dfdWVtZll1eGg1UQ?oc=5"
+    }
+   ],
+   "date": "2026-11-26T11:39:40.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 5.2
+  },
+  {
+   "id": "transportation-europe-s-10-most-funded-companies-in-h1-2026",
+   "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5"
+    }
+   ],
+   "date": "2026-11-26T12:01:49.000Z",
+   "categories": [],
+   "score": 4.2
+  },
+  {
+   "id": "europe-s-4-4-trillion-startup-ecosystem-targets-global-growth-at-expand-north-st",
+   "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5",
+   "summary": "",
+   "sources": [
+    "FF News"
+   ],
+   "articles": [
+    {
+     "source": "FF News",
+     "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5"
+    }
+   ],
+   "date": "2026-11-26T12:08:02.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 4.2
+  },
+  {
+   "id": "monzo-cofounder-tom-blomfield-leaves-anthropic-after-less-than-six-months-report",
+   "title": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
+   "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
+     "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/"
+    }
+   ],
+   "date": "2026-11-26T05:00:18.000Z",
+   "categories": [
+    "People"
+   ],
+   "score": 4
+  },
+  {
+   "id": "meet-goldfish-the-kings-of-slush-aiming-to-take-on-apple",
+   "title": "Meet Goldfish: The kings of Slush aiming to take on Apple",
+   "url": "https://sifted.eu/articles/goldfish-slush-100-winners/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Meet Goldfish: The kings of Slush aiming to take on Apple",
+     "url": "https://sifted.eu/articles/goldfish-slush-100-winners/"
+    }
+   ],
+   "date": "2026-11-26T05:00:35.000Z",
+   "categories": [],
+   "score": 3
+  }
+ ]
+}
