@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T18:14:41.678Z",
+ "updatedAt": "2026-11-27T21:25:38.808Z",
  "lang": "en",
  "days": 10,
  "rates": {
@@ -13,10 +13,36 @@
  },
  "rounds": [
   {
+   "company": "China Suota Wujie",
+   "title": "China's Suota Wujie raises $4.51M to put robot \"brains\" in European stores",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHQ1cGxJOEZyNF81dnR4MWlwdmxoM2s3aTdoZzYxWVBlZjNVbG9nTV9OMXVlSDgtbHJaWnFtQnpoNEd5M1BOX3dhOVJNQXJzOW1oTGVYMTBubkVndi1DTTlpX2E4cmlYVnZzWDNiUDBsdFYzY29nTWFFSnczTVFGdVpTZlJwRmxtQy1TaGN4OGdzTlB0MG5UbzdrY0RSZnFwb2FWYkUxYVI?oc=5",
+   "date": "2026-11-27T18:20:53.000Z",
+   "day": "2026-11-27",
+   "amount": "$4.51M",
+   "currency": "USD",
+   "amountM": 4.51,
+   "amountEur": 4.15,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding"
+   ],
+   "articles": [
+    {
+     "source": "Dealroom",
+     "title": "China's Suota Wujie raises $4.51M to put robot \"brains\" in European stores",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHQ1cGxJOEZyNF81dnR4MWlwdmxoM2s3aTdoZzYxWVBlZjNVbG9nTV9OMXVlSDgtbHJaWnFtQnpoNEd5M1BOX3dhOVJNQXJzOW1oTGVYMTBubkVndi1DTTlpX2E4cmlYVnZzWDNiUDBsdFYzY29nTWFFSnczTVFGdVpTZlJwRmxtQy1TaGN4OGdzTlB0MG5UbzdrY0RSZnFwb2FWYkUxYVI?oc=5"
+    }
+   ]
+  },
+  {
    "company": "Inqase",
    "title": "Belgian cyber insurance startup Inqase raises €1M",
-   "url": "https://tech.eu/2026/11/27/belgian-cyber-insurance-startup-inqase-raises-eur1m/",
-   "date": "2026-11-27T15:20:00.000Z",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDlkbzA0Nlk1TXR4Tm1SLUxxZWhkNzd5NzRJUjBCVkVETFByQ0k2Yzl0RkIyNVpsd1hjS2hmV21sbG5QdHNMMHFfRE1zZWxxSzF5U2JqMFNlUzhCS05RNnlCYWdSQjFVWUFpZS00aTlXLVlwOFlLNTMtamQ2REVaOHo0NUU4UQ?oc=5",
+   "date": "2026-11-27T15:20:32.000Z",
    "day": "2026-11-27",
    "amount": "€1M",
    "currency": "EUR",
@@ -24,7 +50,7 @@
    "amountEur": 1,
    "round": null,
    "valuation": null,
-   "investors": "Brussels-based VC ScaleFund, alongside invest",
+   "investors": null,
    "kind": "company",
    "status": "announced",
    "categories": [
@@ -34,10 +60,9 @@
     {
      "source": "Tech.eu",
      "title": "Belgian cyber insurance startup Inqase raises €1M",
-     "url": "https://tech.eu/2026/11/27/belgian-cyber-insurance-startup-inqase-raises-eur1m/"
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDlkbzA0Nlk1TXR4Tm1SLUxxZWhkNzd5NzRJUjBCVkVETFByQ0k2Yzl0RkIyNVpsd1hjS2hmV21sbG5QdHNMMHFfRE1zZWxxSzF5U2JqMFNlUzhCS05RNnlCYWdSQjFVWUFpZS00aTlXLVlwOFlLNTMtamQ2REVaOHo0NUU4UQ?oc=5"
     }
-   ],
-   "image": "https://cdn.tech.eu/uploads/2026/11/inqase-33.png"
+   ]
   },
   {
    "company": "nextesy",
@@ -130,7 +155,7 @@
   {
    "company": "Lampsy Health",
    "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
-   "url": "https://tech.eu/2026/11/27/lampsy-health-raises-eur11m-to-shine-a-light-on-undetected-night-time-seizures/",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUF9SMGJsTHc0QWJoam5fNHQydkU3SzlqTC11MTJkM2dJbjBKMEp2dUZVRkhmYy1zSEZHdGlqeVNoNWtvMDR2U2gxZjYwUmNRbGxETGx2ckhSaXNzcC1GcXA5WEhRYkZHTGZ3c2loMzBUZ2hzYV8zWG5ZUDRBYWtIVVdzcDJUWGJVVkVuVjMwY0NaTjI4dXA0eW04NVNxc3F2Y0xOWUFJSnNPUQ?oc=5",
    "date": "2026-11-27T07:24:37.000Z",
    "day": "2026-11-27",
    "amount": "€1.1M",
@@ -139,7 +164,7 @@
    "amountEur": 1.1,
    "round": null,
    "valuation": null,
-   "investors": "Angels Way, Phira Ventures and strategic business angels",
+   "investors": null,
    "kind": "company",
    "status": "announced",
    "categories": [
@@ -150,7 +175,7 @@
     {
      "source": "Tech.eu",
      "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
-     "url": "https://tech.eu/2026/11/27/lampsy-health-raises-eur11m-to-shine-a-light-on-undetected-night-time-seizures/"
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUF9SMGJsTHc0QWJoam5fNHQydkU3SzlqTC11MTJkM2dJbjBKMEp2dUZVRkhmYy1zSEZHdGlqeVNoNWtvMDR2U2gxZjYwUmNRbGxETGx2ckhSaXNzcC1GcXA5WEhRYkZHTGZ3c2loMzBUZ2hzYV8zWG5ZUDRBYWtIVVdzcDJUWGJVVkVuVjMwY0NaTjI4dXA0eW04NVNxc3F2Y0xOWUFJSnNPUQ?oc=5"
     },
     {
      "source": "Dealroom",
@@ -162,15 +187,14 @@
      "title": "Lisbon's Lampsy Health raises €1.1 million for its AI bedside lamp that detects epileptic seizures during sleep",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXZxSVBBTGF3WEZBTzBWaERPcDlIb3ZIbFNIYXpfZGh5R0tmc19uSWJNenVSeFVVelJsRHFVSVpCZUtMaDQ1bXhLbnJUN3JGM2pQTWxILTd4ejcyNGY4NTZkenJzV3RoWDIteGJrTkI1Z21RMzBWcXhfWHU5Nnk1ZnpLblJNMGp4aWRTS3plRTZrWWkxOTJYYTdwVEoxMnUtWGlUOWJMS2d0WGQzMnc3OVo2QXdtMjk4NVVKWW5YOWFlcXNzRXY4SEl0TjZ0aHV3ejRxeDJWUktUakpCamRVaGRKRXJHTVpNVXAw?oc=5"
     }
-   ],
-   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-53-439.png"
+   ]
   },
   {
    "company": "Audun",
    "title": "Audun raises $3M to modernise debt collection with AI",
-   "url": "https://tech.eu/2026/11/26/audun-raises-3m-to-modernise-debt-collection-with-ai/",
-   "date": "2026-11-26T09:15:00.000Z",
-   "day": "2026-11-27",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0EzTWJLcGtpTXdJOVJOYWc1MnpTX3BNUlFERm42cEM3cEN4c2htbVF4UW1oNVNsZGRuOVR3ZDNvSHV5cExUUTNZVXVpSjRjRHFBRWsxUnphakswT2pHWmNSVWxiNnpEdG5XdHhUanpyeTBqSmVRb3lmbFdMaEtaNmI5UmRwWTA?oc=5",
+   "date": "2026-11-26T09:19:45.000Z",
+   "day": "2026-11-26",
    "amount": "$3M",
    "currency": "USD",
    "amountM": 3,
@@ -182,22 +206,15 @@
    "status": "announced",
    "categories": [
     "Funding",
-    "AI",
-    "Policy & ecosystem"
+    "AI"
    ],
    "articles": [
     {
      "source": "Tech.eu",
      "title": "Audun raises $3M to modernise debt collection with AI",
-     "url": "https://tech.eu/2026/11/26/audun-raises-3m-to-modernise-debt-collection-with-ai/"
-    },
-    {
-     "source": "Tech.eu",
-     "title": "Audun raises $3M to modernise debt collection with AI",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0EzTWJLcGtpTXdJOVJOYWc1MnpTX3BNUlFERm42cEM3cEN4c2htbVF4UW1oNVNsZGRuOVR3ZDNvSHV5cExUUTNZVXVpSjRjRHFBRWsxUnphakswT2pHWmNSVWxiNnpEdG5XdHhUanpyeTBqSmVRb3lmbFdMaEtaNmI5UmRwWTA?oc=5"
     }
-   ],
-   "image": "https://cdn.tech.eu/uploads/2026/11/audun-featured-958.png"
+   ]
   },
   {
    "company": "WaterSense",
@@ -209,9 +226,9 @@
    "currency": "EUR",
    "amountM": 5.75,
    "amountEur": 5.75,
-   "round": "Pre-seed",
+   "round": null,
    "valuation": null,
-   "investors": "b2venture and Movens Capital",
+   "investors": null,
    "kind": "company",
    "status": "announced",
    "categories": [
@@ -235,31 +252,25 @@
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdnJfRTRRcUNTVlBwOWFnVklKaDdzbjZDZ2doTnJoX3lWcDlQay1qZHRJSXdZTE5xOTRvLWZTbzZhWHVRbndZQW81NTlaMkIzVS1sWWhmaWZLWDZkend0TFdlQ2RZSTBLVDVpcWIxdVZWZm9vaVMtV1BQSmRoN3NLSFBpQVhCV2Vhdk9BTg?oc=5"
     },
     {
-     "source": "Tech.eu",
-     "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
-     "url": "https://tech.eu/2026/11/26/watersense-raises-eur575m-to-build-europes-water-intelligence-infrastructure/"
-    },
-    {
      "source": "Wisevoter",
      "title": "Warsaw Water-Monitoring Start-Up Raises €5.75 Million",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNloxVzF4WW9sT014aWdNbzlZOERtM2d4aFZNbWhTREFkNFl1cHFPaWRCYTV3TmV3M3F6V1p2dVFUdEZxNW9xYWVleS0wNzlVTURsSE9xTXNEOEM4b1Rvdy15b0UwbXNpTEZucmYyS1VkcnpRbVJDLUc4M0ZIOEYwVElwR3FRY19ZVlhmMDhaa3pMTXdoOXVUUWVB?oc=5"
     }
-   ],
-   "image": "https://cdn.tech.eu/uploads/2026/11/watersense-featured-405.png"
+   ]
   },
   {
    "company": "ARK Capture Solutions",
    "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
-   "url": "https://tech.eu/2026/11/26/ark-capture-solutions-secures-eur54m-to-scale-its-all-electric-carbon-capture-technology/",
-   "date": "2026-11-26T08:22:26.000Z",
-   "day": "2026-11-27",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5",
+   "date": "2026-11-26T08:24:47.000Z",
+   "day": "2026-11-26",
    "amount": "€5.4M",
    "currency": "EUR",
    "amountM": 5.4,
    "amountEur": 5.4,
-   "round": "Pre-seed",
+   "round": null,
    "valuation": null,
-   "investors": "Aperam Ventures",
+   "investors": null,
    "kind": "company",
    "status": "announced",
    "categories": [
@@ -269,15 +280,9 @@
     {
      "source": "Tech.eu",
      "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
-     "url": "https://tech.eu/2026/11/26/ark-capture-solutions-secures-eur54m-to-scale-its-all-electric-carbon-capture-technology/"
-    },
-    {
-     "source": "Tech.eu",
-     "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5"
     }
-   ],
-   "image": "https://cdn.tech.eu/uploads/2026/11/arkcapturesolutions-featured-979.png"
+   ]
   },
   {
    "company": "Starforge",
@@ -711,11 +716,6 @@
     },
     {
      "source": "Kyiv Post",
-     "title": "Norway’s Gardar Leads $5M Round for Himera, a Ukrainian Maker of Jamming-Resistant Military Radios",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHNOdXFBMmxINFFtLUlNcWhsQkFQNGJUVzFzbFJnRy1rWUVoZUcwbGYxVHYwSlhDQnhaQjBleUxQNWVYMjVVcG9YQQ?oc=5"
-    },
-    {
-     "source": "Kyiv Post",
      "title": "British-Ukrainian Defense Tech Startup Pai Defence Raises $5M for Drone Detection System",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DSlVJUEIxYlAxZDZIOEFoT0RpTXYyOW1FbTVwdzZHTjNzak8zM21PTjZHLVFHMlA3UlpFSWhvY1ozUVhyQ0hFN0h5UQ?oc=5"
     }
@@ -879,11 +879,6 @@
      "source": "Dealroom",
      "title": "Swiss robotics startup coprod raises $6M to fix hardware's \"integration hell",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSGdWbnVkbVE4ZTFuaXFuZ1paN05FZlk3MnFGQXY3U0pEOGJCOHBYTW9xcTh4S3Jmbkcwd0c2cEFfMWt3MTlvanNpYzdFVFgwY3Q4blYydEVqYlFUZDV0NFo0WllvUjM5aS1LSDlUV0xYVFpRaWRUeGd5VmlpbHBJTURSQ3J6ZHdFdUdTcFo0QWtXbEo1RGhXX00zdW5XT3ZOUDViX3hlOWVYTzhV?oc=5"
-    },
-    {
-     "source": "EU-Startups",
-     "title": "Swiss startup Synature secures €5.48 million to turn animal sounds into actionable biodiversity data using AI",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdDc0U0cyZDIzWGZtdGFJZXBESVMxTUxBUmw3ZFI3YklFTHJiUzRLbjJCT3dhQ0M4S29yMFdURUdDbHlHZWdYX19pZ1RtSkZyT09yU3Z6OTJTRFBpOWRidm9KZXpRb2duaVktVjhMYXZpRHJhUnN1bnZ2MnhyRjhWYWJHZ3lHOU0wbUZsa0lSZFd3c2VBcE1vXzR2V3ZNbGZiY3VUaXFmR3Z0V3Q1ckhNamlORzdPVzUxdUlFTlItUF80TGRMRHJWLVJCVG5qSkRrXzdEU2RpdVhTWGVuT2tr?oc=5"
     }
    ]
   },
