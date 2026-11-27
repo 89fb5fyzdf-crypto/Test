@@ -1,11 +1,11 @@
 {
  "date": "2026-11-27",
- "generatedAt": "2026-11-27T13:48:21.148Z",
+ "generatedAt": "2026-11-27T18:14:39.067Z",
  "windowHours": 36,
  "counts": {
-  "articles": 31,
-  "raw": 55,
-  "media": 12
+  "articles": 32,
+  "raw": 75,
+  "media": 11
  },
  "scope": "eu",
  "lang": "en",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 10
+   "items": 6
   },
   {
    "source": "EU-Startups",
@@ -33,7 +33,7 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 30
+   "items": 38
   },
   {
    "source": "Google News · European unicorn valuation",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 52
+   "items": 48
   },
   {
    "source": "Sifted",
@@ -52,13 +52,13 @@
   },
   {
    "source": "Tech.eu",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 20
   },
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 17
+   "items": 19
   },
   {
    "source": "TechCrunch Europe",
@@ -72,6 +72,46 @@
   }
  ],
  "items": [
+  {
+   "id": "europe-s-tech-ecosystem-demands-decisive-action-on-ukraine-eu-proposes-50bn-equi",
+   "title": "Europe's tech ecosystem demands decisive action on Ukraine, EU proposes €50BN equity fund, and Pliant secures over €200M",
+   "url": "https://tech.eu/2026/11/27/europe-s-tech-ecosystem-demands-decisive-action-on-ukraine-eu-proposes-50bn-equity-fund-and-pliant-secures-over-200m/",
+   "summary": "This week, we tracked more than 60 tech funding deals worth over €559 million and over 5 exits, M&A transactions, rumours, and related news stories across Europe.Want to stay in the know? If email...",
+   "image": "https://cdn.tech.eu/uploads/2024/01/this-week-in-european-tech-292.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Europe's tech ecosystem demands decisive action on Ukraine, EU proposes €50BN equity fund, and Pliant secures over €200M",
+     "url": "https://tech.eu/2026/11/27/europe-s-tech-ecosystem-demands-decisive-action-on-ukraine-eu-proposes-50bn-equity-fund-and-pliant-secures-over-200m/"
+    }
+   ],
+   "brief": {
+    "essentiel": "This week, we tracked more than 60 tech funding deals worth over €559 million and over 5 exits, M&A transactions, rumours , and related news stories across Europe.",
+    "points": [
+     "The free, open-access Tech.eu Funding Explorer offers deeper insights into funding rounds, investor activity, company profiles and market trends."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€50BN"
+     },
+     {
+      "key": "round",
+      "value": "Pre-seed"
+     }
+    ]
+   },
+   "date": "2026-11-27T15:18:28.000Z",
+   "categories": [
+    "Funding",
+    "M&A & IPOs",
+    "Policy & ecosystem"
+   ],
+   "score": 26.8
+  },
   {
    "id": "elevenlabs-in-talks-to-raise-funding-at-33bn-valuation-reports-say",
    "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
@@ -95,100 +135,127 @@
    "score": 21
   },
   {
-   "id": "lampsy-health-raises-1-1m-to-shine-a-light-on-undetected-night-time-seizures",
-   "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUF9SMGJsTHc0QWJoam5fNHQydkU3SzlqTC11MTJkM2dJbjBKMEp2dUZVRkhmYy1zSEZHdGlqeVNoNWtvMDR2U2gxZjYwUmNRbGxETGx2ckhSaXNzcC1GcXA5WEhRYkZHTGZ3c2loMzBUZ2hzYV8zWG5ZUDRBYWtIVVdzcDJUWGJVVkVuVjMwY0NaTjI4dXA0eW04NVNxc3F2Y0xOWUFJSnNPUQ?oc=5",
+   "id": "transportation-europe-s-10-most-funded-companies-in-h1-2026",
+   "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
+   "url": "https://tech.eu/2026/11/26/transportation-europes-10-most-funded-companies-in-h1-2026/",
+   "summary": "European transportation tech companies raised approximately€2.14 billion in H1 2026. The UK emerged as the leading market, accounting formore than half of the capital raised, followed by Sweden and Ge...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/transportation-featured-948.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
+     "url": "https://tech.eu/2026/11/26/transportation-europes-10-most-funded-companies-in-h1-2026/"
+    }
+   ],
+   "brief": {
+    "essentiel": "European transportation tech companies raised approximately €2.14 billion in H1 2026 .",
+    "points": [
+     "The UK emerged as the leading market, accounting for more than half of the capital raised, followed by Sweden and Germany.",
+     "Wayve's funding in the first half of 2026 reached $1.26 billion , following a $1.2 billion Series D round in February and a $60 million extension in April.",
+     "Amount raised in H1 2026: $700M Polestar is an electric vehicle manufacturer headquartered in Gothenburg.",
+     "Through two equity financing rounds in H1 2026, Polestar secured a combined $700 million ."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€2.14 billion"
+     },
+     {
+      "key": "round",
+      "value": "Series D"
+     }
+    ]
+   },
+   "date": "2026-11-26T12:00:00.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 19
+  },
+  {
+   "id": "europe-has-10-billion-for-startups-does-it-have-a-market-for-them",
+   "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUpmNVUzT081QzBEdEtNVzJmZHA3UWJ3bFBMdWVQdDBFWWxYNWxiWlNBcS1PbVJwa2ItMGo2ZUtRVGFhMXFsQmc2UGpsYUlTSW95N1dTTV9xQXJwSjZ5UzZ0b1Y0TU01Wkl4WEZFSWlfR1I0TFNoNC1mWlZocWxYYzJpaXVzYXlIanV3Nnp5cjZZRFU4MGplQ2ZZOVJtQVFtcUpsM2tSYkhNX202U1JkZHJHVkU?oc=5",
    "summary": "",
    "sources": [
+    "EU Reporter"
+   ],
+   "articles": [
+    {
+     "source": "EU Reporter",
+     "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUpmNVUzT081QzBEdEtNVzJmZHA3UWJ3bFBMdWVQdDBFWWxYNWxiWlNBcS1PbVJwa2ItMGo2ZUtRVGFhMXFsQmc2UGpsYUlTSW95N1dTTV9xQXJwSjZ5UzZ0b1Y0TU01Wkl4WEZFSWlfR1I0TFNoNC1mWlZocWxYYzJpaXVzYXlIanV3Nnp5cjZZRFU4MGplQ2ZZOVJtQVFtcUpsM2tSYkhNX202U1JkZHJHVkU?oc=5"
+    }
+   ],
+   "date": "2026-11-26T11:00:45.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 17
+  },
+  {
+   "id": "lampsy-health-raises-1-1m-to-shine-a-light-on-undetected-night-time-seizures",
+   "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
+   "url": "https://tech.eu/2026/11/27/lampsy-health-raises-eur11m-to-shine-a-light-on-undetected-night-time-seizures/",
+   "summary": "Lampsy Health has closed a €1.1 million funding round to finance the commercial launch and distribution of its product in Europe and the UK. The Portuguese startup has developed a lamp that monitors f...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-53-439.png",
+   "sources": [
     "Tech.eu",
-    "EU-Startups",
-    "Dealroom"
+    "Dealroom",
+    "EU-Startups"
    ],
    "articles": [
     {
      "source": "Tech.eu",
      "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUF9SMGJsTHc0QWJoam5fNHQydkU3SzlqTC11MTJkM2dJbjBKMEp2dUZVRkhmYy1zSEZHdGlqeVNoNWtvMDR2U2gxZjYwUmNRbGxETGx2ckhSaXNzcC1GcXA5WEhRYkZHTGZ3c2loMzBUZ2hzYV8zWG5ZUDRBYWtIVVdzcDJUWGJVVkVuVjMwY0NaTjI4dXA0eW04NVNxc3F2Y0xOWUFJSnNPUQ?oc=5"
-    },
-    {
-     "source": "EU-Startups",
-     "title": "Lisbon's Lampsy Health raises €1.1 million for its AI bedside lamp that detects epileptic seizures during sleep",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXZxSVBBTGF3WEZBTzBWaERPcDlIb3ZIbFNIYXpfZGh5R0tmc19uSWJNenVSeFVVelJsRHFVSVpCZUtMaDQ1bXhLbnJUN3JGM2pQTWxILTd4ejcyNGY4NTZkenJzV3RoWDIteGJrTkI1Z21RMzBWcXhfWHU5Nnk1ZnpLblJNMGp4aWRTS3plRTZrWWkxOTJYYTdwVEoxMnUtWGlUOWJMS2d0WGQzMnc3OVo2QXdtMjk4NVVKWW5YOWFlcXNzRXY4SEl0TjZ0aHV3ejRxeDJWUktUakpCamRVaGRKRXJHTVpNVXAw?oc=5"
+     "url": "https://tech.eu/2026/11/27/lampsy-health-raises-eur11m-to-shine-a-light-on-undetected-night-time-seizures/"
     },
     {
      "source": "Dealroom",
      "title": "Lampsy raises €1.1M to take its seizure-detecting lamp to Europe and UK",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDMtaTBQN2NMZnR6U1V5bkkxb3RCd0V0SnA0RzJiR1VGMUh6UVVpNUJRcTdEZFZOMUJmNUFGRTFzNWFmQmxkRXRfN0F2b2x2Xzg3VTh0MU9TSUxyb281QXhiTFVQalFnOGhjYVFNYk5iWUQ1UzF3MF9OcE5ReTlvT2R4Q3VPSlBKRGxpTzJDX05ndmpmT0hadk9ZWnJWTmRUY0VSX2RxWQ?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Lisbon's Lampsy Health raises €1.1 million for its AI bedside lamp that detects epileptic seizures during sleep",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXZxSVBBTGF3WEZBTzBWaERPcDlIb3ZIbFNIYXpfZGh5R0tmc19uSWJNenVSeFVVelJsRHFVSVpCZUtMaDQ1bXhLbnJUN3JGM2pQTWxILTd4ejcyNGY4NTZkenJzV3RoWDIteGJrTkI1Z21RMzBWcXhfWHU5Nnk1ZnpLblJNMGp4aWRTS3plRTZrWWkxOTJYYTdwVEoxMnUtWGlUOWJMS2d0WGQzMnc3OVo2QXdtMjk4NVVKWW5YOWFlcXNzRXY4SEl0TjZ0aHV3ejRxeDJWUktUakpCamRVaGRKRXJHTVpNVXAw?oc=5"
     }
    ],
+   "brief": {
+    "essentiel": "Lampsy Health has closed a €1.1 million funding round to finance the commercial launch and distribution of its product in Europe and the UK.",
+    "points": [
+     "The smart lamp is embedded with a small built-in camera and a proprietary artificial intelligence algorithm.",
+     "The Portuguese startup has developed a lamp that monitors for epileptic seizures during sleep.",
+     "It detects movements that may indicate a seizure with over 97 per cent accuracy and automatically alerts emergency contacts.",
+     "A computer vision and AI system running on the device itself recognises the patterns associated with tonic-clonic seizures."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€1.1M"
+     },
+     {
+      "key": "investors",
+      "value": "Angels Way, Phira Ventures and strategic business angels"
+     }
+    ]
+   },
    "date": "2026-11-27T07:24:37.000Z",
    "categories": [
     "Funding",
     "AI"
    ],
-   "score": 15.6
-  },
-  {
-   "id": "watersense-raises-5-75m-to-build-europe-s-water-intelligence-infrastructure",
-   "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmNsM1ctOFFVTWJxYlRLQW5FWHRhR2ExanVMR0Z4dHFFMEpQVzR5MEZfeDVNaXVINUZxSTY5Vm0xaVZ6UkJodENOOUlLMlF0eGRYWWlTcWl5UDlZYnljajR4TmFia3EzUnBVVXBHSk1uNGJpcXpRY0hIbnIzT2lLQTdYR1A1R3BFM0p4VXJ0dVJNdl9TRVlsV0o2emRuRkplTDNLaGJDVQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu",
-    "EU-Startups",
-    "Dealroom"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmNsM1ctOFFVTWJxYlRLQW5FWHRhR2ExanVMR0Z4dHFFMEpQVzR5MEZfeDVNaXVINUZxSTY5Vm0xaVZ6UkJodENOOUlLMlF0eGRYWWlTcWl5UDlZYnljajR4TmFia3EzUnBVVXBHSk1uNGJpcXpRY0hIbnIzT2lLQTdYR1A1R3BFM0p4VXJ0dVJNdl9TRVlsV0o2emRuRkplTDNLaGJDVQ?oc=5"
-    },
-    {
-     "source": "EU-Startups",
-     "title": "Warsaw-based WaterSense secures €5.75 million to make sense of Europe’s water using AI and satellite data",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGFCam14Yl82T2wxb25TcTFIS0dFaGxHWXJoaFlOdzV5UElPWTB2SVRaZHhkWlZ4anEwUllXMkMwSnE4MVZzaHZfMkp5c3RKVTVBcG9CQmg0SC1DS2VGc0ZpelJZak1udXdkU2N2ZEZjOHc1U3Q3OVNzZHhaVFRUbUJYSlFTb3BfVG5HN0ktbjRuV3kxU01vNDcwODFpS3ZYck1odVlvOV9FNElwUlVlMTVZLV9HTTNPSElSdEFmQ1hZaVFJZkQxNVY1anBWZmoyMkhKMEM0XzhDb0c3djFPT0txMA?oc=5"
-    },
-    {
-     "source": "Dealroom",
-     "title": "WaterSense raises €5.75M to monitor Europe's rivers",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdnJfRTRRcUNTVlBwOWFnVklKaDdzbjZDZ2doTnJoX3lWcDlQay1qZHRJSXdZTE5xOTRvLWZTbzZhWHVRbndZQW81NTlaMkIzVS1sWWhmaWZLWDZkend0TFdlQ2RZSTBLVDVpcWIxdVZWZm9vaVMtV1BQSmRoN3NLSFBpQVhCV2Vhdk9BTg?oc=5"
-    }
-   ],
-   "date": "2026-11-26T08:32:22.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 14
-  },
-  {
-   "id": "agon-closes-70m-series-a-to-build-europe-s-defence-ai-lab",
-   "title": "Agon Closes $70M Series A to Build Europe’s Defence AI Lab",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTNtc3dRRW9UOVlXbWYyYlVDQmhHeldPT1N4NklSaVVzTDJCdF9rNXhnUmk0QVdsajBzbFd3b0I3R3UtbzJja3FXQ3lIMlF3YnZTaG5zMHZqUXIwSjJpc2lKUnpoS0ExQ1UwRzQwSVFIMHhEQVFKZ1lnbFdWR3lxc2JIMmNMNjc5QUxMS195a1d2YXVMOV9lcTlB?oc=5",
-   "summary": "",
-   "sources": [
-    "AI Insider"
-   ],
-   "articles": [
-    {
-     "source": "AI Insider",
-     "title": "Agon Closes $70M Series A to Build Europe’s Defence AI Lab",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTNtc3dRRW9UOVlXbWYyYlVDQmhHeldPT1N4NklSaVVzTDJCdF9rNXhnUmk0QVdsajBzbFd3b0I3R3UtbzJja3FXQ3lIMlF3YnZTaG5zMHZqUXIwSjJpc2lKUnpoS0ExQ1UwRzQwSVFIMHhEQVFKZ1lnbFdWR3lxc2JIMmNMNjc5QUxMS195a1d2YXVMOV9lcTlB?oc=5"
-    }
-   ],
-   "date": "2026-11-27T09:00:03.000Z",
-   "categories": [
-    "Funding",
-    "AI"
-   ],
-   "score": 13.6
+   "score": 15.2
   },
   {
    "id": "eu-inc-is-in-crisis-but-1m-backed-shuttle-isn-t-waiting-for-europe-to-fix-cross-",
    "title": "EU-INC is in crisis but $1M-backed Shuttle isn’t waiting for Europe to fix cross-border fundraising",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzJwS01iMzJ4elp1WG5sOXlkM3NDczdfQnBHc0ZqbmROQzdtNlEySmNZZHpSVnY4NDJZWlkweUc0a1FuY0RCMkRxUlhaMG1YUklCS0U4b1RVMFQxRWxzMTQ4ajNhOWp2am5XVFBuYVpaQ0xfeC1xb3ZkczBKUGhuMnBGTDhaMDJGOEdyekJUUzlLa0YwYXNqYVNRejMxR24zNlQwOG1UX0ZjVDdZUnZfNjhranNZMUhsUVYtU1EwWkhsckE?oc=5",
-   "summary": "",
+   "url": "https://tech.eu/2026/11/26/eu-inc-is-in-crisis-but-1m-backed-shuttle-isnt-waiting-for-europe-to-fix-cross-border-fundraising/",
+   "summary": "Shuttle, an Irish fintech whose regulated platform allows investment syndicates and fund managers to raise and deploy capital across borders, has launched with authorisation from the Financial Conduct...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-52-103.png",
    "sources": [
     "Tech.eu",
     "Dealroom"
@@ -197,7 +264,7 @@
     {
      "source": "Tech.eu",
      "title": "EU-INC is in crisis but $1M-backed Shuttle isn’t waiting for Europe to fix cross-border fundraising",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzJwS01iMzJ4elp1WG5sOXlkM3NDczdfQnBHc0ZqbmROQzdtNlEySmNZZHpSVnY4NDJZWlkweUc0a1FuY0RCMkRxUlhaMG1YUklCS0U4b1RVMFQxRWxzMTQ4ajNhOWp2am5XVFBuYVpaQ0xfeC1xb3ZkczBKUGhuMnBGTDhaMDJGOEdyekJUUzlLa0YwYXNqYVNRejMxR24zNlQwOG1UX0ZjVDdZUnZfNjhranNZMUhsUVYtU1EwWkhsckE?oc=5"
+     "url": "https://tech.eu/2026/11/26/eu-inc-is-in-crisis-but-1m-backed-shuttle-isnt-waiting-for-europe-to-fix-cross-border-fundraising/"
     },
     {
      "source": "Dealroom",
@@ -205,10 +272,77 @@
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTJnWG1tSXJ4QjFaQzBaYzNaaUxXbXFsX0JwOXY0cEVNb2I0YkMwV3lxZUdoNkpLWm1qVHFGbEZscU5hT2wtX0hFRzltM3NqeU1hUTZXbEZ2WmhCVjllMXFzMy1EQjZmVHRJc0lFM2tSVXlTSnNPTjJKMHdfb2RLbXo2MWJsR3Y5T2lFMGZVQUk5RnpIVWVjbWxTelgxWWM?oc=5"
     }
    ],
+   "brief": {
+    "essentiel": "Shuttle , an Irish fintech whose regulated platform allows investment syndicates and fund managers to raise and deploy capital across borders, has launched with authorisation from the Financial Conduct Authority alongside its existing Central Bank of Ireland authorisation.",
+    "points": [
+     "Shuttle has raised $1 million to date to solve this problem, with investment coming from Baseline, Enterprise Ireland , and angel investors including the CEO of Revolut Holdings, the GM of Western Europe for ElevenLabs , and the VP EMEA at Astronomer.",
+     "Syndicate leads, fund managers and founders can now run deals on one platform, regulated in both the EU and the UK, and bring in investors from across Europe and the US.",
+     "The launch comes as uncertainty grows over EU Inc , the proposed “28th regime” designed to give European startups a single company structure.",
+     "Even if it passes, it only addresses where a company is registered, not how it raises money."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$1M"
+     }
+    ]
+   },
    "date": "2026-11-26T07:08:58.000Z",
    "categories": [
     "Funding",
     "Policy & ecosystem"
+   ],
+   "score": 12
+  },
+  {
+   "id": "watersense-raises-5-75m-to-build-europe-s-water-intelligence-infrastructure",
+   "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
+   "url": "https://tech.eu/2026/11/26/watersense-raises-eur575m-to-build-europes-water-intelligence-infrastructure/",
+   "summary": "Water intelligence company WaterSense hassecured €5.75 million in funding through a combination of grants and a pre-seedround co-led by b2venture and Movens Capital, with participation fromvastpoint. ...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/watersense-featured-405.png",
+   "sources": [
+    "Tech.eu",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
+     "url": "https://tech.eu/2026/11/26/watersense-raises-eur575m-to-build-europes-water-intelligence-infrastructure/"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Warsaw-based WaterSense secures €5.75 million to make sense of Europe’s water using AI and satellite data",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGFCam14Yl82T2wxb25TcTFIS0dFaGxHWXJoaFlOdzV5UElPWTB2SVRaZHhkWlZ4anEwUllXMkMwSnE4MVZzaHZfMkp5c3RKVTVBcG9CQmg0SC1DS2VGc0ZpelJZak1udXdkU2N2ZEZjOHc1U3Q3OVNzZHhaVFRUbUJYSlFTb3BfVG5HN0ktbjRuV3kxU01vNDcwODFpS3ZYck1odVlvOV9FNElwUlVlMTVZLV9HTTNPSElSdEFmQ1hZaVFJZkQxNVY1anBWZmoyMkhKMEM0XzhDb0c3djFPT0txMA?oc=5"
+    }
+   ],
+   "brief": {
+    "essentiel": "Water intelligence company WaterSense has secured €5.75 million in funding through a combination of grants and a pre-seed round co-led by b2venture and Movens Capital , with participation from vastpoint .",
+    "points": [
+     "Founded by Filip Budny , WaterSense develops autonomous water quality monitoring technology that combines proprietary sensor hardware with an AI-powered platform to help industrial operators, utilities and public authorities monitor and manage water resources.",
+     "The new capital will support the expansion of its water monitoring infrastructure across Europe.",
+     "Water plays a critical role in industrial production, cooling systems, wastewater management and public infrastructure.",
+     "As water supplies become increasingly constrained, water security is also becoming a strategic priority for the European Union."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€5.75M"
+     },
+     {
+      "key": "round",
+      "value": "Pre-seed"
+     },
+     {
+      "key": "investors",
+      "value": "b2venture and Movens Capital"
+     }
+    ]
+   },
+   "date": "2026-11-26T08:32:22.000Z",
+   "categories": [
+    "Funding",
+    "AI"
    ],
    "score": 12
   },
@@ -233,7 +367,7 @@
     "AI",
     "Trouble"
    ],
-   "score": 11.9
+   "score": 11.5
   },
   {
    "id": "dutch-startup-spctr-raises-2-8-million-to-bring-real-time-tumour-margin-assessme",
@@ -261,7 +395,46 @@
     "Funding",
     "AI"
    ],
-   "score": 11.6
+   "score": 11.2
+  },
+  {
+   "id": "audun-raises-3m-to-modernise-debt-collection-with-ai",
+   "title": "Audun raises $3M to modernise debt collection with AI",
+   "url": "https://tech.eu/2026/11/26/audun-raises-3m-to-modernise-debt-collection-with-ai/",
+   "summary": "NorwegianAI-native debt collection company Audun has raised $3 million in funding fromAlliance VC, Y Combinator, Robinhood Ventures, Skyfall, First Degree and angelinvestors across Europe and the Unit...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/audun-featured-958.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Audun raises $3M to modernise debt collection with AI",
+     "url": "https://tech.eu/2026/11/26/audun-raises-3m-to-modernise-debt-collection-with-ai/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Norwegian AI-native debt collection company Audun has raised $3 million in funding from Alliance VC , Y Combinator , Robinhood Ventures , Skyfall , First Degree and angel investors across Europe and the United States.",
+    "points": [
+     "Founded by Peter Flo , Magnus Vonen , Jacob Hambro and Henrik Fevang , Audun aims to modernise the debt collection industry by integrating AI into traditionally manual processes.",
+     "The company's technology automates routine case handling, including responding to common questions and enquiries, allowing employees to focus on more complex cases that require human judgement.",
+     "Beyond automating case handling, Audun uses data and AI to help clients identify and address payment problems before they reach collections, shifting the focus towards prevention and early intervention.",
+     "This approach enables Audun to resolve claims faster and at lower costs while improving the experience for debtors."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "$3M"
+     }
+    ]
+   },
+   "date": "2026-11-26T09:15:00.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Policy & ecosystem"
+   ],
+   "score": 11
   },
   {
    "id": "uk-startup-raises-2-8m-for-ai-tech-to-detect-algae-blooms-taps-former-norway-sal",
@@ -278,13 +451,35 @@
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5"
     }
    ],
-   "date": "2026-11-27T11:00:00.000Z",
+   "date": "2026-11-27T11:57:21.000Z",
    "categories": [
     "Funding",
     "AI",
     "People"
    ],
-   "score": 10.8
+   "score": 10.5
+  },
+  {
+   "id": "estonia-s-certive-raises-25k-to-tame-eu-product-compliance-paperwork",
+   "title": "Estonia's Certive raises €25K to tame EU product-compliance paperwork",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmt4SXJzd3NDb1RmQllRdkhQWUhQRDZzUlFQU0NPLUFXdjJvai1yWE9NRFpFM0FnYnZPUXFtanZQeEpXdDZSUG1MVUhGeFZuZllMODc2U29MSWZnaC1SQnFiR0htMmthTHF2dlFLTXRBSUdtcE9xQTQ4cWxmODAyeWloRC1kSFRLTkN3dDFwYU1zN05meGFWaXpTX2drMlExU1ZlRw?oc=5",
+   "summary": "",
+   "sources": [
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Dealroom",
+     "title": "Estonia's Certive raises €25K to tame EU product-compliance paperwork",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmt4SXJzd3NDb1RmQllRdkhQWUhQRDZzUlFQU0NPLUFXdjJvai1yWE9NRFpFM0FnYnZPUXFtanZQeEpXdDZSUG1MVUhGeFZuZllMODc2U29MSWZnaC1SQnFiR0htMmthTHF2dlFLTXRBSUdtcE9xQTQ4cWxmODAyeWloRC1kSFRLTkN3dDFwYU1zN05meGFWaXpTX2drMlExU1ZlRw?oc=5"
+    }
+   ],
+   "date": "2026-11-27T10:12:06.000Z",
+   "categories": [
+    "Funding",
+    "Policy & ecosystem"
+   ],
+   "score": 9.3
   },
   {
    "id": "never-say-never-us-fintech-giant-ramp-on-more-european-acquisitions",
@@ -306,35 +501,92 @@
    "categories": [
     "M&A & IPOs"
    ],
-   "score": 9.3
+   "score": 8.9
   },
   {
-   "id": "audun-raises-3m-to-modernise-debt-collection-with-ai",
-   "title": "Audun raises $3M to modernise debt collection with AI",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0EzTWJLcGtpTXdJOVJOYWc1MnpTX3BNUlFERm42cEM3cEN4c2htbVF4UW1oNVNsZGRuOVR3ZDNvSHV5cExUUTNZVXVpSjRjRHFBRWsxUnphakswT2pHWmNSVWxiNnpEdG5XdHhUanpyeTBqSmVRb3lmbFdMaEtaNmI5UmRwWTA?oc=5",
-   "summary": "",
+   "id": "belgian-cyber-insurance-startup-inqase-raises-1m",
+   "title": "Belgian cyber insurance startup Inqase raises €1M",
+   "url": "https://tech.eu/2026/11/27/belgian-cyber-insurance-startup-inqase-raises-eur1m/",
+   "summary": "Belgian cyber insurance startup Inqase has raised €1 million in a funding round, it said today. Inqase provides cyber insurance for SMEs, with its offering spanning insurance, with continuous risk mon...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/inqase-33.png",
    "sources": [
     "Tech.eu"
    ],
    "articles": [
     {
      "source": "Tech.eu",
-     "title": "Audun raises $3M to modernise debt collection with AI",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0EzTWJLcGtpTXdJOVJOYWc1MnpTX3BNUlFERm42cEM3cEN4c2htbVF4UW1oNVNsZGRuOVR3ZDNvSHV5cExUUTNZVXVpSjRjRHFBRWsxUnphakswT2pHWmNSVWxiNnpEdG5XdHhUanpyeTBqSmVRb3lmbFdMaEtaNmI5UmRwWTA?oc=5"
+     "title": "Belgian cyber insurance startup Inqase raises €1M",
+     "url": "https://tech.eu/2026/11/27/belgian-cyber-insurance-startup-inqase-raises-eur1m/"
     }
    ],
-   "date": "2026-11-26T09:19:45.000Z",
+   "brief": {
+    "essentiel": "Belgian cyber insurance startup Inqase has raised €1 million in a funding round, it said today.",
+    "points": [
+     "Inqase provides cyber insurance for SMEs, with its offering spanning insurance, with continuous risk monitoring and 24/7 incident response.",
+     "The funding round was led by Brussels-based VC ScaleFund, alongside invest.bw, with Seeder Fund and business angels, including Belgian serial entrepreneur Philippe Van Ophem also participating.",
+     "Its services are distributed through brokers, IT service providers and accounting firms.",
+     "Inqase, which launched this year, was founded by Rodolphe Lechat, Guillaume Deterville and Drilon Saraqini, who have previously built and sold companies."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€1M"
+     },
+     {
+      "key": "investors",
+      "value": "Brussels-based VC ScaleFund, alongside invest"
+     }
+    ]
+   },
+   "date": "2026-11-27T15:20:00.000Z",
    "categories": [
-    "Funding",
-    "AI"
+    "Funding"
    ],
-   "score": 9
+   "score": 8.8
+  },
+  {
+   "id": "beyond-the-taboo-polari-labs-brings-biotech-innovation-to-anorectal-health",
+   "title": "Beyond the taboo: Polari Labs brings biotech innovation to anorectal health",
+   "url": "https://tech.eu/2026/11/27/beyond-the-taboo-polari-labs-brings-biotech-innovation-to-anorectal-health/",
+   "summary": "London-based biotech and sexual wellness startup Polari Labs has raised funding. Founded in 2023, the company develops science-led consumer products for anorectal health, an area historically underser...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-55-568.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Beyond the taboo: Polari Labs brings biotech innovation to anorectal health",
+     "url": "https://tech.eu/2026/11/27/beyond-the-taboo-polari-labs-brings-biotech-innovation-to-anorectal-health/"
+    }
+   ],
+   "brief": {
+    "essentiel": "London-based biotech and sexual wellness startup Polari Labs has raised funding.",
+    "points": [
+     "Founded in 2023, the company develops science-led consumer products for anorectal health, an area historically underserved by both medical research and commercial innovation.",
+     "Polari Labs has spent several years developing its flagship product, A-BALL, a single-use, patent-pending hydrogel insert designed to replace conventional anal douching.",
+     "The product aims to reduce preparation time for anal sex from around 20–30 minutes to 30 seconds, addressing the physical discomfort, anxiety and lack of spontaneity associated with conventional douching.",
+     "Polari Labs uses polymers already found in products such as suppositories and sexual lubricants, including gelatine and alginate."
+    ],
+    "facts": [
+     {
+      "key": "investors",
+      "value": "Nicola Telford, founder of Tabu Ventures , shared"
+     }
+    ]
+   },
+   "date": "2026-11-27T11:27:00.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 8.4
   },
   {
    "id": "general-catalyst-backs-17-year-old-austrian-s-quant-trading-startup",
    "title": "General Catalyst backs 17-year-old Austrian's quant trading startup",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdPTU9jcWF6OC1uajdENXNuLWNSdHpoeDlDbzViQmRkZkIwY01wUThud05sNWVyNmZrQ2pjUlJkSU15blJzVWk0cGl2MHZIdXl1RGF1c25BMzc5UFlLc291bEEzQkxNaW53NE5rckF5OVc4ZmpzZTE0TGM0T1YzRnpUcGh1bW1TR1N1SlE1RXdYbmctenh5RlhB?oc=5",
-   "summary": "",
+   "url": "https://tech.eu/2026/11/26/general-catalyst-backs-17-year-old-austrians-quant-trading-startup/",
+   "summary": "A 17-year-old Austrian International Mathematical Olympiad medallisthas raised pre-seed funding led by General Catalyst for his quant tradingstartup looking to take on giants like Jane Street and Cita...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/vvs-225.png",
    "sources": [
     "Tech.eu"
    ],
@@ -342,14 +594,87 @@
     {
      "source": "Tech.eu",
      "title": "General Catalyst backs 17-year-old Austrian's quant trading startup",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdPTU9jcWF6OC1uajdENXNuLWNSdHpoeDlDbzViQmRkZkIwY01wUThud05sNWVyNmZrQ2pjUlJkSU15blJzVWk0cGl2MHZIdXl1RGF1c25BMzc5UFlLc291bEEzQkxNaW53NE5rckF5OVc4ZmpzZTE0TGM0T1YzRnpUcGh1bW1TR1N1SlE1RXdYbmctenh5RlhB?oc=5"
+     "url": "https://tech.eu/2026/11/26/general-catalyst-backs-17-year-old-austrians-quant-trading-startup/"
     }
    ],
-   "date": "2026-11-26T09:34:36.000Z",
+   "brief": {
+    "essentiel": "A 17-year-old Austrian International Mathematical Olympiad medallist has raised pre-seed funding led by General Catalyst for his quant trading startup looking to take on giants like Jane Street and Citadel.",
+    "points": [
+     "Vienna-based VVS is run by four young founding partners, who hold various international Olympiad medals and have worked at top quant trading firms like Optiver.",
+     "VVS is building a ground-up quantitative research stack and trains its own machine learning models, as well as developing trading infrastructure, from market data to technology which minimises the delay between trading decisions and trades being carried out.",
+     "William Shi , 17, CEO and co-founder, says: “We’re focusing first on building the fundamentals in data, talent and infrastructure.",
+     "The funding round for an undisclosed amount also includes funding from Viet Le-Martin, a prominent European tech investor; Christoph Deckert, a former operator at German software unicorn Personio, and angel investors from Jump Trading, OpenAI and other leading quant and AI firms."
+    ],
+    "facts": [
+     {
+      "key": "round",
+      "value": "Pre-seed"
+     },
+     {
+      "key": "investors",
+      "value": "General Catalyst for his quant trading startup looking"
+     }
+    ]
+   },
+   "date": "2026-11-26T09:34:00.000Z",
    "categories": [
     "Funding"
    ],
    "score": 8
+  },
+  {
+   "id": "swiss-startup-synature-secures-5-48-million-to-turn-animal-sounds-into-actionabl",
+   "title": "Swiss startup Synature secures €5.48 million to turn animal sounds into actionable biodiversity data using AI",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdDc0U0cyZDIzWGZtdGFJZXBESVMxTUxBUmw3ZFI3YklFTHJiUzRLbjJCT3dhQ0M4S29yMFdURUdDbHlHZWdYX19pZ1RtSkZyT09yU3Z6OTJTRFBpOWRidm9KZXpRb2duaVktVjhMYXZpRHJhUnN1bnZ2MnhyRjhWYWJHZ3lHOU0wbUZsa0lSZFd3c2VBcE1vXzR2V3ZNbGZiY3VUaXFmR3Z0V3Q1ckhNamlORzdPVzUxdUlFTlItUF80TGRMRHJWLVJCVG5qSkRrXzdEU2RpdVhTWGVuT2tr?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Swiss startup Synature secures €5.48 million to turn animal sounds into actionable biodiversity data using AI",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdDc0U0cyZDIzWGZtdGFJZXBESVMxTUxBUmw3ZFI3YklFTHJiUzRLbjJCT3dhQ0M4S29yMFdURUdDbHlHZWdYX19pZ1RtSkZyT09yU3Z6OTJTRFBpOWRidm9KZXpRb2duaVktVjhMYXZpRHJhUnN1bnZ2MnhyRjhWYWJHZ3lHOU0wbUZsa0lSZFd3c2VBcE1vXzR2V3ZNbGZiY3VUaXFmR3Z0V3Q1ckhNamlORzdPVzUxdUlFTlItUF80TGRMRHJWLVJCVG5qSkRrXzdEU2RpdVhTWGVuT2tr?oc=5"
+    }
+   ],
+   "date": "2026-11-26T09:21:46.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 8
+  },
+  {
+   "id": "papa-john-s-pizza-order-first-uk-cardless-payment-by-ai-agent",
+   "title": "Papa John’s pizza order first UK cardless payment by AI agent",
+   "url": "https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/",
+   "summary": "An AI agent has paid for Papa John’s pizzas directly from a customer’s bank account via cardless payment technology in a trial, which the tech provider says is the first of its kind. TrueLayer, the op...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/smart-1-380.jpg",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Papa John’s pizza order first UK cardless payment by AI agent",
+     "url": "https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/"
+    }
+   ],
+   "brief": {
+    "essentiel": "An AI agent has paid for Papa John’s pizzas directly from a customer’s bank account via cardless payment technology in a trial, which the tech provider says is the first of its kind.",
+    "points": [
+     "TrueLayer , the open banking tech provider, says it was the first time an AI agent had paid a UK retailer this way.",
+     "The pilot was part of the Financial Conduct Authority’s (FCA) AI regulatory sandbox trials, to test that an AI agent could make payments within limits agreed by the customer.",
+     "The trial comes amid AI agents expected to handle a growing share of online shopping.",
+     "The trial saw Papa John’s AI agent help the customer with their order, and then pay straight from the bank account the customer linked to their Papa John’s account."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-27T11:00:00.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 7.4
   },
   {
    "id": "tech-eu-european-startup-funding-and-technology-news",
@@ -370,28 +695,7 @@
    "categories": [
     "Policy & ecosystem"
    ],
-   "score": 7.8
-  },
-  {
-   "id": "papa-john-s-pizza-order-first-uk-cardless-payment-by-ai-agent",
-   "title": "Papa John’s pizza order first UK cardless payment by AI agent",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1hxUzVENUp2OEllZjJfX0pIc3RHdEx5Zm1EWHpHMjducmhwM25rckhRek5hUHZPRDFZaWtNSlVYX2F0VS1KRmp5cDhLYkdlX1E0SGVIVEJmY0tacDB0VXpCUmhQTXE4YjczUU91aEsxTVluRC1kNUFSQmIxSUFMYllLVHB3S08zdFBpRnhGVHJIUQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Tech.eu"
-   ],
-   "articles": [
-    {
-     "source": "Tech.eu",
-     "title": "Papa John’s pizza order first UK cardless payment by AI agent",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1hxUzVENUp2OEllZjJfX0pIc3RHdEx5Zm1EWHpHMjducmhwM25rckhRek5hUHZPRDFZaWtNSlVYX2F0VS1KRmp5cDhLYkdlX1E0SGVIVEJmY0tacDB0VXpCUmhQTXE4YjczUU91aEsxTVluRC1kNUFSQmIxSUFMYllLVHB3S08zdFBpRnhGVHJIUQ?oc=5"
-    }
-   ],
-   "date": "2026-11-27T11:00:47.000Z",
-   "categories": [
-    "AI"
-   ],
-   "score": 7.8
+   "score": 7.4
   },
   {
    "id": "uk-plant-based-protein-water-startup-nowhey-bags-pre-seed-funding-for-expansion",
@@ -412,7 +716,52 @@
    "categories": [
     "Funding"
    ],
-   "score": 7.5
+   "score": 7.1
+  },
+  {
+   "id": "ark-capture-solutions-secures-5-4m-to-scale-its-all-electric-carbon-capture-tech",
+   "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
+   "url": "https://tech.eu/2026/11/26/ark-capture-solutions-secures-eur54m-to-scale-its-all-electric-carbon-capture-technology/",
+   "summary": "Belgian cleantechcompany ARK Capture Solutions, which develops fully electric carbon captureequipment for industrial emissions, has raised €5.4 million in a funding roundled by Aperam Ventures, with p...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/arkcapturesolutions-featured-979.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
+     "url": "https://tech.eu/2026/11/26/ark-capture-solutions-secures-eur54m-to-scale-its-all-electric-carbon-capture-technology/"
+    }
+   ],
+   "brief": {
+    "essentiel": "The investment comes 20 months after the company's €2.2 million pre-seed round and marks its transition from pilot testing to industrial-scale deployment.",
+    "points": [
+     "ARK also leads CO₂ DISRUPT, a €5.6 million project supported by the Walloon Region, in collaboration with Aperam, Industeel, Cinergie, UMONS and Certech.",
+     "Founded by Samuel Thiry and Aurélien Vantomme , ARK Capture Solutions focuses on developing more affordable and energy-efficient alternatives to conventional industrial carbon capture technologies.",
+     "The phase-out of free carbon allowances and rising CO₂ prices under the EU Emissions Trading System (ETS) are increasing demand for affordable carbon capture solutions.",
+     "Captured CO₂ can also be used in industrial production or, when derived from biogenic sources, permanently stored to generate carbon removals."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€5.4M"
+     },
+     {
+      "key": "round",
+      "value": "Pre-seed"
+     },
+     {
+      "key": "investors",
+      "value": "Aperam Ventures"
+     }
+    ]
+   },
+   "date": "2026-11-26T08:22:26.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7
   },
   {
    "id": "british-ukrainian-defense-tech-startup-pai-defence-raises-5m-for-drone-detection",
@@ -433,7 +782,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 7.4
+   "score": 7
   },
   {
    "id": "we-re-not-migration-software-conduct-s-ceo-on-building-an-ai-operating-system-fo",
@@ -455,109 +804,45 @@
     "AI",
     "People"
    ],
-   "score": 7.3
+   "score": 6.9
   },
   {
-   "id": "exclusive-starforge-raises-6-6m-to-build-nuclear-fusion-reactors-at-scale",
-   "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
-   "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
+   "id": "europe-keeps-launching-scaleup-funds-but-is-cash-really-what-founders-are-missin",
+   "title": "Europe Keeps Launching Scaleup Funds, But Is Cash Really What Founders Are Missing?",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFZvcjJSTlJZcTc1MXkzR3p5WHpZb2lSd2pTcVJXbm1IQUZVYVF3a3JSbWw5UFhDUWNzaWZKeF8xenRoemJ5dTlFS0NKV0tzUWtneUp3dG1sTmJtNVI3anFPa3IwcW5QYTFmMGJ6VFUtQlZMd0o2ejBhNzNUczRUdTBpaWs5LVVxNE81cGhhR0VVZlZDYktzTmIwbGxIcnZaMndTa0REVVB3OTRNVFRRUUNSMzVHZw?oc=5",
    "summary": "",
    "sources": [
-    "Sifted"
+    "TechRound"
    ],
    "articles": [
     {
-     "source": "Sifted",
-     "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
-     "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/"
+     "source": "TechRound",
+     "title": "Europe Keeps Launching Scaleup Funds, But Is Cash Really What Founders Are Missing?",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFZvcjJSTlJZcTc1MXkzR3p5WHpZb2lSd2pTcVJXbm1IQUZVYVF3a3JSbWw5UFhDUWNzaWZKeF8xenRoemJ5dTlFS0NKV0tzUWtneUp3dG1sTmJtNVI3anFPa3IwcW5QYTFmMGJ6VFUtQlZMd0o2ejBhNzNUczRUdTBpaWs5LVVxNE81cGhhR0VVZlZDYktzTmIwbGxIcnZaMndTa0REVVB3OTRNVFRRUUNSMzVHZw?oc=5"
     }
    ],
-   "date": "2026-11-26T05:00:51.000Z",
+   "date": "2026-11-27T14:31:50.000Z",
    "categories": [
-    "Funding"
+    "Unicorns & scale-ups"
    ],
-   "score": 7
+   "score": 6.7
   },
   {
-   "id": "ark-capture-solutions-secures-5-4m-to-scale-its-all-electric-carbon-capture-tech",
-   "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5",
+   "id": "munich-s-fintavo-raises-pre-seed-to-finance-veterinary-care",
+   "title": "Munich's fintavo raises pre-seed to finance veterinary care",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTVqT3luU2VKOFhVOGxhVmJCanBaNXdqRmJEeWlWSDVSb3VtREp1YU1fTDdNbVJkQkpkZVQ5eTNkbWp3WnI3aW1uOXI0d21HTlpfUVVfX3ZjWkZibmdFWE1MUUl5RU83SFUtUUxFMmhFazFjNC1ZZUY4V2IwTlEtYkoxQXpGbms5dTJEMC1ETEgxcXJhSnV6Wg?oc=5",
    "summary": "",
    "sources": [
-    "Tech.eu"
+    "Dealroom"
    ],
    "articles": [
     {
-     "source": "Tech.eu",
-     "title": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2lKeWphZEF1V1p6Zkk2NTh0bEpMUDN4bkZhNnhTSkt5akVXSzdJbDQzb1ZaM0dUN2lZUkVDVElPNjZoenNJYmdjZzRLSzdMSXJHeFRNWnN1M3kxZGQyUVF3aEFyWUhzQ0xyNW4xNWZnd1NISHBiQ1lPdjZrQWZWZ1hBM0RRQV9Jbm9qMlZlNEozd015QlRYMGtfaE5ZZGs4TG9KeU9ERnh1RFRtRFVpTjgxT1FSY3c?oc=5"
+     "source": "Dealroom",
+     "title": "Munich's fintavo raises pre-seed to finance veterinary care",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTVqT3luU2VKOFhVOGxhVmJCanBaNXdqRmJEeWlWSDVSb3VtREp1YU1fTDdNbVJkQkpkZVQ5eTNkbWp3WnI3aW1uOXI0d21HTlpfUVVfX3ZjWkZibmdFWE1MUUl5RU83SFUtUUxFMmhFazFjNC1ZZUY4V2IwTlEtYkoxQXpGbms5dTJEMC1ETEgxcXJhSnV6Wg?oc=5"
     }
    ],
-   "date": "2026-11-26T08:24:47.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 7
-  },
-  {
-   "id": "it-s-not-a-fair-fight-bolt-s-markus-villig-on-why-europe-must-protect-homegrown-",
-   "title": "‘It’s not a fair fight’: Bolt’s Markus Villig on why Europe must protect homegrown tech",
-   "url": "https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "‘It’s not a fair fight’: Bolt’s Markus Villig on why Europe must protect homegrown tech",
-     "url": "https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/"
-    }
-   ],
-   "date": "2026-11-26T05:00:25.000Z",
-   "categories": [
-    "Policy & ecosystem"
-   ],
-   "score": 6
-  },
-  {
-   "id": "proxima-fusion-ceo-calls-out-short-termism-amid-ai-boom",
-   "title": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
-   "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
-     "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/"
-    }
-   ],
-   "date": "2026-11-26T05:00:01.000Z",
-   "categories": [
-    "AI",
-    "People"
-   ],
-   "score": 6
-  },
-  {
-   "id": "barcelona-based-permut-raises-3-million-seed-round-to-expand-into-new-european-m",
-   "title": "Barcelona-based Permut raises €3 million seed round to expand into new European markets",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHhKbUU4SWl6c1prZTZMU1VoN0kwTFdzMl9Od3o3T1Y0cmQ0UjJGZFlrQkFLWEp2b21uZThYR2llLVN0dXU3UEZfM1lWVXVmM2sySlltdkZDUGM1QW5WdXowTzRRcjY2MHh3S0RXVjFMLUw5c3ZKWFljMWw3SExtOW9tM0R6cDZOWTNPcEJYMThDYXBXcGJ4UGMxbk9BblF1czdXaWV4VXpyUTNXenJhZ0FhRU12a0tzMkpMZHF1OUIxQmJnWFhkaFNuS1RwVTJXeXdxOA?oc=5",
-   "summary": "",
-   "sources": [
-    "Retail Technology Innovation Hub"
-   ],
-   "articles": [
-    {
-     "source": "Retail Technology Innovation Hub",
-     "title": "Barcelona-based Permut raises €3 million seed round to expand into new European markets",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHhKbUU4SWl6c1prZTZMU1VoN0kwTFdzMl9Od3o3T1Y0cmQ0UjJGZFlrQkFLWEp2b21uZThYR2llLVN0dXU3UEZfM1lWVXVmM2sySlltdkZDUGM1QW5WdXowTzRRcjY2MHh3S0RXVjFMLUw5c3ZKWFljMWw3SExtOW9tM0R6cDZOWTNPcEJYMThDYXBXcGJ4UGMxbk9BblF1czdXaWV4VXpyUTNXenJhZ0FhRU12a0tzMkpMZHF1OUIxQmJnWFhkaFNuS1RwVTJXeXdxOA?oc=5"
-    }
-   ],
-   "date": "2026-11-26T05:20:32.000Z",
+   "date": "2026-11-26T09:59:32.000Z",
    "categories": [
     "Funding"
    ],
@@ -579,27 +864,6 @@
     }
    ],
    "date": "2026-11-26T08:58:30.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 6
-  },
-  {
-   "id": "munich-s-fintavo-raises-pre-seed-to-finance-veterinary-care",
-   "title": "Munich's fintavo raises pre-seed to finance veterinary care",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTVqT3luU2VKOFhVOGxhVmJCanBaNXdqRmJEeWlWSDVSb3VtREp1YU1fTDdNbVJkQkpkZVQ5eTNkbWp3WnI3aW1uOXI0d21HTlpfUVVfX3ZjWkZibmdFWE1MUUl5RU83SFUtUUxFMmhFazFjNC1ZZUY4V2IwTlEtYkoxQXpGbms5dTJEMC1ETEgxcXJhSnV6Wg?oc=5",
-   "summary": "",
-   "sources": [
-    "Dealroom"
-   ],
-   "articles": [
-    {
-     "source": "Dealroom",
-     "title": "Munich's fintavo raises pre-seed to finance veterinary care",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTVqT3luU2VKOFhVOGxhVmJCanBaNXdqRmJEeWlWSDVSb3VtREp1YU1fTDdNbVJkQkpkZVQ5eTNkbWp3WnI3aW1uOXI0d21HTlpfUVVfX3ZjWkZibmdFWE1MUUl5RU83SFUtUUxFMmhFazFjNC1ZZUY4V2IwTlEtYkoxQXpGbms5dTJEMC1ETEgxcXJhSnV6Wg?oc=5"
-    }
-   ],
-   "date": "2026-11-26T09:59:32.000Z",
    "categories": [
     "Funding"
    ],
@@ -643,7 +907,7 @@
    ],
    "date": "2026-11-27T10:50:20.000Z",
    "categories": [],
-   "score": 5.8
+   "score": 5.4
   },
   {
    "id": "what-separates-ai-features-that-pay-off-from-expensive-demos",
@@ -667,6 +931,36 @@
    "score": 5
   },
   {
+   "id": "cutting-the-cord-how-willo-is-taking-wireless-power-into-the-third-dimension",
+   "title": "Cutting the cord: How Willo is taking wireless power into the third dimension",
+   "url": "https://tech.eu/2026/11/27/cutting-the-cord-how-willo-is-taking-wireless-power-into-the-third-dimension/",
+   "summary": "What if robots could charge while moving, without needing to align with a charging pad or plug into a cable? Or you could simply walk into a room and have your laptop or mobile phone start charging au...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-56-824.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Cutting the cord: How Willo is taking wireless power into the third dimension",
+     "url": "https://tech.eu/2026/11/27/cutting-the-cord-how-willo-is-taking-wireless-power-into-the-third-dimension/"
+    }
+   ],
+   "brief": {
+    "essentiel": "What if robots could charge while moving, without needing to align with a charging pad or plug into a cable?",
+    "points": [
+     "I covered the company's €2.9 million funding round earlier this year, when I interviewed co-founder Marko Voutilainen at my office during a visit to Berlin.",
+     "Or you could simply walk into a room and have your laptop or mobile phone start charging automatically, wherever you placed it?",
+     "At Slush in Helsinki last week, I caught up with Harri Santamala, co-founder and CEO of Willo Technologies , and Nam Ha-Van, co-founder and CTO, and other team members for a fascinating demo of their wireless power tech.",
+     "Both our offices are housed in former industrial factories, although theirs are considerably more salubrious."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-27T14:14:25.000Z",
+   "categories": [],
+   "score": 4.7
+  },
+  {
    "id": "welcome-to-venture-feudalism",
    "title": "Welcome to venture feudalism",
    "url": "https://sifted.eu/articles/welcome-to-venture-feudalism/",
@@ -683,87 +977,37 @@
    ],
    "date": "2026-11-27T10:58:25.000Z",
    "categories": [],
-   "score": 4.8
+   "score": 4.4
   },
   {
-   "id": "monzo-cofounder-tom-blomfield-leaves-anthropic-after-less-than-six-months-report",
-   "title": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
-   "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
-     "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/"
-    }
-   ],
-   "date": "2026-11-26T05:00:18.000Z",
-   "categories": [
-    "People"
-   ],
-   "score": 4
-  },
-  {
-   "id": "transportation-europe-s-10-most-funded-companies-in-h1-2026",
-   "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5",
-   "summary": "",
+   "id": "from-10-000-to-6-million-connected-cars-the-bootstrapped-rise-of-lithuania-s-obd",
+   "title": "From €10,000 to 6 million connected cars: The bootstrapped rise of Lithuania's OBDeleven",
+   "url": "https://tech.eu/2026/11/26/from-eur10000-to-6-million-connected-cars-the-bootstrapped-rise-of-obdeleven/",
+   "summary": "As cars become increasingly software-defined, owning a vehicle no longer necessarily means having full access to the technology that makes it function. Proprietary diagnostic protocols, software restr...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-47-111.png",
    "sources": [
     "Tech.eu"
    ],
    "articles": [
     {
      "source": "Tech.eu",
-     "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5"
+     "title": "From €10,000 to 6 million connected cars: The bootstrapped rise of Lithuania's OBDeleven",
+     "url": "https://tech.eu/2026/11/26/from-eur10000-to-6-million-connected-cars-the-bootstrapped-rise-of-obdeleven/"
     }
    ],
-   "date": "2026-11-26T12:01:49.000Z",
+   "brief": {
+    "essentiel": "As cars become increasingly software-defined, owning a vehicle no longer necessarily means having full access to the technology that makes it function.",
+    "points": [
+     "Proprietary diagnostic protocols, software restrictions and increasingly complex electronics have made it harder for everyday drivers to understand, customise and repair their vehicles independently.",
+     "In 2025, the company generated €19.2 million in revenue, representing 25 per cent year-on-year growth, and recorded a net profit of €3.17 million.",
+     "Lithuanian automotive technology company OBDeleven is building a business around changing that.",
+     "Originally established as Voltas IT, the bootstrapped company has expanded beyond automotive enthusiasts to target everyday drivers, positioning itself as a comprehensive digital car ownership platform."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-26T09:00:00.000Z",
    "categories": [],
    "score": 4
-  },
-  {
-   "id": "europe-s-4-4-trillion-startup-ecosystem-targets-global-growth-at-expand-north-st",
-   "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5",
-   "summary": "",
-   "sources": [
-    "FF News"
-   ],
-   "articles": [
-    {
-     "source": "FF News",
-     "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5"
-    }
-   ],
-   "date": "2026-11-26T12:08:02.000Z",
-   "categories": [
-    "Policy & ecosystem"
-   ],
-   "score": 4
-  },
-  {
-   "id": "meet-goldfish-the-kings-of-slush-aiming-to-take-on-apple",
-   "title": "Meet Goldfish: The kings of Slush aiming to take on Apple",
-   "url": "https://sifted.eu/articles/goldfish-slush-100-winners/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "Meet Goldfish: The kings of Slush aiming to take on Apple",
-     "url": "https://sifted.eu/articles/goldfish-slush-100-winners/"
-    }
-   ],
-   "date": "2026-11-26T05:00:35.000Z",
-   "categories": [],
-   "score": 3
   }
  ]
 }
