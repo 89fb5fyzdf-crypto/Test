@@ -1,10 +1,10 @@
 {
  "date": "2026-11-27",
- "generatedAt": "2026-11-27T09:41:38.500Z",
+ "generatedAt": "2026-11-27T13:48:21.148Z",
  "windowHours": 36,
  "counts": {
-  "articles": 26,
-  "raw": 47,
+  "articles": 31,
+  "raw": 55,
   "media": 12
  },
  "scope": "eu",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 5
+   "items": 10
   },
   {
    "source": "EU-Startups",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Europe scaleup mega round billion",
    "ok": true,
-   "items": 4
+   "items": 1
   },
   {
    "source": "Google News · European startup raises Series",
@@ -38,12 +38,12 @@
   {
    "source": "Google News · European unicorn valuation",
    "ok": true,
-   "items": 1
+   "items": 2
   },
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 53
+   "items": 52
   },
   {
    "source": "Sifted",
@@ -58,7 +58,7 @@
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 19
+   "items": 17
   },
   {
    "source": "TechCrunch Europe",
@@ -92,28 +92,7 @@
     "Funding",
     "Unicorns & scale-ups"
    ],
-   "score": 21.1
-  },
-  {
-   "id": "europe-has-10-billion-for-startups-does-it-have-a-market-for-them",
-   "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUpmNVUzT081QzBEdEtNVzJmZHA3UWJ3bFBMdWVQdDBFWWxYNWxiWlNBcS1PbVJwa2ItMGo2ZUtRVGFhMXFsQmc2UGpsYUlTSW95N1dTTV9xQXJwSjZ5UzZ0b1Y0TU01Wkl4WEZFSWlfR1I0TFNoNC1mWlZocWxYYzJpaXVzYXlIanV3Nnp5cjZZRFU4MGplQ2ZZOVJtQVFtcUpsM2tSYkhNX202U1JkZHJHVkU?oc=5",
-   "summary": "",
-   "sources": [
-    "EU Reporter"
-   ],
-   "articles": [
-    {
-     "source": "EU Reporter",
-     "title": "Europe Has €10 Billion for Startups. Does It Have a Market for Them?",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUpmNVUzT081QzBEdEtNVzJmZHA3UWJ3bFBMdWVQdDBFWWxYNWxiWlNBcS1PbVJwa2ItMGo2ZUtRVGFhMXFsQmc2UGpsYUlTSW95N1dTTV9xQXJwSjZ5UzZ0b1Y0TU01Wkl4WEZFSWlfR1I0TFNoNC1mWlZocWxYYzJpaXVzYXlIanV3Nnp5cjZZRFU4MGplQ2ZZOVJtQVFtcUpsM2tSYkhNX202U1JkZHJHVkU?oc=5"
-    }
-   ],
-   "date": "2026-11-26T11:00:45.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 17.1
+   "score": 21
   },
   {
    "id": "lampsy-health-raises-1-1m-to-shine-a-light-on-undetected-night-time-seizures",
@@ -147,7 +126,7 @@
     "Funding",
     "AI"
    ],
-   "score": 15.9
+   "score": 15.6
   },
   {
    "id": "watersense-raises-5-75m-to-build-europe-s-water-intelligence-infrastructure",
@@ -203,7 +182,7 @@
     "Funding",
     "AI"
    ],
-   "score": 13.9
+   "score": 13.6
   },
   {
    "id": "eu-inc-is-in-crisis-but-1m-backed-shuttle-isn-t-waiting-for-europe-to-fix-cross-",
@@ -234,6 +213,29 @@
    "score": 12
   },
   {
+   "id": "zurich-based-nextesy-raises-9-48-million-to-put-business-administration-on-autop",
+   "title": "Zurich-based nextesy raises €9.48 million to put business administration on autopilot with AI agents",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlNkS1I2ZDhxc3RVWlA2YmotNDA1elVEVmdZYUoyQzRXZjlES3RMQlFwbjdXLWtyTzd5QlVZaVNZWEVtUDJPWmQwQ1FWLXl5Y1FmZzBxYkRvbzJ5dlhvVDQ5NElVYWs4WG5QRzRyajdvSEFleGV5VkdFb2E1aWJzYjhHZDZGSkJWNGR1cnRfdko3R3hPT0x5UjlNT0FvZVJ5SURzalREY1AyeXM3Q2lGd0JBUWpQOUc2dTUtUXYzRWVtX0ZEYTlFS2puWTR4SV9SbU9J?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Zurich-based nextesy raises €9.48 million to put business administration on autopilot with AI agents",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlNkS1I2ZDhxc3RVWlA2YmotNDA1elVEVmdZYUoyQzRXZjlES3RMQlFwbjdXLWtyTzd5QlVZaVNZWEVtUDJPWmQwQ1FWLXl5Y1FmZzBxYkRvbzJ5dlhvVDQ5NElVYWs4WG5QRzRyajdvSEFleGV5VkdFb2E1aWJzYjhHZDZGSkJWNGR1cnRfdko3R3hPT0x5UjlNT0FvZVJ5SURzalREY1AyeXM3Q2lGd0JBUWpQOUc2dTUtUXYzRWVtX0ZEYTlFS2puWTR4SV9SbU9J?oc=5"
+    }
+   ],
+   "date": "2026-11-27T12:37:07.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Trouble"
+   ],
+   "score": 11.9
+  },
+  {
    "id": "dutch-startup-spctr-raises-2-8-million-to-bring-real-time-tumour-margin-assessme",
    "title": "Dutch startup SPCTR raises €2.8 million to bring real-time tumour margin assessment to cancer surgery",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamk4dkVsX1pjV3hKLVZNdS1sNnJJNEw0SmRfeGtYSG9USENMODVzTkRRTWJCZWxGdWxiMzNVM1pNNmd5bTlOVS1uV0Z1NVZhUDJtajdoWm9aYmR2alp0TFRmR08yRXpSanFTb19Qay1qOHlJa3JDSnplOU50MVptVFdYVVBqTjBmdVBHWFVCQzdlUHE3bEdFdVJObkg4S0F4OHY4UnEwdVFLQnRrRUlHcGFBb0VxeG9VRk1STzFienpFUC1HUW1WZDNINHBGNzZYTVNCRg?oc=5",
@@ -259,7 +261,30 @@
     "Funding",
     "AI"
    ],
-   "score": 11.9
+   "score": 11.6
+  },
+  {
+   "id": "uk-startup-raises-2-8m-for-ai-tech-to-detect-algae-blooms-taps-former-norway-sal",
+   "title": "UK startup raises $2.8m for AI tech to detect algae blooms, taps former Norway salmon CEO",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5",
+   "summary": "",
+   "sources": [
+    "Undercurrent News"
+   ],
+   "articles": [
+    {
+     "source": "Undercurrent News",
+     "title": "UK startup raises $2.8m for AI tech to detect algae blooms, taps former Norway salmon CEO",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:00:00.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "People"
+   ],
+   "score": 10.8
   },
   {
    "id": "never-say-never-us-fintech-giant-ramp-on-more-european-acquisitions",
@@ -281,7 +306,7 @@
    "categories": [
     "M&A & IPOs"
    ],
-   "score": 9.6
+   "score": 9.3
   },
   {
    "id": "audun-raises-3m-to-modernise-debt-collection-with-ai",
@@ -327,8 +352,50 @@
    "score": 8
   },
   {
-   "id": "uk-plant-based-protein-water-startup-nowhey-bags-fresh-funding-for-expansion",
-   "title": "UK Plant-Based Protein Water Startup Nowhey Bags Fresh Funding for Expansion",
+   "id": "tech-eu-european-startup-funding-and-technology-news",
+   "title": "Tech.eu - European Startup, Funding and Technology News",
+   "url": "https://news.google.com/rss/articles/CBMiMkFVX3lxTE1ERnplLWMxQkJsRzFjZVZDMkVvZ0FtamlUUlgtYnd2OTJ3VXdwUnhKY2V3?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Tech.eu - European Startup, Funding and Technology News",
+     "url": "https://news.google.com/rss/articles/CBMiMkFVX3lxTE1ERnplLWMxQkJsRzFjZVZDMkVvZ0FtamlUUlgtYnd2OTJ3VXdwUnhKY2V3?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:28:05.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 7.8
+  },
+  {
+   "id": "papa-john-s-pizza-order-first-uk-cardless-payment-by-ai-agent",
+   "title": "Papa John’s pizza order first UK cardless payment by AI agent",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1hxUzVENUp2OEllZjJfX0pIc3RHdEx5Zm1EWHpHMjducmhwM25rckhRek5hUHZPRDFZaWtNSlVYX2F0VS1KRmp5cDhLYkdlX1E0SGVIVEJmY0tacDB0VXpCUmhQTXE4YjczUU91aEsxTVluRC1kNUFSQmIxSUFMYllLVHB3S08zdFBpRnhGVHJIUQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Papa John’s pizza order first UK cardless payment by AI agent",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1hxUzVENUp2OEllZjJfX0pIc3RHdEx5Zm1EWHpHMjducmhwM25rckhRek5hUHZPRDFZaWtNSlVYX2F0VS1KRmp5cDhLYkdlX1E0SGVIVEJmY0tacDB0VXpCUmhQTXE4YjczUU91aEsxTVluRC1kNUFSQmIxSUFMYllLVHB3S08zdFBpRnhGVHJIUQ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:00:47.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 7.8
+  },
+  {
+   "id": "uk-plant-based-protein-water-startup-nowhey-bags-pre-seed-funding-for-expansion",
+   "title": "UK Plant-Based Protein Water Startup Nowhey Bags Pre-Seed Funding for Expansion",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWxPLXF6QUJnWWRXNHJ1LThfOUJXUGx2ZDRPWEFndlR3VHZUUTQ3a0NpYjVUTTJXM1B4b1o2Nk9mSjRURG02TGczZFRESS1tWXg0YnRrUzlRS0tmR0E0ZGVsOEVGQkpkWUlERV9RT2hTR19DQjVZMEJsM2swdDRVbHJLQ1Q2bk1ZOFY1dGwyQzRucktmRERETA?oc=5",
    "summary": "",
    "sources": [
@@ -337,15 +404,15 @@
    "articles": [
     {
      "source": "Green Queen Media",
-     "title": "UK Plant-Based Protein Water Startup Nowhey Bags Fresh Funding for Expansion",
+     "title": "UK Plant-Based Protein Water Startup Nowhey Bags Pre-Seed Funding for Expansion",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWxPLXF6QUJnWWRXNHJ1LThfOUJXUGx2ZDRPWEFndlR3VHZUUTQ3a0NpYjVUTTJXM1B4b1o2Nk9mSjRURG02TGczZFRESS1tWXg0YnRrUzlRS0tmR0E0ZGVsOEVGQkpkWUlERV9RT2hTR19DQjVZMEJsM2swdDRVbHJLQ1Q2bk1ZOFY1dGwyQzRucktmRERETA?oc=5"
     }
    ],
-   "date": "2026-11-27T08:00:00.000Z",
+   "date": "2026-11-27T08:02:35.000Z",
    "categories": [
     "Funding"
    ],
-   "score": 7.9
+   "score": 7.5
   },
   {
    "id": "british-ukrainian-defense-tech-startup-pai-defence-raises-5m-for-drone-detection",
@@ -366,14 +433,13 @@
    "categories": [
     "Funding"
    ],
-   "score": 7.7
+   "score": 7.4
   },
   {
    "id": "we-re-not-migration-software-conduct-s-ceo-on-building-an-ai-operating-system-fo",
    "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
    "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/",
-   "summary": "Conduct CEO JP Haas explains the SAP-backed startup’s business model and why he thinks enterprise IT teams will keep using its AI software after a migration.",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2025/09/17161716/Conduct_AI_Team_Landscape-scaled.jpg",
+   "summary": "",
    "sources": [
     "Sifted"
    ],
@@ -389,14 +455,13 @@
     "AI",
     "People"
    ],
-   "score": 7.6
+   "score": 7.3
   },
   {
    "id": "exclusive-starforge-raises-6-6m-to-build-nuclear-fusion-reactors-at-scale",
    "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
    "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
-   "summary": "The Munich-based startup was cofounded by Lilium and Commonwealth Fusion Systems alumni",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/25154309/Team_Sitting-scaled.jpg",
+   "summary": "",
    "sources": [
     "Sifted"
    ],
@@ -433,27 +498,6 @@
     "Funding"
    ],
    "score": 7
-  },
-  {
-   "id": "norway-s-gardar-leads-5m-round-for-himera-a-ukrainian-maker-of-jamming-resistant",
-   "title": "Norway’s Gardar Leads $5M Round for Himera, a Ukrainian Maker of Jamming-Resistant Military Radios",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHNOdXFBMmxINFFtLUlNcWhsQkFQNGJUVzFzbFJnRy1rWUVoZUcwbGYxVHYwSlhDQnhaQjBleUxQNWVYMjVVcG9YQQ?oc=5",
-   "summary": "",
-   "sources": [
-    "Kyiv Post"
-   ],
-   "articles": [
-    {
-     "source": "Kyiv Post",
-     "title": "Norway’s Gardar Leads $5M Round for Himera, a Ukrainian Maker of Jamming-Resistant Military Radios",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHNOdXFBMmxINFFtLUlNcWhsQkFQNGJUVzFzbFJnRy1rWUVoZUcwbGYxVHYwSlhDQnhaQjBleUxQNWVYMjVVcG9YQQ?oc=5"
-    }
-   ],
-   "date": "2026-11-26T14:08:41.000Z",
-   "categories": [
-    "Funding"
-   ],
-   "score": 6.4
   },
   {
    "id": "it-s-not-a-fair-fight-bolt-s-markus-villig-on-why-europe-must-protect-homegrown-",
@@ -562,6 +606,46 @@
    "score": 6
   },
   {
+   "id": "norway-s-gardar-leads-5m-round-for-himera-a-ukrainian-maker-of-jamming-resistant",
+   "title": "Norway’s Gardar Leads $5M Round for Himera, a Ukrainian Maker of Jamming-Resistant Military Radios",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHNOdXFBMmxINFFtLUlNcWhsQkFQNGJUVzFzbFJnRy1rWUVoZUcwbGYxVHYwSlhDQnhaQjBleUxQNWVYMjVVcG9YQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Kyiv Post"
+   ],
+   "articles": [
+    {
+     "source": "Kyiv Post",
+     "title": "Norway’s Gardar Leads $5M Round for Himera, a Ukrainian Maker of Jamming-Resistant Military Radios",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UUHNOdXFBMmxINFFtLUlNcWhsQkFQNGJUVzFzbFJnRy1rWUVoZUcwbGYxVHYwSlhDQnhaQjBleUxQNWVYMjVVcG9YQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-26T14:08:41.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "can-europe-s-neolabs-live-up-to-the-hype",
+   "title": "Can Europe’s neolabs live up to the hype?",
+   "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Can Europe’s neolabs live up to the hype?",
+     "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/"
+    }
+   ],
+   "date": "2026-11-27T10:50:20.000Z",
+   "categories": [],
+   "score": 5.8
+  },
+  {
    "id": "what-separates-ai-features-that-pay-off-from-expensive-demos",
    "title": "What separates AI features that pay off from expensive demos",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREttNmJJNmtjclByS3NQSXhQYlAzQ0xGWnFfRkFmRGg2ak9rRGRLSUdFYW9ERkFMTjd2WEpUVnltZDdzdElBeDVIMmJ5ZDhJdmY3OWlOdnZqekFfYnNUekRWS2NpdnVUQTZHOFVlNWZVdlpGR1ZfOTdHUzNWSzNpQjNIRE9sX0dfdWVtZll1eGg1UQ?oc=5",
@@ -580,47 +664,26 @@
    "categories": [
     "AI"
    ],
-   "score": 5.2
+   "score": 5
   },
   {
-   "id": "transportation-europe-s-10-most-funded-companies-in-h1-2026",
-   "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5",
+   "id": "welcome-to-venture-feudalism",
+   "title": "Welcome to venture feudalism",
+   "url": "https://sifted.eu/articles/welcome-to-venture-feudalism/",
    "summary": "",
    "sources": [
-    "Tech.eu"
+    "Sifted"
    ],
    "articles": [
     {
-     "source": "Tech.eu",
-     "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5"
+     "source": "Sifted",
+     "title": "Welcome to venture feudalism",
+     "url": "https://sifted.eu/articles/welcome-to-venture-feudalism/"
     }
    ],
-   "date": "2026-11-26T12:01:49.000Z",
+   "date": "2026-11-27T10:58:25.000Z",
    "categories": [],
-   "score": 4.2
-  },
-  {
-   "id": "europe-s-4-4-trillion-startup-ecosystem-targets-global-growth-at-expand-north-st",
-   "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5",
-   "summary": "",
-   "sources": [
-    "FF News"
-   ],
-   "articles": [
-    {
-     "source": "FF News",
-     "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5"
-    }
-   ],
-   "date": "2026-11-26T12:08:02.000Z",
-   "categories": [
-    "Policy & ecosystem"
-   ],
-   "score": 4.2
+   "score": 4.8
   },
   {
    "id": "monzo-cofounder-tom-blomfield-leaves-anthropic-after-less-than-six-months-report",
@@ -640,6 +703,46 @@
    "date": "2026-11-26T05:00:18.000Z",
    "categories": [
     "People"
+   ],
+   "score": 4
+  },
+  {
+   "id": "transportation-europe-s-10-most-funded-companies-in-h1-2026",
+   "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5",
+   "summary": "",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Transportation: Europe’s 10 most-funded companies in H1 2026",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZzS19fUHdTZm93NGdZVU5oMGFmR2lOV3dvSFR1bTNHM0RMR3lyQzVKRnl2Rmk5eFRla0puMWtQaW9TbEhRN3NzVzV6RmNnVE42SlZTT2ZLZDVqaVk2R29hRlVKV3BRX2lJNHZhMzdYbHhWRXktVWFTSFJ4VjVjV3A5YXFWMVljeEI5X0Zkbw?oc=5"
+    }
+   ],
+   "date": "2026-11-26T12:01:49.000Z",
+   "categories": [],
+   "score": 4
+  },
+  {
+   "id": "europe-s-4-4-trillion-startup-ecosystem-targets-global-growth-at-expand-north-st",
+   "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5",
+   "summary": "",
+   "sources": [
+    "FF News"
+   ],
+   "articles": [
+    {
+     "source": "FF News",
+     "title": "Europe’s $4.4 Trillion Startup Ecosystem Targets Global Growth at Expand North Star 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTBYNEZiQ3YySjFYdUlBakxBcjVkVTZRSWpyQnNZekx0ZmpJSWRwMG4yU0hYX3BoempkU2pzU0Y5RDNpbUNwNVNiYUdQQkVyV3Y4YTRIMlpDYUpScFA0R0dOdU5wUHM5Z25leWYxcTktbUNPWktfd3NxMmx4a2llWTRTazlYamdkMnNz?oc=5"
+    }
+   ],
+   "date": "2026-11-26T12:08:02.000Z",
+   "categories": [
+    "Policy & ecosystem"
    ],
    "score": 4
   },

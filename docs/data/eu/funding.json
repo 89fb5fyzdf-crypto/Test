@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T09:41:42.018Z",
+ "updatedAt": "2026-11-27T13:48:24.271Z",
  "lang": "en",
  "days": 10,
  "rates": {
@@ -12,6 +12,62 @@
   "DKK": 0.134
  },
  "rounds": [
+  {
+   "company": "nextesy",
+   "title": "Zurich-based nextesy raises €9.48 million to put business administration on autopilot with AI agents",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlNkS1I2ZDhxc3RVWlA2YmotNDA1elVEVmdZYUoyQzRXZjlES3RMQlFwbjdXLWtyTzd5QlVZaVNZWEVtUDJPWmQwQ1FWLXl5Y1FmZzBxYkRvbzJ5dlhvVDQ5NElVYWs4WG5QRzRyajdvSEFleGV5VkdFb2E1aWJzYjhHZDZGSkJWNGR1cnRfdko3R3hPT0x5UjlNT0FvZVJ5SURzalREY1AyeXM3Q2lGd0JBUWpQOUc2dTUtUXYzRWVtX0ZEYTlFS2puWTR4SV9SbU9J?oc=5",
+   "date": "2026-11-27T12:37:07.000Z",
+   "day": "2026-11-27",
+   "amount": "€9.48 million",
+   "currency": "EUR",
+   "amountM": 9.48,
+   "amountEur": 9.48,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI",
+    "Trouble"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Zurich-based nextesy raises €9.48 million to put business administration on autopilot with AI agents",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlNkS1I2ZDhxc3RVWlA2YmotNDA1elVEVmdZYUoyQzRXZjlES3RMQlFwbjdXLWtyTzd5QlVZaVNZWEVtUDJPWmQwQ1FWLXl5Y1FmZzBxYkRvbzJ5dlhvVDQ5NElVYWs4WG5QRzRyajdvSEFleGV5VkdFb2E1aWJzYjhHZDZGSkJWNGR1cnRfdko3R3hPT0x5UjlNT0FvZVJ5SURzalREY1AyeXM3Q2lGd0JBUWpQOUc2dTUtUXYzRWVtX0ZEYTlFS2puWTR4SV9SbU9J?oc=5"
+    }
+   ]
+  },
+  {
+   "company": null,
+   "title": "UK startup raises $2.8m for AI tech to detect algae blooms, taps former Norway salmon CEO",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5",
+   "date": "2026-11-27T11:00:00.000Z",
+   "day": "2026-11-27",
+   "amount": "$2.8m",
+   "currency": "USD",
+   "amountM": 2.8,
+   "amountEur": 2.58,
+   "round": null,
+   "valuation": null,
+   "investors": null,
+   "kind": "company",
+   "status": "announced",
+   "categories": [
+    "Funding",
+    "AI",
+    "People"
+   ],
+   "articles": [
+    {
+     "source": "Undercurrent News",
+     "title": "UK startup raises $2.8m for AI tech to detect algae blooms, taps former Norway salmon CEO",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5"
+    }
+   ]
+  },
   {
    "company": "Spctr",
    "title": "Dutch startup SPCTR raises €2.8 million to bring real-time tumour margin assessment to cancer surgery",
@@ -200,8 +256,7 @@
      "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
      "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/"
     }
-   ],
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/25154309/Team_Sitting-scaled.jpg"
+   ]
   },
   {
    "company": null,
