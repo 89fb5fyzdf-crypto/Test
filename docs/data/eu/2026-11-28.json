@@ -1,11 +1,11 @@
 {
  "date": "2026-11-28",
- "generatedAt": "2026-11-28T09:18:26.766Z",
+ "generatedAt": "2026-11-28T13:33:50.328Z",
  "windowHours": 36,
  "counts": {
-  "articles": 19,
-  "raw": 39,
-  "media": 11
+  "articles": 21,
+  "raw": 42,
+  "media": 12
  },
  "scope": "eu",
  "lang": "en",
@@ -13,7 +13,7 @@
   {
    "source": "City AM",
    "ok": true,
-   "items": 6
+   "items": 4
   },
   {
    "source": "EU-Startups",
@@ -33,7 +33,7 @@
   {
    "source": "Google News · European startup raises Series",
    "ok": true,
-   "items": 31
+   "items": 30
   },
   {
    "source": "Google News · European unicorn valuation",
@@ -43,7 +43,7 @@
   {
    "source": "Google News · UK startup raises funding round",
    "ok": true,
-   "items": 29
+   "items": 41
   },
   {
    "source": "Sifted",
@@ -58,7 +58,7 @@
   {
    "source": "Tech.eu (via Google News)",
    "ok": true,
-   "items": 13
+   "items": 7
   },
   {
    "source": "TechCrunch Europe",
@@ -67,8 +67,8 @@
   },
   {
    "source": "UKTN",
-   "ok": true,
-   "items": 10
+   "ok": false,
+   "error": "HTTP 403"
   }
  ],
  "items": [
@@ -110,7 +110,7 @@
     "M&A & IPOs",
     "Policy & ecosystem"
    ],
-   "score": 25.5
+   "score": 25.1
   },
   {
    "id": "lampsy-health-raises-1-1m-to-shine-a-light-on-undetected-night-time-seizures",
@@ -167,6 +167,28 @@
    "score": 14
   },
   {
+   "id": "agon-closes-70m-series-a-to-build-europe-s-defence-ai-lab",
+   "title": "Agon Closes $70M Series A to Build Europe’s Defence AI Lab",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTNtc3dRRW9UOVlXbWYyYlVDQmhHeldPT1N4NklSaVVzTDJCdF9rNXhnUmk0QVdsajBzbFd3b0I3R3UtbzJja3FXQ3lIMlF3YnZTaG5zMHZqUXIwSjJpc2lKUnpoS0ExQ1UwRzQwSVFIMHhEQVFKZ1lnbFdWR3lxc2JIMmNMNjc5QUxMS195a1d2YXVMOV9lcTlB?oc=5",
+   "summary": "",
+   "sources": [
+    "AI Insider"
+   ],
+   "articles": [
+    {
+     "source": "AI Insider",
+     "title": "Agon Closes $70M Series A to Build Europe’s Defence AI Lab",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTNtc3dRRW9UOVlXbWYyYlVDQmhHeldPT1N4NklSaVVzTDJCdF9rNXhnUmk0QVdsajBzbFd3b0I3R3UtbzJja3FXQ3lIMlF3YnZTaG5zMHZqUXIwSjJpc2lKUnpoS0ExQ1UwRzQwSVFIMHhEQVFKZ1lnbFdWR3lxc2JIMmNMNjc5QUxMS195a1d2YXVMOV9lcTlB?oc=5"
+    }
+   ],
+   "date": "2026-11-27T09:00:03.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 12
+  },
+  {
    "id": "zurich-based-nextesy-raises-9-48-million-to-put-business-administration-on-autop",
    "title": "Zurich-based nextesy raises €9.48 million to put business administration on autopilot with AI agents",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlNkS1I2ZDhxc3RVWlA2YmotNDA1elVEVmdZYUoyQzRXZjlES3RMQlFwbjdXLWtyTzd5QlVZaVNZWEVtUDJPWmQwQ1FWLXl5Y1FmZzBxYkRvbzJ5dlhvVDQ5NElVYWs4WG5QRzRyajdvSEFleGV5VkdFb2E1aWJzYjhHZDZGSkJWNGR1cnRfdko3R3hPT0x5UjlNT0FvZVJ5SURzalREY1AyeXM3Q2lGd0JBUWpQOUc2dTUtUXYzRWVtX0ZEYTlFS2puWTR4SV9SbU9J?oc=5",
@@ -187,7 +209,7 @@
     "AI",
     "Trouble"
    ],
-   "score": 10.3
+   "score": 10
   },
   {
    "id": "dutch-startup-spctr-raises-2-8-million-to-bring-real-time-tumour-margin-assessme",
@@ -238,7 +260,7 @@
     "AI",
     "People"
    ],
-   "score": 9.1
+   "score": 9
   },
   {
    "id": "never-say-never-us-fintech-giant-ramp-on-more-european-acquisitions",
@@ -258,6 +280,28 @@
    "date": "2026-11-27T05:00:58.000Z",
    "categories": [
     "M&A & IPOs"
+   ],
+   "score": 8
+  },
+  {
+   "id": "estonia-s-certive-raises-25k-to-tame-eu-product-compliance-paperwork",
+   "title": "Estonia's Certive raises €25K to tame EU product-compliance paperwork",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmt4SXJzd3NDb1RmQllRdkhQWUhQRDZzUlFQU0NPLUFXdjJvai1yWE9NRFpFM0FnYnZPUXFtanZQeEpXdDZSUG1MVUhGeFZuZllMODc2U29MSWZnaC1SQnFiR0htMmthTHF2dlFLTXRBSUdtcE9xQTQ4cWxmODAyeWloRC1kSFRLTkN3dDFwYU1zN05meGFWaXpTX2drMlExU1ZlRw?oc=5",
+   "summary": "",
+   "sources": [
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Dealroom",
+     "title": "Estonia's Certive raises €25K to tame EU product-compliance paperwork",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmt4SXJzd3NDb1RmQllRdkhQWUhQRDZzUlFQU0NPLUFXdjJvai1yWE9NRFpFM0FnYnZPUXFtanZQeEpXdDZSUG1MVUhGeFZuZllMODc2U29MSWZnaC1SQnFiR0htMmthTHF2dlFLTXRBSUdtcE9xQTQ4cWxmODAyeWloRC1kSFRLTkN3dDFwYU1zN05meGFWaXpTX2drMlExU1ZlRw?oc=5"
+    }
+   ],
+   "date": "2026-11-27T10:12:06.000Z",
+   "categories": [
+    "Funding",
+    "Policy & ecosystem"
    ],
    "score": 8
   },
@@ -300,7 +344,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 7.5
+   "score": 7.2
   },
   {
    "id": "beyond-the-taboo-polari-labs-brings-biotech-innovation-to-anorectal-health",
@@ -337,7 +381,7 @@
    "categories": [
     "Funding"
    ],
-   "score": 7.2
+   "score": 7
   },
   {
    "id": "china-s-suota-wujie-raises-4-51m-to-put-robot-brains-in-european-stores",
@@ -358,7 +402,30 @@
    "categories": [
     "Funding"
    ],
-   "score": 6.8
+   "score": 6.4
+  },
+  {
+   "id": "we-re-not-migration-software-conduct-s-ceo-on-building-an-ai-operating-system-fo",
+   "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+   "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/",
+   "summary": "Conduct CEO JP Haas explains the SAP-backed startup’s business model and why he thinks enterprise IT teams will keep using its AI software after a migration.",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2025/09/17161716/Conduct_AI_Team_Landscape-scaled.jpg",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+     "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/"
+    }
+   ],
+   "date": "2026-11-27T05:00:27.000Z",
+   "categories": [
+    "AI",
+    "People"
+   ],
+   "score": 6
   },
   {
    "id": "papa-john-s-pizza-order-first-uk-cardless-payment-by-ai-agent",
@@ -389,29 +456,6 @@
    "date": "2026-11-27T11:00:00.000Z",
    "categories": [
     "AI"
-   ],
-   "score": 6.1
-  },
-  {
-   "id": "we-re-not-migration-software-conduct-s-ceo-on-building-an-ai-operating-system-fo",
-   "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
-   "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/",
-   "summary": "Conduct CEO JP Haas explains the SAP-backed startup’s business model and why he thinks enterprise IT teams will keep using its AI software after a migration.",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2025/09/17161716/Conduct_AI_Team_Landscape-scaled.jpg",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
-     "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/"
-    }
-   ],
-   "date": "2026-11-27T05:00:27.000Z",
-   "categories": [
-    "AI",
-    "People"
    ],
    "score": 6
   },
@@ -476,7 +520,47 @@
    "categories": [
     "Unicorns & scale-ups"
    ],
-   "score": 5.4
+   "score": 5.1
+  },
+  {
+   "id": "taranis-appoints-chetan-dhawan-to-oversee-ventures-portfolio-across-us-and-europ",
+   "title": "Taranis Appoints Chetan Dhawan To Oversee Ventures Portfolio Across US And Europe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRG5xN2JOd0cwdjduNUVyVG1ob1lHNTQ5bTh1aWk0c0Z2UWFEcUtCbUF4OUpaMXUtVWlPYkhqZWp3a2o0WUdXbHRDT241WlpUazZTbjFGOTBZMXMtMDEyXzlrdWpaV2hlNGJqMGg4LUptcTB0SURlLWhGVmdzUlg4WWdNUXlpSVp6ejl2Q1I4MWtXY181ZzBEUTAtZkVTRU12bm56SU45VXVQNnluTlhTa1dFZzZpamFickY5SnVaQQ?oc=5",
+   "summary": "",
+   "sources": [
+    "BW Disrupt"
+   ],
+   "articles": [
+    {
+     "source": "BW Disrupt",
+     "title": "Taranis Appoints Chetan Dhawan To Oversee Ventures Portfolio Across US And Europe",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRG5xN2JOd0cwdjduNUVyVG1ob1lHNTQ5bTh1aWk0c0Z2UWFEcUtCbUF4OUpaMXUtVWlPYkhqZWp3a2o0WUdXbHRDT241WlpUazZTbjFGOTBZMXMtMDEyXzlrdWpaV2hlNGJqMGg4LUptcTB0SURlLWhGVmdzUlg4WWdNUXlpSVp6ejl2Q1I4MWtXY181ZzBEUTAtZkVTRU12bm56SU45VXVQNnluTlhTa1dFZzZpamFickY5SnVaQQ?oc=5"
+    }
+   ],
+   "date": "2026-11-28T08:26:51.000Z",
+   "categories": [
+    "People"
+   ],
+   "score": 4.6
+  },
+  {
+   "id": "can-europe-s-neolabs-live-up-to-the-hype",
+   "title": "Can Europe’s neolabs live up to the hype?",
+   "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Can Europe’s neolabs live up to the hype?",
+     "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/"
+    }
+   ],
+   "date": "2026-11-27T10:50:20.000Z",
+   "categories": [],
+   "score": 4
   },
   {
    "id": "scaling-up-european-innovation-the-eu-s-capital-market-reform-to-empower-deep-te",
@@ -497,26 +581,7 @@
    "categories": [
     "Policy & ecosystem"
    ],
-   "score": 4.2
-  },
-  {
-   "id": "can-europe-s-neolabs-live-up-to-the-hype",
-   "title": "Can Europe’s neolabs live up to the hype?",
-   "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/",
-   "summary": "",
-   "sources": [
-    "Sifted"
-   ],
-   "articles": [
-    {
-     "source": "Sifted",
-     "title": "Can Europe’s neolabs live up to the hype?",
-     "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/"
-    }
-   ],
-   "date": "2026-11-27T10:50:20.000Z",
-   "categories": [],
-   "score": 4.1
+   "score": 4
   },
   {
    "id": "cutting-the-cord-how-willo-is-taking-wireless-power-into-the-third-dimension",
@@ -546,7 +611,7 @@
    },
    "date": "2026-11-27T14:14:25.000Z",
    "categories": [],
-   "score": 3.4
+   "score": 3.1
   },
   {
    "id": "welcome-to-venture-feudalism",
@@ -565,27 +630,6 @@
    ],
    "date": "2026-11-27T10:58:25.000Z",
    "categories": [],
-   "score": 3.1
-  },
-  {
-   "id": "hungary-joins-europe-startup-nations-alliance-to-boost-growth",
-   "title": "Hungary Joins Europe Startup Nations Alliance to Boost Growth",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZV82aUZaYU1sX1NFbUFXaWtNTXViZ0FGaEhseXIzQjlHVkNyMEk4SWJoaDdsS1p2RnlONk04SUV2M3kzS3R3RVJ0WmI0NWx4NHByZVg3aTFyNFNYRmo0WWhxTTJKTW5odTlEYzQ1WDlWdE5uTEdIMVlpbTIxVHl0Zm9ra1JHbnpsNFRJQUxrb0o1bXlXdklkNDNBRWQ?oc=5",
-   "summary": "",
-   "sources": [
-    "n24.com.tr"
-   ],
-   "articles": [
-    {
-     "source": "n24.com.tr",
-     "title": "Hungary Joins Europe Startup Nations Alliance to Boost Growth",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZV82aUZaYU1sX1NFbUFXaWtNTXViZ0FGaEhseXIzQjlHVkNyMEk4SWJoaDdsS1p2RnlONk04SUV2M3kzS3R3RVJ0WmI0NWx4NHByZVg3aTFyNFNYRmo0WWhxTTJKTW5odTlEYzQ1WDlWdE5uTEdIMVlpbTIxVHl0Zm9ra1JHbnpsNFRJQUxrb0o1bXlXdklkNDNBRWQ?oc=5"
-    }
-   ],
-   "date": "2026-11-27T00:00:14.000Z",
-   "categories": [
-    "People"
-   ],
    "score": 3
   }
  ]

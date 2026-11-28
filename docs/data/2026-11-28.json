@@ -1,11 +1,11 @@
 {
  "date": "2026-11-28",
- "generatedAt": "2026-11-28T09:18:20.509Z",
+ "generatedAt": "2026-11-28T13:33:45.333Z",
  "windowHours": 36,
  "counts": {
-  "articles": 31,
-  "raw": 76,
-  "media": 26
+  "articles": 29,
+  "raw": 83,
+  "media": 27
  },
  "scope": "fr",
  "lang": "fr",
@@ -28,32 +28,32 @@
   {
    "source": "Google News · \"French Tech\"",
    "ok": true,
-   "items": 19
+   "items": 16
   },
   {
    "source": "Google News · Bpifrance startup",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "source": "Google News · licorne française",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "source": "Google News · Mistral AI",
    "ok": true,
-   "items": 25
+   "items": 23
   },
   {
    "source": "Google News · startup française levée de fonds",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "source": "Google News · Station F",
    "ok": true,
-   "items": 12
+   "items": 8
   },
   {
    "source": "Journal du Net",
@@ -63,7 +63,7 @@
   {
    "source": "L'Usine Digitale",
    "ok": true,
-   "items": 3
+   "items": 0
   },
   {
    "source": "Les Echos (start-up)",
@@ -92,6 +92,40 @@
   }
  ],
  "items": [
+  {
+   "id": "decryptage-intelligence-artificielle-non-l-europe-n-a-pas-encore-rate-le-train-d",
+   "title": "DÉCRYPTAGE. Intelligence artificielle : non, l’Europe n’a pas encore raté le train de l’IA",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXJEZnRNNGpRam0tMnFDNkhyaktEdElkMVpLWmpuTEZSdi1mcVZLandQcUpsZkEwUmFDRmVzUFRDamN3dXc3cGxaZGg1bk5EcnJJQ3JnME84WFR6YWwwT2R5MXowNEdrM1BmSUh2LXdMeWVnbUFudHYzcklSdlZYdjB4dHBKM2hIY0ozTTB5YlF4VFRqSlJlSks5dGNvU05IcnFsQzZUS3ZTdHpsWTlQRk12dnJUcGVhR3QwRnF3b0VIcGlSOFV6NFVCNEw?oc=5",
+   "summary": "",
+   "sources": [
+    "ladepeche.fr",
+    "Le Journal des Entreprises",
+    "Bpifrance | Presse"
+   ],
+   "articles": [
+    {
+     "source": "ladepeche.fr",
+     "title": "DÉCRYPTAGE. Intelligence artificielle : non, l’Europe n’a pas encore raté le train de l’IA",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXJEZnRNNGpRam0tMnFDNkhyaktEdElkMVpLWmpuTEZSdi1mcVZLandQcUpsZkEwUmFDRmVzUFRDamN3dXc3cGxaZGg1bk5EcnJJQ3JnME84WFR6YWwwT2R5MXowNEdrM1BmSUh2LXdMeWVnbUFudHYzcklSdlZYdjB4dHBKM2hIY0ozTTB5YlF4VFRqSlJlSks5dGNvU05IcnFsQzZUS3ZTdHpsWTlQRk12dnJUcGVhR3QwRnF3b0VIcGlSOFV6NFVCNEw?oc=5"
+    },
+    {
+     "source": "Le Journal des Entreprises",
+     "title": "​​​​​​​Intelligence artificielle : le Tour France Num fait étape à Arles",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTTdkbVNvWUtLeGUxZG55Zld2eUZUN21lUFBJbG9HdHh2ajNKeEJpTk1ZeUY2cmVIaW8ySGdIbGIweWotdjVjalhCQV84V0s2UmJtUFZxR3NMTE9WLVM1QzBtUG1XZDlSbFB1R0JSYkt0UGVIc2ZaMkVoVG4xSW52MzJoTDNlYmJMeDBZSFFYcVpaLXZpOUJTMjZhTGpqOGk3SUY2eWRFVXN2cmozZ1NtSHFnTDA3eE0t?oc=5"
+    },
+    {
+     "source": "Bpifrance | Presse",
+     "title": "LA TROISIÈME ÉDITION DU « TOUR DE FRANCE DE NOS INDUSTRIES », ORGANISÉE PAR BPIFRANCE ET AVEC OPCO 2i A FAIT ÉTAPE CHEZ LE GROUPE SCHMIDT, DANS LE BAS-RHIN, POUR DONNER VISIBILITÉ ET FIERTÉ AUX ACTEURS QUI",
+     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNc3NBMkIwM055MTVtWFZvTWxGaTM4UVFNRll5TnpabHFjSXJNR0tBbmpNenFoUnotZko5MlRpWkFLOWs1OVF0N0NveC1WN1pqUF9Kak5GZUNNdTVDdWhnUVZhY0M3bmx5UXF3ek1yNHpIMmNIenV0X0JBTWVBVUQyZ0lyTHpNMldoM2FXdDhZWjY4eHMyN1ViM2Y4NUM1a29Xd0lJQXQ1d3BKZHp2U1J1dFJzc1p1RUZuUU1RNmR5cTQ5OUVOZkpUSFUxZEZtNU5oLXJEaXpHX29YeFNnYmYxRk55NkE1T2s3T2N4UHptNWd6RExPNjFvYThhRDRaU2JnNll0cW5PdmE3bWo3TmFVMEE2UnpVZ21oZnpPT3lZb1JmY1lGVWJsR044eFFJR0d6UUg4NmNDWFZDM09PZzhCRG5URmxrTFVzZjg0?oc=5"
+    }
+   ],
+   "date": "2026-11-27T05:31:00.000Z",
+   "categories": [
+    "IA",
+    "Politique & écosystème"
+   ],
+   "score": 13
+  },
   {
    "id": "qu-est-ce-que-le-match-act-qui-menace-l-industrie-europeenne-des-semi-conducteur",
    "title": "Qu’est-ce que le MATCH Act, qui menace l’industrie européenne des semi-conducteurs ?",
@@ -129,31 +163,31 @@
    "score": 9
   },
   {
-   "id": "french-tech-nova-ciblijob-et-modixia-integrent-la-promotion-2026",
-   "title": "French Tech Nova : CibliJob et Modixia intègrent la promotion 2026",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzFnbmptemJET2d0Z1dJVXBNZE1NZDd4dU9pQTJTN0hhU0ZSQXVha00wVXFaNklKa2tvNTVkeVduckpETDVISDN3bTMzcVluTFlySkZuck1idndhUGNvdkFDRUctVDRHalplanpiTU5NeUtQQjhoaE44TUwwc3JvbS13?oc=5",
+   "id": "thales-lumibird-jensen-huang-reinstalle-french-tech-nova-la-semaine-en-capital-r",
+   "title": "Thales-Lumibird, Jensen Huang réinstallé, French Tech Nova : la semaine en capital-risque",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZU9FYkJVa1NIMVNZTXR3NzZOVG5ybm5GNWFjaXd1cFpCaTdRd1JkeVF0dkJRNnBWWEllS0ZoTi1Za1pKZlN3SE5MeDRQWWNMUE5MZFJqOFM4ZWJqX1lIWHR2em01UVZxZmFjNVdvZ1AyRlVEVC1PRldBZzdJYlBQeURlQUlXaW94bHNtcl9halFySkYxVGFYY1ZOQnl6SWpJalhhQXlXaDJYZw?oc=5",
    "summary": "",
    "sources": [
-    "https://infos-media-nantes.fr/",
-    "Finyear"
+    "Finyear",
+    "https://infos-media-nantes.fr/"
    ],
    "articles": [
-    {
-     "source": "https://infos-media-nantes.fr/",
-     "title": "French Tech Nova : CibliJob et Modixia intègrent la promotion 2026",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzFnbmptemJET2d0Z1dJVXBNZE1NZDd4dU9pQTJTN0hhU0ZSQXVha00wVXFaNklKa2tvNTVkeVduckpETDVISDN3bTMzcVluTFlySkZuck1idndhUGNvdkFDRUctVDRHalplanpiTU5NeUtQQjhoaE44TUwwc3JvbS13?oc=5"
-    },
     {
      "source": "Finyear",
      "title": "Thales-Lumibird, Jensen Huang réinstallé, French Tech Nova : la semaine en capital-risque",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZU9FYkJVa1NIMVNZTXR3NzZOVG5ybm5GNWFjaXd1cFpCaTdRd1JkeVF0dkJRNnBWWEllS0ZoTi1Za1pKZlN3SE5MeDRQWWNMUE5MZFJqOFM4ZWJqX1lIWHR2em01UVZxZmFjNVdvZ1AyRlVEVC1PRldBZzdJYlBQeURlQUlXaW94bHNtcl9halFySkYxVGFYY1ZOQnl6SWpJalhhQXlXaDJYZw?oc=5"
+    },
+    {
+     "source": "https://infos-media-nantes.fr/",
+     "title": "French Tech Nova : CibliJob et Modixia intègrent la promotion 2026",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzFnbmptemJET2d0Z1dJVXBNZE1NZDd4dU9pQTJTN0hhU0ZSQXVha00wVXFaNklKa2tvNTVkeVduckpETDVISDN3bTMzcVluTFlySkZuck1idndhUGNvdkFDRUctVDRHalplanpiTU5NeUtQQjhoaE44TUwwc3JvbS13?oc=5"
     }
    ],
    "date": "2026-11-27T19:24:13.000Z",
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 9
+   "score": 8.7
   },
   {
    "id": "les-startups-francaises-ont-leve-27-millions-d-euros-cette-semaine",
@@ -172,33 +206,6 @@
     }
    ],
    "date": "2026-11-27T14:35:36.000Z",
-   "categories": [
-    "Levées de fonds"
-   ],
-   "score": 8.8
-  },
-  {
-   "id": "korben-leve-10-2-m-pour-developper-sa-plateforme-logicielle-dediee-a-la-robotiqu",
-   "title": "KORBEN lève 10,2 M€ pour développer sa plateforme logicielle dédiée à la robotique",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGdYR3BGaXQ2S1FMbWQ1RVM5ZktBd19NUGNpNVhublJ6U0xvaDB6VkdMc1NRT0RtODhnS1JmNkVSUW4xRlo0UlFCd1N2N3BPYk1WRDVwcFZEN0hWR0ZTcGRxUUFjOXFjeTZoMTBYQ1AzdXNJT3UyNTRKaEZENXIyRncxbUFVUTg1SG5lb3gzdlZocHZpNFhaQzVaSGszYW1ReklWeUh1Qm1zSExUQ1Z3a3MyblRvNDhVYlNMT2tuX3JMei1HcHZFZg?oc=5",
-   "summary": "",
-   "sources": [
-    "Le Monde Informatique",
-    "Presse Agence"
-   ],
-   "articles": [
-    {
-     "source": "Le Monde Informatique",
-     "title": "KORBEN lève 10,2 M€ pour développer sa plateforme logicielle dédiée à la robotique",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGdYR3BGaXQ2S1FMbWQ1RVM5ZktBd19NUGNpNVhublJ6U0xvaDB6VkdMc1NRT0RtODhnS1JmNkVSUW4xRlo0UlFCd1N2N3BPYk1WRDVwcFZEN0hWR0ZTcGRxUUFjOXFjeTZoMTBYQ1AzdXNJT3UyNTRKaEZENXIyRncxbUFVUTg1SG5lb3gzdlZocHZpNFhaQzVaSGszYW1ReklWeUh1Qm1zSExUQ1Z3a3MyblRvNDhVYlNMT2tuX3JMei1HcHZFZg?oc=5"
-    },
-    {
-     "source": "Presse Agence",
-     "title": "La startup KORBEN lève 10,2 M€ pour piloter les robots de demain",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWFxaGM0bnkzZU5NZXBYeW9mQmxVeWtaWjJlNjdsalJQQ1hKTWc4YnljV2hrci1zTy1BOWlhNkU3clJDdU9mSTBiczk4bTZNdVhQWVVxcDBybUJPM1NqblR5bzhpZXpDbWFEZlZTZWlEOGF5RVkyRktmakdTb2haLUJxODBxYW0wMVE0WmN3Q25SeWhhU2dNRXpGZVpwTVhhb2NocEo2RDE?oc=5"
-    }
-   ],
-   "date": "2026-11-27T00:00:00.000Z",
    "categories": [
     "Levées de fonds"
    ],
@@ -224,28 +231,7 @@
    "categories": [
     "Licornes & scale-ups"
    ],
-   "score": 8
-  },
-  {
-   "id": "la-croissance-pire-que-prevu-l-economie-francaise-en-recession",
-   "title": "La croissance pire que prévu, l'économie française en récession",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2R0VEtzNk9RWjJPSG1lZTNldjM2VmllMDBScGwwT0lMNnE1RW1McTVOc1VvNWJ5S085c25jSHVnaXpWMWlQM0JhcThsWTdWcExwYi1DTVRxTGdqTGM1Q2lZTUZlTi1ONTA3TURpdVhoQVZtZjJKMXFxcnFBZGNSUGtBMzlyOVJfVE5pei1uOEZyV2R6MTIxREswUndxZElFaU9LZU1sMlA2eHVJb0N6MklR?oc=5",
-   "summary": "",
-   "sources": [
-    "Les Echos"
-   ],
-   "articles": [
-    {
-     "source": "Les Echos",
-     "title": "La croissance pire que prévu, l'économie française en récession",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2R0VEtzNk9RWjJPSG1lZTNldjM2VmllMDBScGwwT0lMNnE1RW1McTVOc1VvNWJ5S085c25jSHVnaXpWMWlQM0JhcThsWTdWcExwYi1DTVRxTGdqTGM1Q2lZTUZlTi1ONTA3TURpdVhoQVZtZjJKMXFxcnFBZGNSUGtBMzlyOVJfVE5pei1uOEZyV2R6MTIxREswUndxZElFaU9LZU1sMlA2eHVJb0N6MklR?oc=5"
-    }
-   ],
-   "date": "2026-11-27T08:12:23.000Z",
-   "categories": [
-    "Rachats & IPO"
-   ],
-   "score": 8
+   "score": 7.6
   },
   {
    "id": "avec-french-tech-nova-l-etat-s-attaque-au-plafond-de-verre-des-startups",
@@ -267,28 +253,7 @@
    "categories": [
     "Politique & écosystème"
    ],
-   "score": 7.6
-  },
-  {
-   "id": "orange-cours-action-ora-cotation-bourse-euronext-paris",
-   "title": "ORANGE Cours Action ORA, Cotation Bourse Euronext Paris",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xbmc4M190bm42S2JJRXBNNW9RdndWY09pU0ZXOU1FMC1wdksyT0hIeVlGU1h0aTZKSGFTOHA0MlhCS2tYSkZSeUpwblJnX2l0Z0E?oc=5",
-   "summary": "",
-   "sources": [
-    "Boursorama"
-   ],
-   "articles": [
-    {
-     "source": "Boursorama",
-     "title": "ORANGE Cours Action ORA, Cotation Bourse Euronext Paris",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xbmc4M190bm42S2JJRXBNNW9RdndWY09pU0ZXOU1FMC1wdksyT0hIeVlGU1h0aTZKSGFTOHA0MlhCS2tYSkZSeUpwblJnX2l0Z0E?oc=5"
-    }
-   ],
-   "date": "2026-11-28T05:03:21.000Z",
-   "categories": [
-    "Rachats & IPO"
-   ],
-   "score": 7.6
+   "score": 7.3
   },
   {
    "id": "mountain-leve-des-fonds-pour-deployer-l-ia-sur-des-microcontroleurs",
@@ -310,7 +275,28 @@
     "Levées de fonds",
     "IA"
    ],
-   "score": 7.4
+   "score": 7
+  },
+  {
+   "id": "innovation-outre-mer-2026-neuf-entreprises-recompensees-lors-de-la-11eme-edition",
+   "title": "Innovation Outre-Mer 2026 : neuf entreprises récompensées lors de la 11ème édition du concours à Station F",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdG5hNl95eTFaem1PQ1BhdS1aS2JzSHRuM1ZKQlRWekpSLW13amIxY3ZfQ1d5WmV5RHFXTjY1aDFWcjFvNm5rdkFneE9jNVl1cU92SWtDRFlWekxlenQ1MmVzX1QwNjNYUFpMTVpZeVFvTVpWTEd1Nmx3Z3BwdjM3UU1oZGRZLXZXQXNEeDFCeDRwaUJqNzlmc0Z6Qm1fOHlpOHlELXRzQ0o2QThVNWxFdlZTOUpNYlV0NWdoODkwSEZ3bHoxWWxXVzA1X08xVVBEcUh1NDUzcV95Ylgzcjl1MXFlbXN2emQy?oc=5",
+   "summary": "",
+   "sources": [
+    "Outremers360"
+   ],
+   "articles": [
+    {
+     "source": "Outremers360",
+     "title": "Innovation Outre-Mer 2026 : neuf entreprises récompensées lors de la 11ème édition du concours à Station F",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdG5hNl95eTFaem1PQ1BhdS1aS2JzSHRuM1ZKQlRWekpSLW13amIxY3ZfQ1d5WmV5RHFXTjY1aDFWcjFvNm5rdkFneE9jNVl1cU92SWtDRFlWekxlenQ1MmVzX1QwNjNYUFpMTVpZeVFvTVpWTEd1Nmx3Z3BwdjM3UU1oZGRZLXZXQXNEeDFCeDRwaUJqNzlmc0Z6Qm1fOHlpOHlELXRzQ0o2QThVNWxFdlZTOUpNYlV0NWdoODkwSEZ3bHoxWWxXVzA1X08xVVBEcUh1NDUzcV95Ylgzcjl1MXFlbXN2emQy?oc=5"
+    }
+   ],
+   "date": "2026-11-28T12:30:04.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 6.9
   },
   {
    "id": "alors-que-la-souverainete-grimpe-a-77-seuls-8-des-actifs-utilisent-mistral-ai-le",
@@ -332,7 +318,7 @@
     "IA",
     "Politique & écosystème"
    ],
-   "score": 6.1
+   "score": 6
   },
   {
    "id": "non-cela-ne-plait-toujours-pas-a-arthur-comment-mistral-avec-l-aide-de-deputes-m",
@@ -378,36 +364,6 @@
    "score": 6
   },
   {
-   "id": "ils-ont-presque-tous-mis-de-cote-leur-ancienne-tele-led-voici-la-tv-samsung-oled",
-   "title": "Ils ont presque tous mis de côté leur ancienne télé LED : voici la TV Samsung OLED que des milliers de Français s'arrachent",
-   "url": "https://www.bfmtv.com/tech/bons-plans/ils-ont-presque-tous-mis-de-cote-leur-ancienne-tele-led-voici-la-tv-samsung-oled-que-des-milliers-de-francais-s-arrachent_AB-202611270655.html",
-   "summary": "Les technologies se succèdent, apportant avec elles leur lot d’améliorations parfois subjugantes. Quand cela arrive avec un prix ultra séduisant, il n’y a guère la place pour l’hésitation et l’offre Samsung pour la smart TV OLED S92H 4K Vision AI de 65 pouces est de ces occasions à ne surtout pas manquer.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/NQOcbnC8KnKVpseg7moaAj-0F60=/0x0:1600x900/800x0/images/Ils-ont-presque-tous-mis-de-cote-leur-ancienne-tele-LED-voici-la-TV-Samsung-OLED-que-des-milliers-de-Francais-s-arrachent-2391954.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "Ils ont presque tous mis de côté leur ancienne télé LED : voici la TV Samsung OLED que des milliers de Français s'arrachent",
-     "url": "https://www.bfmtv.com/tech/bons-plans/ils-ont-presque-tous-mis-de-cote-leur-ancienne-tele-led-voici-la-tv-samsung-oled-que-des-milliers-de-francais-s-arrachent_AB-202611270655.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Les technologies se succèdent, apportant avec elles leur lot d’améliorations parfois subjugantes.",
-    "points": [
-     "Quand cela arrive avec un prix ultra séduisant, il n’y a guère la place pour l’hésitation et l’offre Samsung pour la smart TV OLED S92H 4K Vision AI de 65 pouces est de ces occasions à ne surtout pas manquer."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-27T14:55:00.000Z",
-   "categories": [
-    "IA",
-    "Talents & nominations"
-   ],
-   "score": 5.5
-  },
-  {
    "id": "l-ancien-patron-d-amazon-france-rejoint-agryco-pour-en-faire-un-champion-europee",
    "title": "L’ancien patron d’Amazon France rejoint Agryco pour en faire un champion européen",
    "url": "https://www.maddyness.com/2026/11/27/lancien-patron-damazon-france-rejoint-agryco-pour-en-faire-un-champion-europeen/",
@@ -427,53 +383,14 @@
    "categories": [
     "Talents & nominations"
    ],
-   "score": 5.3
-  },
-  {
-   "id": "la-troisieme-edition-du-tour-de-france-de-nos-industries-organisee-par-bpifrance",
-   "title": "LA TROISIÈME ÉDITION DU « TOUR DE FRANCE DE NOS INDUSTRIES », ORGANISÉE PAR BPIFRANCE ET AVEC OPCO 2i A FAIT ÉTAPE CHEZ LE GROUPE SCHMIDT, DANS LE BAS-RHIN, POUR DONNER VISIBILITÉ ET FIERTÉ AUX ACTEURS QUI",
-   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNc3NBMkIwM055MTVtWFZvTWxGaTM4UVFNRll5TnpabHFjSXJNR0tBbmpNenFoUnotZko5MlRpWkFLOWs1OVF0N0NveC1WN1pqUF9Kak5GZUNNdTVDdWhnUVZhY0M3bmx5UXF3ek1yNHpIMmNIenV0X0JBTWVBVUQyZ0lyTHpNMldoM2FXdDhZWjY4eHMyN1ViM2Y4NUM1a29Xd0lJQXQ1d3BKZHp2U1J1dFJzc1p1RUZuUU1RNmR5cTQ5OUVOZkpUSFUxZEZtNU5oLXJEaXpHX29YeFNnYmYxRk55NkE1T2s3T2N4UHptNWd6RExPNjFvYThhRDRaU2JnNll0cW5PdmE3bWo3TmFVMEE2UnpVZ21oZnpPT3lZb1JmY1lGVWJsR044eFFJR0d6UUg4NmNDWFZDM09PZzhCRG5URmxrTFVzZjg0?oc=5",
-   "summary": "",
-   "sources": [
-    "Bpifrance | Presse"
-   ],
-   "articles": [
-    {
-     "source": "Bpifrance | Presse",
-     "title": "LA TROISIÈME ÉDITION DU « TOUR DE FRANCE DE NOS INDUSTRIES », ORGANISÉE PAR BPIFRANCE ET AVEC OPCO 2i A FAIT ÉTAPE CHEZ LE GROUPE SCHMIDT, DANS LE BAS-RHIN, POUR DONNER VISIBILITÉ ET FIERTÉ AUX ACTEURS QUI",
-     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNc3NBMkIwM055MTVtWFZvTWxGaTM4UVFNRll5TnpabHFjSXJNR0tBbmpNenFoUnotZko5MlRpWkFLOWs1OVF0N0NveC1WN1pqUF9Kak5GZUNNdTVDdWhnUVZhY0M3bmx5UXF3ek1yNHpIMmNIenV0X0JBTWVBVUQyZ0lyTHpNMldoM2FXdDhZWjY4eHMyN1ViM2Y4NUM1a29Xd0lJQXQ1d3BKZHp2U1J1dFJzc1p1RUZuUU1RNmR5cTQ5OUVOZkpUSFUxZEZtNU5oLXJEaXpHX29YeFNnYmYxRk55NkE1T2s3T2N4UHptNWd6RExPNjFvYThhRDRaU2JnNll0cW5PdmE3bWo3TmFVMEE2UnpVZ21oZnpPT3lZb1JmY1lGVWJsR044eFFJR0d6UUg4NmNDWFZDM09PZzhCRG5URmxrTFVzZjg0?oc=5"
-    }
-   ],
-   "date": "2026-11-27T11:12:14.000Z",
-   "categories": [
-    "Politique & écosystème"
-   ],
-   "score": 5.2
-  },
-  {
-   "id": "apres-10-ans-de-macronisme-la-tech-francaise-veut-sortir-du-cliche-de-la-startup",
-   "title": "Après 10 ans de macronisme, la tech française veut sortir du cliché de la «Startup Nation»",
-   "url": "https://www.maddyness.com/2026/11/27/apres-10-ans-de-macronisme-la-tech-francaise-veut-sortir-du-cliche-de-la-startup-nation/",
-   "summary": "",
-   "sources": [
-    "Maddyness"
-   ],
-   "articles": [
-    {
-     "source": "Maddyness",
-     "title": "Après 10 ans de macronisme, la tech française veut sortir du cliché de la «Startup Nation»",
-     "url": "https://www.maddyness.com/2026/11/27/apres-10-ans-de-macronisme-la-tech-francaise-veut-sortir-du-cliche-de-la-startup-nation/"
-    }
-   ],
-   "date": "2026-11-27T10:56:11.000Z",
-   "categories": [],
    "score": 5
   },
   {
    "id": "agents-ia-dans-les-tpe-ou-placer-la-validation-humaine",
    "title": "Agents IA dans les TPE : où placer la validation humaine ?",
    "url": "https://www.maddyness.com/2026/11/27/agents-ia-tpe-validation-humaine/",
-   "summary": "",
+   "summary": "Comment encadrer les agents IA en TPE ? Où placer la validation humaine pour maîtriser les actions automatisées et leurs risques.",
+   "image": "https://www.maddyness.com/app/uploads/2026/11/Illus-V5-90.png",
    "sources": [
     "Maddyness"
    ],
@@ -554,6 +471,96 @@
    "score": 5
   },
   {
+   "id": "korben-leve-10-2-m-pour-developper-sa-plateforme-logicielle-dediee-a-la-robotiqu",
+   "title": "KORBEN lève 10,2 M€ pour développer sa plateforme logicielle dédiée à la robotique",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGdYR3BGaXQ2S1FMbWQ1RVM5ZktBd19NUGNpNVhublJ6U0xvaDB6VkdMc1NRT0RtODhnS1JmNkVSUW4xRlo0UlFCd1N2N3BPYk1WRDVwcFZEN0hWR0ZTcGRxUUFjOXFjeTZoMTBYQ1AzdXNJT3UyNTRKaEZENXIyRncxbUFVUTg1SG5lb3gzdlZocHZpNFhaQzVaSGszYW1ReklWeUh1Qm1zSExUQ1Z3a3MyblRvNDhVYlNMT2tuX3JMei1HcHZFZg?oc=5",
+   "summary": "",
+   "sources": [
+    "Le Monde Informatique"
+   ],
+   "articles": [
+    {
+     "source": "Le Monde Informatique",
+     "title": "KORBEN lève 10,2 M€ pour développer sa plateforme logicielle dédiée à la robotique",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGdYR3BGaXQ2S1FMbWQ1RVM5ZktBd19NUGNpNVhublJ6U0xvaDB6VkdMc1NRT0RtODhnS1JmNkVSUW4xRlo0UlFCd1N2N3BPYk1WRDVwcFZEN0hWR0ZTcGRxUUFjOXFjeTZoMTBYQ1AzdXNJT3UyNTRKaEZENXIyRncxbUFVUTg1SG5lb3gzdlZocHZpNFhaQzVaSGszYW1ReklWeUh1Qm1zSExUQ1Z3a3MyblRvNDhVYlNMT2tuX3JMei1HcHZFZg?oc=5"
+    }
+   ],
+   "date": "2026-11-27T13:47:14.000Z",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "score": 5
+  },
+  {
+   "id": "j-ai-dit-adieu-aux-ecrans-de-telephone-fissures-et-aux-coques-hors-de-prix-depui",
+   "title": "J'ai dit adieu aux écrans de téléphone fissurés et aux coques hors de prix depuis que je connais le Crosscall Stellar X5s",
+   "url": "https://www.bfmtv.com/tech/bons-plans/j-ai-dit-adieu-aux-ecrans-de-telephone-fissures-et-aux-coques-hors-de-prix-depuis-que-je-connais-le-crosscall-stellar-x5s_AB-202611280106.html",
+   "summary": "Un téléphone qui glisse de la poche, un bruit sec sur le trottoir, et cette fissure qui court sur l'écran. Avec le Crosscall Stellar-X5s, ces mauvaises surprises deviennent rares, et le smartphone français profite en ce moment d'une belle remise.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/nMeGh3zmKUJwj4Iojl0bwgKqPY0=/0x0:1600x900/800x0/images/Black-Friday-Crosscall-le-prix-du-smartphone-STELLAR-X5s-n-a-jamais-ete-aussi-bas-2383776.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "J'ai dit adieu aux écrans de téléphone fissurés et aux coques hors de prix depuis que je connais le Crosscall Stellar X5s",
+     "url": "https://www.bfmtv.com/tech/bons-plans/j-ai-dit-adieu-aux-ecrans-de-telephone-fissures-et-aux-coques-hors-de-prix-depuis-que-je-connais-le-crosscall-stellar-x5s_AB-202611280106.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Un téléphone qui glisse de la poche, un bruit sec sur le trottoir, et cette fissure qui court sur l'écran.",
+    "points": [
+     "Avec le Crosscall Stellar-X5s, ces mauvaises surprises deviennent rares, et le smartphone français profite en ce moment d'une belle remise."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-28T12:10:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.9
+  },
+  {
+   "id": "301-votes-legislatifs-soumis-a-huit-ia-un-resultat-groupe-autour-du-centre-gauch",
+   "title": "301 votes législatifs soumis à huit IA : un résultat groupé autour du centre-gauche",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yd055SzZScVBaMmZwV1J1T08wUTZWQzY0Znp0SkhxaHFjcUtSSXBlSFcxT25HeFV4VHh5Tm9YZ3czWlMwVk5wcWFiQXB6MzFQcU9sTFZBZFhFNzZ4SHFzbnRWckg3TzdDSnp5ZnJHamhZVmpkMFJ6SWJCeDBfZw?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Smartgrids"
+   ],
+   "articles": [
+    {
+     "source": "Les Smartgrids",
+     "title": "301 votes législatifs soumis à huit IA : un résultat groupé autour du centre-gauche",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yd055SzZScVBaMmZwV1J1T08wUTZWQzY0Znp0SkhxaHFjcUtSSXBlSFcxT25HeFV4VHh5Tm9YZ3czWlMwVk5wcWFiQXB6MzFQcU9sTFZBZFhFNzZ4SHFzbnRWckg3TzdDSnp5ZnJHamhZVmpkMFJ6SWJCeDBfZw?oc=5"
+    }
+   ],
+   "date": "2026-11-28T09:33:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.7
+  },
+  {
+   "id": "apres-10-ans-de-macronisme-la-tech-francaise-veut-sortir-du-cliche-de-la-startup",
+   "title": "Après 10 ans de macronisme, la tech française veut sortir du cliché de la «Startup Nation»",
+   "url": "https://www.maddyness.com/2026/11/27/apres-10-ans-de-macronisme-la-tech-francaise-veut-sortir-du-cliche-de-la-startup-nation/",
+   "summary": "",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Après 10 ans de macronisme, la tech française veut sortir du cliché de la «Startup Nation»",
+     "url": "https://www.maddyness.com/2026/11/27/apres-10-ans-de-macronisme-la-tech-francaise-veut-sortir-du-cliche-de-la-startup-nation/"
+    }
+   ],
+   "date": "2026-11-27T10:56:11.000Z",
+   "categories": [],
+   "score": 4.6
+  },
+  {
    "id": "elisa-rojas-licorne-noire-nantes-28-novembre-2026",
    "title": "ELISA ROJAS LICORNE NOIRE Nantes – 28 novembre 2026",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QYWxkY0VnZkg5NzF1V1JIY2JXY1BYNlYxYzVCZm5ITXoyQnFDU0dsUUdGa3Noc2F2aTdrZVl2STctenNWb192SUM2Nk1EMVJEaVNLMVo3NFZwVHZBNXotbTdMNVJaX2hjcTlXc1I3V3k4WjNGaUJjNDg3TQ?oc=5",
@@ -572,7 +579,7 @@
    "categories": [
     "Licornes & scale-ups"
    ],
-   "score": 4.7
+   "score": 4.4
   },
   {
    "id": "la-start-up-timper-mise-sur-l-ia-pour-debloquer-la-promotion-immobiliere",
@@ -593,7 +600,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.6
+   "score": 4.2
   },
   {
    "id": "la-region-ile-de-france-epinglee-pour-ses-delais-de-paiement-dans-le-cadre-de-se",
@@ -612,7 +619,7 @@
    ],
    "date": "2026-11-27T12:00:09.000Z",
    "categories": [],
-   "score": 4.6
+   "score": 4.2
   },
   {
    "id": "maddyness-distingue-les-100-personnalites-qui-faconnent-l-ia-francaise",
@@ -633,78 +640,7 @@
    "categories": [
     "IA"
    ],
-   "score": 4.2
-  },
-  {
-   "id": "d-auteur-de-genie-mort-il-y-a-presque-150-ans-a-chroniqueur-pro-kremlin-l-etrang",
-   "title": "D'auteur de génie, mort il y a presque 150 ans, à chroniqueur pro-Kremlin: l'étrange retour à la vie de Fiodor Dostoïevski, ressuscité par l'IA pour le compte de la chaîne pro-russe RT",
-   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/d-auteur-de-genie-mort-il-y-a-presque-150-ans-a-chroniqueur-pro-kremlin-l-etrange-retour-a-la-vie-de-fiodor-dostoievski-ressuscite-par-l-ia-pour-le-compte-de-la-chaine-pro-russe-rt_AV-202611270674.html",
-   "summary": "Le romancier russe Fiodor Dostoïevski est devenu depuis le 22 octobre 2026 un \"expert politique permanent\". Chroniqueur virtuel sur l'antenne de chaîne pro-Kremlin, interdite en France, il sert aujourd'hui à Vladimir Poutine pour distiller sa propagande.",
-   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tpTxzFujnwnHUPvQNJmnBOuUm14=/0x106:2048x1258/800x0/images/Une-peinture-de-Dostoievski-2391935.jpg",
-   "sources": [
-    "BFM Tech"
-   ],
-   "articles": [
-    {
-     "source": "BFM Tech",
-     "title": "D'auteur de génie, mort il y a presque 150 ans, à chroniqueur pro-Kremlin: l'étrange retour à la vie de Fiodor Dostoïevski, ressuscité par l'IA pour le compte de la chaîne pro-russe RT",
-     "url": "https://www.bfmtv.com/tech/intelligence-artificielle/d-auteur-de-genie-mort-il-y-a-presque-150-ans-a-chroniqueur-pro-kremlin-l-etrange-retour-a-la-vie-de-fiodor-dostoievski-ressuscite-par-l-ia-pour-le-compte-de-la-chaine-pro-russe-rt_AV-202611270674.html"
-    }
-   ],
-   "brief": {
-    "essentiel": "Le romancier russe Fiodor Dostoïevski est devenu depuis le 22 octobre 2026 un \"expert politique permanent\".",
-    "points": [
-     "Chroniqueur virtuel sur l'antenne de chaîne pro-Kremlin, interdite en France, il sert aujourd'hui à Vladimir Poutine pour distiller sa propagande."
-    ],
-    "facts": []
-   },
-   "date": "2026-11-27T15:11:54.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3.5
-  },
-  {
-   "id": "suppressions-de-postes-chez-sap-liees-a-l-ia-10-000-emplois-envisages",
-   "title": "Suppressions de postes chez SAP liées à l’IA : 10 000 emplois envisagés",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVIyTlVKT1lUNDQ5TGg4SWVNa0FwWDNnX0l1SXRTMUEwcDY4aUplRmtyQUFpZXJ4T0JOZERLY2hITTFwVFBVTVAtaTNCYzdrM3I5LXI5VGtDSG8xOHZfdjBNTmhTVXAyMTFxaXc0bFpkT3pJMFYwWVNtT0ZHNWp2UGVJYmJnMkVKVTcyME5QYktZX1J0QTNuQ3VmZw?oc=5",
-   "summary": "",
-   "sources": [
-    "EmarketerZ"
-   ],
-   "articles": [
-    {
-     "source": "EmarketerZ",
-     "title": "Suppressions de postes chez SAP liées à l’IA : 10 000 emplois envisagés",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVIyTlVKT1lUNDQ5TGg4SWVNa0FwWDNnX0l1SXRTMUEwcDY4aUplRmtyQUFpZXJ4T0JOZERLY2hITTFwVFBVTVAtaTNCYzdrM3I5LXI5VGtDSG8xOHZfdjBNTmhTVXAyMTFxaXc0bFpkT3pJMFYwWVNtT0ZHNWp2UGVJYmJnMkVKVTcyME5QYktZX1J0QTNuQ3VmZw?oc=5"
-    }
-   ],
-   "date": "2026-11-27T13:16:42.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3.3
-  },
-  {
-   "id": "my-channel-de-google-un-brevet-de-videos-ia-rejete",
-   "title": "My Channel de Google : un brevet de vidéos IA rejeté",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0JyZ0p4elVFSmxpdHk3RmxyTjl2Mnl6TWJXcENvODkzbUg1Z1o2UmE4cFdBVUhUX055SDFFMEJ2TVIyM0dROW9pOFJkUDFSQUlaRVliVVdaRUx3RnBudXlVd1hGdjdsREIxc3FMcHktODM3cHFHSk9tVzR3QXRqcFlRYmROay16X29KUVlR?oc=5",
-   "summary": "",
-   "sources": [
-    "BlogNT"
-   ],
-   "articles": [
-    {
-     "source": "BlogNT",
-     "title": "My Channel de Google : un brevet de vidéos IA rejeté",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0JyZ0p4elVFSmxpdHk3RmxyTjl2Mnl6TWJXcENvODkzbUg1Z1o2UmE4cFdBVUhUX055SDFFMEJ2TVIyM0dROW9pOFJkUDFSQUlaRVliVVdaRUx3RnBudXlVd1hGdjdsREIxc3FMcHktODM3cHFHSk9tVzR3QXRqcFlRYmROay16X29KUVlR?oc=5"
-    }
-   ],
-   "date": "2026-11-27T11:30:00.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3.2
+   "score": 4
   },
   {
    "id": "chatgpt-claude-gemini-vibe-quel-assistant-ia-choisir-pour-son-activite-pro",
@@ -722,27 +658,6 @@
     }
    ],
    "date": "2026-11-27T11:01:10.000Z",
-   "categories": [
-    "IA"
-   ],
-   "score": 3.1
-  },
-  {
-   "id": "decryptage-intelligence-artificielle-non-l-europe-n-a-pas-encore-rate-le-train-d",
-   "title": "DÉCRYPTAGE. Intelligence artificielle : non, l’Europe n’a pas encore raté le train de l’IA",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXJEZnRNNGpRam0tMnFDNkhyaktEdElkMVpLWmpuTEZSdi1mcVZLandQcUpsZkEwUmFDRmVzUFRDamN3dXc3cGxaZGg1bk5EcnJJQ3JnME84WFR6YWwwT2R5MXowNEdrM1BmSUh2LXdMeWVnbUFudHYzcklSdlZYdjB4dHBKM2hIY0ozTTB5YlF4VFRqSlJlSks5dGNvU05IcnFsQzZUS3ZTdHpsWTlQRk12dnJUcGVhR3QwRnF3b0VIcGlSOFV6NFVCNEw?oc=5",
-   "summary": "",
-   "sources": [
-    "ladepeche.fr"
-   ],
-   "articles": [
-    {
-     "source": "ladepeche.fr",
-     "title": "DÉCRYPTAGE. Intelligence artificielle : non, l’Europe n’a pas encore raté le train de l’IA",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXJEZnRNNGpRam0tMnFDNkhyaktEdElkMVpLWmpuTEZSdi1mcVZLandQcUpsZkEwUmFDRmVzUFRDamN3dXc3cGxaZGg1bk5EcnJJQ3JnME84WFR6YWwwT2R5MXowNEdrM1BmSUh2LXdMeWVnbUFudHYzcklSdlZYdjB4dHBKM2hIY0ozTTB5YlF4VFRqSlJlSks5dGNvU05IcnFsQzZUS3ZTdHpsWTlQRk12dnJUcGVhR3QwRnF3b0VIcGlSOFV6NFVCNEw?oc=5"
-    }
-   ],
-   "date": "2026-11-27T05:31:00.000Z",
    "categories": [
     "IA"
    ],
@@ -764,6 +679,48 @@
     }
    ],
    "date": "2026-11-27T05:20:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "my-channel-de-google-un-brevet-de-videos-ia-rejete",
+   "title": "My Channel de Google : un brevet de vidéos IA rejeté",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0JyZ0p4elVFSmxpdHk3RmxyTjl2Mnl6TWJXcENvODkzbUg1Z1o2UmE4cFdBVUhUX055SDFFMEJ2TVIyM0dROW9pOFJkUDFSQUlaRVliVVdaRUx3RnBudXlVd1hGdjdsREIxc3FMcHktODM3cHFHSk9tVzR3QXRqcFlRYmROay16X29KUVlR?oc=5",
+   "summary": "",
+   "sources": [
+    "BlogNT"
+   ],
+   "articles": [
+    {
+     "source": "BlogNT",
+     "title": "My Channel de Google : un brevet de vidéos IA rejeté",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0JyZ0p4elVFSmxpdHk3RmxyTjl2Mnl6TWJXcENvODkzbUg1Z1o2UmE4cFdBVUhUX055SDFFMEJ2TVIyM0dROW9pOFJkUDFSQUlaRVliVVdaRUx3RnBudXlVd1hGdjdsREIxc3FMcHktODM3cHFHSk9tVzR3QXRqcFlRYmROay16X29KUVlR?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:30:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "suppressions-de-postes-chez-sap-liees-a-l-ia-10-000-emplois-envisages",
+   "title": "Suppressions de postes chez SAP liées à l’IA : 10 000 emplois envisagés",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVIyTlVKT1lUNDQ5TGg4SWVNa0FwWDNnX0l1SXRTMUEwcDY4aUplRmtyQUFpZXJ4T0JOZERLY2hITTFwVFBVTVAtaTNCYzdrM3I5LXI5VGtDSG8xOHZfdjBNTmhTVXAyMTFxaXc0bFpkT3pJMFYwWVNtT0ZHNWp2UGVJYmJnMkVKVTcyME5QYktZX1J0QTNuQ3VmZw?oc=5",
+   "summary": "",
+   "sources": [
+    "EmarketerZ"
+   ],
+   "articles": [
+    {
+     "source": "EmarketerZ",
+     "title": "Suppressions de postes chez SAP liées à l’IA : 10 000 emplois envisagés",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVIyTlVKT1lUNDQ5TGg4SWVNa0FwWDNnX0l1SXRTMUEwcDY4aUplRmtyQUFpZXJ4T0JOZERLY2hITTFwVFBVTVAtaTNCYzdrM3I5LXI5VGtDSG8xOHZfdjBNTmhTVXAyMTFxaXc0bFpkT3pJMFYwWVNtT0ZHNWp2UGVJYmJnMkVKVTcyME5QYktZX1J0QTNuQ3VmZw?oc=5"
+    }
+   ],
+   "date": "2026-11-27T13:16:42.000Z",
    "categories": [
     "IA"
    ],
