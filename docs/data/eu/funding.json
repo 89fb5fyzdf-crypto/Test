@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-27T21:25:38.808Z",
+ "updatedAt": "2026-11-28T09:18:28.995Z",
  "lang": "en",
- "days": 10,
+ "days": 11,
  "rates": {
   "EUR": 1,
   "USD": 0.92,
@@ -41,16 +41,16 @@
   {
    "company": "Inqase",
    "title": "Belgian cyber insurance startup Inqase raises €1M",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDlkbzA0Nlk1TXR4Tm1SLUxxZWhkNzd5NzRJUjBCVkVETFByQ0k2Yzl0RkIyNVpsd1hjS2hmV21sbG5QdHNMMHFfRE1zZWxxSzF5U2JqMFNlUzhCS05RNnlCYWdSQjFVWUFpZS00aTlXLVlwOFlLNTMtamQ2REVaOHo0NUU4UQ?oc=5",
-   "date": "2026-11-27T15:20:32.000Z",
-   "day": "2026-11-27",
+   "url": "https://tech.eu/2026/11/27/belgian-cyber-insurance-startup-inqase-raises-eur1m/",
+   "date": "2026-11-27T15:20:00.000Z",
+   "day": "2026-11-28",
    "amount": "€1M",
    "currency": "EUR",
    "amountM": 1,
    "amountEur": 1,
    "round": null,
    "valuation": null,
-   "investors": null,
+   "investors": "Brussels-based VC ScaleFund, alongside invest",
    "kind": "company",
    "status": "announced",
    "categories": [
@@ -60,9 +60,15 @@
     {
      "source": "Tech.eu",
      "title": "Belgian cyber insurance startup Inqase raises €1M",
+     "url": "https://tech.eu/2026/11/27/belgian-cyber-insurance-startup-inqase-raises-eur1m/"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "Belgian cyber insurance startup Inqase raises €1M",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDlkbzA0Nlk1TXR4Tm1SLUxxZWhkNzd5NzRJUjBCVkVETFByQ0k2Yzl0RkIyNVpsd1hjS2hmV21sbG5QdHNMMHFfRE1zZWxxSzF5U2JqMFNlUzhCS05RNnlCYWdSQjFVWUFpZS00aTlXLVlwOFlLNTMtamQ2REVaOHo0NUU4UQ?oc=5"
     }
-   ]
+   ],
+   "image": "https://cdn.tech.eu/uploads/2026/11/inqase-33.png"
   },
   {
    "company": "nextesy",
@@ -96,8 +102,8 @@
    "company": null,
    "title": "UK startup raises $2.8m for AI tech to detect algae blooms, taps former Norway salmon CEO",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5",
-   "date": "2026-11-27T11:57:21.000Z",
-   "day": "2026-11-27",
+   "date": "2026-11-27T11:00:00.000Z",
+   "day": "2026-11-28",
    "amount": "$2.8m",
    "currency": "USD",
    "amountM": 2.8,
@@ -164,7 +170,7 @@
    "amountEur": 1.1,
    "round": null,
    "valuation": null,
-   "investors": null,
+   "investors": "Angels Way, Phira Ventures and strategic business angels",
    "kind": "company",
    "status": "announced",
    "categories": [
@@ -186,8 +192,14 @@
      "source": "EU-Startups",
      "title": "Lisbon's Lampsy Health raises €1.1 million for its AI bedside lamp that detects epileptic seizures during sleep",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXZxSVBBTGF3WEZBTzBWaERPcDlIb3ZIbFNIYXpfZGh5R0tmc19uSWJNenVSeFVVelJsRHFVSVpCZUtMaDQ1bXhLbnJUN3JGM2pQTWxILTd4ejcyNGY4NTZkenJzV3RoWDIteGJrTkI1Z21RMzBWcXhfWHU5Nnk1ZnpLblJNMGp4aWRTS3plRTZrWWkxOTJYYTdwVEoxMnUtWGlUOWJMS2d0WGQzMnc3OVo2QXdtMjk4NVVKWW5YOWFlcXNzRXY4SEl0TjZ0aHV3ejRxeDJWUktUakpCamRVaGRKRXJHTVpNVXAw?oc=5"
+    },
+    {
+     "source": "Tech.eu",
+     "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
+     "url": "https://tech.eu/2026/11/27/lampsy-health-raises-eur11m-to-shine-a-light-on-undetected-night-time-seizures/"
     }
-   ]
+   ],
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-53-439.png"
   },
   {
    "company": "Audun",

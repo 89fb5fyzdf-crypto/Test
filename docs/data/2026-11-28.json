@@ -1,0 +1,800 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T09:18:20.509Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 31,
+  "raw": 76,
+  "media": 26
+ },
+ "scope": "fr",
+ "lang": "fr",
+ "sources": [
+  {
+   "source": "BFM Tech",
+   "ok": true,
+   "items": 30
+  },
+  {
+   "source": "EU-Startups (France)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "source": "FrenchWeb",
+   "ok": true,
+   "items": 30
+  },
+  {
+   "source": "Google News · \"French Tech\"",
+   "ok": true,
+   "items": 19
+  },
+  {
+   "source": "Google News · Bpifrance startup",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "source": "Google News · licorne française",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "source": "Google News · Mistral AI",
+   "ok": true,
+   "items": 25
+  },
+  {
+   "source": "Google News · startup française levée de fonds",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "source": "Google News · Station F",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "source": "Journal du Net",
+   "ok": true,
+   "items": 60
+  },
+  {
+   "source": "L'Usine Digitale",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "source": "Les Echos (start-up)",
+   "ok": true,
+   "items": 100
+  },
+  {
+   "source": "Maddyness",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "Siècle Digital",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "TechCrunch (France)",
+   "ok": true,
+   "items": 20
+  }
+ ],
+ "items": [
+  {
+   "id": "qu-est-ce-que-le-match-act-qui-menace-l-industrie-europeenne-des-semi-conducteur",
+   "title": "Qu’est-ce que le MATCH Act, qui menace l’industrie européenne des semi-conducteurs ?",
+   "url": "https://www.frenchweb.fr/qu-est-ce-que-le-match-act-qui-menace-l-industrie-europeenne-des-semi-conducteurs/900000074?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "summary": "Les Pays-Bas cherchent à faire écarter le MATCH Act, un projet de loi américain qui pourrait restreindre les ventes de machines ASML à la Chine et l’entretien du parc déjà installé. Washington veut freiner la production chinoise de puces avancées en obtenant de ses alliés des contrôles équivalents aux siens. Pour l’Europe, les conséquences pourraient remonter jusqu’aux fournisseurs d’ASML et touch",
+   "image": "https://www.frenchweb.fr/wp-content/uploads/editorial/3dd3d93534da4b2e029f28c45c363cf237f1f6283e74be3caacc214cfa250794.png",
+   "sources": [
+    "FrenchWeb",
+    "frenchweb.fr"
+   ],
+   "articles": [
+    {
+     "source": "FrenchWeb",
+     "title": "Qu’est-ce que le MATCH Act, qui menace l’industrie européenne des semi-conducteurs ?",
+     "url": "https://www.frenchweb.fr/qu-est-ce-que-le-match-act-qui-menace-l-industrie-europeenne-des-semi-conducteurs/900000074?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article"
+    },
+    {
+     "source": "frenchweb.fr",
+     "title": "Qu’est-ce que le MATCH Act, qui menace l’industrie européenne des semi-conducteurs ?",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORjlVSGV4dmFmUWZIX2RfTkpGYnBscUtmTUttQUo4aFBTVGhKTkFwVzVDb2RndUU4dldsWkZhMXJ1RTJvMkJOWjBHNmV0dVZHazZOOExEYzNBLTJ5RkFkSmppQ2lQR3VWZzVweWtHOFhYaGpWaHlxem5lNGtBQm1mdWY5bWxrRk9UMXdYR181V3JxTkhORVVkLW55Sk9rMjlFaFh0OHIxQnNlak1NR2c0WGFGRld3YTQ?oc=5"
+    }
+   ],
+   "brief": {
+    "essentiel": "Les Pays-Bas cherchent à faire écarter le MATCH Act, un projet de loi américain qui pourrait restreindre les ventes de machines ASML à la Chine et l’entretien du parc déjà installé.",
+    "points": [
+     "Washington veut freiner la production chinoise de puces avancées en obtenant de ses alliés des contrôles équivalents aux siens.",
+     "Pour l’Europe, les conséquences pourraient remonter jusqu’aux fournisseurs d’ASML et touch"
+    ],
+    "facts": []
+   },
+   "date": "2026-11-27T06:09:50.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 9
+  },
+  {
+   "id": "french-tech-nova-ciblijob-et-modixia-integrent-la-promotion-2026",
+   "title": "French Tech Nova : CibliJob et Modixia intègrent la promotion 2026",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzFnbmptemJET2d0Z1dJVXBNZE1NZDd4dU9pQTJTN0hhU0ZSQXVha00wVXFaNklKa2tvNTVkeVduckpETDVISDN3bTMzcVluTFlySkZuck1idndhUGNvdkFDRUctVDRHalplanpiTU5NeUtQQjhoaE44TUwwc3JvbS13?oc=5",
+   "summary": "",
+   "sources": [
+    "https://infos-media-nantes.fr/",
+    "Finyear"
+   ],
+   "articles": [
+    {
+     "source": "https://infos-media-nantes.fr/",
+     "title": "French Tech Nova : CibliJob et Modixia intègrent la promotion 2026",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzFnbmptemJET2d0Z1dJVXBNZE1NZDd4dU9pQTJTN0hhU0ZSQXVha00wVXFaNklKa2tvNTVkeVduckpETDVISDN3bTMzcVluTFlySkZuck1idndhUGNvdkFDRUctVDRHalplanpiTU5NeUtQQjhoaE44TUwwc3JvbS13?oc=5"
+    },
+    {
+     "source": "Finyear",
+     "title": "Thales-Lumibird, Jensen Huang réinstallé, French Tech Nova : la semaine en capital-risque",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZU9FYkJVa1NIMVNZTXR3NzZOVG5ybm5GNWFjaXd1cFpCaTdRd1JkeVF0dkJRNnBWWEllS0ZoTi1Za1pKZlN3SE5MeDRQWWNMUE5MZFJqOFM4ZWJqX1lIWHR2em01UVZxZmFjNVdvZ1AyRlVEVC1PRldBZzdJYlBQeURlQUlXaW94bHNtcl9halFySkYxVGFYY1ZOQnl6SWpJalhhQXlXaDJYZw?oc=5"
+    }
+   ],
+   "date": "2026-11-27T19:24:13.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 9
+  },
+  {
+   "id": "les-startups-francaises-ont-leve-27-millions-d-euros-cette-semaine",
+   "title": "Les startups françaises ont levé 27 millions d'euros cette semaine",
+   "url": "https://www.maddyness.com/2026/11/27/les-startups-francaises-ont-leve-2665-millions-deuros-cette-semaine/",
+   "summary": "Cette semaine dans le MaddyMoney, sept startups françaises ont levé 26,65 millions d’euros, avec un ticket moyen de 3,81 millions d’euros.",
+   "image": "https://www.maddyness.com/app/uploads/2025/02/Maddymoney.png",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Les startups françaises ont levé 27 millions d'euros cette semaine",
+     "url": "https://www.maddyness.com/2026/11/27/les-startups-francaises-ont-leve-2665-millions-deuros-cette-semaine/"
+    }
+   ],
+   "date": "2026-11-27T14:35:36.000Z",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "score": 8.8
+  },
+  {
+   "id": "korben-leve-10-2-m-pour-developper-sa-plateforme-logicielle-dediee-a-la-robotiqu",
+   "title": "KORBEN lève 10,2 M€ pour développer sa plateforme logicielle dédiée à la robotique",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGdYR3BGaXQ2S1FMbWQ1RVM5ZktBd19NUGNpNVhublJ6U0xvaDB6VkdMc1NRT0RtODhnS1JmNkVSUW4xRlo0UlFCd1N2N3BPYk1WRDVwcFZEN0hWR0ZTcGRxUUFjOXFjeTZoMTBYQ1AzdXNJT3UyNTRKaEZENXIyRncxbUFVUTg1SG5lb3gzdlZocHZpNFhaQzVaSGszYW1ReklWeUh1Qm1zSExUQ1Z3a3MyblRvNDhVYlNMT2tuX3JMei1HcHZFZg?oc=5",
+   "summary": "",
+   "sources": [
+    "Le Monde Informatique",
+    "Presse Agence"
+   ],
+   "articles": [
+    {
+     "source": "Le Monde Informatique",
+     "title": "KORBEN lève 10,2 M€ pour développer sa plateforme logicielle dédiée à la robotique",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGdYR3BGaXQ2S1FMbWQ1RVM5ZktBd19NUGNpNVhublJ6U0xvaDB6VkdMc1NRT0RtODhnS1JmNkVSUW4xRlo0UlFCd1N2N3BPYk1WRDVwcFZEN0hWR0ZTcGRxUUFjOXFjeTZoMTBYQ1AzdXNJT3UyNTRKaEZENXIyRncxbUFVUTg1SG5lb3gzdlZocHZpNFhaQzVaSGszYW1ReklWeUh1Qm1zSExUQ1Z3a3MyblRvNDhVYlNMT2tuX3JMei1HcHZFZg?oc=5"
+    },
+    {
+     "source": "Presse Agence",
+     "title": "La startup KORBEN lève 10,2 M€ pour piloter les robots de demain",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWFxaGM0bnkzZU5NZXBYeW9mQmxVeWtaWjJlNjdsalJQQ1hKTWc4YnljV2hrci1zTy1BOWlhNkU3clJDdU9mSTBiczk4bTZNdVhQWVVxcDBybUJPM1NqblR5bzhpZXpDbWFEZlZTZWlEOGF5RVkyRktmakdTb2haLUJxODBxYW0wMVE0WmN3Q25SeWhhU2dNRXpGZVpwTVhhb2NocEo2RDE?oc=5"
+    }
+   ],
+   "date": "2026-11-27T00:00:00.000Z",
+   "categories": [
+    "Levées de fonds"
+   ],
+   "score": 8.4
+  },
+  {
+   "id": "la-france-veut-des-licornes-mais-peut-elle-encore-financer-ses-chercheurs",
+   "title": "La France veut des licornes, mais peut-elle encore financer ses chercheurs ?",
+   "url": "https://www.maddyness.com/2026/11/27/la-france-veut-des-licornes-mais-peut-elle-encore-financer-ses-chercheurs/",
+   "summary": "Alors que la France ambitionne de faire émerger des champions de la deeptech, le CNRS traverse une grave crise financière. Un paradoxe aux lourdes conséquences.",
+   "image": "https://www.maddyness.com/app/uploads/2026/11/pexels-mikhail-nilov-9243726-scaled-e1795789318400.jpg",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "La France veut des licornes, mais peut-elle encore financer ses chercheurs ?",
+     "url": "https://www.maddyness.com/2026/11/27/la-france-veut-des-licornes-mais-peut-elle-encore-financer-ses-chercheurs/"
+    }
+   ],
+   "date": "2026-11-27T15:00:59.000Z",
+   "categories": [
+    "Licornes & scale-ups"
+   ],
+   "score": 8
+  },
+  {
+   "id": "la-croissance-pire-que-prevu-l-economie-francaise-en-recession",
+   "title": "La croissance pire que prévu, l'économie française en récession",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2R0VEtzNk9RWjJPSG1lZTNldjM2VmllMDBScGwwT0lMNnE1RW1McTVOc1VvNWJ5S085c25jSHVnaXpWMWlQM0JhcThsWTdWcExwYi1DTVRxTGdqTGM1Q2lZTUZlTi1ONTA3TURpdVhoQVZtZjJKMXFxcnFBZGNSUGtBMzlyOVJfVE5pei1uOEZyV2R6MTIxREswUndxZElFaU9LZU1sMlA2eHVJb0N6MklR?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "La croissance pire que prévu, l'économie française en récession",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2R0VEtzNk9RWjJPSG1lZTNldjM2VmllMDBScGwwT0lMNnE1RW1McTVOc1VvNWJ5S085c25jSHVnaXpWMWlQM0JhcThsWTdWcExwYi1DTVRxTGdqTGM1Q2lZTUZlTi1ONTA3TURpdVhoQVZtZjJKMXFxcnFBZGNSUGtBMzlyOVJfVE5pei1uOEZyV2R6MTIxREswUndxZElFaU9LZU1sMlA2eHVJb0N6MklR?oc=5"
+    }
+   ],
+   "date": "2026-11-27T08:12:23.000Z",
+   "categories": [
+    "Rachats & IPO"
+   ],
+   "score": 8
+  },
+  {
+   "id": "avec-french-tech-nova-l-etat-s-attaque-au-plafond-de-verre-des-startups",
+   "title": "Avec French Tech Nova, l'État s'attaque au plafond de verre des startups",
+   "url": "https://www.maddyness.com/2026/11/27/avec-french-tech-nova-letat-sattaque-au-plafond-de-verre-des-startups/",
+   "summary": "La Mission French Tech dévoile aujourd’hui les 36 lauréats de French Tech Nova. Objectif : les emmener jusqu'au Next 40.",
+   "image": "https://www.maddyness.com/app/uploads/2026/11/French-Tech-Nova-2026.jpeg",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Avec French Tech Nova, l'État s'attaque au plafond de verre des startups",
+     "url": "https://www.maddyness.com/2026/11/27/avec-french-tech-nova-letat-sattaque-au-plafond-de-verre-des-startups/"
+    }
+   ],
+   "date": "2026-11-27T07:00:03.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 7.6
+  },
+  {
+   "id": "orange-cours-action-ora-cotation-bourse-euronext-paris",
+   "title": "ORANGE Cours Action ORA, Cotation Bourse Euronext Paris",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xbmc4M190bm42S2JJRXBNNW9RdndWY09pU0ZXOU1FMC1wdksyT0hIeVlGU1h0aTZKSGFTOHA0MlhCS2tYSkZSeUpwblJnX2l0Z0E?oc=5",
+   "summary": "",
+   "sources": [
+    "Boursorama"
+   ],
+   "articles": [
+    {
+     "source": "Boursorama",
+     "title": "ORANGE Cours Action ORA, Cotation Bourse Euronext Paris",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xbmc4M190bm42S2JJRXBNNW9RdndWY09pU0ZXOU1FMC1wdksyT0hIeVlGU1h0aTZKSGFTOHA0MlhCS2tYSkZSeUpwblJnX2l0Z0E?oc=5"
+    }
+   ],
+   "date": "2026-11-28T05:03:21.000Z",
+   "categories": [
+    "Rachats & IPO"
+   ],
+   "score": 7.6
+  },
+  {
+   "id": "mountain-leve-des-fonds-pour-deployer-l-ia-sur-des-microcontroleurs",
+   "title": "MountAIn lève des fonds pour déployer l’IA sur des microcontrôleurs",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU15cXFJeDRfUHFIV0IzZjl0Ny1wUnVWcUFqWExHVC1pTVpOMzl6ZWw5WkdRbG9RVHV6bW54SnhDNXVmUF9SeHBiYU05TWt1VGNGR05qem0tR2ZIQWgwX0dxTE9mUGRTdWxEM3BTR1dCbkpFRWFXZUVSRm02UDYwa1dTMGtCSTdudmZWVFVlZ1Ntam51V0E?oc=5",
+   "summary": "",
+   "sources": [
+    "Actutem"
+   ],
+   "articles": [
+    {
+     "source": "Actutem",
+     "title": "MountAIn lève des fonds pour déployer l’IA sur des microcontrôleurs",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU15cXFJeDRfUHFIV0IzZjl0Ny1wUnVWcUFqWExHVC1pTVpOMzl6ZWw5WkdRbG9RVHV6bW54SnhDNXVmUF9SeHBiYU05TWt1VGNGR05qem0tR2ZIQWgwX0dxTE9mUGRTdWxEM3BTR1dCbkpFRWFXZUVSRm02UDYwa1dTMGtCSTdudmZWVFVlZ1Ntam51V0E?oc=5"
+    }
+   ],
+   "date": "2026-11-27T13:37:31.000Z",
+   "categories": [
+    "Levées de fonds",
+    "IA"
+   ],
+   "score": 7.4
+  },
+  {
+   "id": "alors-que-la-souverainete-grimpe-a-77-seuls-8-des-actifs-utilisent-mistral-ai-le",
+   "title": "Alors que la souveraineté grimpe à 77%, seuls 8% des actifs utilisent Mistral AI : le grand écart de l’IA en entreprise",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOdDRCeFhkTm5sY0dPcWFvTjdYWThPSEpiLVNGczFsbnFXdnRVMVl6N3IxdHVsMTFsOTN0LTdhQXFjOUl3YW1HZ3hQRERMMkpnOVh1WDdoYTh1YzluWmQxMjVSbndCTzVWdHJRV05kRV9Tbk5RRnlIYzRhYllvekcxVTdWb1pTTWNXd1NpTW14M3R5b2hTZWtiY0w2ZXgwMzBFbWJLVkdWNmlRVE1lZnkxWHdlWTl5VjhwblZ4U1ZUdG1uajZseUZGbUJQcERYRy0zb2daTTd0Yzc2aXdwUGRqc0JrMHF2NUdoa1YxUmRxVTR2TWVnX0M3QnE5eVRVX2pCVXVlOFRDOTFhOFR5SjRoZHRZOHhnM3cxR2g1a1laMThteWFUQ0ZyY095d2JKSlhzRWhPdXJiTjRES2M?oc=5",
+   "summary": "",
+   "sources": [
+    "L'Usine Digitale"
+   ],
+   "articles": [
+    {
+     "source": "L'Usine Digitale",
+     "title": "Alors que la souveraineté grimpe à 77%, seuls 8% des actifs utilisent Mistral AI : le grand écart de l’IA en entreprise",
+     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOdDRCeFhkTm5sY0dPcWFvTjdYWThPSEpiLVNGczFsbnFXdnRVMVl6N3IxdHVsMTFsOTN0LTdhQXFjOUl3YW1HZ3hQRERMMkpnOVh1WDdoYTh1YzluWmQxMjVSbndCTzVWdHJRV05kRV9Tbk5RRnlIYzRhYllvekcxVTdWb1pTTWNXd1NpTW14M3R5b2hTZWtiY0w2ZXgwMzBFbWJLVkdWNmlRVE1lZnkxWHdlWTl5VjhwblZ4U1ZUdG1uajZseUZGbUJQcERYRy0zb2daTTd0Yzc2aXdwUGRqc0JrMHF2NUdoa1YxUmRxVTR2TWVnX0M3QnE5eVRVX2pCVXVlOFRDOTFhOFR5SjRoZHRZOHhnM3cxR2g1a1laMThteWFUQ0ZyY095d2JKSlhzRWhPdXJiTjRES2M?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:00:35.000Z",
+   "categories": [
+    "IA",
+    "Politique & écosystème"
+   ],
+   "score": 6.1
+  },
+  {
+   "id": "non-cela-ne-plait-toujours-pas-a-arthur-comment-mistral-avec-l-aide-de-deputes-m",
+   "title": "“Non, cela ne plaît toujours pas à Arthur”: Comment Mistral, avec l’aide de députés macronistes, a torpillé la loi sur l'IA et le droit d'auteur",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnZmek83VnlkWDBDMmpTX3FpMVNTQl9YSUY0bENxemtJa3dpbnB1UmFNcGtnMUlkYy1tVzF3WUlTTVE2T2hrLUxPNTR3ZFNGblpZYUdZU3JaaEpmSFhUU2FvODhqX1Fwb3hRTkswSDZ5SXk3WkQ3VjVjb29IWFBSRTVUSEZjZ25zYks5Ykk0OXItb0JDQjNJN0t5OXN6QjcxVkViLWdWdUlicnphem1fR1U0dFhlajR6YlExY2lR?oc=5",
+   "summary": "",
+   "sources": [
+    "Cafétech"
+   ],
+   "articles": [
+    {
+     "source": "Cafétech",
+     "title": "“Non, cela ne plaît toujours pas à Arthur”: Comment Mistral, avec l’aide de députés macronistes, a torpillé la loi sur l'IA et le droit d'auteur",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnZmek83VnlkWDBDMmpTX3FpMVNTQl9YSUY0bENxemtJa3dpbnB1UmFNcGtnMUlkYy1tVzF3WUlTTVE2T2hrLUxPNTR3ZFNGblpZYUdZU3JaaEpmSFhUU2FvODhqX1Fwb3hRTkswSDZ5SXk3WkQ3VjVjb29IWFBSRTVUSEZjZ25zYks5Ykk0OXItb0JDQjNJN0t5OXN6QjcxVkViLWdWdUlicnphem1fR1U0dFhlajR6YlExY2lR?oc=5"
+    }
+   ],
+   "date": "2026-11-27T06:30:49.000Z",
+   "categories": [
+    "IA",
+    "Politique & écosystème"
+   ],
+   "score": 6
+  },
+  {
+   "id": "le-campus-du-college-de-france-et-une-start-up-d-ia-s-unissent-pour-repenser-l-a",
+   "title": "Le Campus du collège de France et une start-up d'IA s'unissent pour repenser l'apprentissage",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWM1TzZTeENQUVZJSEZvTFVrdXkwVVNJRHBzeEEta3ZpUE9oNnRwQnk2S3RfQUs4OHFaY2pxS3BZVGtwWF8wdU45Q2dUcmgzTzZhbkpQZV9qY3NUOGxkYzM4djJkeDJNZVc5ZW5SZ21CazJ5V0hLdG9OeG9CWGhTYnFmV3ljbXBjSFFwOU9jUUpQVUp1MWRucDhDd1JtamNpTkk0NDlqV1dBaHgyTVFvZWZrTGRUbXNEMWlBQXB1c2J6WXl0UTc5VTJWSWxUajZTYTRJ?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "Le Campus du collège de France et une start-up d'IA s'unissent pour repenser l'apprentissage",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWM1TzZTeENQUVZJSEZvTFVrdXkwVVNJRHBzeEEta3ZpUE9oNnRwQnk2S3RfQUs4OHFaY2pxS3BZVGtwWF8wdU45Q2dUcmgzTzZhbkpQZV9qY3NUOGxkYzM4djJkeDJNZVc5ZW5SZ21CazJ5V0hLdG9OeG9CWGhTYnFmV3ljbXBjSFFwOU9jUUpQVUp1MWRucDhDd1JtamNpTkk0NDlqV1dBaHgyTVFvZWZrTGRUbXNEMWlBQXB1c2J6WXl0UTc5VTJWSWxUajZTYTRJ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T07:00:14.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 6
+  },
+  {
+   "id": "ils-ont-presque-tous-mis-de-cote-leur-ancienne-tele-led-voici-la-tv-samsung-oled",
+   "title": "Ils ont presque tous mis de côté leur ancienne télé LED : voici la TV Samsung OLED que des milliers de Français s'arrachent",
+   "url": "https://www.bfmtv.com/tech/bons-plans/ils-ont-presque-tous-mis-de-cote-leur-ancienne-tele-led-voici-la-tv-samsung-oled-que-des-milliers-de-francais-s-arrachent_AB-202611270655.html",
+   "summary": "Les technologies se succèdent, apportant avec elles leur lot d’améliorations parfois subjugantes. Quand cela arrive avec un prix ultra séduisant, il n’y a guère la place pour l’hésitation et l’offre Samsung pour la smart TV OLED S92H 4K Vision AI de 65 pouces est de ces occasions à ne surtout pas manquer.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/NQOcbnC8KnKVpseg7moaAj-0F60=/0x0:1600x900/800x0/images/Ils-ont-presque-tous-mis-de-cote-leur-ancienne-tele-LED-voici-la-TV-Samsung-OLED-que-des-milliers-de-Francais-s-arrachent-2391954.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "Ils ont presque tous mis de côté leur ancienne télé LED : voici la TV Samsung OLED que des milliers de Français s'arrachent",
+     "url": "https://www.bfmtv.com/tech/bons-plans/ils-ont-presque-tous-mis-de-cote-leur-ancienne-tele-led-voici-la-tv-samsung-oled-que-des-milliers-de-francais-s-arrachent_AB-202611270655.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Les technologies se succèdent, apportant avec elles leur lot d’améliorations parfois subjugantes.",
+    "points": [
+     "Quand cela arrive avec un prix ultra séduisant, il n’y a guère la place pour l’hésitation et l’offre Samsung pour la smart TV OLED S92H 4K Vision AI de 65 pouces est de ces occasions à ne surtout pas manquer."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-27T14:55:00.000Z",
+   "categories": [
+    "IA",
+    "Talents & nominations"
+   ],
+   "score": 5.5
+  },
+  {
+   "id": "l-ancien-patron-d-amazon-france-rejoint-agryco-pour-en-faire-un-champion-europee",
+   "title": "L’ancien patron d’Amazon France rejoint Agryco pour en faire un champion européen",
+   "url": "https://www.maddyness.com/2026/11/27/lancien-patron-damazon-france-rejoint-agryco-pour-en-faire-un-champion-europeen/",
+   "summary": "Frédéric Duval, ex-patron d’Amazon France, rejoint Agryco. Le spécialiste de la distribution agricole en ligne vise un milliard d’euros de chiffre d’affaires d'ici dix ans.",
+   "image": "https://www.maddyness.com/app/uploads/2026/11/2026-11-27_Agryco_Frederic_Duval_Paolin_Pascot.jpg",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "L’ancien patron d’Amazon France rejoint Agryco pour en faire un champion européen",
+     "url": "https://www.maddyness.com/2026/11/27/lancien-patron-damazon-france-rejoint-agryco-pour-en-faire-un-champion-europeen/"
+    }
+   ],
+   "date": "2026-11-27T13:00:55.000Z",
+   "categories": [
+    "Talents & nominations"
+   ],
+   "score": 5.3
+  },
+  {
+   "id": "la-troisieme-edition-du-tour-de-france-de-nos-industries-organisee-par-bpifrance",
+   "title": "LA TROISIÈME ÉDITION DU « TOUR DE FRANCE DE NOS INDUSTRIES », ORGANISÉE PAR BPIFRANCE ET AVEC OPCO 2i A FAIT ÉTAPE CHEZ LE GROUPE SCHMIDT, DANS LE BAS-RHIN, POUR DONNER VISIBILITÉ ET FIERTÉ AUX ACTEURS QUI",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNc3NBMkIwM055MTVtWFZvTWxGaTM4UVFNRll5TnpabHFjSXJNR0tBbmpNenFoUnotZko5MlRpWkFLOWs1OVF0N0NveC1WN1pqUF9Kak5GZUNNdTVDdWhnUVZhY0M3bmx5UXF3ek1yNHpIMmNIenV0X0JBTWVBVUQyZ0lyTHpNMldoM2FXdDhZWjY4eHMyN1ViM2Y4NUM1a29Xd0lJQXQ1d3BKZHp2U1J1dFJzc1p1RUZuUU1RNmR5cTQ5OUVOZkpUSFUxZEZtNU5oLXJEaXpHX29YeFNnYmYxRk55NkE1T2s3T2N4UHptNWd6RExPNjFvYThhRDRaU2JnNll0cW5PdmE3bWo3TmFVMEE2UnpVZ21oZnpPT3lZb1JmY1lGVWJsR044eFFJR0d6UUg4NmNDWFZDM09PZzhCRG5URmxrTFVzZjg0?oc=5",
+   "summary": "",
+   "sources": [
+    "Bpifrance | Presse"
+   ],
+   "articles": [
+    {
+     "source": "Bpifrance | Presse",
+     "title": "LA TROISIÈME ÉDITION DU « TOUR DE FRANCE DE NOS INDUSTRIES », ORGANISÉE PAR BPIFRANCE ET AVEC OPCO 2i A FAIT ÉTAPE CHEZ LE GROUPE SCHMIDT, DANS LE BAS-RHIN, POUR DONNER VISIBILITÉ ET FIERTÉ AUX ACTEURS QUI",
+     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNc3NBMkIwM055MTVtWFZvTWxGaTM4UVFNRll5TnpabHFjSXJNR0tBbmpNenFoUnotZko5MlRpWkFLOWs1OVF0N0NveC1WN1pqUF9Kak5GZUNNdTVDdWhnUVZhY0M3bmx5UXF3ek1yNHpIMmNIenV0X0JBTWVBVUQyZ0lyTHpNMldoM2FXdDhZWjY4eHMyN1ViM2Y4NUM1a29Xd0lJQXQ1d3BKZHp2U1J1dFJzc1p1RUZuUU1RNmR5cTQ5OUVOZkpUSFUxZEZtNU5oLXJEaXpHX29YeFNnYmYxRk55NkE1T2s3T2N4UHptNWd6RExPNjFvYThhRDRaU2JnNll0cW5PdmE3bWo3TmFVMEE2UnpVZ21oZnpPT3lZb1JmY1lGVWJsR044eFFJR0d6UUg4NmNDWFZDM09PZzhCRG5URmxrTFVzZjg0?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:12:14.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5.2
+  },
+  {
+   "id": "apres-10-ans-de-macronisme-la-tech-francaise-veut-sortir-du-cliche-de-la-startup",
+   "title": "Après 10 ans de macronisme, la tech française veut sortir du cliché de la «Startup Nation»",
+   "url": "https://www.maddyness.com/2026/11/27/apres-10-ans-de-macronisme-la-tech-francaise-veut-sortir-du-cliche-de-la-startup-nation/",
+   "summary": "",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Après 10 ans de macronisme, la tech française veut sortir du cliché de la «Startup Nation»",
+     "url": "https://www.maddyness.com/2026/11/27/apres-10-ans-de-macronisme-la-tech-francaise-veut-sortir-du-cliche-de-la-startup-nation/"
+    }
+   ],
+   "date": "2026-11-27T10:56:11.000Z",
+   "categories": [],
+   "score": 5
+  },
+  {
+   "id": "agents-ia-dans-les-tpe-ou-placer-la-validation-humaine",
+   "title": "Agents IA dans les TPE : où placer la validation humaine ?",
+   "url": "https://www.maddyness.com/2026/11/27/agents-ia-tpe-validation-humaine/",
+   "summary": "",
+   "sources": [
+    "Maddyness"
+   ],
+   "articles": [
+    {
+     "source": "Maddyness",
+     "title": "Agents IA dans les TPE : où placer la validation humaine ?",
+     "url": "https://www.maddyness.com/2026/11/27/agents-ia-tpe-validation-humaine/"
+    }
+   ],
+   "date": "2026-11-27T08:00:07.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 5
+  },
+  {
+   "id": "french-tech-unaide-connecte-aides-a-domicile-et-personnes-agees-27-11",
+   "title": "French Tech : Unaide connecte aides à domicile et personnes âgées - 27/11",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNV2F0U0dyVXg5RmNPV0ZMcU1XcWljZEtHZXJGTW5jbGd0MHhCc0xvc2FHVElhcWlmdHZSMHFjLVVsanFRZ3lQbVpDd04yNjZXZnd3QTB1ejVadUR3VWFkXzRqWk1qZ21kM3FmV0pPTHRMaHZkUkxNUnEtakNobi1PTk1hV1d5c2FOSkdjbHMzWUhwN2d2LXUzdXdSVlRReG9nM1ZkWTU3M1VQRkgxVFZzMVF6cTJpNFNWQUFYb1pxWUhFY1ZjVGY2VlMzS245NzBycnpvdW1qbFd4ME5oWVVOcTQyc2dycTVFNHNBOQ?oc=5",
+   "summary": "",
+   "sources": [
+    "BFM"
+   ],
+   "articles": [
+    {
+     "source": "BFM",
+     "title": "French Tech : Unaide connecte aides à domicile et personnes âgées - 27/11",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNV2F0U0dyVXg5RmNPV0ZMcU1XcWljZEtHZXJGTW5jbGd0MHhCc0xvc2FHVElhcWlmdHZSMHFjLVVsanFRZ3lQbVpDd04yNjZXZnd3QTB1ejVadUR3VWFkXzRqWk1qZ21kM3FmV0pPTHRMaHZkUkxNUnEtakNobi1PTk1hV1d5c2FOSkdjbHMzWUhwN2d2LXUzdXdSVlRReG9nM1ZkWTU3M1VQRkgxVFZzMVF6cTJpNFNWQUFYb1pxWUhFY1ZjVGY2VlMzS245NzBycnpvdW1qbFd4ME5oWVVOcTQyc2dycTVFNHNBOQ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T07:30:53.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5
+  },
+  {
+   "id": "la-french-tech-perigord-forme-les-rh-a-l-art-du-prompt",
+   "title": "La French Tech Périgord forme les RH à l’art du prompt",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzBWSUFtZXBDbkVwdGZERTRueFhTU2xDWm13OWJESXp2OWV5Mms2UzBfSWlKMWpWUDVvZkdDSkliemJTb3dJdS1NWGVoQTNsTXMtYWl6WWtlUVkxdndZMS1ndVhXTUNiNWJtRXZSVXI2X1JfS0lFVnZfRzkwSTJ4UFRnZFMzdXhNUGdiclphemczNDRSSkRiOEdWelQ?oc=5",
+   "summary": "",
+   "sources": [
+    "La Vie Économique du Sud-Ouest"
+   ],
+   "articles": [
+    {
+     "source": "La Vie Économique du Sud-Ouest",
+     "title": "La French Tech Périgord forme les RH à l’art du prompt",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzBWSUFtZXBDbkVwdGZERTRueFhTU2xDWm13OWJESXp2OWV5Mms2UzBfSWlKMWpWUDVvZkdDSkliemJTb3dJdS1NWGVoQTNsTXMtYWl6WWtlUVkxdndZMS1ndVhXTUNiNWJtRXZSVXI2X1JfS0lFVnZfRzkwSTJ4UFRnZFMzdXhNUGdiclphemczNDRSSkRiOEdWelQ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T07:30:00.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5
+  },
+  {
+   "id": "pinsound-la-french-tech-qui-transforme-vos-flippers",
+   "title": "PinSound : la French Tech qui transforme vos flippers",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lY0FXSjE4TnV5amZGVHgzNHJfbHZFbXdXZVZWWjdEQUlhMXFnYVppOXBObVBpTWdTLWIxS2tXQWlHcENVQl9xSFM2MW9EOTZJVUJLTEF1X3I3UGx3V2F6SkFhTnN5VG81bXZrWGV3?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Players Du Dimanche"
+   ],
+   "articles": [
+    {
+     "source": "Les Players Du Dimanche",
+     "title": "PinSound : la French Tech qui transforme vos flippers",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lY0FXSjE4TnV5amZGVHgzNHJfbHZFbXdXZVZWWjdEQUlhMXFnYVppOXBObVBpTWdTLWIxS2tXQWlHcENVQl9xSFM2MW9EOTZJVUJLTEF1X3I3UGx3V2F6SkFhTnN5VG81bXZrWGV3?oc=5"
+    }
+   ],
+   "date": "2026-11-27T09:17:55.000Z",
+   "categories": [
+    "Politique & écosystème"
+   ],
+   "score": 5
+  },
+  {
+   "id": "elisa-rojas-licorne-noire-nantes-28-novembre-2026",
+   "title": "ELISA ROJAS LICORNE NOIRE Nantes – 28 novembre 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QYWxkY0VnZkg5NzF1V1JIY2JXY1BYNlYxYzVCZm5ITXoyQnFDU0dsUUdGa3Noc2F2aTdrZVl2STctenNWb192SUM2Nk1EMVJEaVNLMVo3NFZwVHZBNXotbTdMNVJaX2hjcTlXc1I3V3k4WjNGaUJjNDg3TQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Unidivers"
+   ],
+   "articles": [
+    {
+     "source": "Unidivers",
+     "title": "ELISA ROJAS LICORNE NOIRE Nantes – 28 novembre 2026",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QYWxkY0VnZkg5NzF1V1JIY2JXY1BYNlYxYzVCZm5ITXoyQnFDU0dsUUdGa3Noc2F2aTdrZVl2STctenNWb192SUM2Nk1EMVJEaVNLMVo3NFZwVHZBNXotbTdMNVJaX2hjcTlXc1I3V3k4WjNGaUJjNDg3TQ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T06:43:53.000Z",
+   "categories": [
+    "Licornes & scale-ups"
+   ],
+   "score": 4.7
+  },
+  {
+   "id": "la-start-up-timper-mise-sur-l-ia-pour-debloquer-la-promotion-immobiliere",
+   "title": "La start-up Timper mise sur l’IA pour débloquer la promotion immobilière",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjBJRWdoVHZ6YVhRZW81Y3huTk05WVhjMndNODVvYnFlcldZaVlNbktSWnFXUXFpNnJhUXdOR3o0RFZaTFAxQ3dwMmswZktwZVEwbHg2S1Z2QmMwUGg2ZVNUTm9Bc3BmQ09MUW84S1pqbzE2MENFVkNNS1NpUzlBelFqaXYxa2NYX3JrTXZOYlk1SENManJzX1IxY1FSREJqdUJLTnV2TTFOQUdrQWpsaHZraXBEbzNSM280ZEp0N3R6dnhObTFZTGxB?oc=5",
+   "summary": "",
+   "sources": [
+    "L'Echo"
+   ],
+   "articles": [
+    {
+     "source": "L'Echo",
+     "title": "La start-up Timper mise sur l’IA pour débloquer la promotion immobilière",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjBJRWdoVHZ6YVhRZW81Y3huTk05WVhjMndNODVvYnFlcldZaVlNbktSWnFXUXFpNnJhUXdOR3o0RFZaTFAxQ3dwMmswZktwZVEwbHg2S1Z2QmMwUGg2ZVNUTm9Bc3BmQ09MUW84S1pqbzE2MENFVkNNS1NpUzlBelFqaXYxa2NYX3JrTXZOYlk1SENManJzX1IxY1FSREJqdUJLTnV2TTFOQUdrQWpsaHZraXBEbzNSM280ZEp0N3R6dnhObTFZTGxB?oc=5"
+    }
+   ],
+   "date": "2026-11-28T03:57:44.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.6
+  },
+  {
+   "id": "la-region-ile-de-france-epinglee-pour-ses-delais-de-paiement-dans-le-cadre-de-se",
+   "title": "La Région Ile-de-France épinglée pour ses délais de paiement dans le cadre de ses marchés publics",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb19IYThzNWhQd3ZVeWw3aUw5bEJ6YndkZGxhS2tGZlRiZUVlaWRqNm42clFMWnpvaW5xVEVOQjJBTE9nOEIyWUdSZE9DVXRiak9lM3c0cl8xQVBLMjJGOUFJLTJkeEdWN0tGa3VaQmNIdzROQV80ZkNPd3A3V2FkekNYNWFEbmhCSTFhek1yTmRmakxoVTFKZUtRZXlTRDBKOVJMWGp0WEo0OEVCNUcyUG1IS1ZfSGVDeUpCNDFmZWkyUDZYbWwyN2lVeUlhc1U4d3B1bEVrZW54Rm0tVURZcWVUMFRvX3lHSUNZ?oc=5",
+   "summary": "",
+   "sources": [
+    "Les Echos"
+   ],
+   "articles": [
+    {
+     "source": "Les Echos",
+     "title": "La Région Ile-de-France épinglée pour ses délais de paiement dans le cadre de ses marchés publics",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb19IYThzNWhQd3ZVeWw3aUw5bEJ6YndkZGxhS2tGZlRiZUVlaWRqNm42clFMWnpvaW5xVEVOQjJBTE9nOEIyWUdSZE9DVXRiak9lM3c0cl8xQVBLMjJGOUFJLTJkeEdWN0tGa3VaQmNIdzROQV80ZkNPd3A3V2FkekNYNWFEbmhCSTFhek1yTmRmakxoVTFKZUtRZXlTRDBKOVJMWGp0WEo0OEVCNUcyUG1IS1ZfSGVDeUpCNDFmZWkyUDZYbWwyN2lVeUlhc1U4d3B1bEVrZW54Rm0tVURZcWVUMFRvX3lHSUNZ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T12:00:09.000Z",
+   "categories": [],
+   "score": 4.6
+  },
+  {
+   "id": "maddyness-distingue-les-100-personnalites-qui-faconnent-l-ia-francaise",
+   "title": "Maddyness distingue les 100 personnalités qui façonnent l’IA française",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmh5V2t6ZEs0MVU0U0c5LU1KT3JSdDUzelJoZUVLLUZsVC1BT1NZNUJ1NXNQWGdTOEhSR2d1STdxOHQ4NFdBbGNUWE5hVFprSnVZZkoxb3N5WEI5Z2Z1cXZ3LWYtRHl6QzBIRmtoRVJNLVV6SUlCN2ZuclpzT2c3OWpYcw?oc=5",
+   "summary": "",
+   "sources": [
+    "J'ai un pote dans la com"
+   ],
+   "articles": [
+    {
+     "source": "J'ai un pote dans la com",
+     "title": "Maddyness distingue les 100 personnalités qui façonnent l’IA française",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmh5V2t6ZEs0MVU0U0c5LU1KT3JSdDUzelJoZUVLLUZsVC1BT1NZNUJ1NXNQWGdTOEhSR2d1STdxOHQ4NFdBbGNUWE5hVFprSnVZZkoxb3N5WEI5Z2Z1cXZ3LWYtRHl6QzBIRmtoRVJNLVV6SUlCN2ZuclpzT2c3OWpYcw?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:54:23.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 4.2
+  },
+  {
+   "id": "d-auteur-de-genie-mort-il-y-a-presque-150-ans-a-chroniqueur-pro-kremlin-l-etrang",
+   "title": "D'auteur de génie, mort il y a presque 150 ans, à chroniqueur pro-Kremlin: l'étrange retour à la vie de Fiodor Dostoïevski, ressuscité par l'IA pour le compte de la chaîne pro-russe RT",
+   "url": "https://www.bfmtv.com/tech/intelligence-artificielle/d-auteur-de-genie-mort-il-y-a-presque-150-ans-a-chroniqueur-pro-kremlin-l-etrange-retour-a-la-vie-de-fiodor-dostoievski-ressuscite-par-l-ia-pour-le-compte-de-la-chaine-pro-russe-rt_AV-202611270674.html",
+   "summary": "Le romancier russe Fiodor Dostoïevski est devenu depuis le 22 octobre 2026 un \"expert politique permanent\". Chroniqueur virtuel sur l'antenne de chaîne pro-Kremlin, interdite en France, il sert aujourd'hui à Vladimir Poutine pour distiller sa propagande.",
+   "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tpTxzFujnwnHUPvQNJmnBOuUm14=/0x106:2048x1258/800x0/images/Une-peinture-de-Dostoievski-2391935.jpg",
+   "sources": [
+    "BFM Tech"
+   ],
+   "articles": [
+    {
+     "source": "BFM Tech",
+     "title": "D'auteur de génie, mort il y a presque 150 ans, à chroniqueur pro-Kremlin: l'étrange retour à la vie de Fiodor Dostoïevski, ressuscité par l'IA pour le compte de la chaîne pro-russe RT",
+     "url": "https://www.bfmtv.com/tech/intelligence-artificielle/d-auteur-de-genie-mort-il-y-a-presque-150-ans-a-chroniqueur-pro-kremlin-l-etrange-retour-a-la-vie-de-fiodor-dostoievski-ressuscite-par-l-ia-pour-le-compte-de-la-chaine-pro-russe-rt_AV-202611270674.html"
+    }
+   ],
+   "brief": {
+    "essentiel": "Le romancier russe Fiodor Dostoïevski est devenu depuis le 22 octobre 2026 un \"expert politique permanent\".",
+    "points": [
+     "Chroniqueur virtuel sur l'antenne de chaîne pro-Kremlin, interdite en France, il sert aujourd'hui à Vladimir Poutine pour distiller sa propagande."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-27T15:11:54.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.5
+  },
+  {
+   "id": "suppressions-de-postes-chez-sap-liees-a-l-ia-10-000-emplois-envisages",
+   "title": "Suppressions de postes chez SAP liées à l’IA : 10 000 emplois envisagés",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVIyTlVKT1lUNDQ5TGg4SWVNa0FwWDNnX0l1SXRTMUEwcDY4aUplRmtyQUFpZXJ4T0JOZERLY2hITTFwVFBVTVAtaTNCYzdrM3I5LXI5VGtDSG8xOHZfdjBNTmhTVXAyMTFxaXc0bFpkT3pJMFYwWVNtT0ZHNWp2UGVJYmJnMkVKVTcyME5QYktZX1J0QTNuQ3VmZw?oc=5",
+   "summary": "",
+   "sources": [
+    "EmarketerZ"
+   ],
+   "articles": [
+    {
+     "source": "EmarketerZ",
+     "title": "Suppressions de postes chez SAP liées à l’IA : 10 000 emplois envisagés",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVIyTlVKT1lUNDQ5TGg4SWVNa0FwWDNnX0l1SXRTMUEwcDY4aUplRmtyQUFpZXJ4T0JOZERLY2hITTFwVFBVTVAtaTNCYzdrM3I5LXI5VGtDSG8xOHZfdjBNTmhTVXAyMTFxaXc0bFpkT3pJMFYwWVNtT0ZHNWp2UGVJYmJnMkVKVTcyME5QYktZX1J0QTNuQ3VmZw?oc=5"
+    }
+   ],
+   "date": "2026-11-27T13:16:42.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.3
+  },
+  {
+   "id": "my-channel-de-google-un-brevet-de-videos-ia-rejete",
+   "title": "My Channel de Google : un brevet de vidéos IA rejeté",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0JyZ0p4elVFSmxpdHk3RmxyTjl2Mnl6TWJXcENvODkzbUg1Z1o2UmE4cFdBVUhUX055SDFFMEJ2TVIyM0dROW9pOFJkUDFSQUlaRVliVVdaRUx3RnBudXlVd1hGdjdsREIxc3FMcHktODM3cHFHSk9tVzR3QXRqcFlRYmROay16X29KUVlR?oc=5",
+   "summary": "",
+   "sources": [
+    "BlogNT"
+   ],
+   "articles": [
+    {
+     "source": "BlogNT",
+     "title": "My Channel de Google : un brevet de vidéos IA rejeté",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0JyZ0p4elVFSmxpdHk3RmxyTjl2Mnl6TWJXcENvODkzbUg1Z1o2UmE4cFdBVUhUX055SDFFMEJ2TVIyM0dROW9pOFJkUDFSQUlaRVliVVdaRUx3RnBudXlVd1hGdjdsREIxc3FMcHktODM3cHFHSk9tVzR3QXRqcFlRYmROay16X29KUVlR?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:30:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.2
+  },
+  {
+   "id": "chatgpt-claude-gemini-vibe-quel-assistant-ia-choisir-pour-son-activite-pro",
+   "title": "ChatGPT, Claude, Gemini, Vibe : quel assistant IA choisir pour son activité pro ?",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRGhSVkxvMUlPRDR2MDNfYTBfN2NQdzFnR20tLVYyQV9TV0tsY0NIcVRBQ25tZU9uRV9aS2EzLXFyMXA1cFpHcnF4bjdYOFRsU25SV0hlRzRTXzJqalJFb01nQUVLeDVlci13bUNfSXFhYkRnMDJ0VEpRNm9tcmV2dy1nbE9pN0Ntc01MNVktNFVfZkR4MFNCMVN6T0hLbzN1b0JUS0pQT2pwNEs5UzIteVJQdE9jUkwwME4wd24xSEhYdmdTenl0dl9LX0x3NVR1blR0NU9ldFA4RVF0U2tWeUpyNXIxbUVvc24wMktqVQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Ouest-France"
+   ],
+   "articles": [
+    {
+     "source": "Ouest-France",
+     "title": "ChatGPT, Claude, Gemini, Vibe : quel assistant IA choisir pour son activité pro ?",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRGhSVkxvMUlPRDR2MDNfYTBfN2NQdzFnR20tLVYyQV9TV0tsY0NIcVRBQ25tZU9uRV9aS2EzLXFyMXA1cFpHcnF4bjdYOFRsU25SV0hlRzRTXzJqalJFb01nQUVLeDVlci13bUNfSXFhYkRnMDJ0VEpRNm9tcmV2dy1nbE9pN0Ntc01MNVktNFVfZkR4MFNCMVN6T0hLbzN1b0JUS0pQT2pwNEs5UzIteVJQdE9jUkwwME4wd24xSEhYdmdTenl0dl9LX0x3NVR1blR0NU9ldFA4RVF0U2tWeUpyNXIxbUVvc24wMktqVQ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:01:10.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3.1
+  },
+  {
+   "id": "decryptage-intelligence-artificielle-non-l-europe-n-a-pas-encore-rate-le-train-d",
+   "title": "DÉCRYPTAGE. Intelligence artificielle : non, l’Europe n’a pas encore raté le train de l’IA",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXJEZnRNNGpRam0tMnFDNkhyaktEdElkMVpLWmpuTEZSdi1mcVZLandQcUpsZkEwUmFDRmVzUFRDamN3dXc3cGxaZGg1bk5EcnJJQ3JnME84WFR6YWwwT2R5MXowNEdrM1BmSUh2LXdMeWVnbUFudHYzcklSdlZYdjB4dHBKM2hIY0ozTTB5YlF4VFRqSlJlSks5dGNvU05IcnFsQzZUS3ZTdHpsWTlQRk12dnJUcGVhR3QwRnF3b0VIcGlSOFV6NFVCNEw?oc=5",
+   "summary": "",
+   "sources": [
+    "ladepeche.fr"
+   ],
+   "articles": [
+    {
+     "source": "ladepeche.fr",
+     "title": "DÉCRYPTAGE. Intelligence artificielle : non, l’Europe n’a pas encore raté le train de l’IA",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXJEZnRNNGpRam0tMnFDNkhyaktEdElkMVpLWmpuTEZSdi1mcVZLandQcUpsZkEwUmFDRmVzUFRDamN3dXc3cGxaZGg1bk5EcnJJQ3JnME84WFR6YWwwT2R5MXowNEdrM1BmSUh2LXdMeWVnbUFudHYzcklSdlZYdjB4dHBKM2hIY0ozTTB5YlF4VFRqSlJlSks5dGNvU05IcnFsQzZUS3ZTdHpsWTlQRk12dnJUcGVhR3QwRnF3b0VIcGlSOFV6NFVCNEw?oc=5"
+    }
+   ],
+   "date": "2026-11-27T05:31:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "le-carburant-de-l-ia-ce-sont-les-uvres-protegees-comment-l-intelligence-artifici",
+   "title": "“Le carburant de l’IA, ce sont les œuvres protégées” : comment l’intelligence artificielle bouleverse l’industrie musicale",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGhrN0lqLXhxUGR1NFdkTUdpT2REbl95aTlVY2pVek0xM0VGUzZnSE05MnBYRV9QNFJBelhuM1VaeEF4OTlCUV9TOXdSOVJfeEpBcU55V0dJTWxXZlpSWUZQSmREWVhFX1JTa0ktcTZQTXl2LVQ2ZmJ3ZURUemYwTk5yRjVPaHE1WFZRZjhNNXlOa1drdkxiSlJTNkQ5V2pu?oc=5",
+   "summary": "",
+   "sources": [
+    "Le Populaire du Centre"
+   ],
+   "articles": [
+    {
+     "source": "Le Populaire du Centre",
+     "title": "“Le carburant de l’IA, ce sont les œuvres protégées” : comment l’intelligence artificielle bouleverse l’industrie musicale",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGhrN0lqLXhxUGR1NFdkTUdpT2REbl95aTlVY2pVek0xM0VGUzZnSE05MnBYRV9QNFJBelhuM1VaeEF4OTlCUV9TOXdSOVJfeEpBcU55V0dJTWxXZlpSWUZQSmREWVhFX1JTa0ktcTZQTXl2LVQ2ZmJ3ZURUemYwTk5yRjVPaHE1WFZRZjhNNXlOa1drdkxiSlJTNkQ5V2pu?oc=5"
+    }
+   ],
+   "date": "2026-11-27T05:20:00.000Z",
+   "categories": [
+    "IA"
+   ],
+   "score": 3
+  },
+  {
+   "id": "un-espagnol-succede-a-christine-lagarde-a-la-tete-de-la-bce",
+   "title": "Un Espagnol succède à Christine Lagarde à la tête de la BCE",
+   "url": "https://www.journaldunet.com/business/action-publique/1559213-un-espagnol-succede-a-christine-lagarde-a-la-tete-de-la-bce/",
+   "summary": "La nomination de Pablo Hernandez de Cos à la tête de la BCE marque un retour en force de l'Espagne dans les institutions européennes, tandis que la France conserve une place stratégique.",
+   "image": "https://img-0.journaldunet.com/8Awe4rQ07zwbTjslRum9nndrw9I=/1280x/smart/e3fabe1238b24ed28c64b57f5d8bf998/ccmcms-jdn/39547059.jpg",
+   "sources": [
+    "Journal du Net"
+   ],
+   "articles": [
+    {
+     "source": "Journal du Net",
+     "title": "Un Espagnol succède à Christine Lagarde à la tête de la BCE",
+     "url": "https://www.journaldunet.com/business/action-publique/1559213-un-espagnol-succede-a-christine-lagarde-a-la-tete-de-la-bce/"
+    }
+   ],
+   "brief": {
+    "essentiel": "La nomination de Pablo Hernandez de Cos à la tête de la BCE marque un retour en force de l'Espagne dans les institutions européennes, tandis que la France conserve une place stratégique.",
+    "points": [],
+    "facts": []
+   },
+   "date": "2026-11-27T08:35:29.000Z",
+   "categories": [
+    "Talents & nominations"
+   ],
+   "score": 3
+  }
+ ]
+}

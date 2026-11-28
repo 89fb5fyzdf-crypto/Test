@@ -1,0 +1,592 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T09:18:26.766Z",
+ "windowHours": 36,
+ "counts": {
+  "articles": 19,
+  "raw": 39,
+  "media": 11
+ },
+ "scope": "eu",
+ "lang": "en",
+ "sources": [
+  {
+   "source": "City AM",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "EU-Startups",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "source": "Financial Times",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "source": "Google News · Europe scaleup mega round billion",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "Google News · European startup raises Series",
+   "ok": true,
+   "items": 31
+  },
+  {
+   "source": "Google News · European unicorn valuation",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "source": "Google News · UK startup raises funding round",
+   "ok": true,
+   "items": 29
+  },
+  {
+   "source": "Sifted",
+   "ok": true,
+   "items": 24
+  },
+  {
+   "source": "Tech.eu",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "Tech.eu (via Google News)",
+   "ok": true,
+   "items": 13
+  },
+  {
+   "source": "TechCrunch Europe",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "source": "UKTN",
+   "ok": true,
+   "items": 10
+  }
+ ],
+ "items": [
+  {
+   "id": "europe-s-tech-ecosystem-demands-decisive-action-on-ukraine-eu-proposes-50bn-equi",
+   "title": "Europe's tech ecosystem demands decisive action on Ukraine, EU proposes €50BN equity fund, and Pliant secures over €200M",
+   "url": "https://tech.eu/2026/11/27/europe-s-tech-ecosystem-demands-decisive-action-on-ukraine-eu-proposes-50bn-equity-fund-and-pliant-secures-over-200m/",
+   "summary": "This week, we tracked more than 60 tech funding deals worth over €559 million and over 5 exits, M&A transactions, rumours, and related news stories across Europe.Want to stay in the know? If email...",
+   "image": "https://cdn.tech.eu/uploads/2024/01/this-week-in-european-tech-292.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Europe's tech ecosystem demands decisive action on Ukraine, EU proposes €50BN equity fund, and Pliant secures over €200M",
+     "url": "https://tech.eu/2026/11/27/europe-s-tech-ecosystem-demands-decisive-action-on-ukraine-eu-proposes-50bn-equity-fund-and-pliant-secures-over-200m/"
+    }
+   ],
+   "brief": {
+    "essentiel": "This week, we tracked more than 60 tech funding deals worth over €559 million and over 5 exits, M&A transactions, rumours , and related news stories across Europe.",
+    "points": [
+     "The free, open-access Tech.eu Funding Explorer offers deeper insights into funding rounds, investor activity, company profiles and market trends."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€50BN"
+     },
+     {
+      "key": "round",
+      "value": "Pre-seed"
+     }
+    ]
+   },
+   "date": "2026-11-27T15:18:28.000Z",
+   "categories": [
+    "Funding",
+    "M&A & IPOs",
+    "Policy & ecosystem"
+   ],
+   "score": 25.5
+  },
+  {
+   "id": "lampsy-health-raises-1-1m-to-shine-a-light-on-undetected-night-time-seizures",
+   "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
+   "url": "https://tech.eu/2026/11/27/lampsy-health-raises-eur11m-to-shine-a-light-on-undetected-night-time-seizures/",
+   "summary": "Lampsy Health has closed a €1.1 million funding round to finance the commercial launch and distribution of its product in Europe and the UK. The Portuguese startup has developed a lamp that monitors f...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-53-439.png",
+   "sources": [
+    "Tech.eu",
+    "Dealroom",
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Lampsy Health raises €1.1M to shine a light on undetected night-time seizures",
+     "url": "https://tech.eu/2026/11/27/lampsy-health-raises-eur11m-to-shine-a-light-on-undetected-night-time-seizures/"
+    },
+    {
+     "source": "Dealroom",
+     "title": "Lampsy raises €1.1M to take its seizure-detecting lamp to Europe and UK",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDMtaTBQN2NMZnR6U1V5bkkxb3RCd0V0SnA0RzJiR1VGMUh6UVVpNUJRcTdEZFZOMUJmNUFGRTFzNWFmQmxkRXRfN0F2b2x2Xzg3VTh0MU9TSUxyb281QXhiTFVQalFnOGhjYVFNYk5iWUQ1UzF3MF9OcE5ReTlvT2R4Q3VPSlBKRGxpTzJDX05ndmpmT0hadk9ZWnJWTmRUY0VSX2RxWQ?oc=5"
+    },
+    {
+     "source": "EU-Startups",
+     "title": "Lisbon's Lampsy Health raises €1.1 million for its AI bedside lamp that detects epileptic seizures during sleep",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXZxSVBBTGF3WEZBTzBWaERPcDlIb3ZIbFNIYXpfZGh5R0tmc19uSWJNenVSeFVVelJsRHFVSVpCZUtMaDQ1bXhLbnJUN3JGM2pQTWxILTd4ejcyNGY4NTZkenJzV3RoWDIteGJrTkI1Z21RMzBWcXhfWHU5Nnk1ZnpLblJNMGp4aWRTS3plRTZrWWkxOTJYYTdwVEoxMnUtWGlUOWJMS2d0WGQzMnc3OVo2QXdtMjk4NVVKWW5YOWFlcXNzRXY4SEl0TjZ0aHV3ejRxeDJWUktUakpCamRVaGRKRXJHTVpNVXAw?oc=5"
+    }
+   ],
+   "brief": {
+    "essentiel": "Lampsy Health has closed a €1.1 million funding round to finance the commercial launch and distribution of its product in Europe and the UK.",
+    "points": [
+     "The smart lamp is embedded with a small built-in camera and a proprietary artificial intelligence algorithm.",
+     "The Portuguese startup has developed a lamp that monitors for epileptic seizures during sleep.",
+     "It detects movements that may indicate a seizure with over 97 per cent accuracy and automatically alerts emergency contacts.",
+     "A computer vision and AI system running on the device itself recognises the patterns associated with tonic-clonic seizures."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€1.1M"
+     },
+     {
+      "key": "investors",
+      "value": "Angels Way, Phira Ventures and strategic business angels"
+     }
+    ]
+   },
+   "date": "2026-11-27T07:24:37.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 14
+  },
+  {
+   "id": "zurich-based-nextesy-raises-9-48-million-to-put-business-administration-on-autop",
+   "title": "Zurich-based nextesy raises €9.48 million to put business administration on autopilot with AI agents",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlNkS1I2ZDhxc3RVWlA2YmotNDA1elVEVmdZYUoyQzRXZjlES3RMQlFwbjdXLWtyTzd5QlVZaVNZWEVtUDJPWmQwQ1FWLXl5Y1FmZzBxYkRvbzJ5dlhvVDQ5NElVYWs4WG5QRzRyajdvSEFleGV5VkdFb2E1aWJzYjhHZDZGSkJWNGR1cnRfdko3R3hPT0x5UjlNT0FvZVJ5SURzalREY1AyeXM3Q2lGd0JBUWpQOUc2dTUtUXYzRWVtX0ZEYTlFS2puWTR4SV9SbU9J?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Zurich-based nextesy raises €9.48 million to put business administration on autopilot with AI agents",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlNkS1I2ZDhxc3RVWlA2YmotNDA1elVEVmdZYUoyQzRXZjlES3RMQlFwbjdXLWtyTzd5QlVZaVNZWEVtUDJPWmQwQ1FWLXl5Y1FmZzBxYkRvbzJ5dlhvVDQ5NElVYWs4WG5QRzRyajdvSEFleGV5VkdFb2E1aWJzYjhHZDZGSkJWNGR1cnRfdko3R3hPT0x5UjlNT0FvZVJ5SURzalREY1AyeXM3Q2lGd0JBUWpQOUc2dTUtUXYzRWVtX0ZEYTlFS2puWTR4SV9SbU9J?oc=5"
+    }
+   ],
+   "date": "2026-11-27T12:37:07.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "Trouble"
+   ],
+   "score": 10.3
+  },
+  {
+   "id": "dutch-startup-spctr-raises-2-8-million-to-bring-real-time-tumour-margin-assessme",
+   "title": "Dutch startup SPCTR raises €2.8 million to bring real-time tumour margin assessment to cancer surgery",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamk4dkVsX1pjV3hKLVZNdS1sNnJJNEw0SmRfeGtYSG9USENMODVzTkRRTWJCZWxGdWxiMzNVM1pNNmd5bTlOVS1uV0Z1NVZhUDJtajdoWm9aYmR2alp0TFRmR08yRXpSanFTb19Qay1qOHlJa3JDSnplOU50MVptVFdYVVBqTjBmdVBHWFVCQzdlUHE3bEdFdVJObkg4S0F4OHY4UnEwdVFLQnRrRUlHcGFBb0VxeG9VRk1STzFienpFUC1HUW1WZDNINHBGNzZYTVNCRg?oc=5",
+   "summary": "",
+   "sources": [
+    "EU-Startups",
+    "FemTech World"
+   ],
+   "articles": [
+    {
+     "source": "EU-Startups",
+     "title": "Dutch startup SPCTR raises €2.8 million to bring real-time tumour margin assessment to cancer surgery",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamk4dkVsX1pjV3hKLVZNdS1sNnJJNEw0SmRfeGtYSG9USENMODVzTkRRTWJCZWxGdWxiMzNVM1pNNmd5bTlOVS1uV0Z1NVZhUDJtajdoWm9aYmR2alp0TFRmR08yRXpSanFTb19Qay1qOHlJa3JDSnplOU50MVptVFdYVVBqTjBmdVBHWFVCQzdlUHE3bEdFdVJObkg4S0F4OHY4UnEwdVFLQnRrRUlHcGFBb0VxeG9VRk1STzFienpFUC1HUW1WZDNINHBGNzZYTVNCRg?oc=5"
+    },
+    {
+     "source": "FemTech World",
+     "title": "Dutch AI imaging startup SPCTR raises €2.8m",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGl1eDdVRmNkMDFTTFRfUUJyb0JwVHc4OHBNZ0NaZjRSenNhY25qdVFkdUNGQWJ5TFhCWm9PYURGanpZODBuVS1aaUpEZkNrVWIwTkhxOXBuMHUyU3hMS1doTllDdk5RWkMzOWg4ZkpSQXkxVGwtd0lIRU9Dc2xpbFJsWEo4N1dENGxIT3Qxa20?oc=5"
+    }
+   ],
+   "date": "2026-11-27T08:31:52.000Z",
+   "categories": [
+    "Funding",
+    "AI"
+   ],
+   "score": 10
+  },
+  {
+   "id": "uk-startup-raises-2-8m-for-ai-tech-to-detect-algae-blooms-taps-former-norway-sal",
+   "title": "UK startup raises $2.8m for AI tech to detect algae blooms, taps former Norway salmon CEO",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5",
+   "summary": "",
+   "sources": [
+    "Undercurrent News"
+   ],
+   "articles": [
+    {
+     "source": "Undercurrent News",
+     "title": "UK startup raises $2.8m for AI tech to detect algae blooms, taps former Norway salmon CEO",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUNkcGFyZWFvSWFNLVpwOWFIc2M4RmVtZTFUY1FxTnFnVnNjLVNReG5zWkJpR3VOeEJaemlGa2lKWW1GMzhzeVU5RXlEWkNZRGhkS3h4cHZvd3VubnZ3eXNkMkZreVVVaHQtWnl0ZjBKYTlVT3hQd3MwbWVNci1zV0ZyOWlxQnZBR0NaRzl3VTRWZU9obk1NZS11RHd6TVZCV1kwNzhwR0JTQ0F5U3F1Y3JDWnY2cjRtNWE4MzB1RUFSRkhVa0dVN2cxeUI?oc=5"
+    }
+   ],
+   "date": "2026-11-27T11:00:00.000Z",
+   "categories": [
+    "Funding",
+    "AI",
+    "People"
+   ],
+   "score": 9.1
+  },
+  {
+   "id": "never-say-never-us-fintech-giant-ramp-on-more-european-acquisitions",
+   "title": "'Never say never': US fintech giant Ramp on more European acquisitions",
+   "url": "https://sifted.eu/articles/ramp-europe-expansion-interview/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "'Never say never': US fintech giant Ramp on more European acquisitions",
+     "url": "https://sifted.eu/articles/ramp-europe-expansion-interview/"
+    }
+   ],
+   "date": "2026-11-27T05:00:58.000Z",
+   "categories": [
+    "M&A & IPOs"
+   ],
+   "score": 8
+  },
+  {
+   "id": "belgian-cyber-insurance-startup-inqase-raises-1m",
+   "title": "Belgian cyber insurance startup Inqase raises €1M",
+   "url": "https://tech.eu/2026/11/27/belgian-cyber-insurance-startup-inqase-raises-eur1m/",
+   "summary": "Belgian cyber insurance startup Inqase has raised €1 million in a funding round, it said today. Inqase provides cyber insurance for SMEs, with its offering spanning insurance, with continuous risk mon...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/inqase-33.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Belgian cyber insurance startup Inqase raises €1M",
+     "url": "https://tech.eu/2026/11/27/belgian-cyber-insurance-startup-inqase-raises-eur1m/"
+    }
+   ],
+   "brief": {
+    "essentiel": "Belgian cyber insurance startup Inqase has raised €1 million in a funding round, it said today.",
+    "points": [
+     "Inqase provides cyber insurance for SMEs, with its offering spanning insurance, with continuous risk monitoring and 24/7 incident response.",
+     "The funding round was led by Brussels-based VC ScaleFund, alongside invest.bw, with Seeder Fund and business angels, including Belgian serial entrepreneur Philippe Van Ophem also participating.",
+     "Its services are distributed through brokers, IT service providers and accounting firms.",
+     "Inqase, which launched this year, was founded by Rodolphe Lechat, Guillaume Deterville and Drilon Saraqini, who have previously built and sold companies."
+    ],
+    "facts": [
+     {
+      "key": "amount",
+      "value": "€1M"
+     },
+     {
+      "key": "investors",
+      "value": "Brussels-based VC ScaleFund, alongside invest"
+     }
+    ]
+   },
+   "date": "2026-11-27T15:20:00.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7.5
+  },
+  {
+   "id": "beyond-the-taboo-polari-labs-brings-biotech-innovation-to-anorectal-health",
+   "title": "Beyond the taboo: Polari Labs brings biotech innovation to anorectal health",
+   "url": "https://tech.eu/2026/11/27/beyond-the-taboo-polari-labs-brings-biotech-innovation-to-anorectal-health/",
+   "summary": "London-based biotech and sexual wellness startup Polari Labs has raised funding. Founded in 2023, the company develops science-led consumer products for anorectal health, an area historically underser...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-55-568.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Beyond the taboo: Polari Labs brings biotech innovation to anorectal health",
+     "url": "https://tech.eu/2026/11/27/beyond-the-taboo-polari-labs-brings-biotech-innovation-to-anorectal-health/"
+    }
+   ],
+   "brief": {
+    "essentiel": "London-based biotech and sexual wellness startup Polari Labs has raised funding.",
+    "points": [
+     "Founded in 2023, the company develops science-led consumer products for anorectal health, an area historically underserved by both medical research and commercial innovation.",
+     "Polari Labs has spent several years developing its flagship product, A-BALL, a single-use, patent-pending hydrogel insert designed to replace conventional anal douching.",
+     "The product aims to reduce preparation time for anal sex from around 20–30 minutes to 30 seconds, addressing the physical discomfort, anxiety and lack of spontaneity associated with conventional douching.",
+     "Polari Labs uses polymers already found in products such as suppositories and sexual lubricants, including gelatine and alginate."
+    ],
+    "facts": [
+     {
+      "key": "investors",
+      "value": "Nicola Telford, founder of Tabu Ventures , shared"
+     }
+    ]
+   },
+   "date": "2026-11-27T11:27:00.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 7.2
+  },
+  {
+   "id": "china-s-suota-wujie-raises-4-51m-to-put-robot-brains-in-european-stores",
+   "title": "China's Suota Wujie raises $4.51M to put robot \"brains\" in European stores",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHQ1cGxJOEZyNF81dnR4MWlwdmxoM2s3aTdoZzYxWVBlZjNVbG9nTV9OMXVlSDgtbHJaWnFtQnpoNEd5M1BOX3dhOVJNQXJzOW1oTGVYMTBubkVndi1DTTlpX2E4cmlYVnZzWDNiUDBsdFYzY29nTWFFSnczTVFGdVpTZlJwRmxtQy1TaGN4OGdzTlB0MG5UbzdrY0RSZnFwb2FWYkUxYVI?oc=5",
+   "summary": "",
+   "sources": [
+    "Dealroom"
+   ],
+   "articles": [
+    {
+     "source": "Dealroom",
+     "title": "China's Suota Wujie raises $4.51M to put robot \"brains\" in European stores",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHQ1cGxJOEZyNF81dnR4MWlwdmxoM2s3aTdoZzYxWVBlZjNVbG9nTV9OMXVlSDgtbHJaWnFtQnpoNEd5M1BOX3dhOVJNQXJzOW1oTGVYMTBubkVndi1DTTlpX2E4cmlYVnZzWDNiUDBsdFYzY29nTWFFSnczTVFGdVpTZlJwRmxtQy1TaGN4OGdzTlB0MG5UbzdrY0RSZnFwb2FWYkUxYVI?oc=5"
+    }
+   ],
+   "date": "2026-11-27T18:20:53.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6.8
+  },
+  {
+   "id": "papa-john-s-pizza-order-first-uk-cardless-payment-by-ai-agent",
+   "title": "Papa John’s pizza order first UK cardless payment by AI agent",
+   "url": "https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/",
+   "summary": "An AI agent has paid for Papa John’s pizzas directly from a customer’s bank account via cardless payment technology in a trial, which the tech provider says is the first of its kind. TrueLayer, the op...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/smart-1-380.jpg",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Papa John’s pizza order first UK cardless payment by AI agent",
+     "url": "https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/"
+    }
+   ],
+   "brief": {
+    "essentiel": "An AI agent has paid for Papa John’s pizzas directly from a customer’s bank account via cardless payment technology in a trial, which the tech provider says is the first of its kind.",
+    "points": [
+     "TrueLayer , the open banking tech provider, says it was the first time an AI agent had paid a UK retailer this way.",
+     "The pilot was part of the Financial Conduct Authority’s (FCA) AI regulatory sandbox trials, to test that an AI agent could make payments within limits agreed by the customer.",
+     "The trial comes amid AI agents expected to handle a growing share of online shopping.",
+     "The trial saw Papa John’s AI agent help the customer with their order, and then pay straight from the bank account the customer linked to their Papa John’s account."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-27T11:00:00.000Z",
+   "categories": [
+    "AI"
+   ],
+   "score": 6.1
+  },
+  {
+   "id": "we-re-not-migration-software-conduct-s-ceo-on-building-an-ai-operating-system-fo",
+   "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+   "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/",
+   "summary": "Conduct CEO JP Haas explains the SAP-backed startup’s business model and why he thinks enterprise IT teams will keep using its AI software after a migration.",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2025/09/17161716/Conduct_AI_Team_Landscape-scaled.jpg",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+     "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/"
+    }
+   ],
+   "date": "2026-11-27T05:00:27.000Z",
+   "categories": [
+    "AI",
+    "People"
+   ],
+   "score": 6
+  },
+  {
+   "id": "uk-plant-based-protein-water-startup-nowhey-bags-pre-seed-funding-for-expansion",
+   "title": "UK Plant-Based Protein Water Startup Nowhey Bags Pre-Seed Funding for Expansion",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWxPLXF6QUJnWWRXNHJ1LThfOUJXUGx2ZDRPWEFndlR3VHZUUTQ3a0NpYjVUTTJXM1B4b1o2Nk9mSjRURG02TGczZFRESS1tWXg0YnRrUzlRS0tmR0E0ZGVsOEVGQkpkWUlERV9RT2hTR19DQjVZMEJsM2swdDRVbHJLQ1Q2bk1ZOFY1dGwyQzRucktmRERETA?oc=5",
+   "summary": "",
+   "sources": [
+    "Green Queen Media"
+   ],
+   "articles": [
+    {
+     "source": "Green Queen Media",
+     "title": "UK Plant-Based Protein Water Startup Nowhey Bags Pre-Seed Funding for Expansion",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWxPLXF6QUJnWWRXNHJ1LThfOUJXUGx2ZDRPWEFndlR3VHZUUTQ3a0NpYjVUTTJXM1B4b1o2Nk9mSjRURG02TGczZFRESS1tWXg0YnRrUzlRS0tmR0E0ZGVsOEVGQkpkWUlERV9RT2hTR19DQjVZMEJsM2swdDRVbHJLQ1Q2bk1ZOFY1dGwyQzRucktmRERETA?oc=5"
+    }
+   ],
+   "date": "2026-11-27T08:02:35.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "british-ukrainian-defense-tech-startup-pai-defence-raises-5m-for-drone-detection",
+   "title": "British-Ukrainian Defense Tech Startup Pai Defence Raises $5M for Drone Detection System",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DSlVJUEIxYlAxZDZIOEFoT0RpTXYyOW1FbTVwdzZHTjNzak8zM21PTjZHLVFHMlA3UlpFSWhvY1ozUVhyQ0hFN0h5UQ?oc=5",
+   "summary": "",
+   "sources": [
+    "Kyiv Post"
+   ],
+   "articles": [
+    {
+     "source": "Kyiv Post",
+     "title": "British-Ukrainian Defense Tech Startup Pai Defence Raises $5M for Drone Detection System",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DSlVJUEIxYlAxZDZIOEFoT0RpTXYyOW1FbTVwdzZHTjNzak8zM21PTjZHLVFHMlA3UlpFSWhvY1ozUVhyQ0hFN0h5UQ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T06:09:31.000Z",
+   "categories": [
+    "Funding"
+   ],
+   "score": 6
+  },
+  {
+   "id": "europe-keeps-launching-scaleup-funds-but-is-cash-really-what-founders-are-missin",
+   "title": "Europe Keeps Launching Scaleup Funds, But Is Cash Really What Founders Are Missing?",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFZvcjJSTlJZcTc1MXkzR3p5WHpZb2lSd2pTcVJXbm1IQUZVYVF3a3JSbWw5UFhDUWNzaWZKeF8xenRoemJ5dTlFS0NKV0tzUWtneUp3dG1sTmJtNVI3anFPa3IwcW5QYTFmMGJ6VFUtQlZMd0o2ejBhNzNUczRUdTBpaWs5LVVxNE81cGhhR0VVZlZDYktzTmIwbGxIcnZaMndTa0REVVB3OTRNVFRRUUNSMzVHZw?oc=5",
+   "summary": "",
+   "sources": [
+    "TechRound"
+   ],
+   "articles": [
+    {
+     "source": "TechRound",
+     "title": "Europe Keeps Launching Scaleup Funds, But Is Cash Really What Founders Are Missing?",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFZvcjJSTlJZcTc1MXkzR3p5WHpZb2lSd2pTcVJXbm1IQUZVYVF3a3JSbWw5UFhDUWNzaWZKeF8xenRoemJ5dTlFS0NKV0tzUWtneUp3dG1sTmJtNVI3anFPa3IwcW5QYTFmMGJ6VFUtQlZMd0o2ejBhNzNUczRUdTBpaWs5LVVxNE81cGhhR0VVZlZDYktzTmIwbGxIcnZaMndTa0REVVB3OTRNVFRRUUNSMzVHZw?oc=5"
+    }
+   ],
+   "date": "2026-11-27T14:31:50.000Z",
+   "categories": [
+    "Unicorns & scale-ups"
+   ],
+   "score": 5.4
+  },
+  {
+   "id": "scaling-up-european-innovation-the-eu-s-capital-market-reform-to-empower-deep-te",
+   "title": "Scaling Up European Innovation: The EU’s Capital-Market Reform to Empower Deep-Tech Startups",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVRCbE1pS1FrU21aaU42YWRaZGkwNUZvcXJQUUZqQW5IeWpyZVlKdV9laXplT3l3SW1lRnUtMnFRVGVNaUFEN0RjVlE0N0plV2Zza0Ftb0JTUHEtLTFTYzJIUHlJSk94LWtuczI0Q1VrN05DdWhpamRzbUlWNFp5VEZNcTdsd013SUdKcG4wSDJHOGgxcmhMNmJzMHoxRVIzeUtYeU1KMGlpVnhKbko0emtpcGVCR0VEOE96RHhvMVVxbXdobWVhV25wcw?oc=5",
+   "summary": "",
+   "sources": [
+    "International Banker"
+   ],
+   "articles": [
+    {
+     "source": "International Banker",
+     "title": "Scaling Up European Innovation: The EU’s Capital-Market Reform to Empower Deep-Tech Startups",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVRCbE1pS1FrU21aaU42YWRaZGkwNUZvcXJQUUZqQW5IeWpyZVlKdV9laXplT3l3SW1lRnUtMnFRVGVNaUFEN0RjVlE0N0plV2Zza0Ftb0JTUHEtLTFTYzJIUHlJSk94LWtuczI0Q1VrN05DdWhpamRzbUlWNFp5VEZNcTdsd013SUdKcG4wSDJHOGgxcmhMNmJzMHoxRVIzeUtYeU1KMGlpVnhKbko0emtpcGVCR0VEOE96RHhvMVVxbXdobWVhV25wcw?oc=5"
+    }
+   ],
+   "date": "2026-11-27T12:12:34.000Z",
+   "categories": [
+    "Policy & ecosystem"
+   ],
+   "score": 4.2
+  },
+  {
+   "id": "can-europe-s-neolabs-live-up-to-the-hype",
+   "title": "Can Europe’s neolabs live up to the hype?",
+   "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Can Europe’s neolabs live up to the hype?",
+     "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/"
+    }
+   ],
+   "date": "2026-11-27T10:50:20.000Z",
+   "categories": [],
+   "score": 4.1
+  },
+  {
+   "id": "cutting-the-cord-how-willo-is-taking-wireless-power-into-the-third-dimension",
+   "title": "Cutting the cord: How Willo is taking wireless power into the third dimension",
+   "url": "https://tech.eu/2026/11/27/cutting-the-cord-how-willo-is-taking-wireless-power-into-the-third-dimension/",
+   "summary": "What if robots could charge while moving, without needing to align with a charging pad or plug into a cable? Or you could simply walk into a room and have your laptop or mobile phone start charging au...",
+   "image": "https://cdn.tech.eu/uploads/2026/11/untitled-design-56-824.png",
+   "sources": [
+    "Tech.eu"
+   ],
+   "articles": [
+    {
+     "source": "Tech.eu",
+     "title": "Cutting the cord: How Willo is taking wireless power into the third dimension",
+     "url": "https://tech.eu/2026/11/27/cutting-the-cord-how-willo-is-taking-wireless-power-into-the-third-dimension/"
+    }
+   ],
+   "brief": {
+    "essentiel": "What if robots could charge while moving, without needing to align with a charging pad or plug into a cable?",
+    "points": [
+     "I covered the company's €2.9 million funding round earlier this year, when I interviewed co-founder Marko Voutilainen at my office during a visit to Berlin.",
+     "Or you could simply walk into a room and have your laptop or mobile phone start charging automatically, wherever you placed it?",
+     "At Slush in Helsinki last week, I caught up with Harri Santamala, co-founder and CEO of Willo Technologies , and Nam Ha-Van, co-founder and CTO, and other team members for a fascinating demo of their wireless power tech.",
+     "Both our offices are housed in former industrial factories, although theirs are considerably more salubrious."
+    ],
+    "facts": []
+   },
+   "date": "2026-11-27T14:14:25.000Z",
+   "categories": [],
+   "score": 3.4
+  },
+  {
+   "id": "welcome-to-venture-feudalism",
+   "title": "Welcome to venture feudalism",
+   "url": "https://sifted.eu/articles/welcome-to-venture-feudalism/",
+   "summary": "",
+   "sources": [
+    "Sifted"
+   ],
+   "articles": [
+    {
+     "source": "Sifted",
+     "title": "Welcome to venture feudalism",
+     "url": "https://sifted.eu/articles/welcome-to-venture-feudalism/"
+    }
+   ],
+   "date": "2026-11-27T10:58:25.000Z",
+   "categories": [],
+   "score": 3.1
+  },
+  {
+   "id": "hungary-joins-europe-startup-nations-alliance-to-boost-growth",
+   "title": "Hungary Joins Europe Startup Nations Alliance to Boost Growth",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZV82aUZaYU1sX1NFbUFXaWtNTXViZ0FGaEhseXIzQjlHVkNyMEk4SWJoaDdsS1p2RnlONk04SUV2M3kzS3R3RVJ0WmI0NWx4NHByZVg3aTFyNFNYRmo0WWhxTTJKTW5odTlEYzQ1WDlWdE5uTEdIMVlpbTIxVHl0Zm9ra1JHbnpsNFRJQUxrb0o1bXlXdklkNDNBRWQ?oc=5",
+   "summary": "",
+   "sources": [
+    "n24.com.tr"
+   ],
+   "articles": [
+    {
+     "source": "n24.com.tr",
+     "title": "Hungary Joins Europe Startup Nations Alliance to Boost Growth",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZV82aUZaYU1sX1NFbUFXaWtNTXViZ0FGaEhseXIzQjlHVkNyMEk4SWJoaDdsS1p2RnlONk04SUV2M3kzS3R3RVJ0WmI0NWx4NHByZVg3aTFyNFNYRmo0WWhxTTJKTW5odTlEYzQ1WDlWdE5uTEdIMVlpbTIxVHl0Zm9ra1JHbnpsNFRJQUxrb0o1bXlXdklkNDNBRWQ?oc=5"
+    }
+   ],
+   "date": "2026-11-27T00:00:14.000Z",
+   "categories": [
+    "People"
+   ],
+   "score": 3
+  }
+ ]
+}
